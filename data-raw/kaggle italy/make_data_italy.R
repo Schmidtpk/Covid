@@ -25,3 +25,21 @@ summary(df)
 # save for package --------------------------------------------------------
 italy <- df
 use_data(italy,overwrite = TRUE)
+
+
+
+# add lombardia -----------------------------------------------------------
+library(pmdplyr)
+
+lombardia <- italy %>% filter(region=="Lombardia")
+
+lombardia$t <- rank(lombardia$Date)
+lombardia <- as_pibble(lombardia, .t=t, .i=region)
+
+
+lombardia <- lombardia %>%
+  mutate(infected = pos.total - lag(pos.total),
+         growth = log(infected)/log(lag(infected)))
+
+use_data(lombardia, overwrite = TRUE)
+
