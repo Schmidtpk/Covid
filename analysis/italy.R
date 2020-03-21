@@ -1,14 +1,4 @@
-library(pmdplyr)
-
-lombardia <- italy %>% filter(region=="Lombardia")
-
-lombardia$t <- rank(lombardia$Date)
-lombardia <- as_pibble(lombardia, .t=t, .i=region)
-
-
-lombardia <- lombardia %>%
-  mutate(infected = pos.total - lag(pos.total),
-         growth = log(infected)/log(lag(infected)))
+library(Covid)
 
 ggplot(lombardia, aes(x=Date,y=infected))+geom_point()+geom_line()
 
