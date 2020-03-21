@@ -1,11 +1,18 @@
 df <- read.csv("./data-raw/kaggle italy/covid19_italy_region.csv")
 dim(df)
 ls(df)
-
+library(tidyverse)
+library(pmdplyr)
 
 # data cleaning -----------------------------------------------------------
+
+# date
 df$Date <- as.Date(df$Date)
+
+# unneccesary variables
 df$Country <- NULL
+
+# rename variables
 df <- as_tibble(df)
 
 df <- df %>%
@@ -13,33 +20,27 @@ df <- df %>%
     region = RegionName,
     pos.new = NewPositiveCases,
     pos.total = TotalPositiveCases,
-    pos.cur = CurrentPositiveCases
+    pos.cur = CurrentPositiveCases,
   )
 
-df$t <- rank(df$Date,ties.method = "first")
+# make panel data frame pdata.frame
+df$t <- df$Date-min(df$Date)
+df <- pdata.frame(df,index = c("region","t"))
 
-summary(df)
 
+# compute important variables ---------------------------------------------
+df$infected <- df$pos.total - lag(df$pos.total)
+df$growth = log(df$infected)/log(lag(df$infected))
 
+# add time dummies
+# t <- factor(df$Date)
+# dummies = model.matrix(~t)
 
 # save for package --------------------------------------------------------
 italy <- df
 use_data(italy,overwrite = TRUE)
 
-
-
 # add lombardia -----------------------------------------------------------
-library(pmdplyr)
-
 lombardia <- italy %>% filter(region=="Lombardia")
-
-lombardia$t <- rank(lombardia$Date)
-lombardia <- as_pibble(lombardia, .t=t, .i=region)
-
-
-lombardia <- lombardia %>%
-  mutate(infected = pos.total - lag(pos.total),
-         growth = log(infected)/log(lag(infected)))
-
 use_data(lombardia, overwrite = TRUE)
 
