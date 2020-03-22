@@ -90,5 +90,5 @@ subset(it, region=="Lombardia",
                   "SchoolClosings_t"))
 
 use_data(it,overwrite = TRUE)
-it_treatments <- treatments
-use_data(it_treatments,overwrite = T)
+it.measures <- treatments
+use_data(it.measures,overwrite = T)
