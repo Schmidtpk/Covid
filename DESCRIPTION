@@ -15,3 +15,5 @@ Depends:
     ggplot2,
     plm,
     dplyr
+Imports: 
+    tidyr
