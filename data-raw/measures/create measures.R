@@ -21,5 +21,5 @@ measures$Type <- gsub("-","",measures$Type)
 
 # save in package ---------------------------------------------------------
 
-
+measures$Country <- as.character(measures$Country)
 use_data(measures,overwrite = TRUE)

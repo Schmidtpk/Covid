@@ -1,8 +1,7 @@
-rm(list=c("measures","italy"))
-library(Covid)
+
 
 # subset to relevant measures
-measures <- measures %>% filter(Country=="Italy")
+measures <- subset(measures,Country=="Italy")
 
 # define new columns ------------------------------------------
 
