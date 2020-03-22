@@ -2,7 +2,7 @@ df <- read.csv("./data-raw/kaggle italy/covid19_italy_region.csv")
 dim(df)
 ls(df)
 library(tidyverse)
-library(pmdplyr)
+library(plm)
 
 # data cleaning -----------------------------------------------------------
 
@@ -27,10 +27,6 @@ df <- df %>%
 df$t <- df$Date-min(df$Date)
 df <- pdata.frame(df,index = c("region","t"))
 
-
-# compute important variables ---------------------------------------------
-df$infected <- df$pos.total - lag(df$pos.total)
-df$growth = log(df$infected)/log(lag(df$infected))
 
 # add time dummies
 # t <- factor(df$Date)
