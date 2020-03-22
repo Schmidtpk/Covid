@@ -1,65 +1,43 @@
 library(Covid)
 
 
-ggplot(italy %>% filter(Latitude>quantile(Latitude,.65)), aes(x=Date,y=log(infected),color=region))+geom_point()+geom_line()
-ggplot(italy %>% filter(Latitude>quantile(Latitude,.65)), aes(x=Date,y=pos.total,color=region))+geom_point()+geom_line()
-
-measures <- measures %>% filter(Country=="Italy")
-
-# format treatments
-measures$Type <- as.character(measures$Type)
-measures$Type <- gsub(" ","",measures$Type)
-measures$Type <- gsub("\\)","I",measures$Type)
-measures$Type <- gsub("\\(","I",measures$Type)
-measures$Type <- gsub(",","",measures$Type)
-measures$Type <- gsub("-","",measures$Type)
+ggplot(it %>% filter(Latitude>quantile(Latitude,.65)), aes(x=Date,y=log(infected),color=region))+geom_point()+geom_line()
+ggplot(it %>% filter(Latitude>quantile(Latitude,.65)), aes(x=Date,y=pos.total,color=region))+geom_point()+geom_line()
 
 
-#safe treatments and dummies
-treatments <- unique(measures$Type)
-treatments <- treatments[treatments!=""]
-italy[,treatments] <- NA
+it$growth[is.nan(it$growth)] <- 0
+it$growth[!is.finite(it$growth)] <- 0
 
-# merge treatments to italy data ------------------------------------------
 
-# define interval of dummies for treatment
-t.interval <- 0:20
-dummies <- outer(treatments, t.interval, FUN = "paste0")[1:(length(t.interval)*length(treatments))]
-italy[,dummies] <- FALSE
 
-italy$region <- as.character(italy$region)
 
-for (i in 1:nrow(measures))
-{
+stargazer(type = "text",
+          plm(paste("diff(growth) ~ ", paste(paste0("(",treatments,"_diff==10)"),collapse = "+")),
+              it,model = "pooling"))
 
-  if(measures$Type[i]!="")
-  {
-    for(time_lag in t.interval)
-    {
-      # safe time from start of treatment
-      italy[italy$Date == measures$Start[i]+time_lag &
-              (italy$region==measures$ADM1[i] | measures$ADM1[i]==""),
-            measures$Type[i]
-            ] <- time_lag
+stargazer(type = "text",
+          plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,10)"),collapse = "+")),
+            it,model = "pooling"))
 
-      #safe dummie
-      italy[italy$Date == measures$Start[i]+time_lag &
-              (italy$region==measures$ADM1[i] | measures$ADM1[i]==""),
-            paste0(measures$Type[i],time_lag)
-            ] <- TRUE
-    }
-  }
+stargazer(type = "text",
+          plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,10)"),collapse = "+")),
+              it,model = "pooling"))
 
-}
+stargazer(type = "text",
+          plm(paste("lead(growth,7) ~ ", paste(paste0(treatments,"_active"),collapse = "+")),
+              it,model = "pooling"),
+          plm(paste("lead(growth,7) ~ as.numeric(t)+", paste(paste0(treatments,"_active"),collapse = "+")),
+              it,model = "pooling"))
 
-italy$growth[is.nan(italy$growth)] <- 0
-italy$growth[!is.finite(italy$growth)] <- 0
+stargazer(type = "text",
+          plm(paste("lead(growth,7) ~ ", paste(paste0(treatments,"_active"),collapse = "+")),
+              it,effect = "individual"),
+          plm(paste("lead(growth,7) ~ ", paste(paste0(treatments,"_active"),collapse = "+")),
+              it,effect = "time"),
+          plm(paste("lead(growth,7) ~ ", paste(paste0(treatments,"_active"),collapse = "+")),
+              it,effect = "twoways")
+)
 
-formula.cur <- paste0("growth ~ " ,paste0(grep("SchoolClosing",dummies,value=TRUE),collapse = "+"))
-summary(plm(formula.cur
-    ,italy,effect = "twoways"))
 
-formula.cur <- paste0("growth ~ as.numeric(t)+as.factor(region)+" ,paste0(grep("CurfewImild",dummies,value=TRUE),collapse = "+"))
-summary(plm(formula.cur
-            ,italy,model="pooling"))
-
+summary(plm("growth ~ SchoolClosings_active",
+            it,effect = "twoways"))
