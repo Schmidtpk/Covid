@@ -16,9 +16,9 @@ show_ts <- function(df=it,
                     measures=it.measures) {
 
   if(!is.null(regions))
-    df <- df %>% filter(region %in% regions)
+    df <- df %>% filter(region %in% regions | country %in% regions)
 
-  df.measures <- Covid::measures %>% filter(ADM1 %in% regions)
+  df.measures <- Covid::measures %>% filter(ADM1 %in% regions | Country %in% regions)
   df.measures$region <- df.measures$ADM1
 
   ggplot(df)+
@@ -28,7 +28,7 @@ show_ts <- function(df=it,
                aes(xintercept=Start), color ="red")+
     geom_text(data =  df.measures,
               aes(x=Start+.5,label=Type),
-              y=1, angle=90, text=element_text(size=1),
+              y=1, angle=90,
               color="red")
 
 }
