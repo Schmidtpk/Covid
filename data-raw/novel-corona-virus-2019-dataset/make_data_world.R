@@ -94,7 +94,11 @@ for (i in 1:nrow(measures))
     if(sum(correct.i)==0)
     {
 
-      correct.i <- grepl(substr(measures$ADM1[i],2,5),df$region)  | measures$ADM1[i]==""
+      if(measures$ADM1[i]=="")
+        correct.i <- grepl(substr(measures$ADM1[i],1,5),df$country,ignore.case = T)
+      else
+        correct.i <- grepl(substr(measures$ADM1[i],1,5),df$region,ignore.case = T)
+
       if(sum(correct.i)!=0)
       {
         warning(paste("region-country",measures$ADM1[i],measures$Country[i],"has only fit after loosening matching"))
@@ -103,7 +107,10 @@ for (i in 1:nrow(measures))
       }
 
       if(length(unique(df$region[correct.i]))>1 & measures$ADM1[i]!="")
-        warning(paste("Multiple regions were assigned one measure with mild matching"))
+        warning(paste("Multiple regions were assigned to aforementioned measure with mild matching"))
+      if(length(unique(df$country[correct.i]))>1 & measures$ADM1[i]=="")
+        warning(paste("Multiple countries were assigned to aforementioned measure with mild matching"))
+
     } else if(sum(correct.i & correct.t)==0)
     {
       warning(paste("mesaure",measures$Type[i],"in",measures$ADM1[i],measures$Country[i]," at date", measures$Start[i],"has no fit"))
@@ -141,13 +148,10 @@ subset(measures, Country=="Italy", select = c("Type","Start", "ADM1"))
 
 # save for package --------------------------------------------------------
 world <- df
-use_data(world,overwrite = TRUE)
-
-world.measures <- treatments
-use_data(world.measures,overwrite = T)
-
-
 #use_data(world,overwrite = TRUE)
+world.measures <- treatments
+#use_data(world.measures,overwrite = T)
+
 
 # save regions for codebook
 world_codes_country <- as.matrix(unique(df$country),ncol=1)
