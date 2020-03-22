@@ -1,10 +1,10 @@
 library(googledrive)
 
-# drive_download("https://docs.google.com/spreadsheets/d/1tYfD3vvSEaW3Cq9-UZoDtlKIfaMMVJq8XnV9XJUdK3s/edit#gid=0",
-#                      path = "./data-raw/measures/download_temp.csv",overwrite = TRUE)
+drive_download("https://docs.google.com/spreadsheets/d/1tYfD3vvSEaW3Cq9-UZoDtlKIfaMMVJq8XnV9XJUdK3s/edit#gid=0",
+                     path = paste0("./data-raw/measures/download_temp_",substr(date(),5,10),".csv"),overwrite = TRUE)
 
 
-measures <- read.csv( "./data-raw/measures/download_temp.csv")
+measures <- read.csv( paste0("./data-raw/measures/download_temp_",substr(date(),5,10),".csv"))
 
 # data cleaning -----------------------------------------------------------
 
