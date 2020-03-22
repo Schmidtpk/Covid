@@ -3,6 +3,13 @@ dim(df)
 ls(df)
 head(df)
 
+codes_region <- as.matrix(unique(df$Country.Region),ncol=1)
+write.csv(codes_region, "./data-raw/novel-corona-virus-2019-dataset/codes_region_world.csv")
+
+codes_prov<- as.matrix(unique(df$Province.State),ncol=1)
+write.csv(codes_prov, "./data-raw/novel-corona-virus-2019-dataset/codes_province_world.csv")
+
+
 a <- table(df$Province.State[df$Country.Region=="Mainland China"])
 a[a!=0]
 
