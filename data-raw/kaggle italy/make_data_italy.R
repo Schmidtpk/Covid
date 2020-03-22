@@ -40,6 +40,10 @@ df$growth = log(df$infected)/log(lag(df$infected))
 italy <- df
 use_data(italy,overwrite = TRUE)
 
+# save regions for codebook
+codes_region <- as.matrix(unique(italy$region),ncol=1)
+write.csv(codes_region, "./data-raw/kaggle italy/codes_region_italy.csv")
+
 # add lombardia -----------------------------------------------------------
 lombardia <- italy %>% filter(region=="Lombardia")
 use_data(lombardia, overwrite = TRUE)

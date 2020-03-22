@@ -1,16 +1,25 @@
 library(googledrive)
 
-drive_download("https://docs.google.com/spreadsheets/d/1tYfD3vvSEaW3Cq9-UZoDtlKIfaMMVJq8XnV9XJUdK3s/edit#gid=0",
-                     path = "./data-raw/measures/download_temp.csv",overwrite = TRUE)
+# drive_download("https://docs.google.com/spreadsheets/d/1tYfD3vvSEaW3Cq9-UZoDtlKIfaMMVJq8XnV9XJUdK3s/edit#gid=0",
+#                      path = "./data-raw/measures/download_temp.csv",overwrite = TRUE)
 
-df <- read.csv( "./data-raw/measures/download_temp.csv")
+
+measures <- read.csv( "./data-raw/measures/download_temp.csv")
 
 # data cleaning -----------------------------------------------------------
 
-df$Start <- as.Date(df$Start, format = "%d.%m.%Y")
+measures$Start <- as.Date(measures$Start, format = "%d.%m.%Y")
+measures$End <- as.Date(measures$End, format = "%d.%m.%Y")
 
+# format treatments
+measures$Type <- as.character(measures$Type)
+measures$Type <- gsub(" ","",measures$Type)
+measures$Type <- gsub("\\)","I",measures$Type)
+measures$Type <- gsub("\\(","I",measures$Type)
+measures$Type <- gsub(",","",measures$Type)
+measures$Type <- gsub("-","",measures$Type)
 
 # save in package ---------------------------------------------------------
 
-measures <- df
+
 use_data(measures,overwrite = TRUE)
