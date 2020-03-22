@@ -32,3 +32,18 @@ show_ts <- function(df=it,
               color="red")
 
 }
+
+#' Plot timeline of all measures of a country/region
+#'
+#' @param name of country or region (also takes vector of names)
+#'
+#' @return ggplot
+#' @export
+#'
+#' @examples
+#' show_measures_of()
+show_measures_of <- function(name="Germany",df=world)
+{
+  ggplot(df %>% filter(label%in%name) %>% tidyr::pivot_longer(matches(world.measures) & ends_with("_active")),
+         aes(x=Date,y=name,color=value))+geom_point()+facet_wrap(vars(label))
+}
