@@ -44,7 +44,5 @@ use_data(italy,overwrite = TRUE)
 codes_region <- as.matrix(unique(italy$region),ncol=1)
 write.csv(codes_region, "./data-raw/kaggle italy/codes_region_italy.csv")
 
-# add lombardia -----------------------------------------------------------
-lombardia <- italy %>% filter(region=="Lombardia")
-use_data(lombardia, overwrite = TRUE)
+
 
