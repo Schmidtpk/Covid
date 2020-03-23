@@ -12,14 +12,15 @@ it$CurfewImildonlyprivatepubliclifeI_active<-it$CurfewILockdownofAllNonEssential
 
 
 model.plm.iFX<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(it,subset = pos.total>10) ,effect = "individual")
-
 summary(model.plm.iFX)
-summary(model.plm.iFX,
-        vcov=vcovHC(model.plm.iFX,cluster="group"))
 
 model.plm.pooling<-plm(paste("growth ~", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(it,subset = pos.total>10) ,model = "pooling")
-
 summary(model.plm.pooling)
+
+
+
+summary(model.plm.iFX,
+        vcov=vcovHC(model.plm.iFX,cluster="group"))
 summary(model.plm.pooling,
         vcov=vcovHC(model.plm.pooling,cluster="group"))
 
