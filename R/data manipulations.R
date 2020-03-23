@@ -24,4 +24,3 @@ keep_units_with<-function(df=world, measures=world.measures)
 
   df
 }
-df <- keep_units_with()
