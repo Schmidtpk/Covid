@@ -35,16 +35,30 @@ show_ts <- function(df=it,
 
 #' Plot timeline of all measures of a country/region
 #'
-#' @param name of country or region (also takes vector of names)
+#' @param units name of country or region (also takes vector of names)
 #'
 #' @return ggplot
 #' @export
 #'
 #' @examples
-#' show_measures_of()
-show_measures_of <- function(name="Germany",df=world)
+#' show_measures_of(units="Ger")
+#' show_measures_of(units=c("Iran","Spain","Italy","Germ"))
+#' #show_measures_of(df=world %>% filter(in_country=="Mainland China"))
+show_measures_of <- function(units=NULL,measures=world.measures, df=world)
 {
-  ggplot(df %>% filter(label%in%name) %>% tidyr::pivot_longer(matches(world.measures) & ends_with("_active")),
+    if(!is.null(units))
+      {
+        keep <- F
+        for(name.cur in units){
+          keep <- keep | grepl(name.cur, df$label,fixed=F)
+        }
+        df <- df %>% filter(keep)
+      }
+
+  if(length(unique(df$label))>32)
+    stop(paste(length(unique(df$label)),"labels selected. subset df or use name parameter."))
+
+  ggplot(df %>% tidyr::pivot_longer(matches(measures) & ends_with("_active")),
          aes(x=Date,y=name,color=value))+geom_point()+facet_wrap(vars(label))
 }
 

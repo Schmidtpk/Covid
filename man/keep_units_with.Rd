@@ -9,7 +9,7 @@ keep_units_with(df = world, measures = world.measures)
 \arguments{
 \item{df}{data frame to be subsetted}
 
-\item{measures}{vector of measures to be considered}
+\item{measures}{vector of measures to be considered (keeps any measures that submatch string)}
 }
 \value{
 pdata.frame
