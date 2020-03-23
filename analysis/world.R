@@ -11,7 +11,7 @@ df <- subset(world, is.na(in_country))
 df <- keep_units_with(df,treatments)
 
 show_measures_of(df = df,units = unique(df$country))
-g
+
 
 df$growth<-df$pos.total/lag(df$pos.total)
 #df <- subset(df,!is.na(growth) & is.finite(growth))
