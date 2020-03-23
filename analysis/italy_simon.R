@@ -15,18 +15,15 @@ model.plm.pooling<-plm(paste("growth ~", paste(paste0("lag(",treatments,"_active
 model.plm.iFX<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(it,subset = pos.total>10) ,effect = "individual")
 model.plm.iFXtrends<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),"+factor(RegionCode)*Date"),subset(it,subset = pos.total>10) ,effect = "individual")
 
-rob_se <- list(sqrt(diag(vcovHC(model.plm.iFX, type = "HC1",cluster="group"))),
-               sqrt(diag(vcovHC(model.plm.pooling, type = "HC1",cluster="group"))),
-               sqrt(diag(vcovHC(model.plm.iFXtrends, type = "HC1",cluster="group"))))
-
-stargazer(model.plm.pooling,
-          model.plm.iFX,
-          model.plm.iFXtrends,
-          se=rob_se,
-          type="text",
-          omit=c("Date$", "^Constant$"),
-          add.lines = list(c("Region fixed effects", "No","Yes", "Yes"),
-                           c("Region-specific time trends","No", "No", "Yes")))
+#rob_se <- list(sqrt(diag(vcovHC(model.plm.iFX, type = "HC1",cluster="group"))),
+ #              sqrt(diag(vcovHC(model.plm.pooling, type = "HC1",cluster="group"))),
+  #             sqrt(diag(vcovHC(model.plm.iFXtrends, type = "HC1",cluster="group"))))
 
 
-stargazer(type="text",lmtest::coeftest(model.plm.iFX,vcov=vcovHC(model.plm.iFX,cluster="group")))
+stargazer(type="text",
+          omit=c("Date$"),
+          omit.labels=c("Region-specific time trends"),
+          lmtest::coeftest(model.plm.pooling,vcov=vcovHC(model.plm.pooling,cluster="group")),
+          lmtest::coeftest(model.plm.iFX,vcov=vcovHC(model.plm.iFX,cluster="group")),
+          lmtest::coeftest(model.plm.iFXtrends,vcov=vcovHC(model.plm.iFXtrends,cluster="group")),
+          add.lines = list(c("Region fixed effects", "No","Yes", "Yes")))
