@@ -47,3 +47,24 @@ show_measures_of <- function(name="Germany",df=world)
   ggplot(df %>% filter(label%in%name) %>% tidyr::pivot_longer(matches(world.measures) & ends_with("_active")),
          aes(x=Date,y=name,color=value))+geom_point()+facet_wrap(vars(label))
 }
+
+#' Plot timeline of all measures with countries
+#'
+#' Country/region lables without any measure enacted are droped
+#'
+#' @param name of measure (also takes vector of names) keeps all measures where substring matches
+#' @param df data frame
+#'
+#' @return ggplot
+#' @export
+#'
+#' @examples
+#' show_countries_of()
+show_countries_of <- function(name=c("University", "School","Curfew"),df=world%>%filter(is.na(in_country)))
+{
+  df.cur <- df %>% tidyr::pivot_longer(matches(name) & ends_with("_active"))
+  df.cur <- df.cur %>% group_by(label) %>%
+    mutate(any_measure = sum(value)) %>% filter(any_measure>0)
+  ggplot(df.cur,
+         aes(x=Date,y=label,color=value))+geom_point()+facet_wrap(vars(name))
+}
