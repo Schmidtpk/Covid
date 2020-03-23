@@ -39,7 +39,7 @@ for (i in 1:nrow(measures))
     # after starting date
     correct.t <- it$Date >= measures$Start[i] &
       # if end date exists, before end date
-      (if(is.na(measures$End[i])) TRUE else (it$Date < measures$End[i]))
+      (if(is.na(measures$End[i])) TRUE else (it$Date <= measures$End[i]))
 
     # check if each measure has fit
     if(sum(correct.i)==0)
