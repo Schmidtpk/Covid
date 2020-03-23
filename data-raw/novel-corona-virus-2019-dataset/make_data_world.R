@@ -46,8 +46,6 @@ df <- df %>% group_by(label,t) %>%
 dim(df)
 sum(duplicated(df %>% select(label,t,Last.Update)))
 
-# make panel data frame pdata.frame
-df <- plm::pdata.frame(df,index = c("label","t"), stringsAsFactors=F)
 
 
 
@@ -137,16 +135,48 @@ for (i in 1:nrow(measures))
   }
 }
 
-subset(df, country=="Italy",
-       select = c("Date",
-                  "UniversityClosings_active",
-                  "SchoolClosings_active",
-                  "SchoolClosings_diff",
-                  "SchoolClosings_t"))
+# subset(df, country=="Italy",
+#        select = c("Date",
+#                   "UniversityClosings_active",
+#                   "SchoolClosings_active",
+#                   "SchoolClosings_diff",
+#                   "SchoolClosings_t"))
+#
+# subset(measures, Country=="Italy", select = c("Type","Start", "ADM1"))
 
-subset(measures, Country=="Italy", select = c("Type","Start", "ADM1"))
+
+# Format measures (implications, etc.) ------------------------------------
+
+measures_implies <- list(
+  c("BanofGroupGatherings","CancelationofLargeEvents"),
+  c("CurfewILockdownofAllNonEssentialPublicLifeI","CurfewILockdownofAllNonEssentialPublicLifeI")
+)
+
+for(cur.implication in measures_implies)
+{
+  df[,paste0(cur.implication[2],"_active")]<-
+    df[,paste0(cur.implication[1],"_active")]|
+    df[,paste0(cur.implication[2],"_active")]
+}
+
+
+# Add variables -----------------------------------------------------------
+
+df <- df %>% group_by(label) %>%
+  mutate(unit_total_obs = n()) %>% ungroup()
+
+# hist(as.numeric(df%>%group_by(label)%>%slice(1) %>% pull(unit_length_obs)))
+#
+#
+# a <- df%>%filter(unit_length_obs>40 & in_country!="Mainland China")
+# show_measures_of(df = a)
+
 
 # save for package --------------------------------------------------------
+
+# make panel data frame pdata.frame
+df <- plm::pdata.frame(df,index = c("label","t"), stringsAsFactors=F)
+
 world <- df
 #use_data(world,overwrite = TRUE)
 world.measures <- treatments

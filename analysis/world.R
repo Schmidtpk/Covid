@@ -10,7 +10,7 @@ df <- subset(world, is.na(in_country))
 #drop countries without any measures in data set
 df <- keep_units_with(df,treatments)
 
-show_measures_of(df = df,name = unique(df$country))
+show_measures_of(df = df,units = unique(df$country))
 
 
 df$growth<-df$pos.total/lag(df$pos.total)
