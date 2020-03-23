@@ -12,24 +12,25 @@ df <- keep_units_with(df,treatments)
 
 show_measures_of(df = df,units = unique(df$country))
 
-
 df$growth<-df$pos.total/lag(df$pos.total)
-#df <- subset(df,!is.na(growth) & is.finite(growth))
-
-model.plm.iFX<-plm("growth ~ dplyr::between(SchoolClosings_diff,4,6)",
-                   subset(df,subset = pos.total>10),
-                   model = "pooling")
-summary(model.plm.iFX)
 
 
+df$CurfewIMildOnlyPrivatePublicLifeI_active<-(df$CurfewIMildOnlyPrivatePublicLifeI_active+df$CurfewILockdownofAllNonEssentialPublicLifeI_active)>0
 
-model.plm.iFX<-plm(paste("growth ~ ", paste(paste0("lag(",treatments[2],"_active,5)"),collapse = "+")),
-                   subset(df,subset = pos.total>10) ,
-                   model = "pooling")
-summary(model.plm.iFX)
 
-model.plm.iFX<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),
-                   subset(df,subset = pos.total>10) ,
-                   model = "pooling")
-summary(model.plm.iFX)
+model.plm.pooling<-plm(paste("growth ~", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(df,subset = pos.total>10) ,model = "pooling")
+model.plm.iFX<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(df,subset = pos.total>10) ,effect = "individual")
+model.plm.iFXtrends<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),"+factor(RegionCode)*Date"),subset(df ,subset = pos.total>10) ,effect = "individual")
+
+rob_se <- list(sqrt(diag(vcovHC(model.plm.iFX, type = "HC1",cluster="group"))),
+               sqrt(diag(vcovHC(model.plm.pooling, type = "HC1",cluster="group"))),
+               sqrt(diag(vcovHC(model.plm.iFXtrends, type = "HC1",cluster="group"))))
+
+stargazer(model.plm.pooling,
+          model.plm.iFX,
+          model.plm.iFXtrends,
+          se=rob_se,type="text",omit=c("Date$", "^Constant$"),
+          add.lines = list(c("Region fixed effects", "No","Yes", "Yes"),
+                           c("Region-specific time trends","No", "No", "Yes")))
+
 
