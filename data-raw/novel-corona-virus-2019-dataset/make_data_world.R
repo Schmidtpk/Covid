@@ -63,10 +63,10 @@ treatments <- unique(measures$Type)
 df[,paste0(treatments,"_active")] <- FALSE
 
 # define variable for saving time of first enactement
-df[,paste0(treatments,"_t")] <- NA
+df[,paste0(treatments,"_t")] <- as.Date("2000-01-01")
 
 # define variable for difference to first enactement
-df[,paste0(treatments,"_diff")] <- NA
+df[,paste0(treatments,"_diff")] <- 0
 
 # for comparison necessary
 df$region <- as.character(df$region)
