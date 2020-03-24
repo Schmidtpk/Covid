@@ -4,11 +4,7 @@
 \alias{show_measures_of}
 \title{Plot timeline of all measures of a country/region}
 \usage{
-show_measures_of(
-  units = world \%>\% filter(pos.new > 1000 & is.na(in_country)) \%>\% pull(label),
-  measures = world.measures,
-  df = world
-)
+show_measures_of(units = NULL, measures = world.measures, df = world)
 }
 \arguments{
 \item{units}{name of country or region (also takes vector of names). As standard shows only unit lables that are countries and had more than 1000 new cases at some point.}
