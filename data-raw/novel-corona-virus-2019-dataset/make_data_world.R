@@ -1,5 +1,5 @@
 #.rs.restartR()
-rm(list=ls())
+#rm(list=ls())
 df <- read.csv("./data-raw/novel-corona-virus-2019-dataset/covid_19_data.csv")
 dim(df)
 ls(df)
@@ -53,7 +53,7 @@ sum(duplicated(df %>% select(label,t,Last.Update)))
 
 # define new columns ------------------------------------------
 
-measures <- Covid::measures
+#measures <- Covid::measures
 
 # extract treatments
 treatments <- unique(measures$Type)
@@ -81,9 +81,6 @@ for (i in 1:nrow(measures))
 
   if(measures$Type[i]!="")
   {
-    # if(measures$Type[i]=="ClusterTrackingandContainment")
-    #   browser()
-
     # right region or nation
     if(measures$ADM1[i]=="")
       correct.i <- (df$country==measures$Country[i])
@@ -99,22 +96,22 @@ for (i in 1:nrow(measures))
     if(sum(correct.i)==0)
     {
 
-      if(measures$ADM1[i]=="")
-        correct.i <- grepl(substr(measures$Country[i],1,5),df$country,ignore.case = T)
-      else
-        correct.i <- grepl(substr(measures$ADM1[i],1,5),df$region,ignore.case = T)
-
-      if(sum(correct.i)!=0)
-      {
-        warning(paste("region-country",measures$ADM1[i],measures$Country[i],"has only fit after loosening matching"))
-      } else {
-        warning(paste("region-country",measures$ADM1[i],measures$Country[i],"has no fit"))
-      }
-
-      if(length(unique(df$region[correct.i]))>1 & measures$ADM1[i]!="")
-        warning(paste("Multiple regions were assigned to aforementioned measure with mild matching"))
-      if(length(unique(df$country[correct.i]))>1 & measures$ADM1[i]=="")
-        warning(paste("Multiple countries were assigned to aforementioned measure with mild matching"))
+    #   if(measures$ADM1[i]=="")
+    #     correct.i <- grepl(substr(measures$Country[i],1,5),df$country,ignore.case = T)
+    #   else
+    #     correct.i <- grepl(substr(measures$ADM1[i],1,5),df$region,ignore.case = T)
+    #
+    #   if(sum(correct.i)!=0)
+    #   {
+    #     warning(paste("region-country",measures$ADM1[i],measures$Country[i],"has only fit after loosening matching"))
+    #   } else {
+    #     warning(paste("region-country",measures$ADM1[i],measures$Country[i],"has no fit"))
+    #   }
+    #
+    #   if(length(unique(df$region[correct.i]))>1 & measures$ADM1[i]!="")
+    #     warning(paste("Multiple regions were assigned to aforementioned measure with mild matching"))
+    #   if(length(unique(df$country[correct.i]))>1 & measures$ADM1[i]=="")
+    #     warning(paste("Multiple countries were assigned to aforementioned measure with mild matching"))
 
     }
 
