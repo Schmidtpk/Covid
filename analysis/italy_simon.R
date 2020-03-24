@@ -7,15 +7,14 @@ show_ts(outcome = "pos.total",regions = NULL)+facet_wrap(vars(region))
 treatments<-c("UniversityClosings", "SchoolClosings", "CurfewImildonlyprivatepubliclifeI", "CurfewILockdownofAllNonEssentialPublicLifeI")
 
 it$growth<-it$pos.total/lag(it$pos.total)
-#strict curfew implies mild curfew
-it$CurfewImildonlyprivatepubliclifeI_active<-it$CurfewILockdownofAllNonEssentialPublicLifeI_active+it$CurfewImildonlyprivatepubliclifeI_active>0
+
 it$datenum<-as.numeric(it$Date)-18315
 
-model.plm.pooling<-plm(paste("growth ~", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(it,subset = pos.total>10) ,model = "pooling")
-model.plm.iFX<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(it,subset = pos.total>10) ,effect = "individual")
-model.plm.2iFX<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),""),subset(it,subset = pos.total>10) ,effect = "twoway")
-model.plm.iFXtrends<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),"+factor(RegionCode)*datenum"),subset(it,subset = pos.total>10) ,effect = "individual")
-model.plm.iFXtrends2<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),"+factor(RegionCode)*poly(datenum,2)"),subset(it,subset = pos.total>10) ,effect = "individual")
+model.plm.pooling<-plm(paste("log(growth) ~", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(it,subset = pos.total>10) ,model = "pooling")
+model.plm.iFX<-plm(paste("log(growth) ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(it,subset = pos.total>10) ,effect = "individual")
+model.plm.2iFX<-plm(paste("log(growth) ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),""),subset(it,subset = pos.total>10) ,effect = "twoway")
+model.plm.iFXtrends<-plm(paste("log(growth) ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),"+factor(RegionCode)*datenum"),subset(it,subset = pos.total>10) ,effect = "individual")
+model.plm.iFXtrends2<-plm(paste("log(growth) ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),"+factor(RegionCode)*poly(datenum,2)"),subset(it,subset = pos.total>10) ,effect = "individual")
 
 #rob_se <- list(sqrt(diag(vcovHC(model.plm.iFX, type = "HC1",cluster="group"))),
  #              sqrt(diag(vcovHC(model.plm.pooling, type = "HC1",cluster="group"))),
