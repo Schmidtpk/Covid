@@ -66,7 +66,7 @@ show_measures_of <- function(units=NULL,measures=world.measures, df=world)
 #'
 #' Country/region lables without any measure enacted are droped
 #'
-#' @param name of measure (also takes vector of names) keeps all measures where substring matches
+#' @param measure keeps all measures where substring matches (also takes vector of measures)
 #' @param df data frame
 #'
 #' @return ggplot
@@ -74,11 +74,11 @@ show_measures_of <- function(units=NULL,measures=world.measures, df=world)
 #'
 #' @examples
 #' show_countries_of()
-show_countries_of <- function(name=c("University", "School","Curfew"),df=world%>%filter(is.na(in_country)))
+show_countries_of <- function(measure=c("University", "School","Curfew"),df=world%>%filter(is.na(in_country)))
 {
-  df.cur <- df %>% tidyr::pivot_longer(matches(name) & ends_with("_active"))
+  df.cur <- df %>% tidyr::pivot_longer(matches(measure) & ends_with("_active"))
   df.cur <- df.cur %>% group_by(label) %>%
     mutate(any_measure = sum(value)) %>% filter(any_measure>0)
   ggplot(df.cur,
-         aes(x=Date,y=label,color=value))+geom_point()+facet_wrap(vars(name))
+         aes(x=Date,y=label,color=value))+geom_point()+facet_wrap(vars(measure))
 }
