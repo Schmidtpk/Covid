@@ -8,23 +8,18 @@
 #' @export
 #'
 #' @examples
-#' keep_units_with()
-keep_units_with<-function(df=world, measures=world.measures)
+#' units_with()
+units_with<-function(df=world, measures=world.measures)
 {
 
   df$any_measures <- rowSums(
     df %>% select(matches(measures) & ends_with("_active"))
     )
 
-  df <- df %>% group_by(label)%>%
-    mutate(any_measures_in_label=sum(any_measures)>0) %>%
-    ungroup() %>% pdata.frame(index=c("t","label"))
+  df$any_measures_in_label <- df %>% group_by(label)%>%
+    mutate(any_measures_in_label=sum(any_measures)>0)%>%pull(any_measures_in_label)
 
-  message(paste("Drop ",length(unique(df$label[!df$any_measures_in_label])), "units of observation"))
+  message(paste("Found ",length(unique(df$label[!df$any_measures_in_label])), "units of observation without measures"))
 
-  df <- subset(df,any_measures_in_label)
-  df$any_measures_in_label <- NULL
-  df$any_measures <- NULL
-
-  df
+  df$any_measures_in_label
 }
