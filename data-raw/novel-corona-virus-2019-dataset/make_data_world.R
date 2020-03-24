@@ -81,6 +81,9 @@ for (i in 1:nrow(measures))
 
   if(measures$Type[i]!="")
   {
+    # if(measures$Type[i]=="ClusterTrackingandContainment")
+    #   browser()
+
     # right region or nation
     if(measures$ADM1[i]=="")
       correct.i <- (df$country==measures$Country[i])
@@ -97,7 +100,7 @@ for (i in 1:nrow(measures))
     {
 
       if(measures$ADM1[i]=="")
-        correct.i <- grepl(substr(measures$ADM1[i],1,5),df$country,ignore.case = T)
+        correct.i <- grepl(substr(measures$Country[i],1,5),df$country,ignore.case = T)
       else
         correct.i <- grepl(substr(measures$ADM1[i],1,5),df$region,ignore.case = T)
 
@@ -141,6 +144,10 @@ for (i in 1:nrow(measures))
       df$Date[correct.i] - measures$Start[i]
   }
 }
+
+
+# subset(Covid::measures, Type=="ClusterTrackingandContainment", select = c(Start,Country,Type))
+# subset(df, ClusterTrackingandContainment_active, select = c(Date,ClusterTrackingandContainment_active))
 
 # subset(df, country=="Italy",
 #        select = c("Date",
