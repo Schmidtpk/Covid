@@ -5,12 +5,12 @@
 \title{Plot timeline of all measures with countries}
 \usage{
 show_countries_of(
-  name = c("University", "School", "Curfew"),
+  measure = c("University", "School", "Curfew"),
   df = world \%>\% filter(is.na(in_country))
 )
 }
 \arguments{
-\item{name}{of measure (also takes vector of names) keeps all measures where substring matches}
+\item{measure}{keeps all measures where substring matches (also takes vector of measures)}
 
 \item{df}{data frame}
 }
