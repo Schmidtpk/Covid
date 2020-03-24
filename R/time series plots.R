@@ -47,19 +47,32 @@ show_ts <- function(df=it,
 #' show_measures_of(units="Ger")
 #' show_measures_of(units=c("Iran","Spain","Italy","Germ"))
 #' show_measures_of(units=NULL, df=world %>% filter(in_country=="Mainland China"))
-show_measures_of <- function(units=world %>% filter(pos.new > 1000 & is.na(in_country))%>%pull(label),measures=world.measures, df=world)
+show_measures_of <- function(units=NULL,
+                             measures=world.measures,
+                             df=world)
 {
-    if(!is.null(units))
-      {
-        keep <- F
-        for(name.cur in units){
-          keep <- keep | grepl(name.cur, df$label,fixed=F)
-        }
-        df <- df %>% filter(keep)
-      }
+  #if not given take all that have measures
+  if(is.null(units))
+  {
+    units <- world %>% tidyr::pivot_longer(cols = matches(world.measures) & ends_with("_active"),
+                                c("measure"),values_to = "active")%>%
+    group_by(country)%>%
+    summarise(measures_pos=sum(active)>0)%>%
+    filter(measures_pos==TRUE)%>%
+    pull(country)
+    }
 
-  if(length(unique(df$label))>32)
-    stop(paste(length(unique(df$label)),"labels selected. subset df or use measure parameter."))
+
+    keep <- F
+    for(name.cur in units){
+        keep <- keep | grepl(name.cur, df$label,fixed=F)
+    }
+    df <- df %>% filter(keep)
+
+
+    #stop if too many labels
+    if(length(unique(df$label))>32)
+      stop(paste(length(unique(df$label)),"labels selected. subset df or use measure parameter."))
 
   ggplot(df %>% tidyr::pivot_longer(matches(measures) & ends_with("_active")),
          aes(x=Date,y=name,color=value))+geom_point()+facet_wrap(vars(label))
