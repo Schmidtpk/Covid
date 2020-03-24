@@ -4,10 +4,18 @@
 \alias{show_measures_of}
 \title{Plot timeline of all measures of a country/region}
 \usage{
-show_measures_of(units = NULL, measures = world.measures, df = world)
+show_measures_of(
+  units = world \%>\% filter(pos.new > 1000 & is.na(in_country)) \%>\% pull(label),
+  measures = world.measures,
+  df = world
+)
 }
 \arguments{
-\item{units}{name of country or region (also takes vector of names)}
+\item{units}{name of country or region (also takes vector of names). As standard shows only unit lables that are countries and had more than 1000 new cases at some point.}
+
+\item{measures}{vector of measures. standard are all in world.measures}
+
+\item{df}{data frame. standard is world.}
 }
 \value{
 ggplot
@@ -16,7 +24,8 @@ ggplot
 Plot timeline of all measures of a country/region
 }
 \examples{
+show_measures_of()
 show_measures_of(units="Ger")
 show_measures_of(units=c("Iran","Spain","Italy","Germ"))
-#show_measures_of(df=world \%>\% filter(in_country=="Mainland China"))
+show_measures_of(units=NULL, df=world \%>\% filter(in_country=="Mainland China"))
 }
