@@ -1,4 +1,5 @@
 #.rs.restartR()
+rm(list=ls())
 df <- read.csv("./data-raw/novel-corona-virus-2019-dataset/covid_19_data.csv")
 dim(df)
 ls(df)
@@ -52,6 +53,8 @@ sum(duplicated(df %>% select(label,t,Last.Update)))
 
 # define new columns ------------------------------------------
 
+measures <- Covid::measures
+
 # extract treatments
 treatments <- unique(measures$Type)
 #td: formatting?
@@ -71,12 +74,16 @@ df$region <- as.character(df$region)
 
 # loop over all measures and safe if active and safe first enactement date
 # sort before by ADM1 (region overwrites nation) when on same date
+no.fits <- NULL
 measures <- measures %>% arrange(desc(ADM1))
 for (i in 1:nrow(measures))
 {
 
   if(measures$Type[i]!="")
   {
+    # if(measures$Type[i]=="ClusterTrackingandContainment")
+    #   browser()
+
     # right region or nation
     if(measures$ADM1[i]=="")
       correct.i <- (df$country==measures$Country[i])
@@ -93,7 +100,7 @@ for (i in 1:nrow(measures))
     {
 
       if(measures$ADM1[i]=="")
-        correct.i <- grepl(substr(measures$ADM1[i],1,5),df$country,ignore.case = T)
+        correct.i <- grepl(substr(measures$Country[i],1,5),df$country,ignore.case = T)
       else
         correct.i <- grepl(substr(measures$ADM1[i],1,5),df$region,ignore.case = T)
 
@@ -109,9 +116,12 @@ for (i in 1:nrow(measures))
       if(length(unique(df$country[correct.i]))>1 & measures$ADM1[i]=="")
         warning(paste("Multiple countries were assigned to aforementioned measure with mild matching"))
 
-    } else if(sum(correct.i & correct.t)==0)
+    }
+
+    if(sum(correct.i & correct.t)==0)
     {
-      warning(paste("mesaure",measures$Type[i],"in",measures$ADM1[i],measures$Country[i]," at date", measures$Start[i],"has no fit"))
+      no.fits <- c(no.fits,i)
+      warning(paste("No fit at all: For mesaure",measures$Type[i],"in",measures$ADM1[i],measures$Country[i]," at date", measures$Start[i]))
     }
 
     # for each measure find dates and regions that currently enact it
@@ -135,6 +145,10 @@ for (i in 1:nrow(measures))
   }
 }
 
+
+# subset(Covid::measures, Type=="ClusterTrackingandContainment", select = c(Start,Country,Type))
+# subset(df, ClusterTrackingandContainment_active, select = c(Date,ClusterTrackingandContainment_active))
+
 # subset(df, country=="Italy",
 #        select = c("Date",
 #                   "UniversityClosings_active",
@@ -143,6 +157,12 @@ for (i in 1:nrow(measures))
 #                   "SchoolClosings_t"))
 #
 # subset(measures, Country=="Italy", select = c("Type","Start", "ADM1"))
+
+
+no_match <- measures[no.fits,c("Type","Country","ADM1","Start")]
+no_match_important <- no_match %>% filter(Start<"2020-03-20" & ADM1=="")
+if(nrow(no_match_important)>0)
+  stop("Not all nationwide measures in the past matched to countries.")
 
 
 # Format measures (implications, etc.) ------------------------------------
@@ -155,8 +175,8 @@ measures_implies <- list(
 for(cur.implication in measures_implies)
 {
   df[,paste0(cur.implication[2],"_active")]<-
-    df[,paste0(cur.implication[1],"_active")]|
-    df[,paste0(cur.implication[2],"_active")]
+    as.vector(df[,paste0(cur.implication[1],"_active")]|
+    df[,paste0(cur.implication[2],"_active")])
 }
 
 
