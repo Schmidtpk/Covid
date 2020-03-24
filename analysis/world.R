@@ -1,10 +1,11 @@
+rm(list=ls())
 library(Covid)
 
 # summary data ------------------------------------------------------------
 
 # available treatments
 world.measures
-show_countries_of(measure = c("School","Curfew","Ban","Canc","clos"))
+#show_countries_of(measure = c("School","Curfew","Ban","Canc","clos"))
 
 df <- subset(world, is.na(in_country))
 
@@ -29,12 +30,14 @@ measures.country.summary <-  dflong %>% group_by(measure,country) %>%
 View(measures.country.summary)
 
 
+countries <- dflong %>% group_by(country) %>%
+  summarise(first_case = min(Date[pos.new>0]),
+            first_cluster = min(Date[pos.new>100]),
+            highest_new = max(pos.new),
+            first_measure = min(Date[active]))
+countries %>% filter(first_measure<as.Date("2020-04-01"))
 
 
-#drop countries without any measures in data set
-#df <- keep_units_with(df,treatments)
-
-show_measures_of(df = df)
 show_countries_of(df = df,measure_name = world.measures)
 
 
