@@ -15,12 +15,12 @@ show_measures_of(df = df,units = unique(df$country))
 df$growth<-df$pos.total/lag(df$pos.total)
 
 
-df$CurfewIMildOnlyPrivatePublicLifeI_active<-(df$CurfewIMildOnlyPrivatePublicLifeI_active+df$CurfewILockdownofAllNonEssentialPublicLifeI_active)>0
+#df$CurfewIMildOnlyPrivatePublicLifeI_active<-(df$CurfewIMildOnlyPrivatePublicLifeI_active+df$CurfewILockdownofAllNonEssentialPublicLifeI_active)>0
 
 
 model.plm.pooling<-plm(paste("growth ~", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(df,subset = pos.total>10) ,model = "pooling")
 model.plm.iFX<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+")),subset(df,subset = pos.total>10) ,effect = "individual")
-model.plm.iFXtrends<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),"+factor(RegionCode)*Date"),subset(df ,subset = pos.total>10) ,effect = "individual")
+model.plm.iFXtrends<-plm(paste("growth ~ ", paste(paste0("lag(",treatments,"_active,5)"),collapse = "+"),"+factor(country)*as.numeric(t)"),subset(df ,subset = pos.total>10) ,effect = "individual")
 
 rob_se <- list(sqrt(diag(vcovHC(model.plm.iFX, type = "HC1",cluster="group"))),
                sqrt(diag(vcovHC(model.plm.pooling, type = "HC1",cluster="group"))),
@@ -29,7 +29,8 @@ rob_se <- list(sqrt(diag(vcovHC(model.plm.iFX, type = "HC1",cluster="group"))),
 stargazer(model.plm.pooling,
           model.plm.iFX,
           model.plm.iFXtrends,
-          se=rob_se,type="text",omit=c("Date$", "^Constant$"),
+          se=rob_se,type="text",
+          #omit=c("Date$", "^Constant$"),
           add.lines = list(c("Region fixed effects", "No","Yes", "Yes"),
                            c("Region-specific time trends","No", "No", "Yes")))
 
