@@ -22,4 +22,4 @@ regions$dem<-as.numeric(levels(regions$dem))[regions$dem]
 regions$geonameid<-as.numeric(levels(regions$geonameid))[regions$geonameid]
 regions$modification.date<-as.Date(levels(regions$modification.date),format="%Y-%m-%d")[regions$modification.date]
 population<-droplevels(regions)
-saveRDS(population,"data/population.RDa")
+saveRDS(population,"data/pop.rda")
