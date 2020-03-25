@@ -1,0 +1,36 @@
+\usepackage{cmap}
+\usepackage[margin=1.1in]{geometry}
+\usepackage{booktabs}
+%\usepackage{todonotes}
+\usepackage{algorithm,algorithmic}
+\usepackage{adjustbox}
+\usepackage{graphics}
+\usepackage{array}
+\usepackage{subfig}
+\usepackage{color}
+\newcolumntype{C}[1]{>{\centering\let\newline\\arraybackslash\hspace{0pt}}m{#1}}
+\usepackage{setspace}
+\usepackage[section]{placeins}
+\usepackage{hyperref}
+\usepackage{amssymb,amsmath}
+\usepackage{cleveref}
+\usepackage{pdflscape}
+\def\home{.}
+
+
+%\usetikzlibrary{arrows}
+\title{Altruism, Capacity Constraints and the Topology of Transfer Networks}
+\author{Marcel Fafchamps and Simon He\ss}
+\date{\today}
+\def\scm{\ensuremath{\checkmark}}
+\usepackage[natbib,style=authoryear,uniquename=false,maxcitenames=2,maxbibnames=99,uniquelist=false,giveninits=true]{biblatex}
+\usepackage{bibentry}
+\renewcommand{\shortstack}[1]{\begin{tabular}{c}#1\end{tabular}}
+\renewbibmacro{in:}{}
+%this makes sure the journal is cited as JDE 31 (4)
+\renewbibmacro*{volume+number+eid}{\printfield{volume}\setunit*{\addnbspace}\printfield{number}\setunit{\addcomma\space}\printfield{eid}}
+\DeclareFieldFormat[article]{number}{\mkbibparens{#1}}
+\DeclareNameAlias{author}{family-given}
+\usepackage{csquotes} %https://tex.stackexchange.com/questions/229638/package-biblatex-warning-babel-polyglossia-detected-but-csquotes-missing
+\addbibresource{parts/literature.bib}
+\usepackage{adjustbox}
