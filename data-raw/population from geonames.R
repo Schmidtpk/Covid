@@ -1,3 +1,4 @@
+library(usethis)
 colnames<-c("geonameid","name","asciiname","alternatenames","latitude","longitude","feature class","feature code","country code","cc2","admin1 code","admin2 code","admin3 code","admin4 code","population","elevation","dem","timezone","modification date")
 
 ##adm1 dataset for coding instructions
