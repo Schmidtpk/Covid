@@ -22,7 +22,9 @@ treatments.summary <-  dflong %>% group_by(treatment) %>%
 treatments.summary
 treatments.summary$enacted_in[8]
 
-treatments.country.summary <-  dflong %>% group_by(treatment,country) %>%
+treatments.country.summary <-  dflong %>%
+  filter(adm_level==1)%>%
+  group_by(treatment,country) %>%
   summarise(first = min(date[active],na.rm=TRUE),
             last = max(date[active],na.rm=TRUE),
             days_active = sum(active,na.rm=TRUE),
@@ -30,7 +32,9 @@ treatments.country.summary <-  dflong %>% group_by(treatment,country) %>%
 View(treatments.country.summary)
 
 
-countries <- dflong %>% group_by(name) %>%
+countries <- dflong %>%
+  filter(adm_level==1)%>%
+  group_by(name) %>%
   summarise(first_case = min(date[pos.new>0],na.rm=TRUE),
             first_cluster = min(date[pos.new>100],na.rm=TRUE),
             highest_new = max(pos.new,na.rm=TRUE),
@@ -40,6 +44,8 @@ countries <- dflong %>% group_by(name) %>%
 View(countries %>% filter(first_treatment<"2020-04-01"))
 View(countries %>% filter(highest_new>100))
 
+
+ggplot(all_long %>% filter(name=="Germany"), aes(x=date,y=treatment,col=active))+geom_point()
 
 
 
