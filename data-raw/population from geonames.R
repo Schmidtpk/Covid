@@ -24,3 +24,4 @@ regions$modification.date<-as.Date(levels(regions$modification.date),format="%Y-
 population<-droplevels(regions)
 saveRDS(population,"data/pop.rda")
 adm1codes<-population[which(population$feature.code=="ADM1"),c("country.code","asciiname","admin1.code")]
+write.csv(adm1codes,"data/adm1codes.csv")
