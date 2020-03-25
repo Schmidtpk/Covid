@@ -14,18 +14,18 @@ df <- subset(Covid::all, adm_level==1)
 dflong <- Covid::all_long
 
 treatments.summary <-  dflong %>% group_by(treatment) %>%
-  summarise(first = min(date[active]),
-            last = max(date[active]),
-            ratio_active = mean(active),
+  summarise(first = min(date[active],na.rm=TRUE),
+            last = max(date[active],na.rm=TRUE),
+            ratio_active = mean(active,na.rm=TRUE),
             num_countries = sum(length(unique(country[active]))),
             enacted_in = list(unique(country[active])))
 treatments.summary
 treatments.summary$enacted_in[8]
 
 treatments.country.summary <-  dflong %>% group_by(treatment,country) %>%
-  summarise(first = min(date[active]),
-            last = max(date[active]),
-            days_active = sum(active),
+  summarise(first = min(date[active],na.rm=TRUE),
+            last = max(date[active],na.rm=TRUE),
+            days_active = sum(active,na.rm=TRUE),
             range_active = last-first+1) %>% filter(days_active>0)
 View(treatments.country.summary)
 
@@ -42,7 +42,4 @@ View(countries %>% filter(highest_new>100))
 
 
 
-
-show_measures_of(units = "United Kingdom",df = df)
-show_measures_of(units = "Germ",df=df)
 

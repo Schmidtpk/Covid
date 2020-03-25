@@ -1,0 +1,40 @@
+Everybody is invited to participate in this data collection. Please contribute what you can. You may also use the data freely.,,,
+"For questions regarding the data collection or collaboration in data analysis, please contact patrick.schmidt@h-its.org, hess@econ.uni-frankfurt.de ",,,
+,,,
+Instructions,,,
+,"For all changes, please use a name, email, or pseudonym to indicate which countries you've updated when in the Progress Tracking sheet",,
+,Try to use government sources or big news outlets,,
+,,,
+Background,,,
+,We are running a continously updated analysis of the effectiveness of different policy measures. ,,
+,The goal is to inform better policy. We will shortly provide a link to a current draft document. ,,
+,,,
+Codebook,,,
+,Dates are inclusive. This applies for start and end dates. These dates should measure the first and last day a certain measure as in place.,,
+,Categories of measures:,,
+,,Ban of Group Gatherings,
+,,,Private gatherings of groups of a certain size (indicate in meta-column) are forbidden
+,,Border Closing,
+,,,All international travel (not just to specifica areas) is significantly restricted
+,,Cancelation of Large Events,
+,,,"Public events of a certain size are cancelled by the government. (Excludes: Volontary suspension of sport leagues, etc)"
+,,Cluster Tracking and Containment,
+,,,Government interventions to track and isolate contacts of known patients.
+,,"Curfew (Mild, Only Private Public Life)",
+,,,Banning public private live
+,,Curfew (Lockdown of All Non-Essential Public Life),
+,,,"Only work, shopping, and essential errands are allowed"
+,,Curfew (Strictest),
+,,,Any movement outside isbanned
+,,Restaurant/Bar Closure,
+,,,"Bars, Restaurants, Clubs, Hotels are closed"
+,,Daycare Closings,
+,,,"Daycare is suspended (for children of ""normal people"", daycare for health workers etc. may still be offered)"
+,,School Closings,
+,,,Schools are suspended
+,,University Closings,
+,,,In-person univeristy classes are suspended
+,,Social Distancing Encouraged,
+,,,The government explicitly encourages social distancing
+,,Public Talk of Central Govt Figure,
+,,,"A central government figure (president, queen, etc) publically addresses the nation"

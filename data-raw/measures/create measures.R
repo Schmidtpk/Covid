@@ -2,10 +2,13 @@ library(googledrive)
 
 # drive_download("https://docs.google.com/spreadsheets/d/1tYfD3vvSEaW3Cq9-UZoDtlKIfaMMVJq8XnV9XJUdK3s/edit#gid=0",
 #                      path = paste0("./data-raw/measures/download_temp_",substr(date(),5,10),".csv"),overwrite = TRUE)
-#measures <- read.csv( paste0("./data-raw/measures/download_temp_",substr(date(),5,10),".csv"),dec = ",")
+# measures <- read.csv( paste0("./data-raw/measures/download_temp_",substr(date(),5,10),".csv"),dec = ",")
+# paste0("./data-raw/measures/download_temp_",substr(date(),5,10),".csv")
 
-measures <- read.csv( paste0("./data-raw/measures/download_temp_Mar 24.csv"),dec = ",")
+#measures <- read.csv( paste0("./data-raw/measures/download_temp_Mar 24.csv"),dec = ",")
 
+measures <- as_tibble(read.csv(header = T,"./data-raw/measures/events.csv",
+                     dec = ",",sep = ","))
 
 # data cleaning -----------------------------------------------------------
 
@@ -27,6 +30,7 @@ use_data(measures,overwrite = TRUE)
 
 
 measures$name <- ifelse(measures$ADM1=="",measures$Country, measures$Region)
+measures$region <- ifelse(measures$ADM1=="",NA, measures$Region)
 measures$adm_level <- ifelse(measures$ADM1=="",1, 2)
 measures$in_country <- ifelse(measures$ADM1=="",NA, measures$Country)
 measures$Name <- NULL

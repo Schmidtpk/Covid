@@ -44,7 +44,7 @@ sum(duplicated(df %>% select(name,date,Last.Update)))
 df <- df %>% group_by(name,date) %>%
   mutate(temp_n = n(),
          temp_rank = rank(desc(Last.Update))) %>%
-  filter(temp_rank==1)%>%ungroup()
+  filter(temp_rank==1)%>%select(-c(temp_n,temp_rank))%>%ungroup()
 dim(df)
 sum(duplicated(df %>% select(name,date,Last.Update)))
 df$Last.Update<-NULL
@@ -118,7 +118,7 @@ treatments_long$treatment <- sapply(treatments_long$treatment,function(x) {
 # merge meta of all actives within treatment and drop all but one
 treatments_long <- treatments_long %>% group_by(name,date,treatment) %>%
   mutate(
-    meta = ifelse(sum(active)>0,paste0(meta[active]),""),
+    meta = ifelse(sum(active,na.rm=TRUE)>0,paste0(meta[active]),""),
     rank_temp = rank(active,ties.method = "random"))%>% filter(rank_temp==1) %>%
   select(-rank_temp)%>%
   ungroup()
@@ -251,17 +251,14 @@ df_long$treatment <- df_long$y;df_long$y <- NULL
 
 # +++ MERGE ---------------------------------------------------------------
 df_long$treatment<-as.character(df_long$treatment)
-change <- startsWith(colnames(df_long),c("active"))
-df_long[,change] <- lapply(df_long[,change], as.logical)
-change <- startsWith(colnames(df_long),c("share"))
-df_long[,change] <- lapply(df_long[,change], as.numeric)
+
 
 all_long <- df_long %>%
-  left_join(treatments_long %>% select(date,name,treatment,active,adm_level,share,meta),
+  full_join(treatments_long %>% select(date,name,treatment,active,adm_level,share,meta),
              by=c("date","name","treatment","adm_level"))
 
 if(nrow(all_long)!=nrow(df_long))
-  stop("Matching not perfect.")
+  warning("Not all measures have matching observations")
 
 if(typeof(all_long$active)!="logical")
   warning("wrong type")
@@ -270,7 +267,7 @@ if(typeof(all_long$share)!="double")
   warning("wrong type")
 
 # check ---------------------------------------------------------
-if(mean(duplicated(all_long%>%select(date,name,treatment))))
+if(mean(duplicated(all_long%>%select(date,name,in_country,treatment))))
   stop("Matching not perfect.")
 
 # View(all_long %>% group_by(name,date,treatment) %>%
@@ -309,9 +306,20 @@ use_data(all_long,overwrite = TRUE)
 all_long$tt <- all_long$active
 all <- all_long %>% select(-active) %>%tidyr::pivot_wider(
                                        names_from = treatment,
-                                       values_from = c(tt,share)
+                                       values_from = c(tt,share,meta)
                                        )
 
+# sum <- all_long %>% group_by(name,date,treatment)%>%
+#   summarise(
+#     n=n()
+#   )
+# subset(sum, n!=1)
+#
+# sum <- all %>% group_by(name,date)%>%
+#   summarise(
+#     n=n()
+#   )
+# View(subset(sum, n!=1))
 
 # View(all%>%filter(name=="Germany",
 #                   date==as.Date("2020-03-18"))%>%
@@ -326,11 +334,34 @@ all <- all_long %>% select(-active) %>%tidyr::pivot_wider(
 
 # make panel data frame pdata.frame
 all$t <- all$date-min(all$date)
-all <- plm::pdata.frame(all,index = c("name","t"), stringsAsFactors=F)
+all$i <- paste0(all$name,all$in_country)
+all <- plm::pdata.frame(all,index = c("i","t"), stringsAsFactors=F)
 use_data(all,overwrite = TRUE)
 
 
 # +++ TESTS -------------------------------------------------------------------
+
+
+# non-merged --------------------------------------------------------------
+
+# in treatments but no observation
+setdiff(treatments%>%select(name,in_country),
+        df%>%select(name,in_country))%>% filter(is.na(in_country)) %>% pull(name)
+
+# in observation but no treatments
+setdiff(df%>%select(name,in_country),
+        treatments%>%select(name,in_country)) %>% filter(is.na(in_country)) %>% pull(name)
+
+
+
+# treatment plots ---------------------------------------------------------
+
+library(ggplot2)
+ggplot(all_long %>% filter(country=="Germany"), aes(x=date,y=treatment,col=active))+
+  geom_point()+facet_grid(~name)
+
+
+# plm regression ----------------------------------------------------------
 
 all$pos.growth <- log(all$pos.new)-lag(log(all$pos.new))
 
@@ -338,6 +369,7 @@ plm.cur <- plm::plm(pos.growth~share_BorderClosing+factor(name)*as.numeric(t),al
 stargazer::stargazer(type="text",omit="factor",
   lmtest::coeftest(plm.cur,
                    vcov=sandwich::vcovHC(plm.cur,cluster="group")))
+
 
 
 
