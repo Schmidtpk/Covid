@@ -4,7 +4,7 @@ colnames<-c("geonameid","name","asciiname","alternatenames","latitude","longitud
 ##adm1 dataset for coding instructions
 sss<-read.csv("data-raw/admin1CodesASCII.txt",sep="\t",encoding="UTF-8",col.names = c("code","name","name_ascii","id"))
 adm1_codes <- sss
-use_data(adm1_codes,overwrite=TRUE)
+#use_data(adm1_codes,overwrite=TRUE)
 
 
 population<-NULL
@@ -28,4 +28,5 @@ for(country in unique(substr(sss$code,1,2))) {
   population<-rbind(regions,population)
 }
 pop<-population
-use_data(pop,overwrite = TRUE)
+
+#use_data(pop,overwrite = TRUE)
