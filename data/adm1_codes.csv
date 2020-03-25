@@ -1,0 +1,3956 @@
+"","code","name","name_ascii","id"
+"1","AD.05","Ordino","Ordino",3039676
+"2","AD.04","La Massana","La Massana",3040131
+"3","AD.03","Encamp","Encamp",3040684
+"4","AD.02","Canillo","Canillo",3041203
+"5","AD.07","Andorra la Vella","Andorra la Vella",3041566
+"6","AD.08","Escaldes-Engordany","Escaldes-Engordany",3338529
+"7","AE.07","Umm al Qaywayn","Umm al Qaywayn",290595
+"8","AE.05","Ra's al Khaymah","Ra's al Khaymah",291075
+"9","AE.03","Dubai","Dubai",292224
+"10","AE.06","Sharjah","Sharjah",292673
+"11","AE.04","Fujairah","Fujairah",292879
+"12","AE.02","Ajman","Ajman",292933
+"13","AE.01","Abu Dhabi","Abu Dhabi",292969
+"14","AF.28","Zabul","Zabul",1121143
+"15","AF.27","Vardak","Vardak",1121863
+"16","AF.26","Takhar","Takhar",1123230
+"17","AF.33","Sar-e Pol","Sar-e Pol",1127106
+"18","AF.32","Samangan","Samangan",1127766
+"19","AF.40","Parwan","Parwan",1131054
+"20","AF.29","Paktika","Paktika",1131256
+"21","AF.36","Paktia","Paktia",1131257
+"22","AF.39","Oruzgan","Oruzgan",1131461
+"23","AF.19","Nimroz","Nimroz",1131821
+"24","AF.18","Nangarhar","Nangarhar",1132366
+"25","AF.17","Logar","Logar",1134561
+"26","AF.35","Laghman","Laghman",1135022
+"27","AF.24","Kunduz","Kunduz",1135690
+"28","AF.34","Kunar","Kunar",1135702
+"29","AF.14","Kapisa","Kapisa",1138255
+"30","AF.23","Kandahar","Kandahar",1138335
+"31","AF.13","Kabul","Kabul",1138957
+"32","AF.31","Jowzjan","Jowzjan",1139049
+"33","AF.11","Herat","Herat",1140025
+"34","AF.10","Helmand","Helmand",1140043
+"35","AF.09","Ghowr","Ghowr",1141103
+"36","AF.08","Ghazni","Ghazni",1141268
+"37","AF.07","Faryab","Faryab",1142226
+"38","AF.06","Farah","Farah",1142263
+"39","AF.05","Bamyan","Bamyan",1147239
+"40","AF.30","Balkh","Balkh",1147288
+"41","AF.03","Baghlan","Baghlan",1147537
+"42","AF.02","Badghis","Badghis",1147707
+"43","AF.01","Badakhshan","Badakhshan",1147745
+"44","AF.37","Khowst","Khowst",1444362
+"45","AF.38","Nuristan","Nuristan",1444363
+"46","AF.41","Daykundi","Daykundi",6957553
+"47","AF.42","Panjshir","Panjshir",6957555
+"48","AG.08","Saint Philip","Saint Philip",3576015
+"49","AG.07","Saint Peter","Saint Peter",3576016
+"50","AG.06","Saint Paul","Saint Paul",3576017
+"51","AG.05","Saint Mary","Saint Mary",3576018
+"52","AG.04","Saint John","Saint John",3576023
+"53","AG.03","Saint George","Saint George",3576024
+"54","AG.09","Redonda","Redonda",3576037
+"55","AG.01","Barbuda","Barbuda",3576390
+"56","AI.11205389","Blowing Point","Blowing Point",11205389
+"57","AI.11205392","Sandy Ground","Sandy Ground",11205392
+"58","AI.11205393","Sandy Hill","Sandy Hill",11205393
+"59","AI.11205396","The Valley","The Valley",11205396
+"60","AI.11205433","East End","East End",11205433
+"61","AI.11205436","North Hill","North Hill",11205436
+"62","AI.11205437","West End","West End",11205437
+"63","AI.11205438","South Hill","South Hill",11205438
+"64","AI.11205439","The Quarter","The Quarter",11205439
+"65","AI.11205440","North Side","North Side",11205440
+"66","AI.11205441","Island Harbour","Island Harbour",11205441
+"67","AI.11205442","George Hill","George Hill",11205442
+"68","AI.11205443","Stoney Ground","Stoney Ground",11205443
+"69","AI.11205444","The Farrington","The Farrington",11205444
+"70","AL.40","Berat","Berat",865730
+"71","AL.41","Dibër","Diber",865731
+"72","AL.43","Elbasan","Elbasan",865732
+"73","AL.45","Gjirokastër","Gjirokaster",865733
+"74","AL.46","Korçë","Korce",865734
+"75","AL.47","Kukës","Kukes",865735
+"76","AL.42","Durrës","Durres",3344947
+"77","AL.44","Fier","Fier",3344948
+"78","AL.48","Lezhë","Lezhe",3344949
+"79","AL.49","Shkodër","Shkoder",3344950
+"80","AL.50","Tirana","Tirana",3344951
+"81","AL.51","Vlorë","Vlore",3344952
+"82","AM.02","Ararat","Ararat",409313
+"83","AM.08","Syunik","Syunik",409314
+"84","AM.10","Vayots Dzor","Vayots Dzor",409315
+"85","AM.11","Yerevan","Yerevan",616051
+"86","AM.01","Aragatsotn","Aragatsotn",828259
+"87","AM.03","Armavir","Armavir",828260
+"88","AM.04","Gegharkunik","Gegharkunik",828261
+"89","AM.05","Kotayk","Kotayk",828262
+"90","AM.06","Lori","Lori",828263
+"91","AM.07","Shirak","Shirak",828264
+"92","AM.09","Tavush","Tavush",828265
+"93","AO.18","Lunda Sul","Lunda Sul",145701
+"94","AO.17","Luanda Norte","Luanda Norte",145702
+"95","AO.14","Moxico","Moxico",875996
+"96","AO.04","Cuando Cobango","Cuando Cobango",876337
+"97","AO.16","Zaire","Zaire",2236355
+"98","AO.15","Uíge","Uige",2236566
+"99","AO.12","Malanje","Malanje",2239858
+"100","AO.20","Luanda","Luanda",2240444
+"101","AO.05","Cuanza Norte","Cuanza Norte",2241660
+"102","AO.03","Cabinda","Cabinda",2243266
+"103","AO.19","Bengo","Bengo",2243598
+"104","AO.13","Namibe","Namibe",3347016
+"105","AO.09","Huíla","Huila",3348303
+"106","AO.08","Huambo","Huambo",3348310
+"107","AO.07","Cunene","Cunene",3349096
+"108","AO.06","Kwanza Sul","Kwanza Sul",3349234
+"109","AO.02","Bíe","Bie",3351640
+"110","AO.01","Benguela","Benguela",3351660
+"111","AR.14","Misiones","Misiones",3430657
+"112","AR.09","Formosa","Formosa",3433896
+"113","AR.07","Buenos Aires F.D.","Buenos Aires F.D.",3433955
+"114","AR.08","Entre Rios","Entre Rios",3434137
+"115","AR.06","Corrientes","Corrientes",3435214
+"116","AR.01","Buenos Aires","Buenos Aires",3435907
+"117","AR.24","Tucuman","Tucuman",3833578
+"118","AR.23","Tierra del Fuego","Tierra del Fuego",3834450
+"119","AR.22","Santiago del Estero","Santiago del Estero",3835868
+"120","AR.21","Santa Fe","Santa Fe",3836276
+"121","AR.20","Santa Cruz","Santa Cruz",3836350
+"122","AR.19","San Luis","San Luis",3837029
+"123","AR.18","San Juan","San Juan",3837152
+"124","AR.17","Salta","Salta",3838231
+"125","AR.16","Rio Negro","Rio Negro",3838830
+"126","AR.15","Neuquen","Neuquen",3843122
+"127","AR.13","Mendoza","Mendoza",3844419
+"128","AR.12","La Rioja","La Rioja",3848949
+"129","AR.11","La Pampa","La Pampa",3849574
+"130","AR.10","Jujuy","Jujuy",3853404
+"131","AR.05","Cordoba","Cordoba",3860255
+"132","AR.04","Chubut","Chubut",3861244
+"133","AR.03","Chaco","Chaco",3861887
+"134","AR.02","Catamarca","Catamarca",3862286
+"135","AS.050","Western District","Western District",5880873
+"136","AS.040","Swains Island","Swains Island",5881199
+"137","AS.010","Eastern District","Eastern District",5881219
+"138","AS.020","Manu'a","Manu'a",5881436
+"139","AS.030","Rose Island","Rose Island",7309441
+"140","AT.09","Vienna","Vienna",2761367
+"141","AT.08","Vorarlberg","Vorarlberg",2762300
+"142","AT.07","Tyrol","Tyrol",2763586
+"143","AT.06","Styria","Styria",2764581
+"144","AT.05","Salzburg","Salzburg",2766823
+"145","AT.04","Upper Austria","Upper Austria",2769848
+"146","AT.03","Lower Austria","Lower Austria",2770542
+"147","AT.02","Carinthia","Carinthia",2774686
+"148","AT.01","Burgenland","Burgenland",2781194
+"149","AU.08","Western Australia","Western Australia",2058645
+"150","AU.05","South Australia","South Australia",2061327
+"151","AU.03","Northern Territory","Northern Territory",2064513
+"152","AU.07","Victoria","Victoria",2145234
+"153","AU.06","Tasmania","Tasmania",2147291
+"154","AU.04","Queensland","Queensland",2152274
+"155","AU.02","New South Wales","New South Wales",2155400
+"156","AU.01","Australian Capital Territory","Australian Capital Territory",2177478
+"157","AX.211","Mariehamns stad","Mariehamns stad",9611689
+"158","AX.212","Ålands landsbygd","Alands landsbygd",9611692
+"159","AX.213","Ålands skärgård","Alands skaergard",9611694
+"160","AZ.12","Beyl<U+0259>qan","Beylaqan",146879
+"161","AZ.69","Z<U+01DD>ngilan","Zangilan Rayon",146900
+"162","AZ.66","Yardimli","Yardimli",146962
+"163","AZ.55","Shusha","Shusha",147163
+"164","AZ.49","Salyan","Salyan",147269
+"165","AZ.46","Sabirabad","Sabirabad",147284
+"166","AZ.45","Saatli","Saatli",147287
+"167","AZ.13","Bil<U+01DD>suvar","Bilasuvar Rayon",147310
+"168","AZ.36","Neftçala","Neftcala",147422
+"169","AZ.35","Nakhichevan","Nakhichevan",147435
+"170","AZ.32","Masally","Masally",147551
+"171","AZ.31","Lerik","Lerik",147610
+"172","AZ.29","L<U+0259>nk<U+0259>ran","Lankaran",147613
+"173","AZ.28","Laçin","Lacin",147626
+"174","AZ.43","Qubadli","Qubadli",147694
+"175","AZ.24","Imisli","Imisli",147983
+"176","AZ.18","Füzuli","Fuezuli",148107
+"177","AZ.14","Jabrayil","Jabrayil",148140
+"178","AZ.15","Jalilabad","Jalilabad",148155
+"179","AZ.08","Astara","Astara",148442
+"180","AZ.64","Xocali","Xocali",148449
+"181","AZ.02","Agcab<U+01DD>di","Aghjabadi Rayon",148615
+"182","AZ.03","Agdam","Agdam",148617
+"183","AZ.07","Shirvan","Shirvan",409417
+"184","AZ.30","Lankaran Sahari","Lankaran Sahari",409418
+"185","AZ.56","Shusha City","Shusha City",409419
+"186","AZ.57","T<U+01DD>rt<U+01DD>r","Tartar Rayon",409420
+"187","AZ.61","Xank<U+01DD>ndi","Xankandi Sahari",409421
+"188","AZ.65","Khojavend","Khojavend",409423
+"189","AZ.71","Z<U+0259>rdab","Zardab",584583
+"190","AZ.70","Zaqatala","Zaqatala",584604
+"191","AZ.67","Yevlax","Yevlax",584650
+"192","AZ.37","Oguz","Oguz",584742
+"193","AZ.59","Ucar","Ucar",584783
+"194","AZ.58","Tovuz","Tovuz",584861
+"195","AZ.50","Samaxi","Samaxi",585030
+"196","AZ.47","Shaki","Shaki",585031
+"197","AZ.51","S<U+01DD>mkir","Shamkir Rayon",585059
+"198","AZ.27","Kürd<U+01DD>mir","Kurdamir Rayon",585686
+"199","AZ.38","Q<U+01DD>b<U+01DD>l<U+01DD>","Qabala Rayon",585738
+"200","AZ.44","Qusar","Qusar",585749
+"201","AZ.42","Quba","Quba",585786
+"202","AZ.62","Goygol Rayon","Goygol Rayon",585967
+"203","AZ.60","Xaçmaz","Xacmaz",586001
+"204","AZ.26","Kalbajar","Kalbajar",586047
+"205","AZ.40","Qazax","Qazax",586087
+"206","AZ.21","Goranboy","Goranboy",586112
+"207","AZ.39","Q<U+01DD>x","Qakh Rayon",586290
+"208","AZ.25","Ismayilli","Ismayilli",586320
+"209","AZ.22","Göyçay","Goeycay",586482
+"210","AZ.17","Shabran","Shabran",586725
+"211","AZ.16","Dask<U+01DD>s<U+01DD>n","Dashkasan Rayon",586771
+"212","AZ.10","Balak<U+01DD>n","Balakan Rayon",587010
+"213","AZ.11","Barda","Barda",587056
+"214","AZ.09","Baki","Baki",587081
+"215","AZ.01","Abseron","Abseron",587245
+"216","AZ.06","Agsu","Agsu",587342
+"217","AZ.04","Agdas","Agdas",587376
+"218","AZ.19","G<U+01DD>d<U+01DD>b<U+01DD>y","Gadabay Rayon",627535
+"219","AZ.05","Agstafa","Agstafa",828297
+"220","AZ.20","G<U+01DD>nc<U+01DD>","Ganja City",828298
+"221","AZ.33","Ming<U+01DD>cevir","Mingacevir City",828299
+"222","AZ.34","Naftalan","Naftalan",828300
+"223","AZ.41","Qobustan","Qobustan",828301
+"224","AZ.52","Samux","Samux",828302
+"225","AZ.48","Shaki City","Shaki City",828303
+"226","AZ.53","Siy<U+01DD>z<U+01DD>n","Siazan Rayon",828304
+"227","AZ.54","Sumqayit","Sumqayit",828305
+"228","AZ.63","Xizi","Xizi",828306
+"229","AZ.68","Yevlax City","Yevlax City",828307
+"230","AZ.23","Haciqabul","Haciqabul",828315
+"231","BA.01","Federation of B&H","Federation of B&H",3229999
+"232","BA.02","Srpska","Srpska",3230000
+"233","BA.BRC","Brcko","Brcko",3294903
+"234","BB.11","Saint Thomas","Saint Thomas",3373551
+"235","BB.10","Saint Philip","Saint Philip",3373553
+"236","BB.09","Saint Peter","Saint Peter",3373554
+"237","BB.08","Saint Michael","Saint Michael",3373557
+"238","BB.07","Saint Lucy","Saint Lucy",3373565
+"239","BB.06","Saint Joseph","Saint Joseph",3373568
+"240","BB.05","Saint John","Saint John",3373569
+"241","BB.04","Saint James","Saint James",3373570
+"242","BB.03","Saint George","Saint George",3373572
+"243","BB.02","Saint Andrew","Saint Andrew",3373580
+"244","BB.01","Christ Church","Christ Church",3373988
+"245","BD.83","Rajshahi Division","Rajshahi Division",1337166
+"246","BD.81","Dhaka","Dhaka",1337179
+"247","BD.84","Chittagong","Chittagong",1337200
+"248","BD.82","Khulna","Khulna",1337210
+"249","BD.85","Barisal","Barisal",1337229
+"250","BD.86","Sylhet","Sylhet",1477362
+"251","BD.87","Rangpur Division","Rangpur Division",7671048
+"252","BD.H","Mymensingh Division","Mymensingh Division",11287936
+"253","BE.BRU","Brussels Capital","Brussels Capital",2800867
+"254","BE.WAL","Wallonia","Wallonia",3337387
+"255","BE.VLG","Flanders","Flanders",3337388
+"256","BF.01","Boucle du Mouhoun","Boucle du Mouhoun",6930701
+"257","BF.02","Cascades","Cascades",6930703
+"258","BF.03","Centre","Centre",6930704
+"259","BF.04","Centre-Est","Centre-Est",6930705
+"260","BF.05","Centre-Nord","Centre-Nord",6930706
+"261","BF.06","Centre-Ouest","Centre-Ouest",6930707
+"262","BF.07","Centre-Sud","Centre-Sud",6930708
+"263","BF.08","Est","Est",6930709
+"264","BF.09","Hauts-Bassins","Hauts-Bassins",6930710
+"265","BF.10","Nord","Nord",6930711
+"266","BF.11","Plateau-Central","Plateau-Central",6930712
+"267","BF.12","Sahel","Sahel",6930713
+"268","BF.13","Sud-Ouest","Sud-Ouest",6930714
+"269","BG.52","Razgrad","Razgrad",453751
+"270","BG.47","Montana","Montana",453753
+"271","BG.64","Vratsa","Vratsa",725713
+"272","BG.61","Varna","Varna",726051
+"273","BG.40","Dobrich","Dobrich",726419
+"274","BG.58","Sofia","Sofia",727012
+"275","BG.53","Ruse","Ruse",727524
+"276","BG.51","Plovdiv","Plovdiv",728194
+"277","BG.50","Pleven","Pleven",728204
+"278","BG.49","Pernik","Pernik",728331
+"279","BG.48","Pazardzhik","Pazardzhik",728379
+"280","BG.46","Lovech","Lovech",729560
+"281","BG.43","Haskovo","Haskovo",730436
+"282","BG.42","Sofia-Capital","Sofia-Capital",731061
+"283","BG.39","Burgas","Burgas",732771
+"284","BG.38","Blagoevgrad","Blagoevgrad",733192
+"285","BG.41","Gabrovo","Gabrovo",864552
+"286","BG.44","Kardzhali","Kardzhali",864553
+"287","BG.45","Kyustendil","Kyustendil",864554
+"288","BG.54","Shumen","Shumen",864555
+"289","BG.55","Silistra","Silistra",864556
+"290","BG.56","Sliven","Sliven",864557
+"291","BG.57","Smolyan","Smolyan",864558
+"292","BG.59","Stara Zagora","Stara Zagora",864559
+"293","BG.60","Targovishte","Targovishte",864560
+"294","BG.62","Veliko Tarnovo","Veliko Tarnovo",864561
+"295","BG.63","Vidin","Vidin",864562
+"296","BG.65","Yambol","Yambol",864563
+"297","BH.15","Muharraq","Muharraq",290333
+"298","BH.16","Manama","Manama",7090954
+"299","BH.17","Southern Governorate","Southern Governorate",7090972
+"300","BH.19","Northern","Northern",7090974
+"301","BI.17","Makamba","Makamba",422233
+"302","BI.10","Bururi","Bururi",423327
+"303","BI.22","Muramvya","Muramvya",425550
+"304","BI.13","Gitega","Gitega",426271
+"305","BI.21","Ruyigi","Ruyigi",426699
+"306","BI.11","Cankuzo","Cankuzo",427700
+"307","BI.14","Karuzi","Karuzi",428218
+"308","BI.09","Bubanza","Bubanza",428514
+"309","BI.12","Cibitoke","Cibitoke",430020
+"310","BI.19","Ngozi","Ngozi",430567
+"311","BI.15","Kayanza","Kayanza",430951
+"312","BI.18","Muyinga","Muyinga",431747
+"313","BI.16","Kirundo","Kirundo",432455
+"314","BI.20","Rutana","Rutana",434147
+"315","BI.23","Mwaro","Mwaro",434386
+"316","BI.24","Bujumbura Mairie","Bujumbura Mairie",7303939
+"317","BI.25","Bujumbura Rural","Bujumbura Rural",7303940
+"318","BI.26","Rumonge","Rumonge",11184798
+"319","BJ.18","Zou","Zou",2390719
+"320","BJ.16","Ouémé","Oueme",2392325
+"321","BJ.15","Mono","Mono",2392716
+"322","BJ.10","Borgou","Borgou",2394992
+"323","BJ.09","Atlantique","Atlantique",2395504
+"324","BJ.08","Atakora","Atakora",2395524
+"325","BJ.07","Alibori","Alibori",2597271
+"326","BJ.11","Collines","Collines",2597272
+"327","BJ.12","Kouffo","Kouffo",2597273
+"328","BJ.13","Donga","Donga",2597274
+"329","BJ.14","Littoral","Littoral",2597275
+"330","BJ.17","Plateau","Plateau",2597277
+"331","BM.11","Warwick","Warwick",3572972
+"332","BM.10","Southampton","Southampton",3573026
+"333","BM.09","Smith's","Smith's Parish",3573031
+"334","BM.08","Sandys","Sandys",3573050
+"335","BM.07","Saint George's","Saint George's Parish",3573057
+"336","BM.06","Saint George","Saint George",3573062
+"337","BM.05","Pembroke","Pembroke",3573095
+"338","BM.04","Paget","Paget",3573103
+"339","BM.02","Hamilton","Hamilton",3573195
+"340","BM.03","Hamilton city","Hamilton city",3573198
+"341","BM.01","Devonshire","Devonshire",3573251
+"342","BN.04","Tutong","Tutong",1820068
+"343","BN.03","Temburong","Temburong",1820106
+"344","BN.02","Brunei-Muara District","Brunei-Muara District",1820818
+"345","BN.01","Belait","Belait",1820869
+"346","BO.09","Tarija","Tarija",3903319
+"347","BO.08","Santa Cruz","Santa Cruz",3904907
+"348","BO.07","Potosí","Potosi",3907580
+"349","BO.06","Pando","Pando",3908600
+"350","BO.05","Oruro","Oruro",3909233
+"351","BO.04","La Paz","La Paz",3911924
+"352","BO.02","Cochabamba","Cochabamba",3919966
+"353","BO.01","Chuquisaca","Chuquisaca",3920177
+"354","BO.03","El Beni","El Beni",3923172
+"355","BQ.BO","Bonaire","Bonaire",7609816
+"356","BQ.SB","Saba","Saba",7610358
+"357","BQ.SE","Sint Eustatius","Sint Eustatius",7610359
+"358","BR.22","Rio Grande do Norte","Rio Grande do Norte",3390290
+"359","BR.20","Piauí","Piaui",3392213
+"360","BR.30","Pernambuco","Pernambuco",3392268
+"361","BR.17","Paraíba","Paraiba",3393098
+"362","BR.16","Pará","Para",3393129
+"363","BR.13","Maranhão","Maranhao",3395443
+"364","BR.06","Ceará","Ceara",3402362
+"365","BR.03","Amapá","Amapa",3407762
+"366","BR.02","Alagoas","Alagoas",3408096
+"367","BR.28","Sergipe","Sergipe",3447799
+"368","BR.27","São Paulo","Sao Paulo",3448433
+"369","BR.26","Santa Catarina","Santa Catarina",3450387
+"370","BR.23","Rio Grande do Sul","Rio Grande do Sul",3451133
+"371","BR.21","Rio de Janeiro","Rio de Janeiro",3451189
+"372","BR.18","Paraná","Parana",3455077
+"373","BR.15","Minas Gerais","Minas Gerais",3457153
+"374","BR.11","Mato Grosso do Sul","Mato Grosso do Sul",3457415
+"375","BR.14","Mato Grosso","Mato Grosso",3457419
+"376","BR.29","Goiás","Goias",3462372
+"377","BR.07","Federal District","Federal District",3463504
+"378","BR.08","Espírito Santo","Espirito Santo",3463930
+"379","BR.05","Bahia","Bahia",3471168
+"380","BR.31","Tocantins","Tocantins",3474575
+"381","BR.25","Roraima","Roraima",3662560
+"382","BR.04","Amazonas","Amazonas",3665361
+"383","BR.01","Acre","Acre",3665474
+"384","BR.24","Rondônia","Rondonia",3924825
+"385","BS.35","San Salvador","San Salvador",3571493
+"386","BS.18","Ragged Island","Ragged Island",3571629
+"387","BS.32","Berry Islands","Berry Islands",3571809
+"388","BS.23","New Providence","New Providence",3571815
+"389","BS.16","Mayaguana","Mayaguana",3571894
+"390","BS.15","Long Island","Long Island",3572005
+"391","BS.13","Inagua","Inagua",3572154
+"392","BS.22","Harbour Island","Harbour Island",3572238
+"393","BS.25","Freeport","Freeport",3572374
+"394","BS.10","Exuma","Exuma",3572427
+"395","BS.06","Cat Island","Cat Island",3572678
+"396","BS.05","Bimini","Bimini",3572807
+"397","BS.24","Acklins","Acklins",3572937
+"398","BS.36","Black Point","Black Point",8030541
+"399","BS.37","Central Abaco","Central Abaco",8030542
+"400","BS.38","Central Andros","Central Andros",8030543
+"401","BS.39","Central Eleuthera","Central Eleuthera",8030544
+"402","BS.40","Crooked Island and Long Cay","Crooked Island and Long Cay",8030545
+"403","BS.41","East Grand Bahama","East Grand Bahama",8030546
+"404","BS.42","Grand Cay","Grand Cay",8030547
+"405","BS.43","Hope Town","Hope Town",8030548
+"406","BS.44","Mangrove Cay","Mangrove Cay",8030549
+"407","BS.45","Moore’s Island","Moore's Island",8030550
+"408","BS.46","North Abaco","North Abaco",8030551
+"409","BS.47","North Andros","North Andros",8030552
+"410","BS.48","North Eleuthera","North Eleuthera",8030553
+"411","BS.49","Rum Cay","Rum Cay",8030554
+"412","BS.50","South Abaco","South Abaco",8030555
+"413","BS.51","South Andros","South Andros",8030556
+"414","BS.52","South Eleuthera","South Eleuthera",8030557
+"415","BS.53","Spanish Wells","Spanish Wells",8030558
+"416","BS.54","West Grand Bahama","West Grand Bahama",8030559
+"417","BT.05","Bumthang","Bumthang",1337278
+"418","BT.06","Chukha","Chukha",1337279
+"419","BT.08","Dagana","Dagana",1337280
+"420","BT.07","Chirang","Chirang",1337281
+"421","BT.09","Geylegphug","Geylegphug",1337282
+"422","BT.10","Haa","Haa",1337283
+"423","BT.11","Lhuntse","Lhuntse",1337284
+"424","BT.12","Mongar","Mongar",1337285
+"425","BT.13","Paro","Paro",1337286
+"426","BT.14","Pemagatshel","Pemagatshel",1337287
+"427","BT.15","Punakha","Punakha",1337288
+"428","BT.16","Samchi","Samchi",1337289
+"429","BT.17","Samdrup Jongkhar","Samdrup Jongkhar",1337290
+"430","BT.18","Shemgang","Shemgang",1337291
+"431","BT.19","Tashigang","Tashigang",1337292
+"432","BT.20","Thimphu","Thimphu",1337293
+"433","BT.21","Tongsa","Tongsa",1337294
+"434","BT.22","Wangdi Phodrang","Wangdi Phodrang",1337295
+"435","BT.23","Gasa","Gasa",7303651
+"436","BT.24","Trashi Yangste","Trashi Yangste",7303653
+"437","BW.10","Ngwaketsi","Ngwaketsi",933043
+"438","BW.09","South-East","South-East",933044
+"439","BW.08","North-East","North-East",933210
+"440","BW.11","North-West","North-West",933230
+"441","BW.06","Kweneng","Kweneng",933562
+"442","BW.05","Kgatleng","Kgatleng",933654
+"443","BW.04","Kgalagadi","Kgalagadi",933657
+"444","BW.03","Ghanzi","Ghanzi",933758
+"445","BW.12","Chobe","Chobe",933840
+"446","BW.01","Central","Central",933851
+"447","BW.13","City of Francistown","City of Francistown",11778168
+"448","BW.14","Gaborone","Gaborone",11778169
+"449","BW.15","Jwaneng","Jwaneng",11778170
+"450","BW.16","Lobatse","Lobatse",11778171
+"451","BW.17","Selibe Phikwe","Selibe Phikwe",11778172
+"452","BW.18","Sowa Town","Sowa Town",11778173
+"453","BY.07","Vitebsk","Vitebsk",620134
+"454","BY.06","Mogilev","Mogilev",625073
+"455","BY.05","Minsk","Minsk",625142
+"456","BY.04","Minsk City","Minsk City",625143
+"457","BY.03","Grodnenskaya","Grodnenskaya",628035
+"458","BY.02","Gomel Oblast","Gomel Oblast",628281
+"459","BY.01","Brest","Brest",629631
+"460","BZ.06","Toledo","Toledo",3580913
+"461","BZ.05","Stann Creek","Stann Creek",3580975
+"462","BZ.04","Orange Walk","Orange Walk",3581511
+"463","BZ.03","Corozal","Corozal",3582302
+"464","BZ.02","Cayo","Cayo",3582429
+"465","BZ.01","Belize","Belize",3582676
+"466","CA.01","Alberta","Alberta",5883102
+"467","CA.02","British Columbia","British Columbia",5909050
+"468","CA.03","Manitoba","Manitoba",6065171
+"469","CA.04","New Brunswick","New Brunswick",6087430
+"470","CA.13","Northwest Territories","Northwest Territories",6091069
+"471","CA.07","Nova Scotia","Nova Scotia",6091530
+"472","CA.14","Nunavut","Nunavut",6091732
+"473","CA.08","Ontario","Ontario",6093943
+"474","CA.09","Prince Edward Island","Prince Edward Island",6113358
+"475","CA.10","Quebec","Quebec",6115047
+"476","CA.11","Saskatchewan","Saskatchewan",6141242
+"477","CA.12","Yukon","Yukon",6185811
+"478","CA.05","Newfoundland and Labrador","Newfoundland and Labrador",6354959
+"479","CD.31","Tshuapa","Tshuapa",204697
+"480","CD.30","Tshopo","Tshopo",204704
+"481","CD.29","Tanganyika","Tanganyika",205253
+"482","CD.12","South Kivu","South Kivu",205413
+"483","CD.27","Sankuru","Sankuru",205828
+"484","CD.11","Nord Kivu","Nord Kivu",206938
+"485","CD.25","Mongala","Mongala",208741
+"486","CD.10","Maniema","Maniema",209610
+"487","CD.23","Kasai-Central","Kasai-Central",210596
+"488","CD.04","Kasaï-Oriental","Kasai-Oriental",214138
+"489","CD.18","Kasai","Kasai",214140
+"490","CD.17","Ituri","Ituri",215709
+"491","CD.16","Haut-Uele","Haut-Uele",216140
+"492","CD.15","Haut-Lomami","Haut-Lomami",216141
+"493","CD.02","Équateur","Equateur",216661
+"494","CD.13","Bas-Uele","Bas-Uele",219402
+"495","CD.22","Lualaba","Lualaba",922727
+"496","CD.24","Mai-Ndombe","Mai-Ndombe",2313191
+"497","CD.20","Kwilu","Kwilu",2313847
+"498","CD.19","Kwango","Kwango",2313860
+"499","CD.06","Kinshasa","Kinshasa",2314300
+"500","CD.08","Bas-Congo","Bas-Congo",2317277
+"501","CD.14","Haut-Katanga","Haut-Katanga",11288213
+"502","CD.21","Lomami","Lomami",11288214
+"503","CD.26","Nord-Ubangi","Nord-Ubangi",11288215
+"504","CD.28","Sud-Ubangi","Sud-Ubangi",11288216
+"505","CF.14","Vakaga","Vakaga",236178
+"506","CF.11","Ouaka","Ouaka",236887
+"507","CF.08","Mbomou","Mbomou",237556
+"508","CF.05","Haut-Mbomou","Haut-Mbomou",238639
+"509","CF.03","Haute-Kotto","Haute-Kotto",238640
+"510","CF.02","Basse-Kotto","Basse-Kotto",240396
+"511","CF.01","Bamingui-Bangoran","Bamingui-Bangoran",240591
+"512","CF.16","Sangha-Mbaéré","Sangha-Mbaere",2383204
+"513","CF.13","Ouham-Pendé","Ouham-Pende",2383650
+"514","CF.12","Ouham","Ouham",2383653
+"515","CF.17","Ombella-M'Poko","Ombella-M'Poko",2383765
+"516","CF.09","Nana-Mambéré","Nana-Mambere",2384205
+"517","CF.07","Lobaye","Lobaye",2385105
+"518","CF.06","Kémo","Kemo",2385836
+"519","CF.04","Mambéré-Kadéï","Mambere-Kadei",2386161
+"520","CF.15","Nana-Grébizi","Nana-Grebizi",2386243
+"521","CF.18","Bangui","Bangui",2596686
+"522","CG.10","Sangha","Sangha",2255329
+"523","CG.11","Pool","Pool",2255404
+"524","CG.08","Plateaux","Plateaux",2255422
+"525","CG.07","Niari","Niari",2256175
+"526","CG.06","Likouala","Likouala",2258431
+"527","CG.05","Lékoumou","Lekoumou",2258534
+"528","CG.04","Kouilou","Kouilou",2258738
+"529","CG.13","Cuvette","Cuvette",2260487
+"530","CG.01","Bouenza","Bouenza",2260668
+"531","CG.12","Brazzaville","Brazzaville",2572183
+"532","CG.14","Cuvette-Ouest","Cuvette-Ouest",2593118
+"533","CG.15","Pointe-Noire","Pointe-Noire",7280295
+"534","CH.ZH","Zurich","Zurich",2657895
+"535","CH.ZG","Zug","Zug",2657907
+"536","CH.VD","Vaud","Vaud",2658182
+"537","CH.VS","Valais","Valais",2658205
+"538","CH.UR","Uri","Uri",2658226
+"539","CH.TI","Ticino","Ticino",2658370
+"540","CH.TG","Thurgau","Thurgau",2658372
+"541","CH.SO","Solothurn","Solothurn",2658563
+"542","CH.SZ","Schwyz","Schwyz",2658664
+"543","CH.SH","Schaffhausen","Schaffhausen",2658760
+"544","CH.SG","Saint Gallen","Saint Gallen",2658821
+"545","CH.OW","Obwalden","Obwalden",2659315
+"546","CH.NW","Nidwalden","Nidwalden",2659471
+"547","CH.NE","Neuchâtel","Neuchatel",2659495
+"548","CH.LU","Lucerne","Lucerne",2659810
+"549","CH.JU","Jura","Jura",2660207
+"550","CH.GR","Grisons","Grisons",2660522
+"551","CH.GL","Glarus","Glarus",2660593
+"552","CH.GE","Geneva","Geneva",2660645
+"553","CH.FR","Fribourg","Fribourg",2660717
+"554","CH.BE","Bern","Bern",2661551
+"555","CH.BS","Basel-City","Basel-City",2661602
+"556","CH.BL","Basel-Landschaft","Basel-Landschaft",2661603
+"557","CH.AR","Appenzell Ausserrhoden","Appenzell Ausserrhoden",2661739
+"558","CH.AI","Appenzell Innerrhoden","Appenzell Innerrhoden",2661741
+"559","CH.AG","Aargau","Aargau",2661876
+"560","CI.98","Yamoussoukro","Yamoussoukro",10629377
+"561","CI.76","Bas-Sassandra","Bas-Sassandra",11153052
+"562","CI.94","Comoé","Comoe",11153053
+"563","CI.77","Denguélé","Denguele",11153054
+"564","CI.95","Gôh-Djiboua","Goh-Djiboua",11153055
+"565","CI.81","Lacs","Lacs",11153056
+"566","CI.82","Lagunes","Lagunes",11153057
+"567","CI.78","Montagnes","Montagnes",11153058
+"568","CI.96","Sassandra-Marahoué","Sassandra-Marahoue",11153059
+"569","CI.87","Savanes","Savanes",11153060
+"570","CI.90","Vallée du Bandama","Vallee du Bandama",11153061
+"571","CI.97","Woroba","Woroba",11153062
+"572","CI.92","Zanzan","Zanzan",11153063
+"573","CI.93","Abidjan","Abidjan",11153151
+"574","CK.11695124","Aitutaki","Aitutaki",11695124
+"575","CK.11695126","Atiu","Atiu",11695126
+"576","CK.11695127","Mangaia","Mangaia",11695127
+"577","CK.11695384","Manihiki","Manihiki",11695384
+"578","CK.11695385","Ma'uke","Ma'uke",11695385
+"579","CK.11695386","Mitiaro","Mitiaro",11695386
+"580","CK.11695387","Palmerston","Palmerston",11695387
+"581","CK.11695388","Penrhyn","Penrhyn",11695388
+"582","CK.11695389","Pukapuka","Pukapuka",11695389
+"583","CK.11695390","Rakahanga","Rakahanga",11695390
+"584","CK.11695425","Rarotonga","Rarotonga",11695425
+"585","CL.01","Valparaíso","Valparaiso",3868621
+"586","CL.15","Tarapacá","Tarapaca",3870116
+"587","CL.12","Santiago Metropolitan","Santiago Metropolitan",3873544
+"588","CL.11","Maule Region","Maule Region",3880306
+"589","CL.14","Los Lagos Region","Los Lagos Region",3881974
+"590","CL.08","O'Higgins Region","O'Higgins Region",3883281
+"591","CL.07","Coquimbo Region","Coquimbo Region",3893623
+"592","CL.06","Biobío","Biobio",3898380
+"593","CL.05","Atacama","Atacama",3899191
+"594","CL.04","Araucanía","Araucania",3899463
+"595","CL.03","Antofagasta","Antofagasta",3899537
+"596","CL.02","Aysén","Aysen",3900333
+"597","CL.10","Region of Magallanes","Region of Magallanes",4036650
+"598","CL.16","Arica y Parinacota","Arica y Parinacota",6693562
+"599","CL.17","Los Ríos Region","Los Rios Region",6693563
+"600","CL.18","Ñuble","Nuble",11979367
+"601","CM.09","South-West","South-West",2221788
+"602","CM.14","South","South",2221789
+"603","CM.08","West","West",2222934
+"604","CM.07","North-West","North-West",2223602
+"605","CM.13","North","North",2223603
+"606","CM.05","Littoral","Littoral",2229336
+"607","CM.12","Far North","Far North",2231755
+"608","CM.04","East","East",2231835
+"609","CM.11","Centre","Centre",2233376
+"610","CM.10","Adamaoua","Adamaoua",2236015
+"611","CN.14","Tibet","Tibet",1279685
+"612","CN.06","Qinghai","Qinghai",1280239
+"613","CN.13","Xinjiang","Xinjiang",1529047
+"614","CN.02","Zhejiang","Zhejiang",1784764
+"615","CN.29","Yunnan","Yunnan",1785694
+"616","CN.28","Tianjin","Tianjin",1792943
+"617","CN.32","Sichuan","Sichuan",1794299
+"618","CN.24","Shanxi","Shanxi",1795912
+"619","CN.23","Shanghai","Shanghai",1796231
+"620","CN.25","Shandong","Shandong",1796328
+"621","CN.26","Shaanxi","Shaanxi",1796480
+"622","CN.21","Ningxia Hui Autonomous Region","Ningxia Hui Autonomous Region",1799355
+"623","CN.03","Jiangxi","Jiangxi",1806222
+"624","CN.04","Jiangsu","Jiangsu",1806260
+"625","CN.11","Hunan","Hunan",1806691
+"626","CN.12","Hubei","Hubei",1806949
+"627","CN.09","Henan","Henan",1808520
+"628","CN.10","Hebei","Hebei",1808773
+"629","CN.31","Hainan","Hainan",1809054
+"630","CN.18","Guizhou","Guizhou",1809445
+"631","CN.16","Guangxi","Guangxi",1809867
+"632","CN.30","Guangdong","Guangdong",1809935
+"633","CN.15","Gansu","Gansu",1810676
+"634","CN.07","Fujian","Fujian",1811017
+"635","CN.33","Chongqing","Chongqing",1814905
+"636","CN.01","Anhui","Anhui",1818058
+"637","CN.20","Inner Mongolia","Inner Mongolia",2035607
+"638","CN.19","Liaoning","Liaoning",2036115
+"639","CN.05","Jilin","Jilin",2036500
+"640","CN.08","Heilongjiang","Heilongjiang",2036965
+"641","CN.22","Beijing","Beijing",2038349
+"642","CO.31","Vichada","Vichada",3666082
+"643","CO.30","Vaupés","Vaupes",3666254
+"644","CO.29","Valle del Cauca","Valle del Cauca",3666313
+"645","CO.28","Tolima","Tolima",3666951
+"646","CO.27","Sucre","Sucre",3667725
+"647","CO.26","Santander","Santander",3668578
+"648","CO.25","San Andres y Providencia","San Andres y Providencia",3670205
+"649","CO.24","Risaralda","Risaralda",3670698
+"650","CO.23","Quindío","Quindio",3671087
+"651","CO.22","Putumayo","Putumayo",3671178
+"652","CO.21","Norte de Santander","Norte de Santander",3673798
+"653","CO.20","Nariño","Narino",3674021
+"654","CO.19","Meta","Meta",3674810
+"655","CO.38","Magdalena","Magdalena",3675686
+"656","CO.17","La Guajira","La Guajira",3678847
+"657","CO.16","Huila","Huila",3680692
+"658","CO.14","Guaviare","Guaviare",3681344
+"659","CO.15","Guainía","Guainia",3681652
+"660","CO.33","Cundinamarca","Cundinamarca",3685413
+"661","CO.12","Córdoba","Cordoba",3685889
+"662","CO.11","Chocó","Choco",3686431
+"663","CO.10","Cesar","Cesar",3686880
+"664","CO.09","Cauca","Cauca",3687029
+"665","CO.32","Casanare","Casanare",3687173
+"666","CO.08","Caquetá","Caqueta",3687479
+"667","CO.37","Caldas","Caldas",3687951
+"668","CO.36","Boyacá","Boyaca",3688536
+"669","CO.35","Bolívar","Bolivar",3688650
+"670","CO.34","Bogota D.C.","Bogota D.C.",3688685
+"671","CO.04","Atlántico","Atlantico",3689436
+"672","CO.03","Arauca","Arauca",3689717
+"673","CO.02","Antioquia","Antioquia",3689815
+"674","CO.01","Amazonas","Amazonas",3689982
+"675","CR.08","San José","San Jose",3621837
+"676","CR.07","Puntarenas","Puntarenas",3622226
+"677","CR.06","Limón","Limon",3623064
+"678","CR.04","Heredia","Heredia",3623484
+"679","CR.03","Guanacaste","Guanacaste",3623582
+"680","CR.02","Cartago","Cartago",3624368
+"681","CR.01","Alajuela","Alajuela",3624953
+"682","CU.16","Villa Clara","Villa Clara",3534168
+"683","CU.15","Santiago de Cuba","Santiago de Cuba",3536725
+"684","CU.14","Sancti Spíritus","Sancti Spiritus",3540665
+"685","CU.01","Pinar del Río","Pinar del Rio",3544088
+"686","CU.03","Matanzas","Matanzas",3547394
+"687","CU.13","Las Tunas","Las Tunas",3550595
+"688","CU.04","Isla de la Juventud","Isla de la Juventud",3556608
+"689","CU.12","Holguín","Holguin",3556965
+"690","CU.10","Guantánamo","Guantanamo",3557685
+"691","CU.09","Granma","Granma",3558052
+"692","CU.02","Havana","Havana",3564073
+"693","CU.08","Cienfuegos","Cienfuegos",3564120
+"694","CU.07","Ciego de Ávila","Ciego de Avila",3564175
+"695","CU.05","Camagüey","Camaguey",3566062
+"696","CU.AR","Artemisa","Artemisa",7668824
+"697","CU.MA","Mayabeque","Mayabeque",7668827
+"698","CV.20","Tarrafal","Tarrafal",3374161
+"699","CV.11","São Vicente","Sao Vicente",3374198
+"700","CV.15","Santa Catarina","Santa Catarina",3374226
+"701","CV.08","Sal","Sal",3374249
+"702","CV.07","Ribeira Grande","Ribeira Grande",3374274
+"703","CV.14","Praia","Praia",3374332
+"704","CV.05","Paul","Paul",3374391
+"705","CV.04","Maio","Maio",3374487
+"706","CV.02","Brava","Brava",3374832
+"707","CV.01","Boa Vista","Boa Vista",3374855
+"708","CV.13","Mosteiros","Mosteiros",3411924
+"709","CV.16","Santa Cruz","Santa Cruz",3411925
+"710","CV.17","São Domingos","Sao Domingos",3411926
+"711","CV.18","São Filipe","Sao Filipe",3411927
+"712","CV.19","São Miguel","Sao Miguel",3411928
+"713","CV.21","Porto Novo","Porto Novo",7602868
+"714","CV.22","Ribeira Brava","Ribeira Brava",7602869
+"715","CV.24","Santa Catarina do Fogo","Santa Catarina do Fogo",7602870
+"716","CV.26","São Salvador do Mundo","Sao Salvador do Mundo",7602871
+"717","CV.27","Tarrafal de São Nicolau","Tarrafal de Sao Nicolau",7602872
+"718","CV.25","São Lourenço dos Órgãos","Sao Lourenco dos Orgaos",7602873
+"719","CV.23","Ribeira Grande de Santiago","Ribeira Grande de Santiago",7603281
+"720","CY.06","Pafos","Pafos",146213
+"721","CY.04","Nicosia","Nicosia",146267
+"722","CY.05","Limassol","Limassol",146383
+"723","CY.03","Larnaka","Larnaka",146398
+"724","CY.02","Keryneia","Keryneia",146411
+"725","CY.01","Ammochostos","Ammochostos",146615
+"726","CZ.52","Hlavní mesto Praha","Hlavni mesto Praha",3067695
+"727","CZ.78","South Moravian","South Moravian",3339536
+"728","CZ.79","Jihoceský kraj","Jihocesky kraj",3339537
+"729","CZ.80","Vysocina","Vysocina",3339538
+"730","CZ.81","Karlovarský kraj","Karlovarsky kraj",3339539
+"731","CZ.82","Královéhradecký kraj","Kralovehradecky kraj",3339540
+"732","CZ.83","Liberecký kraj","Liberecky kraj",3339541
+"733","CZ.84","Olomoucký","Olomoucky",3339542
+"734","CZ.85","Moravskoslezský","Moravskoslezsky",3339573
+"735","CZ.86","Pardubický","Pardubicky",3339574
+"736","CZ.87","Plzenský kraj","Plzensky kraj",3339575
+"737","CZ.88","Central Bohemia","Central Bohemia",3339576
+"738","CZ.89","Ústecký kraj","Ustecky kraj",3339577
+"739","CZ.90","Zlín","Zlin",3339578
+"740","DE.15","Thuringia","Thuringia",2822542
+"741","DE.10","Schleswig-Holstein","Schleswig-Holstein",2838632
+"742","DE.14","Saxony-Anhalt","Saxony-Anhalt",2842565
+"743","DE.13","Saxony","Saxony",2842566
+"744","DE.09","Saarland","Saarland",2842635
+"745","DE.08","Rheinland-Pfalz","Rheinland-Pfalz",2847618
+"746","DE.07","North Rhine-Westphalia","North Rhine-Westphalia",2861876
+"747","DE.06","Lower Saxony","Lower Saxony",2862926
+"748","DE.12","Mecklenburg-Vorpommern","Mecklenburg-Vorpommern",2872567
+"749","DE.05","Hesse","Hesse",2905330
+"750","DE.04","Hamburg","Hamburg",2911297
+"751","DE.03","Bremen","Bremen",2944387
+"752","DE.11","Brandenburg","Brandenburg",2945356
+"753","DE.16","Berlin","Berlin",2950157
+"754","DE.02","Bavaria","Bavaria",2951839
+"755","DE.01","Baden-Württemberg","Baden-Wuerttemberg",2953481
+"756","DJ.05","Tadjourah","Tadjourah",220781
+"757","DJ.04","Obock","Obock",221525
+"758","DJ.07","Djibouti","Djibouti",223818
+"759","DJ.06","Dikhil","Dikhil",223889
+"760","DJ.01","Ali Sabieh","Ali Sabieh",225282
+"761","DJ.08","Arta","Arta",449265
+"762","DK.17","Capital Region","Capital Region",6418538
+"763","DK.18","Central Jutland","Central Jutland",6418539
+"764","DK.19","North Denmark","North Denmark",6418540
+"765","DK.20","Zealand","Zealand",6418541
+"766","DK.21","South Denmark","South Denmark",6418542
+"767","DM.11","Saint Peter","Saint Peter",3575618
+"768","DM.10","Saint Paul","Saint Paul",3575619
+"769","DM.09","Saint Patrick","Saint Patrick",3575620
+"770","DM.08","Saint Mark","Saint Mark",3575621
+"771","DM.07","Saint Luke","Saint Luke",3575622
+"772","DM.06","Saint Joseph","Saint Joseph",3575625
+"773","DM.05","Saint John","Saint John",3575626
+"774","DM.04","Saint George","Saint George",3575628
+"775","DM.03","Saint David","Saint David",3575630
+"776","DM.02","Saint Andrew","Saint Andrew",3575632
+"777","DO.27","Valverde","Valverde",3492112
+"778","DO.26","Santiago Rodríguez","Santiago Rodriguez",3492912
+"779","DO.25","Santiago","Santiago",3492918
+"780","DO.24","San Pedro de Macorís","San Pedro de Macoris",3493031
+"781","DO.23","San Juan","San Juan",3493091
+"782","DO.33","San Cristóbal","San Cristobal",3493186
+"783","DO.21","Sánchez Ramírez","Sanchez Ramirez",3493192
+"784","DO.20","Samaná","Samana",3493232
+"785","DO.19","Hermanas Mirabal","Hermanas Mirabal",3493282
+"786","DO.18","Puerto Plata","Puerto Plata",3494267
+"787","DO.35","Peravia","Peravia",3495015
+"788","DO.16","Pedernales","Pedernales",3495136
+"789","DO.34","Nacional","Nacional",3496024
+"790","DO.32","Monte Plata","Monte Plata",3496132
+"791","DO.15","Monte Cristi","Monte Cristi",3496200
+"792","DO.31","Monseñor Nouel","Monsenor Nouel",3496274
+"793","DO.14","María Trinidad Sánchez","Maria Trinidad Sanchez",3496772
+"794","DO.30","La Vega","La Vega",3499977
+"795","DO.12","La Romana","La Romana",3500955
+"796","DO.10","La Altagracia","La Altagracia",3503706
+"797","DO.09","Independencia","Independencia",3504326
+"798","DO.29","Hato Mayor","Hato Mayor",3504766
+"799","DO.08","Espaillat","Espaillat",3505867
+"800","DO.28","El Seíbo","El Seibo",3506189
+"801","DO.11","Elías Piña","Elias Pina",3507269
+"802","DO.06","Duarte","Duarte",3508718
+"803","DO.04","Dajabón","Dajabon",3508951
+"804","DO.03","Barahona","Barahona",3512042
+"805","DO.02","Baoruco","Baoruco",3512050
+"806","DO.01","Azua","Azua",3512209
+"807","DO.36","San José de Ocoa","San Jose de Ocoa",6201372
+"808","DO.37","Santo Domingo","Santo Domingo",6201373
+"809","DZ.15","Tlemcen","Tlemcen",2475683
+"810","DZ.14","Tizi Ouzou","Tizi Ouzou",2475741
+"811","DZ.56","Tissemsilt","Tissemsilt",2475858
+"812","DZ.55","Tipaza","Tipaza",2476027
+"813","DZ.54","Tindouf","Tindouf",2476302
+"814","DZ.13","Tiaret","Tiaret",2476893
+"815","DZ.33","Tébessa","Tebessa",2477457
+"816","DZ.53","Tamanrasset","Tamanrasset",2478217
+"817","DZ.52","Souk Ahras","Souk Ahras",2479213
+"818","DZ.31","Skikda","Skikda",2479532
+"819","DZ.30","Sidi Bel Abbès","Sidi Bel Abbes",2481001
+"820","DZ.12","Sétif","Setif",2481696
+"821","DZ.10","Saida","Saida",2482557
+"822","DZ.51","Relizane","Relizane",2483666
+"823","DZ.29","Oum el Bouaghi","Oum el Bouaghi",2484618
+"824","DZ.50","Ouargla","Ouargla",2485794
+"825","DZ.09","Oran","Oran",2485920
+"826","DZ.49","Naama","Naama",2486512
+"827","DZ.27","M'Sila","M'Sila",2486682
+"828","DZ.07","Mostaganem","Mostaganem",2487130
+"829","DZ.48","Mila","Mila",2487449
+"830","DZ.06","Medea","Medea",2488831
+"831","DZ.26","Mascara","Mascara",2490095
+"832","DZ.25","Laghouat","Laghouat",2491188
+"833","DZ.47","Khenchela","Khenchela",2491887
+"834","DZ.24","Jijel","Jijel",2492910
+"835","DZ.46","Illizi","Illizi",2493455
+"836","DZ.23","Guelma","Guelma",2495659
+"837","DZ.45","Ghardaia","Ghardaia",2496045
+"838","DZ.44","El Tarf","El Tarf",2497322
+"839","DZ.43","El Oued","El Oued",2497406
+"840","DZ.42","El Bayadh","El Bayadh",2498541
+"841","DZ.22","Djelfa","Djelfa",2500013
+"842","DZ.04","Constantine","Constantine",2501147
+"843","DZ.41","Chlef","Chlef",2501296
+"844","DZ.40","Boumerdes","Boumerdes",2502638
+"845","DZ.21","Bouira","Bouira",2502951
+"846","DZ.39","Bordj Bou Arréridj","Bordj Bou Arreridj",2503699
+"847","DZ.20","Blida","Blida",2503765
+"848","DZ.19","Biskra","Biskra",2503822
+"849","DZ.18","Béjaïa","Bejaia",2505325
+"850","DZ.38","Béchar","Bechar",2505525
+"851","DZ.03","Batna","Batna",2505569
+"852","DZ.37","Annaba","Annaba",2506994
+"853","DZ.01","Algiers","Algiers",2507475
+"854","DZ.36","Aïn Témouchent","Ain Temouchent",2507899
+"855","DZ.35","Aïn Defla","Ain Defla",2508226
+"856","DZ.34","Adrar","Adrar",2508807
+"857","EC.20","Zamora-Chinchipe","Zamora-Chinchipe",3649953
+"858","EC.19","Tungurahua","Tungurahua",3650445
+"859","EC.18","Pichincha","Pichincha",3653224
+"860","EC.17","Pastaza","Pastaza",3653392
+"861","EC.23","Napo","Napo",3653890
+"862","EC.15","Morona-Santiago","Morona-Santiago",3654005
+"863","EC.14","Manabí","Manabi",3654451
+"864","EC.13","Los Ríos","Los Rios",3654592
+"865","EC.12","Loja","Loja",3654665
+"866","EC.11","Imbabura","Imbabura",3655635
+"867","EC.10","Guayas","Guayas",3657505
+"868","EC.01","Galápagos","Galapagos",3657879
+"869","EC.09","Esmeraldas","Esmeraldas",3657986
+"870","EC.08","El Oro","El Oro",3658195
+"871","EC.07","Cotopaxi","Cotopaxi",3658766
+"872","EC.06","Chimborazo","Chimborazo",3659237
+"873","EC.05","Carchi","Carchi",3659718
+"874","EC.04","Cañar","Canar",3659849
+"875","EC.03","Bolívar","Bolivar",3660130
+"876","EC.02","Azuay","Azuay",3660431
+"877","EC.22","Sucumbios","Sucumbios",3830305
+"878","EC.24","Orellana","Orellana",3830306
+"879","EC.26","Santo Domingo de los Tsáchilas","Santo Domingo de los Tsachilas",7062136
+"880","EC.25","Santa Elena","Santa Elena",7062138
+"881","EE.21","Võrumaa","Vorumaa",587448
+"882","EE.20","Viljandimaa","Viljandimaa",587590
+"883","EE.19","Valgamaa","Valgamaa",587875
+"884","EE.18","Tartu","Tartu",588334
+"885","EE.14","Saare","Saare",588879
+"886","EE.13","Raplamaa","Raplamaa",589115
+"887","EE.12","Põlvamaa","Polvamaa",589373
+"888","EE.11","Pärnumaa","Paernumaa",589576
+"889","EE.08","Lääne-Virumaa","Laeaene-Virumaa",590854
+"890","EE.07","Lääne","Laeaene",590856
+"891","EE.05","Jõgevamaa","Jogevamaa",591901
+"892","EE.04","Järvamaa","Jaervamaa",591961
+"893","EE.03","Ida-Virumaa","Ida-Virumaa",592075
+"894","EE.02","Hiiumaa","Hiiumaa",592133
+"895","EE.01","Harjumaa","Harjumaa",592170
+"896","EG.24","Sohag","Sohag",347794
+"897","EG.27","North Sinai","North Sinai",349401
+"898","EG.23","Qena","Qena",350546
+"899","EG.22","Matruh","Matruh",352603
+"900","EG.21","Kafr el-Sheikh","Kafr el-Sheikh",354500
+"901","EG.26","South Sinai","South Sinai",355182
+"902","EG.20","Damietta","Damietta",358044
+"903","EG.19","Port Said","Port Said",358617
+"904","EG.18","Beni Suweif","Beni Suweif",359171
+"905","EG.17","Asyut","Asyut",359781
+"906","EG.16","Aswan","Aswan",359787
+"907","EG.15","Suez","Suez",359797
+"908","EG.14","Sharqia","Sharqia",360016
+"909","EG.13","New Valley","New Valley",360483
+"910","EG.12","Qalyubia","Qalyubia",360621
+"911","EG.11","Cairo","Cairo",360631
+"912","EG.10","Minya","Minya",360688
+"913","EG.09","Monufia","Monufia",360689
+"914","EG.08","Giza","Giza",360997
+"915","EG.07","Ismailia","Ismailia",361056
+"916","EG.06","Alexandria","Alexandria",361059
+"917","EG.05","Gharbia","Gharbia",361294
+"918","EG.04","Faiyum","Faiyum",361323
+"919","EG.03","Beheira","Beheira",361370
+"920","EG.02","Red Sea","Red Sea",361468
+"921","EG.01","Dakahlia","Dakahlia",361849
+"922","EG.28","Luxor","Luxor",7603259
+"923","ER.01","Anseba","Anseba",448497
+"924","ER.02","Debub","Debub",448498
+"925","ER.03","Southern Red Sea","Southern Red Sea",448499
+"926","ER.04","Gash-Barka","Gash-Barka",448500
+"927","ER.05","Maekel","Maekel",448501
+"928","ER.06","Northern Red Sea","Northern Red Sea",448502
+"929","ES.31","Murcia","Murcia",2513413
+"930","ES.CE","Ceuta","Ceuta",2519582
+"931","ES.07","Balearic Islands","Balearic Islands",2521383
+"932","ES.51","Andalusia","Andalusia",2593109
+"933","ES.53","Canary Islands","Canary Islands",2593110
+"934","ES.54","Castille-La Mancha","Castille-La Mancha",2593111
+"935","ES.57","Extremadura","Extremadura",2593112
+"936","ES.60","Valencia","Valencia",2593113
+"937","ES.34","Asturias","Asturias",3114710
+"938","ES.32","Navarre","Navarre",3115609
+"939","ES.29","Madrid","Madrid",3117732
+"940","ES.27","La Rioja","La Rioja",3336897
+"941","ES.39","Cantabria","Cantabria",3336898
+"942","ES.52","Aragon","Aragon",3336899
+"943","ES.55","Castille and León","Castille and Leon",3336900
+"944","ES.56","Catalonia","Catalonia",3336901
+"945","ES.58","Galicia","Galicia",3336902
+"946","ES.59","Basque Country","Basque Country",3336903
+"947","ES.ML","Melilla","Melilla",6362988
+"948","ET.44","Addis Ababa","Addis Ababa",444178
+"949","ET.45","Afar","Afar",444179
+"950","ET.46","Amhara","Amhara",444180
+"951","ET.47","Binshangul Gumuz","Binshangul Gumuz",444181
+"952","ET.48","Dire Dawa","Dire Dawa",444182
+"953","ET.49","Gambela","Gambela",444183
+"954","ET.50","Harari","Harari",444184
+"955","ET.51","Oromiya","Oromiya",444185
+"956","ET.52","Somali","Somali",444186
+"957","ET.53","Tigray","Tigray",444187
+"958","ET.54","SNNPR","SNNPR",444188
+"959","FI.19","Lapland","Lapland",830603
+"960","FI.18","Kainuu","Kainuu",830664
+"961","FI.17","Northern Ostrobothnia","Northern Ostrobothnia",830667
+"962","FI.16","Central Ostrobothnia","Central Ostrobothnia",830675
+"963","FI.15","Ostrobothnia","Ostrobothnia",830676
+"964","FI.14","Southern Ostrobothnia","Southern Ostrobothnia",830682
+"965","FI.13","Central Finland","Central Finland",830685
+"966","FI.12","North Karelia","North Karelia",830686
+"967","FI.11","Northern Savonia","Northern Savonia",830690
+"968","FI.10","South Savo","South Savo",830695
+"969","FI.09","South Karelia","South Karelia",830699
+"970","FI.08","Kymenlaakso","Kymenlaakso",830703
+"971","FI.06","Pirkanmaa","Pirkanmaa",830704
+"972","FI.05","Kanta-Hame","Kanta-Hame",830705
+"973","FI.02","Southwest Finland","Southwest Finland",830708
+"974","FI.01","Uusimaa","Uusimaa",830709
+"975","FI.07","Paijat-Hame","Paijat-Hame",831040
+"976","FI.04","Satakunta","Satakunta",831041
+"977","FJ.05","Western","Western",2194371
+"978","FJ.03","Northern","Northern",2199295
+"979","FJ.01","Central","Central",2205272
+"980","FJ.02","Eastern","Eastern",4036647
+"981","FJ.04","Rotuma","Rotuma",6324593
+"982","FM.04","Yap","Yap",2081175
+"983","FM.02","Pohnpei","Pohnpei",2081550
+"984","FM.01","Kosrae","Kosrae",2082036
+"985","FM.03","Chuuk","Chuuk",2082282
+"986","FO.VG","Vágar","Vagar",2610816
+"987","FO.SU","Suðuroy","Suduroy",2612137
+"988","FO.ST","Streymoy","Streymoy",2612225
+"989","FO.SA","Sandoy","Sandoy",2614219
+"990","FO.NO","Norðoyar","Nordoyar",2616145
+"991","FO.OS","Eysturoy","Eysturoy",2622387
+"992","FR.93","Provence-Alpes-Côte d'Azur","Provence-Alpes-Cote d'Azur",2985244
+"993","FR.52","Pays de la Loire","Pays de la Loire",2988289
+"994","FR.11","Île-de-France","Ile-de-France",3012874
+"995","FR.94","Corsica","Corsica",3023519
+"996","FR.24","Centre","Centre",3027939
+"997","FR.53","Brittany","Brittany",3030293
+"998","FR.27","Bourgogne-Franche-Comté","Bourgogne-Franche-Comte",11071619
+"999","FR.75","Nouvelle-Aquitaine","Nouvelle-Aquitaine",11071620
+"1000","FR.28","Normandy","Normandy",11071621
+"1001","FR.44","Grand Est","Grand Est",11071622
+"1002","FR.76","Occitanie","Occitanie",11071623
+"1003","FR.32","Hauts-de-France","Hauts-de-France",11071624
+"1004","FR.84","Auvergne-Rhône-Alpes","Auvergne-Rhone-Alpes",11071625
+"1005","GA.09","Woleu-Ntem","Woleu-Ntem",2396076
+"1006","GA.08","Ogooué-Maritime","Ogooue-Maritime",2396924
+"1007","GA.07","Ogooué-Lolo","Ogooue-Lolo",2396925
+"1008","GA.06","Ogooué-Ivindo","Ogooue-Ivindo",2396926
+"1009","GA.05","Nyanga","Nyanga",2397141
+"1010","GA.04","Ngouni","Ngouni",2397466
+"1011","GA.03","Moyen-Ogooué","Moyen-Ogooue",2397842
+"1012","GA.02","Haut-Ogooué","Haut-Ogooue",2400454
+"1013","GA.01","Estuaire","Estuaire",2400682
+"1014","GB.WLS","Wales","Wales",2634895
+"1015","GB.SCT","Scotland","Scotland",2638360
+"1016","GB.NIR","Northern Ireland","Northern Ireland",2641364
+"1017","GB.ENG","England","England",6269131
+"1018","GD.06","Saint Patrick","Saint Patrick",3579907
+"1019","GD.05","Saint Mark","Saint Mark",3579913
+"1020","GD.04","Saint John","Saint John",3579919
+"1021","GD.03","Saint George","Saint George",3579926
+"1022","GD.02","Saint David","Saint David",3579932
+"1023","GD.01","Saint Andrew","Saint Andrew",3579938
+"1024","GD.10","Carriacou and Petite Martinique","Carriacou and Petite Martinique",7303836
+"1025","GE.51","T'bilisi","T'bilisi",611716
+"1026","GE.04","Ajaria","Ajaria",615929
+"1027","GE.68","Kvemo Kartli","Kvemo Kartli",865536
+"1028","GE.67","Kakheti","Kakheti",865537
+"1029","GE.65","Guria","Guria",865538
+"1030","GE.66","Imereti","Imereti",865539
+"1031","GE.73","Shida Kartli","Shida Kartli",865540
+"1032","GE.69","Mtskheta-Mtianeti","Mtskheta-Mtianeti",865541
+"1033","GE.70","Racha-Lechkhumi and Kvemo Svaneti","Racha-Lechkhumi and Kvemo Svaneti",865542
+"1034","GE.71","Samegrelo and Zemo Svaneti","Samegrelo and Zemo Svaneti",865543
+"1035","GE.72","Samtskhe-Javakheti","Samtskhe-Javakheti",865544
+"1036","GE.02","Abkhazia","Abkhazia",6643410
+"1037","GF.GF","Guyane","Guyane",6690605
+"1038","GG.6417213","St Pierre du Bois","St Pierre du Bois",6417213
+"1039","GG.6417214","Torteval","Torteval",6417214
+"1040","GG.6417215","Saint Saviour","Saint Saviour",6417215
+"1041","GG.6417223","Forest","Forest",6417223
+"1042","GG.6417224","St Martin","St Martin",6417224
+"1043","GG.6417226","Saint Andrew","Saint Andrew",6417226
+"1044","GG.6417228","St Peter Port","St Peter Port",6417228
+"1045","GG.6417229","Castel","Castel",6417229
+"1046","GG.6417230","Vale","Vale",6417230
+"1047","GG.6417233","St Sampson","St Sampson",6417233
+"1048","GG.8989934","Alderney","Alderney",8989934
+"1049","GH.09","Western","Western",2294076
+"1050","GH.08","Volta","Volta",2294234
+"1051","GH.11","Upper West","Upper West",2294286
+"1052","GH.10","Upper East","Upper East",2294291
+"1053","GH.06","Northern","Northern",2297169
+"1054","GH.01","Greater Accra","Greater Accra",2300569
+"1055","GH.05","Eastern","Eastern",2301360
+"1056","GH.04","Central","Central",2302353
+"1057","GH.02","Ashanti","Ashanti",2304116
+"1058","GH.13","Bono","Bono",12105069
+"1059","GH.16","Oti","Oti",12105070
+"1060","GH.15","North East","North East",12105071
+"1061","GH.12","Ahafo","Ahafo",12105072
+"1062","GH.14","Bono East","Bono East",12105073
+"1063","GH.17","Savannah","Savannah",12105074
+"1064","GH.18","Western North","Western North",12105075
+"1065","GL.04","Kujalleq","Kujalleq",7602005
+"1066","GL.06","Qeqqata","Qeqqata",7602006
+"1067","GL.07","Sermersooq","Sermersooq",7602007
+"1068","GL.11839534","Qeqertalik","Qeqertalik",11839534
+"1069","GL.11839537","Avannaata","Avannaata",11839537
+"1070","GM.05","Western","Western",2411683
+"1071","GM.04","Upper River","Upper River",2411711
+"1072","GM.07","North Bank","North Bank",2412353
+"1073","GM.03","Central River","Central River",2412707
+"1074","GM.02","Lower River","Lower River",2412716
+"1075","GM.01","Banjul","Banjul",2413875
+"1076","GN.04","Conakry","Conakry",2422464
+"1077","GN.B","Boke","Boke",8335085
+"1078","GN.F","Faranah","Faranah",8335086
+"1079","GN.K","Kankan","Kankan",8335087
+"1080","GN.D","Kindia","Kindia",8335088
+"1081","GN.L","Labe","Labe",8335089
+"1082","GN.M","Mamou","Mamou",8335090
+"1083","GN.N","Nzerekore","Nzerekore",8335091
+"1084","GP.GP","Guadeloupe","Guadeloupe",6690363
+"1085","GQ.03","Annobon","Annobon",2310307
+"1086","GQ.04","Bioko Norte","Bioko Norte",2566978
+"1087","GQ.05","Bioko Sur","Bioko Sur",2566979
+"1088","GQ.06","Centro Sur","Centro Sur",2566980
+"1089","GQ.07","Kié-Ntem","Kie-Ntem",2566981
+"1090","GQ.08","Litoral","Litoral",2566982
+"1091","GQ.09","Wele-Nzas","Wele-Nzas",2566983
+"1092","GR.736572","Mount Athos","Mount Athos",736572
+"1093","GR.ESYE31","Attica","Attica",6692632
+"1094","GR.ESYE24","Central Greece","Central Greece",6697800
+"1095","GR.ESYE12","Central Macedonia","Central Macedonia",6697801
+"1096","GR.ESYE43","Crete","Crete",6697802
+"1097","GR.ESYE11","East Macedonia and Thrace","East Macedonia and Thrace",6697803
+"1098","GR.ESYE21","Epirus","Epirus",6697804
+"1099","GR.ESYE22","Ionian Islands","Ionian Islands",6697805
+"1100","GR.ESYE41","North Aegean","North Aegean",6697806
+"1101","GR.ESYE25","Peloponnese","Peloponnese",6697807
+"1102","GR.ESYE42","South Aegean","South Aegean",6697808
+"1103","GR.ESYE14","Thessaly","Thessaly",6697809
+"1104","GR.ESYE23","West Greece","West Greece",6697810
+"1105","GR.ESYE13","West Macedonia","West Macedonia",6697811
+"1106","GT.22","Zacapa","Zacapa",3587586
+"1107","GT.21","Totonicapán","Totonicapan",3588257
+"1108","GT.20","Suchitepeque","Suchitepeque",3588668
+"1109","GT.19","Sololá","Solola",3588697
+"1110","GT.18","Santa Rosa","Santa Rosa",3589172
+"1111","GT.17","San Marcos","San Marcos",3589801
+"1112","GT.16","Sacatepéquez","Sacatepequez",3590686
+"1113","GT.15","Retalhuleu","Retalhuleu",3590857
+"1114","GT.14","Quiché","Quiche",3590964
+"1115","GT.13","Quetzaltenango","Quetzaltenango",3590978
+"1116","GT.12","Petén","Peten",3591410
+"1117","GT.11","Jutiapa","Jutiapa",3595067
+"1118","GT.10","Jalapa","Jalapa",3595236
+"1119","GT.09","Izabal","Izabal",3595259
+"1120","GT.08","Huehuetenango","Huehuetenango",3595415
+"1121","GT.07","Guatemala","Guatemala",3595530
+"1122","GT.06","Escuintla","Escuintla",3595802
+"1123","GT.05","El Progreso","El Progreso",3596416
+"1124","GT.04","Chiquimula","Chiquimula",3598464
+"1125","GT.03","Chimaltenango","Chimaltenango",3598571
+"1126","GT.02","Baja Verapaz","Baja Verapaz",3599602
+"1127","GT.01","Alta Verapaz","Alta Verapaz",3599773
+"1128","GU.PI","Piti","Piti",4038478
+"1129","GU.SR","Santa Rita","Santa Rita",4038555
+"1130","GU.SJ","Sinajana","Sinajana",4038590
+"1131","GU.TF","Talofofo","Talofofo",4038652
+"1132","GU.TM","Tamuning","Tamuning",4038661
+"1133","GU.UM","Umatac","Umatac",4038739
+"1134","GU.YG","Yigo","Yigo",4038796
+"1135","GU.YN","Yona","Yona",4038811
+"1136","GU.ME","Merizo","Merizo",4043396
+"1137","GU.MA","Mangilao","Mangilao",4043416
+"1138","GU.AH","Agana Heights","Agana Heights",4043524
+"1139","GU.CP","Chalan Pago-Ordot","Chalan Pago-Ordot",4043614
+"1140","GU.AS","Asan","Asan",4043691
+"1141","GU.AT","Agat","Agat",4043725
+"1142","GU.DD","Dededo","Dededo",4043877
+"1143","GU.BA","Barrigada","Barrigada",4043885
+"1144","GU.AN","Hagatna","Hagatna",4044019
+"1145","GU.IN","Inarajan","Inarajan",4044041
+"1146","GU.MT","Mongmong-Toto-Maite","Mongmong-Toto-Maite",4044148
+"1147","GW.07","Tombali","Tombali",2368955
+"1148","GW.02","Quinara","Quinara",2370360
+"1149","GW.04","Oio","Oio",2371071
+"1150","GW.10","Gabú","Gabu",2372533
+"1151","GW.06","Cacheu","Cacheu",2374312
+"1152","GW.05","Bolama","Bolama",2374689
+"1153","GW.11","Bissau","Bissau",2374776
+"1154","GW.12","Biombo","Biombo",2374820
+"1155","GW.01","Bafatá","Bafata",2375255
+"1156","GY.19","Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",3375463
+"1157","GY.18","Upper Demerara-Berbice","Upper Demerara-Berbice",3375469
+"1158","GY.17","Potaro-Siparuni","Potaro-Siparuni",3376386
+"1159","GY.16","Pomeroon-Supenaam","Pomeroon-Supenaam",3376407
+"1160","GY.15","Mahaica-Berbice","Mahaica-Berbice",3377274
+"1161","GY.14","Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",3378741
+"1162","GY.13","East Berbice-Corentyne","East Berbice-Corentyne",3378840
+"1163","GY.12","Demerara-Mahaica","Demerara-Mahaica",3378950
+"1164","GY.11","Cuyuni-Mazaruni","Cuyuni-Mazaruni",3379023
+"1165","GY.10","Barima-Waini","Barima-Waini",3379515
+"1166","HK.NYL","Yuen Long","Yuen Long",1818224
+"1167","HK.NTW","Tsuen Wan","Tsuen Wan",1818458
+"1168","HK.NTP","Tai Po","Tai Po",1818672
+"1169","HK.NSK","Sai Kung","Sai Kung",1819049
+"1170","HK.NIS","Islands","Islands",1819708
+"1171","HK.HCW","Central and Western","Central and Western",7533598
+"1172","HK.HWC","Wan Chai","Wan Chai",7533607
+"1173","HK.HEA","Eastern","Eastern",7533608
+"1174","HK.HSO","Southern","Southern",7533609
+"1175","HK.KYT","Yau Tsim Mong","Yau Tsim Mong",7533610
+"1176","HK.KSS","Sham Shui Po","Sham Shui Po",7533611
+"1177","HK.KKC","Kowloon City","Kowloon City",7533612
+"1178","HK.KWT","Wong Tai Sin","Wong Tai Sin",7533613
+"1179","HK.KKT","Kwun Tong","Kwun Tong",7533614
+"1180","HK.NKT","Kwai Tsing","Kwai Tsing",7533615
+"1181","HK.NTM","Tuen Mun","Tuen Mun",7533616
+"1182","HK.NNO","North","North",7533617
+"1183","HK.NST","Sha Tin","Sha Tin",7533618
+"1184","HN.18","Yoro","Yoro",3600193
+"1185","HN.17","Valle","Valle",3600456
+"1186","HN.16","Santa Bárbara","Santa Barbara",3601689
+"1187","HN.15","Olancho","Olancho",3604249
+"1188","HN.14","Ocotepeque","Ocotepeque",3604318
+"1189","HN.13","Lempira","Lempira",3606066
+"1190","HN.12","La Paz","La Paz",3607251
+"1191","HN.11","Bay Islands","Bay Islands",3608814
+"1192","HN.10","Intibucá","Intibuca",3608833
+"1193","HN.09","Gracias a Dios","Gracias a Dios",3609583
+"1194","HN.08","Francisco Morazán","Francisco Morazan",3609672
+"1195","HN.07","El Paraíso","El Paraiso",3610942
+"1196","HN.06","Cortés","Cortes",3613140
+"1197","HN.05","Copán","Copan",3613229
+"1198","HN.04","Comayagua","Comayagua",3613319
+"1199","HN.03","Colón","Colon",3613358
+"1200","HN.02","Choluteca","Choluteca",3613527
+"1201","HN.01","Atlántida","Atlantida",3615027
+"1202","HR.01","Bjelovarsko-Bilogorska","Bjelovarsko-Bilogorska",3337511
+"1203","HR.02","Slavonski Brod-Posavina","Slavonski Brod-Posavina",3337512
+"1204","HR.03","Dubrovacko-Neretvanska","Dubrovacko-Neretvanska",3337513
+"1205","HR.04","Istria","Istria",3337514
+"1206","HR.05","Karlovacka","Karlovacka",3337515
+"1207","HR.06","Koprivnicko-Križevacka","Koprivnicko-Krizevacka",3337518
+"1208","HR.07","Krapinsko-Zagorska","Krapinsko-Zagorska",3337519
+"1209","HR.08","Licko-Senjska","Licko-Senjska",3337520
+"1210","HR.09","Medimurska","Medimurska",3337521
+"1211","HR.10","Osjecko-Baranjska","Osjecko-Baranjska",3337522
+"1212","HR.11","Požeško-Slavonska","Pozesko-Slavonska",3337523
+"1213","HR.12","Primorsko-Goranska","Primorsko-Goranska",3337524
+"1214","HR.13","Šibensko-Kniniska","Sibensko-Kniniska",3337525
+"1215","HR.14","Sisacko-Moslavacka","Sisacko-Moslavacka",3337526
+"1216","HR.15","Split-Dalmatia","Split-Dalmatia",3337527
+"1217","HR.16","Varaždinska","Varazdinska",3337528
+"1218","HR.18","Vukovar-Sirmium","Vukovar-Sirmium",3337529
+"1219","HR.19","Zadarska","Zadarska",3337530
+"1220","HR.20","Zagrebacka","Zagrebacka",3337531
+"1221","HR.21","City of Zagreb","City of Zagreb",3337532
+"1222","HR.17","Virovitick-Podravska","Virovitick-Podravska",3337533
+"1223","HT.13","Sud-Est","Sud-Est",3716950
+"1224","HT.12","Sud","Sud",3716952
+"1225","HT.11","Ouest","Ouest",3719432
+"1226","HT.03","Nord-Ouest","Nord-Ouest",3719536
+"1227","HT.10","Nord-Est","Nord-Est",3719540
+"1228","HT.09","Nord","Nord",3719543
+"1229","HT.14","Grand'Anse","Grandans",3724613
+"1230","HT.07","Centre","Centre",3728069
+"1231","HT.06","Artibonite","Artibonite",3731053
+"1232","HT.15","Nippes","Nippes",7115999
+"1233","HU.18","Szabolcs-Szatmár-Bereg","Szabolcs-Szatmar-Bereg",715593
+"1234","HU.20","Jász-Nagykun-Szolnok","Jasz-Nagykun-Szolnok",719637
+"1235","HU.11","Heves","Heves",720002
+"1236","HU.10","Hajdú-Bihar","Hajdu-Bihar",720293
+"1237","HU.06","Csongrád","Csongrad",721589
+"1238","HU.04","Borsod-Abaúj-Zemplén","Borsod-Abauj-Zemplen",722064
+"1239","HU.03","Bekes","Bekes",722433
+"1240","HU.24","Zala","Zala",3042613
+"1241","HU.23","Veszprém","Veszprem",3042925
+"1242","HU.22","Vas","Vas",3043047
+"1243","HU.21","Tolna","Tolna",3043845
+"1244","HU.17","Somogy","Somogy",3045226
+"1245","HU.16","Pest","Pest",3046431
+"1246","HU.14","Nógrád","Nograd",3047348
+"1247","HU.12","Komárom-Esztergom","Komarom-Esztergom",3049518
+"1248","HU.09","Gyor-Moson-Sopron","Gyor-Moson-Sopron",3051977
+"1249","HU.08","Fejér","Fejer",3053028
+"1250","HU.05","Budapest","Budapest",3054638
+"1251","HU.02","Baranya","Baranya",3055399
+"1252","HU.01","Bács-Kiskun","Bacs-Kiskun",3055744
+"1253","ID.26","North Sumatra","North Sumatra",1213642
+"1254","ID.01","Aceh","Aceh",1215638
+"1255","ID.10","Yogyakarta","Yogyakarta",1621176
+"1256","ID.32","South Sumatra","South Sumatra",1626196
+"1257","ID.24","West Sumatra","West Sumatra",1626197
+"1258","ID.31","North Sulawesi","North Sulawesi",1626229
+"1259","ID.22","Southeast Sulawesi","Southeast Sulawesi",1626230
+"1260","ID.21","Central Sulawesi","Central Sulawesi",1626231
+"1261","ID.38","South Sulawesi","South Sulawesi",1626232
+"1262","ID.37","Riau","Riau",1629652
+"1263","ID.18","East Nusa Tenggara","East Nusa Tenggara",1633791
+"1264","ID.17","West Nusa Tenggara","West Nusa Tenggara",1633792
+"1265","ID.28","Maluku","Maluku",1636627
+"1266","ID.15","Lampung","Lampung",1638535
+"1267","ID.14","East Kalimantan","East Kalimantan",1641897
+"1268","ID.13","Central Kalimantan","Central Kalimantan",1641898
+"1269","ID.12","South Kalimantan","South Kalimantan",1641899
+"1270","ID.11","West Kalimantan","West Kalimantan",1641900
+"1271","ID.08","East Java","East Java",1642668
+"1272","ID.07","Central Java","Central Java",1642669
+"1273","ID.30","West Java","West Java",1642672
+"1274","ID.05","Jambi","Jambi",1642856
+"1275","ID.04","Jakarta","Jakarta",1642907
+"1276","ID.36","Papua","Papua",1643012
+"1277","ID.03","Bengkulu","Bengkulu",1649147
+"1278","ID.02","Bali","Bali",1650535
+"1279","ID.33","Banten","Banten",1923045
+"1280","ID.34","Gorontalo","Gorontalo",1923046
+"1281","ID.35","Bangka–Belitung Islands","Bangka-Belitung Islands",1923047
+"1282","ID.29","North Maluku","North Maluku",1958070
+"1283","ID.39","West Papua","West Papua",1996549
+"1284","ID.41","West Sulawesi","West Sulawesi",1996550
+"1285","ID.40","Riau Islands","Riau Islands",1996551
+"1286","ID.42","North Kalimantan","North Kalimantan",8604684
+"1287","IE.C","Connaught","Connaught",7521313
+"1288","IE.L","Leinster","Leinster",7521314
+"1289","IE.M","Munster","Munster",7521315
+"1290","IE.U","Ulster","Ulster",7521316
+"1291","IL.06","Jerusalem","Jerusalem",293198
+"1292","IL.05","Tel Aviv","Tel Aviv",293396
+"1293","IL.04","Haifa","Haifa",294800
+"1294","IL.03","Northern District","Northern District",294824
+"1295","IL.02","Central District","Central District",294904
+"1296","IL.01","Southern District","Southern District",294952
+"1297","IL.WE","Judea and Samaria Area","Judea and Samaria Area",11821181
+"1298","IM.9782164","Andreas","Andreas",9782164
+"1299","IM.9782165","Arbory","Arbory",9782165
+"1300","IM.9782166","Ballaugh","Ballaugh",9782166
+"1301","IM.9782167","Braddan","Braddan",9782167
+"1302","IM.9782168","Bride","Bride",9782168
+"1303","IM.9782169","Castletown","Castletown",9782169
+"1304","IM.9782170","Douglas","Douglas",9782170
+"1305","IM.9782171","German","German",9782171
+"1306","IM.9782172","Jurby","Jurby",9782172
+"1307","IM.9782173","Laxey","Laxey",9782173
+"1308","IM.9782176","Lezayre","Lezayre",9782176
+"1309","IM.9782180","Lonan","Lonan",9782180
+"1310","IM.9782182","Malew","Malew",9782182
+"1311","IM.9782183","Marown","Marown",9782183
+"1312","IM.9782184","Maughold","Maughold",9782184
+"1313","IM.9782185","Michael","Michael",9782185
+"1314","IM.9782186","Onchan","Onchan",9782186
+"1315","IM.9782187","Patrick","Patrick",9782187
+"1316","IM.9782188","Peel","Peel",9782188
+"1317","IM.9782189","Port Erin","Port Erin",9782189
+"1318","IM.9782190","Port St Mary","Port St Mary",9782190
+"1319","IM.9782191","Ramsey","Ramsey",9782191
+"1320","IM.9782192","Rushen","Rushen",9782192
+"1321","IM.9782193","Santon","Santon",9782193
+"1322","IN.28","West Bengal","West Bengal",1252881
+"1323","IN.36","Uttar Pradesh","Uttar Pradesh",1253626
+"1324","IN.26","Tripura","Tripura",1254169
+"1325","IN.40","Telangana","Telangana",1254788
+"1326","IN.25","Tamil Nadu","Tamil Nadu",1255053
+"1327","IN.29","Sikkim","Sikkim",1256312
+"1328","IN.24","Rajasthan","Rajasthan",1258899
+"1329","IN.23","Punjab","Punjab",1259223
+"1330","IN.22","Puducherry","Puducherry",1259424
+"1331","IN.21","Odisha","Odisha",1261029
+"1332","IN.20","Nagaland","Nagaland",1262271
+"1333","IN.31","Mizoram","Mizoram",1262963
+"1334","IN.18","Meghalaya","Meghalaya",1263207
+"1335","IN.17","Manipur","Manipur",1263706
+"1336","IN.16","Maharashtra","Maharashtra",1264418
+"1337","IN.35","Madhya Pradesh","Madhya Pradesh",1264542
+"1338","IN.14","Laccadives","Laccadives",1265206
+"1339","IN.13","Kerala","Kerala",1267254
+"1340","IN.19","Karnataka","Karnataka",1267701
+"1341","IN.12","Jammu and Kashmir","Jammu and Kashmir",1269320
+"1342","IN.11","Himachal Pradesh","Himachal Pradesh",1270101
+"1343","IN.10","Haryana","Haryana",1270260
+"1344","IN.09","Gujarat","Gujarat",1270770
+"1345","IN.32","Daman and Diu","Daman and Diu",1271155
+"1346","IN.33","Goa","Goa",1271157
+"1347","IN.07","Delhi","Delhi",1273293
+"1348","IN.06","Dadra and Nagar Haveli","Dadra and Nagar Haveli",1273726
+"1349","IN.05","Chandigarh","Chandigarh",1274744
+"1350","IN.34","Bihar","Bihar",1275715
+"1351","IN.03","Assam","Assam",1278253
+"1352","IN.30","Arunachal Pradesh","Arunachal Pradesh",1278341
+"1353","IN.02","Andhra Pradesh","Andhra Pradesh",1278629
+"1354","IN.01","Andaman and Nicobar","Andaman and Nicobar",1278647
+"1355","IN.37","Chhattisgarh","Chhattisgarh",1444364
+"1356","IN.38","Jharkhand","Jharkhand",1444365
+"1357","IN.39","Uttarakhand","Uttarakhand",1444366
+"1358","IN.41","Ladakh","Ladakh",12096464
+"1359","IQ.02","Basra","Basra",89341
+"1360","IQ.16","Wasit","Wasit",89693
+"1361","IQ.18","Salah ad Din","Salah ad Din",91695
+"1362","IQ.15","Nineveh","Nineveh",92877
+"1363","IQ.14","Maysan","Maysan",93540
+"1364","IQ.12","Karbala'","Muhafazat Karbala'",94823
+"1365","IQ.11","Arbil","Arbil",95445
+"1366","IQ.10","Diyalá","Diyala",96965
+"1367","IQ.09","Dhi Qar","Dhi Qar",97019
+"1368","IQ.08","Dahuk","Dahuk",97270
+"1369","IQ.07","Baghdad","Baghdad",98180
+"1370","IQ.06","Babil","Babil",98227
+"1371","IQ.13","Kirkuk","Kirkuk",98410
+"1372","IQ.05","Sulaymaniyah","Sulaymaniyah",98465
+"1373","IQ.17","An Najaf","An Najaf",98862
+"1374","IQ.04","Al Qadisiyah","Al Qadisiyah",99022
+"1375","IQ.03","Al Muthanná","Al Muthanna",99032
+"1376","IQ.01","Al Anbar","Al Anbar",99592
+"1377","IR.26","Tehran","Tehran",110791
+"1378","IR.36","Zanjan","Zanjan",111452
+"1379","IR.40","Yazd","Yazd",111821
+"1380","IR.25","Semnan","Semnan",116401
+"1381","IR.35","Mazandaran","Mazandaran",124544
+"1382","IR.34","Markazi","Markazi",124763
+"1383","IR.23","Lorestan","Lorestan",125605
+"1384","IR.16","Kordestan","Kordestan",126584
+"1385","IR.05","Kohgiluyeh and Boyer-Ahmad","Kohgiluyeh and Boyer-Ahmad",126878
+"1386","IR.15","Khuzestan","Khuzestan",127082
+"1387","IR.13","Kermanshah","Kermanshah",128222
+"1388","IR.29","Kerman","Kerman",128231
+"1389","IR.10","Ilam Province","Ilam Province",130801
+"1390","IR.11","Hormozgan","Hormozgan",131222
+"1391","IR.09","Hamadan","Hamadan",132142
+"1392","IR.08","Gilan","Gilan",133349
+"1393","IR.07","Fars","Fars",134766
+"1394","IR.03","Chaharmahal and Bakhtiari","Chaharmahal and Bakhtiari",139677
+"1395","IR.22","Bushehr","Bushehr",139816
+"1396","IR.33","East Azerbaijan","East Azerbaijan",142549
+"1397","IR.01","West Azerbaijan","West Azerbaijan",142550
+"1398","IR.32","Ardabil","Ardabil",413931
+"1399","IR.28","Isfahan","Isfahan",418862
+"1400","IR.37","Golestan","Golestan",443792
+"1401","IR.38","Qazvin","Qazvin",443793
+"1402","IR.39","Qom","Qom",443794
+"1403","IR.04","Sistan and Baluchestan","Sistan and Baluchestan",1159456
+"1404","IR.41","Khorasan-e Jonubi","Khorasan-e Jonubi",6201374
+"1405","IR.42","Razavi Khorasan","Razavi Khorasan",6201375
+"1406","IR.43","North Khorasan","North Khorasan",6201376
+"1407","IR.44","Alborz","Alborz",7648907
+"1408","IS.41","Northwest","Northwest",3337403
+"1409","IS.40","Northeast","Northeast",3337404
+"1410","IS.38","East","East",3337405
+"1411","IS.42","South","South",3337406
+"1412","IS.39","Capital Region","Capital Region",3426182
+"1413","IS.43","Southern Peninsula","Southern Peninsula",3426183
+"1414","IS.45","West","West",3426184
+"1415","IS.44","Westfjords","Westfjords",3426185
+"1416","IT.15","Sicily","Sicily",2523119
+"1417","IT.14","Sardinia","Sardinia",2523228
+"1418","IT.03","Calabria","Calabria",2525468
+"1419","IT.20","Veneto","Veneto",3164604
+"1420","IT.19","Aosta Valley","Aosta Valley",3164857
+"1421","IT.18","Umbria","Umbria",3165048
+"1422","IT.17","Trentino-Alto Adige","Trentino-Alto Adige",3165244
+"1423","IT.16","Tuscany","Tuscany",3165361
+"1424","IT.13","Apulia","Apulia",3169778
+"1425","IT.12","Piedmont","Piedmont",3170831
+"1426","IT.11","Molise","Molise",3173222
+"1427","IT.10","The Marches","The Marches",3174004
+"1428","IT.09","Lombardy","Lombardy",3174618
+"1429","IT.08","Liguria","Liguria",3174725
+"1430","IT.07","Latium","Latium",3174976
+"1431","IT.06","Friuli Venezia Giulia","Friuli Venezia Giulia",3176525
+"1432","IT.05","Emilia-Romagna","Emilia-Romagna",3177401
+"1433","IT.04","Campania","Campania",3181042
+"1434","IT.02","Basilicate","Basilicate",3182306
+"1435","IT.01","Abruzzo","Abruzzo",3183560
+"1436","JE.3237072","St Clement","St Clement",3237072
+"1437","JE.3237073","St Saviour","St Saviour",3237073
+"1438","JE.3237200","St. Brelade","St. Brelade",3237200
+"1439","JE.3237203","Grouville","Grouville",3237203
+"1440","JE.3237212","St Mary","St Mary",3237212
+"1441","JE.3237214","St Lawrence","St Lawrence",3237214
+"1442","JE.3237221","St Peter","St Peter",3237221
+"1443","JE.3237229","St Ouen","St Ouen",3237229
+"1444","JE.3237497","St John","St John",3237497
+"1445","JE.3237530","Trinity","Trinity",3237530
+"1446","JE.3237716","St Martîn","St Martin",3237716
+"1447","JE.3237864","St Helier","St Helier",3237864
+"1448","JM.16","Westmoreland","Westmoreland",3488081
+"1449","JM.15","Trelawny","Trelawny",3488222
+"1450","JM.14","St. Thomas","St. Thomas",3488688
+"1451","JM.13","St. Mary","St. Mary",3488693
+"1452","JM.12","St. James","St. James",3488700
+"1453","JM.11","St. Elizabeth","St. Elizabeth",3488708
+"1454","JM.10","Saint Catherine","Saint Catherine",3488711
+"1455","JM.09","St Ann","St Ann",3488715
+"1456","JM.08","St. Andrew","St. Andrew",3488716
+"1457","JM.07","Portland","Portland",3488997
+"1458","JM.04","Manchester","Manchester",3489586
+"1459","JM.17","Kingston","Kingston",3489853
+"1460","JM.02","Hanover","Hanover",3490145
+"1461","JM.01","Clarendon","Clarendon",3490952
+"1462","JO.19","Ma’an","Ma'an",248380
+"1463","JO.18","Irbid","Irbid",248944
+"1464","JO.17","Zarqa","Zarqa",250092
+"1465","JO.12","Tafielah","Tafielah",250199
+"1466","JO.16","Amman","Amman",250439
+"1467","JO.15","Mafraq","Mafraq",250583
+"1468","JO.09","Karak","Karak",250625
+"1469","JO.02","Balqa","Balqa",250751
+"1470","JO.20","Ajlun","Ajlun",443120
+"1471","JO.22","Jerash","Jerash",443121
+"1472","JO.21","Aqaba","Aqaba",443122
+"1473","JO.23","Madaba","Madaba",443123
+"1474","JP.46","Yamanashi","Yamanashi",1848649
+"1475","JP.45","Yamaguchi","Yamaguchi",1848681
+"1476","JP.43","Wakayama","Wakayama",1848938
+"1477","JP.42","Toyama","Toyama",1849872
+"1478","JP.41","Tottori","Tottori",1849890
+"1479","JP.40","Tokyo","Tokyo",1850144
+"1480","JP.39","Tokushima","Tokushima",1850157
+"1481","JP.38","Tochigi","Tochigi",1850310
+"1482","JP.37","Shizuoka","Shizuoka",1851715
+"1483","JP.36","Shimane","Shimane",1852442
+"1484","JP.35","Shiga","Shiga",1852553
+"1485","JP.34","Saitama","Saitama",1853226
+"1486","JP.33","Saga","Saga",1853299
+"1487","JP.32","Osaka","Osaka",1853904
+"1488","JP.47","Okinawa","Okinawa",1854345
+"1489","JP.31","Okayama","Okayama",1854381
+"1490","JP.30","Oita","Oita",1854484
+"1491","JP.29","Niigata","Niigata",1855429
+"1492","JP.28","Nara","Nara",1855608
+"1493","JP.27","Nagasaki","Nagasaki",1856156
+"1494","JP.26","Nagano","Nagano",1856210
+"1495","JP.25","Miyazaki","Miyazaki",1856710
+"1496","JP.23","Mie","Mie",1857352
+"1497","JP.22","Kyoto","Kyoto",1857907
+"1498","JP.21","Kumamoto","Kumamoto",1858419
+"1499","JP.20","Kochi","Kochi",1859133
+"1500","JP.19","Kanagawa","Kanagawa",1860291
+"1501","JP.18","Kagoshima","Kagoshima",1860825
+"1502","JP.17","Kagawa","Kagawa",1860834
+"1503","JP.15","Ishikawa","Ishikawa",1861387
+"1504","JP.13","Hyogo","Hyogo",1862047
+"1505","JP.11","Hiroshima","Hiroshima",1862413
+"1506","JP.10","Gunma","Gunma",1863501
+"1507","JP.09","Gifu","Gifu",1863640
+"1508","JP.07","Fukuoka","Fukuoka",1863958
+"1509","JP.06","Fukui","Fukui",1863983
+"1510","JP.05","Ehime","Ehime",1864226
+"1511","JP.01","Aichi","Aichi",1865694
+"1512","JP.44","Yamagata","Yamagata",2110554
+"1513","JP.24","Miyagi","Miyagi",2111888
+"1514","JP.16","Iwate","Iwate",2112518
+"1515","JP.14","Ibaraki","Ibaraki",2112669
+"1516","JP.08","Fukushima","Fukushima",2112922
+"1517","JP.04","Chiba","Chiba",2113014
+"1518","JP.02","Akita","Akita",2113124
+"1519","JP.12","Hokkaido","Hokkaido",2130037
+"1520","JP.03","Aomori","Aomori",2130656
+"1521","KE.55","West Pokot","West Pokot",178145
+"1522","KE.54","Wajir","Wajir",178440
+"1523","KE.52","Uasin Gishu","Uasin Gishu",178837
+"1524","KE.51","Turkana","Turkana",178914
+"1525","KE.50","Trans Nzoia","Trans Nzoia",179068
+"1526","KE.49","Tharaka - Nithi","Tharaka District",179380
+"1527","KE.48","Tana River","Tana River",179585
+"1528","KE.46","Siaya","Siaya",180320
+"1529","KE.45","Samburu","Samburu",180782
+"1530","KE.05","Nairobi Area","Nairobi Area",184742
+"1531","KE.38","Murang'A","Murang'a District",185578
+"1532","KE.37","Mombasa","Mombasa",186298
+"1533","KE.35","Meru","Meru",186824
+"1534","KE.34","Marsabit","Marsabit",187583
+"1535","KE.33","Mandera","Mandera",187895
+"1536","KE.29","Laikipia","Laikipia",189794
+"1537","KE.28","Kwale","Kwale",190106
+"1538","KE.27","Kitui","Kitui",191037
+"1539","KE.26","Kisumu","Kisumu",191242
+"1540","KE.25","Kisii","Kisii",191298
+"1541","KE.24","Kirinyaga","Kirinyaga",191420
+"1542","KE.23","Kilifi","Kilifi",192064
+"1543","KE.22","Kiambu","Kiambu",192709
+"1544","KE.21","Kericho","Kericho",192898
+"1545","KE.20","Kakamega","Kakamega",195271
+"1546","KE.18","Isiolo","Isiolo",196228
+"1547","KE.16","Garissa","Garissa",197744
+"1548","KE.15","Embu","Embu",198474
+"1549","KE.13","Busia","Busia",199987
+"1550","KE.12","Bungoma","Bungoma",200066
+"1551","KE.10","Baringo","Baringo",200573
+"1552","KE.43","Nyandarua","Nyandarua",7603036
+"1553","KE.53","Vihiga","Vihiga",7667638
+"1554","KE.30","Lamu","Lamu",7667643
+"1555","KE.31","Machakos","Machakos",7667644
+"1556","KE.32","Makueni","Makueni",7667645
+"1557","KE.14","Elegeyo-Marakwet","Marakwet District",7667646
+"1558","KE.47","Taita Taveta","Taita Taveta",7667652
+"1559","KE.19","Kajiado","Kajiado",7667657
+"1560","KE.44","Nyeri","Nyeri",7667661
+"1561","KE.17","Homa Bay","Homa Bay",7667665
+"1562","KE.11","Bomet","Bomet",7667666
+"1563","KE.36","Migori","Migori",7667678
+"1564","KE.39","Nakuru","Nakuru",7668902
+"1565","KE.41","Narok","Narok",7668904
+"1566","KE.42","Nyamira","Nyamira District",7806857
+"1567","KE.40","Nandi","Nandi",8051212
+"1568","KG.08","Osh","Osh",1346798
+"1569","KG.09","Batken","Batken",1463580
+"1570","KG.06","Talas","Talas",1527297
+"1571","KG.04","Naryn","Naryn",1527590
+"1572","KG.07","Issyk-Kul","Issyk-Kul",1528260
+"1573","KG.01","Bishkek","Bishkek",1528334
+"1574","KG.03","Jalal-Abad","Jalal-Abad",1529778
+"1575","KG.02","Chüy","Chuy",1538652
+"1576","KG.10","Osh City","Osh City",10300944
+"1577","KH.12","Pursat","Pursat",1821301
+"1578","KH.29","Battambang","Battambang",1821310
+"1579","KH.19","Takeo","Takeo",1821939
+"1580","KH.18","Svay Rieng","Svay Rieng",1821992
+"1581","KH.17","Stung Treng","Stung Treng",1822028
+"1582","KH.27","Otâr Méanchey","Otar Meanchey",1822210
+"1583","KH.24","Siem Reap","Siem Reap",1822213
+"1584","KH.23","Ratanakiri","Ratanakiri",1822449
+"1585","KH.14","Prey Veng","Prey Veng",1822609
+"1586","KH.13","Preah Vihear","Preah Vihear",1822676
+"1587","KH.22","Phnom Penh","Phnom Penh",1830103
+"1588","KH.30","Pailin","Pailin",1830206
+"1589","KH.10","Mondolkiri","Mondolkiri",1830306
+"1590","KH.09","Kratie","Kratie",1830563
+"1591","KH.26","Kep","Kep",1830937
+"1592","KH.08","Koh Kong","Koh Kong",1831037
+"1593","KH.07","Kandal","Kandal",1831095
+"1594","KH.21","Kampot","Kampot",1831111
+"1595","KH.05","Kampong Thom","Kampong Thom",1831124
+"1596","KH.04","Kampong Speu","Kampong Speu",1831132
+"1597","KH.03","Kampong Chhnang","Kampong Chhnang",1831166
+"1598","KH.02","Kampong Cham","Kampong Cham",1831172
+"1599","KH.28","Preah Sihanouk","Preah Sihanouk",1899262
+"1600","KH.25","Banteay Meanchey","Banteay Meanchey",1899273
+"1601","KH.31","Tboung Khmum","Tboung Khmum",7647525
+"1602","KI.01","Gilbert Islands","Gilbert Islands",2110215
+"1603","KI.02","Line Islands","Line Islands",4030940
+"1604","KI.03","Phoenix Islands","Phoenix Islands",7521379
+"1605","KM.03","Mohéli","Moheli",921780
+"1606","KM.02","Grande Comore","Grande Comore",921882
+"1607","KM.01","Anjouan","Anjouan",922001
+"1608","KN.15","Trinity Palmetto Point","Trinity Palmetto Point",3575114
+"1609","KN.13","Middle Island","Middle Island",3575164
+"1610","KN.12","Saint Thomas Lowland","Saint Thomas Lowland",3575165
+"1611","KN.11","Saint Peter Basseterre","Saint Peter Basseterre",3575168
+"1612","KN.10","Saint Paul Charlestown","Saint Paul Charlestown",3575171
+"1613","KN.09","Saint Paul Capesterre","Saint Paul Capesterre",3575172
+"1614","KN.08","Saint Mary Cayon","Saint Mary Cayon",3575173
+"1615","KN.07","Saint John Figtree","Saint John Figtree",3575175
+"1616","KN.06","Saint John Capesterre","Saint John Capesterre",3575176
+"1617","KN.05","Saint James Windwa","Saint James Windwa",3575177
+"1618","KN.04","Saint George Gingerland","Saint George Gingerland",3575179
+"1619","KN.03","Saint George Basseterre","Saint George Basseterre",3575180
+"1620","KN.02","Saint Anne Sandy Point","Saint Anne Sandy Point",3575183
+"1621","KN.01","Christ Church Nichola Town","Christ Church Nichola Town",3575476
+"1622","KP.12","Pyongyang","Pyongyang",1871856
+"1623","KP.15","South Pyongan","South Pyongan",1871952
+"1624","KP.11","P'yongan-bukto","P'yongan-bukto",1871954
+"1625","KP.09","Kangwon-do","Kangwon-do",1876101
+"1626","KP.06","Hwanghae-namdo","Hwanghae-namdo",1876884
+"1627","KP.07","Hwanghae-bukto","Hwanghae-bukto",1876888
+"1628","KP.03","Hamgyong-namdo","Hamgyong-namdo",1877450
+"1629","KP.13","Yanggang-do","Yanggang-do",2039332
+"1630","KP.17","Hamgyong-bukto","Hamgyong-bukto",2044245
+"1631","KP.01","Chagang-do","Chagang-do",2045265
+"1632","KP.18","Rason","Rason",2054927
+"1633","KR.21","Ulsan","Ulsan",1833742
+"1634","KR.19","Daejeon","Daejeon",1835224
+"1635","KR.15","Daegu","Daegu",1835327
+"1636","KR.11","Seoul","Seoul",1835847
+"1637","KR.10","Busan","Busan",1838519
+"1638","KR.14","Gyeongsangbuk-do","Gyeongsangbuk-do",1841597
+"1639","KR.13","Gyeonggi-do","Gyeonggi-do",1841610
+"1640","KR.18","Gwangju","Gwangju",1841808
+"1641","KR.06","Gangwon-do","Gangwon-do",1843125
+"1642","KR.12","Incheon","Incheon",1843561
+"1643","KR.17","Chungcheongnam-do","Chungcheongnam-do",1845105
+"1644","KR.05","North Chungcheong","North Chungcheong",1845106
+"1645","KR.16","Jeollanam-do","Jeollanam-do",1845788
+"1646","KR.03","Jeollabuk-do","Jeollabuk-do",1845789
+"1647","KR.01","Jeju-do","Jeju-do",1846265
+"1648","KR.20","Gyeongsangnam-do","Gyeongsangnam-do",1902028
+"1649","KR.22","Sejong-si","Sejong-si",8394437
+"1650","KW.08","Hawalli","Hawalli",285628
+"1651","KW.02","Al Asimah","Al Asimah",285788
+"1652","KW.05","Al Jahra'","Muhafazat al Jahra'",285798
+"1653","KW.07","Al Farwaniyah","Al Farwaniyah",285816
+"1654","KW.04","Al A<U+1E29>madi","Al Ahmadi",285841
+"1655","KW.09","Mubarak al Kabir","Mubarak al Kabir",7733358
+"1656","KY.10346796","George Town","George Town",10346796
+"1657","KY.10375968","West Bay","West Bay",10375968
+"1658","KY.10375969","Bodden Town","Bodden Town",10375969
+"1659","KY.10375970","North Side","North Side",10375970
+"1660","KY.10375971","East End","East End",10375971
+"1661","KY.10375972","Sister Island","Sister Island",10375972
+"1662","KZ.07","Batys Qazaqstan","Batys Qazaqstan",607847
+"1663","KZ.09","Mangghystau","Mangghystau",608879
+"1664","KZ.06","Atyrau","Atyrau",609862
+"1665","KZ.04","Aqtöbe","Aqtoebe",610688
+"1666","KZ.15","East Kazakhstan","East Kazakhstan",1517381
+"1667","KZ.03","Aqmola","Aqmola",1518003
+"1668","KZ.16","Soltüstik Qazaqstan","Soltustik Qazaqstan",1519367
+"1669","KZ.11","Pavlodar Region","Pavlodar Region",1520239
+"1670","KZ.14","Qyzylorda","Qyzylorda",1521406
+"1671","KZ.13","Qostanay","Qostanay",1521671
+"1672","KZ.12","Karaganda","Karaganda",1523401
+"1673","KZ.17","Zhambyl","Zhambyl",1524444
+"1674","KZ.10","South Kazakhstan","South Kazakhstan",1524787
+"1675","KZ.02","Almaty","Almaty",1526395
+"1676","KZ.01","Almaty Oblysy","Almaty Oblysy",1537162
+"1677","KZ.1537272","Shymkent","Shymkent",1537272
+"1678","KZ.08","Baikonur","Baikonur",1538316
+"1679","KZ.05","Nur-Sultan","Nur-Sultan",1538317
+"1680","LA.14","Xiangkhoang","Xiangkhoang",1652077
+"1681","LA.13","Xiagnabouli","Xiagnabouli",1652210
+"1682","LA.27","Vientiane","Vientiane",1652238
+"1683","LA.20","Savannahkhét","Savannahkhet",1653315
+"1684","LA.19","Salavan","Salavan",1653333
+"1685","LA.18","Phôngsali","Phongsali",1653893
+"1686","LA.07","Oudômxai","Oudomxai",1654491
+"1687","LA.17","Louangphabang","Louangphabang",1655558
+"1688","LA.16","Loungnamtha","Loungnamtha",1655561
+"1689","LA.15","Khammouan","Khammouan",1656538
+"1690","LA.03","Houaphan","Houaphan",1657114
+"1691","LA.02","Champasak","Champasak",1657818
+"1692","LA.01","Attapu","Attapu",1665045
+"1693","LA.26","Xékong","Xekong",1904615
+"1694","LA.22","Bokeo","Bokeo",1904616
+"1695","LA.23","Bolikhamsai","Bolikhamsai",1904617
+"1696","LA.24","Vientiane Prefecture","Vientiane Prefecture",1904618
+"1697","LA.28","Xaisomboun","Xaisomboun",11395958
+"1698","LB.05","Mont-Liban","Mont-Liban",273607
+"1699","LB.04","Beyrouth","Beyrouth",276780
+"1700","LB.09","Liban-Nord","Liban-Nord",278297
+"1701","LB.06","South Governorate","South Governorate",279894
+"1702","LB.08","Béqaa","Beqaa",280282
+"1703","LB.07","Nabatîyé","Nabatiye",444191
+"1704","LB.10","Aakkâr","Aakkar",6201370
+"1705","LB.11","Baalbek-Hermel","Baalbek-Hermel",6201371
+"1706","LC.10","Vieux-Fort","Vieux-Fort",3576413
+"1707","LC.09","Soufrière","Soufriere",3576441
+"1708","LC.08","Micoud","Micoud",3576567
+"1709","LC.07","Laborie","Laborie",3576662
+"1710","LC.06","Gros-Islet","Gros-Islet",3576685
+"1711","LC.05","Dennery","Dennery",3576764
+"1712","LC.04","Choiseul","Choiseul",3576794
+"1713","LC.03","Castries","Castries",3576810
+"1714","LC.01","Anse-la-Raye","Anse-la-Raye",3576891
+"1715","LC.12","Canaries","Canaries",11351387
+"1716","LI.11","Vaduz","Vaduz",3042031
+"1717","LI.10","Triesenberg","Triesenberg",3042034
+"1718","LI.09","Triesen","Triesen",3042036
+"1719","LI.08","Schellenberg","Schellenberg",3042038
+"1720","LI.07","Schaan","Schaan",3042042
+"1721","LI.06","Ruggell","Ruggell",3042047
+"1722","LI.05","Planken","Planken",3042050
+"1723","LI.04","Mauren","Mauren",3042056
+"1724","LI.03","Gamprin","Gamprin",3042063
+"1725","LI.02","Eschen","Eschen",3042069
+"1726","LI.01","Balzers","Balzers",3042074
+"1727","LK.36","Western","Western",1223421
+"1728","LK.35","Uva","Uva",1225265
+"1729","LK.34","Southern","Southern",1227618
+"1730","LK.33","Sabaragamuwa","Sabaragamuwa",1228435
+"1731","LK.32","North Western","North Western",1232860
+"1732","LK.30","North Central","North Central",1232870
+"1733","LK.29","Central","Central",1249296
+"1734","LK.38","Northern Province","Northern Province",7671049
+"1735","LK.37","Eastern Province","Eastern Province",8133521
+"1736","LR.10","Sinoe","Sinoe",2273898
+"1737","LR.09","Nimba","Nimba",2274688
+"1738","LR.14","Montserrado","Montserrado",2274890
+"1739","LR.13","Maryland","Maryland",2275099
+"1740","LR.20","Lofa","Lofa",2275344
+"1741","LR.19","Grand Gedeh","Grand Gedeh",2276622
+"1742","LR.12","Grand Cape Mount","Grand Cape Mount",2276627
+"1743","LR.11","Grand Bassa","Grand Bassa",2276630
+"1744","LR.01","Bong","Bong",2278292
+"1745","LR.15","Bomi","Bomi",2278324
+"1746","LR.16","Grand Kru","Grand Kru",2588490
+"1747","LR.17","Margibi","Margibi",2588491
+"1748","LR.18","River Cess","River Cess",2588492
+"1749","LR.21","Gbarpolu","Gbarpolu",2593119
+"1750","LR.22","River Gee","River Gee",2593120
+"1751","LS.19","Thaba-Tseka","Thaba-Tseka",932011
+"1752","LS.18","Quthing","Quthing",932184
+"1753","LS.17","Qacha's Nek","Qacha's Nek",932219
+"1754","LS.16","Mokhotlong","Mokhotlong",932418
+"1755","LS.15","Mohale's Hoek","Mohale's Hoek District",932439
+"1756","LS.14","Maseru","Maseru",932506
+"1757","LS.13","Mafeteng","Mafeteng",932615
+"1758","LS.12","Leribe","Leribe",932700
+"1759","LS.11","Butha-Buthe","Butha-Buthe",932888
+"1760","LS.10","Berea","Berea",932932
+"1761","LT.56","Alytus","Alytus",864389
+"1762","LT.57","Kaunas","Kaunas",864477
+"1763","LT.58","Klaipeda County","Klaipeda County",864478
+"1764","LT.59","Marijampole County","Marijampole County",864479
+"1765","LT.60","Panevežys","Panevezys",864480
+"1766","LT.61","Siauliai","Siauliai",864481
+"1767","LT.62","Taurage County","Taurage County",864482
+"1768","LT.63","Telsiai","Telsiai",864483
+"1769","LT.64","Utena","Utena",864484
+"1770","LT.65","Vilnius","Vilnius",864485
+"1771","LU.WI","Wiltz","Wiltz",2959975
+"1772","LU.VD","Vianden","Vianden",2960020
+"1773","LU.RM","Remich","Remich",2960152
+"1774","LU.RD","Redange","Redange",2960161
+"1775","LU.ME","Mersch","Mersch",2960275
+"1776","LU.LU","Luxembourg","Luxembourg",2960315
+"1777","LU.GR","Grevenmacher","Grevenmacher",2960514
+"1778","LU.ES","Esch-sur-Alzette","Esch-sur-Alzette",2960599
+"1779","LU.EC","Echternach","Echternach",2960629
+"1780","LU.DI","Diekirch","Diekirch",2960656
+"1781","LU.CL","Clervaux","Clervaux",2960683
+"1782","LU.CA","Capellen","Capellen",2960696
+"1783","LV.33","Ventspils Rajons","Ventspils Rajons",454307
+"1784","LV.32","Ventspils","Ventspils",454311
+"1785","LV.31","Valmiera","Valmiera",454564
+"1786","LV.30","Valka","Valka",454571
+"1787","LV.29","Tukuma novads","Tukuma novads",454771
+"1788","LV.28","Talsi Municipality","Talsi Municipality",454968
+"1789","LV.27","Saldus Rajons","Saldus Rajons",455888
+"1790","LV.25","Riga","Riga",456173
+"1791","LV.24","Rezeknes Novads","Rezeknes Novads",456197
+"1792","LV.23","Rezekne","Rezekne",456203
+"1793","LV.22","Preilu novads","Preilu novads",456528
+"1794","LV.21","Ogre","Ogre",457061
+"1795","LV.20","Madona Municipality","Madona Municipality",457712
+"1796","LV.19","Ludzas novads","Ludzas novads",457773
+"1797","LV.18","Limbažu novads","Limbazu novads",457889
+"1798","LV.16","Liepaja","Liepaja",457955
+"1799","LV.15","Kuldigas novads","Kuldigas novads",458459
+"1800","LV.14","Kraslavas novads","Kraslavas novads",458621
+"1801","LV.13","Jurmala","Jurmala",459202
+"1802","LV.12","Jelgavas novads","Jelgavas novads",459278
+"1803","LV.11","Jelgava","Jelgava",459281
+"1804","LV.10","Jekabpils Municipality","Jekabpils Municipality",459282
+"1805","LV.09","Gulbenes novads","Gulbenes novads",459664
+"1806","LV.08","Dobeles novads","Dobeles novads",460311
+"1807","LV.07","Daugavpils municipality","Daugavpils municipality",460410
+"1808","LV.06","Daugavpils","Daugavpils",460414
+"1809","LV.05","Cesu Rajons","Cesu Rajons",460569
+"1810","LV.04","Bauskas Rajons","Bauskas Rajons",461112
+"1811","LV.03","Balvu Novads","Balvu Novads",461160
+"1812","LV.02","Aluksnes Novads","Aluksnes Novads",461525
+"1813","LV.01","Aizkraukles novads","Aizkraukles novads",461613
+"1814","LV.60","Dundaga","Dundaga",7628298
+"1815","LV.40","Alsunga","Alsunga",7628299
+"1816","LV.A5","Pavilostas","Pavilostas",7628300
+"1817","LV.99","Nica","Nica",7628301
+"1818","LV.B6","Rucavas","Rucavas",7628302
+"1819","LV.65","Grobina","Grobina",7628303
+"1820","LV.61","Durbe","Durbe",7628304
+"1821","LV.37","Aizpute","Aizpute",7628305
+"1822","LV.A8","Priekule","Priekule",7628306
+"1823","LV.D7","Vainode","Vainode",7628307
+"1824","LV.C9","Skrunda","Skrunda",7628308
+"1825","LV.51","Broceni","Broceni",7628309
+"1826","LV.B4","Rojas","Rojas",7628310
+"1827","LV.77","Kandava","Kandava",7628311
+"1828","LV.44","Auces","Auces",7628312
+"1829","LV.73","Jaunpils","Jaunpils",7628313
+"1830","LV.62","Engure","Engure",7628314
+"1831","LV.D5","Tervete","Tervete",7628315
+"1832","LV.A3","Ozolnieku","Ozolnieku",7628316
+"1833","LV.B9","Rundales","Rundales",7628317
+"1834","LV.45","Babite","Babite",7628318
+"1835","LV.95","Marupe","Marupe",7628319
+"1836","LV.A2","Olaine","Olaine",7628320
+"1837","LV.67","Lecava","Lecava",7628321
+"1838","LV.80","Kekava","Kekava",7628322
+"1839","LV.C3","Salaspils","Salaspils",7628323
+"1840","LV.46","Baldone","Baldone",7628324
+"1841","LV.D2","Stopini","Stopini",7628325
+"1842","LV.53","Carnikava","Carnikava",7628326
+"1843","LV.34","Adaži","Adazi",7628327
+"1844","LV.64","Garkalne","Garkalne",7628328
+"1845","LV.E4","Vecumnieki","Vecumnieki",7628329
+"1846","LV.79","Kegums","Kegums",7628330
+"1847","LV.87","Lielvarde","Lielvarde",7628331
+"1848","LV.C8","Skriveri","Skriveri",7628332
+"1849","LV.71","Jaunjelgava","Jaunjelgava",7628333
+"1850","LV.98","Nereta","Nereta",7628334
+"1851","LV.E6","Viesite","Viesite",7628335
+"1852","LV.C2","Salas","Salas",7628336
+"1853","LV.74","Jekabpils","Jekabpils",7628337
+"1854","LV.38","Akniste","Akniste",7628338
+"1855","LV.69","Ilukste","Ilukste",7628339
+"1856","LV.E2","Varkava","Varkava",7628340
+"1857","LV.90","Livani","Livani",7628341
+"1858","LV.E1","Varaklani","Varaklani",7628342
+"1859","LV.E8","Vilanu","Vilanu",7628343
+"1860","LV.B3","Riebinu","Riebinu",7628344
+"1861","LV.35","Aglona","Aglona",7628345
+"1862","LV.56","Cibla","Cibla",7628346
+"1863","LV.E9","Zilupes","Zilupes",7628347
+"1864","LV.E7","Vilaka","Vilaka",7628348
+"1865","LV.47","Baltinava","Baltinava",7628349
+"1866","LV.57","Dagda","Dagda",7628350
+"1867","LV.78","Karsava","Karsava",7628351
+"1868","LV.B7","Rugaju","Rugaju",7628352
+"1869","LV.55","Cesvaine","Cesvaine",7628353
+"1870","LV.91","Lubana","Lubana",7628354
+"1871","LV.85","Krustpils","Krustpils",7628355
+"1872","LV.A6","Plavinu","Plavinu",7628356
+"1873","LV.82","Koknese","Koknese",7628357
+"1874","LV.68","Ikškile","Ikskile",7628358
+"1875","LV.B5","Ropažu","Ropazu",7628359
+"1876","LV.70","Incukalns","Incukalns",7628360
+"1877","LV.84","Krimulda","Krimulda",7628361
+"1878","LV.C7","Sigulda","Sigulda",7628362
+"1879","LV.88","Ligatne","Ligatne",7628363
+"1880","LV.94","Malpils","Malpils",7628364
+"1881","LV.C6","Seja","Seja",7628365
+"1882","LV.C5","Saulkrastu","Saulkrastu",7628366
+"1883","LV.C1","Salacgrivas","Salacgrivas",7628367
+"1884","LV.39","Aloja","Aloja",7628368
+"1885","LV.97","Naukšeni","Naukseni",7628369
+"1886","LV.B8","Rujienas","Rujienas",7628370
+"1887","LV.96","Mazsalaca","Mazsalaca",7628371
+"1888","LV.52","Burtnieki","Burtnieki",7628372
+"1889","LV.A4","Pargaujas","Pargaujas",7628373
+"1890","LV.81","Koceni","Koceni",7628374
+"1891","LV.42","Amatas","Amatas",7628375
+"1892","LV.A9","Priekuli","Priekuli",7628376
+"1893","LV.B1","Raunas","Raunas",7628377
+"1894","LV.D3","Strenci","Strenci",7628378
+"1895","LV.50","Beverina","Beverina",7628379
+"1896","LV.D1","Smiltene","Smiltene",7628380
+"1897","LV.72","Jaunpiebalga","Jaunpiebalga",7628381
+"1898","LV.63","Ergli","Ergli",7628382
+"1899","LV.E3","Vecpiebalga","Vecpiebalga",7628383
+"1900","LV.43","Apes","Apes",7628384
+"1901","LV.F1","Mesraga","Mesraga",8299767
+"1902","LY.70","Darnah","Darnah",87204
+"1903","LY.69","Banghazi","Banghazi",88318
+"1904","LY.66","Al Marj","Al Marj",88904
+"1905","LY.65","Al Kufrah","Al Kufrah",88932
+"1906","LY.63","Al Jabal al Akh<U+1E11>ar","Al Jabal al Akhdar",443289
+"1907","LY.77","Tripoli","Tripoli",2210245
+"1908","LY.76","Surt","Surt",2210553
+"1909","LY.75","Sabha","Sabha",2212774
+"1910","LY.74","Nalut","Nalut",2214432
+"1911","LY.73","Murzuq","Murzuq",2214602
+"1912","LY.72","Misratah","Misratah",2214845
+"1913","LY.71","Ghat","Ghat",2217350
+"1914","LY.68","Az Zawiyah","Az Zawiyah",2218972
+"1915","LY.78","Ash Shati'","Wadi ash Shati'",2219413
+"1916","LY.64","Al Jufrah","Al Jufrah",2219944
+"1917","LY.67","An Nuqat al Khams","An Nuqat al Khams",2593778
+"1918","LY.79","Al Butnan","Al Butnan",7602688
+"1919","LY.80","Jabal al Gharbi","Jabal al Gharbi",7602689
+"1920","LY.81","Al Jafarah","Al Jafarah",7602690
+"1921","LY.82","Al Marqab","Al Marqab",7602691
+"1922","LY.83","Al Wa<U+1E29>at","Al Wahat",7602692
+"1923","LY.84","Wadi al <U+1E28>ayat","Wadi al Hayat",7602693
+"1924","MA.01","Tanger-Tetouan-Al Hoceima","Tanger-Tetouan-Al Hoceima",11281874
+"1925","MA.02","Oriental","Oriental",11281875
+"1926","MA.03","Fès-Meknès","Fes-Meknes",11281876
+"1927","MA.04","Rabat-Salé-Kénitra","Rabat-Sale-Kenitra",11281877
+"1928","MA.05","Béni Mellal-Khénifra","Beni Mellal-Khenifra",11281878
+"1929","MA.06","Casablanca-Settat","Casablanca-Settat",11281879
+"1930","MA.07","Marrakesh-Safi","Marrakesh-Safi",11281880
+"1931","MA.08","Drâa-Tafilalet","Draa-Tafilalet",11281881
+"1932","MA.09","Souss-Massa","Souss-Massa",11281882
+"1933","MA.10","Guelmim-Oued Noun","Guelmim-Oued Noun",11281884
+"1934","MA.11","Laâyoune-Sakia El Hamra","Laayoune-Sakia El Hamra",11281885
+"1935","MA.12","Dakhla-Oued Ed-Dahab","Dakhla-Oued Ed-Dahab",11281886
+"1936","MC.00","","Commune de Monaco",3319178
+"1937","MD.73","Raionul Edinet","Raionul Edinet",617077
+"1938","MD.92","Ungheni","Ungheni",617181
+"1939","MD.91","Telenesti","Telenesti",617255
+"1940","MD.90","Taraclia","Taraclia",617264
+"1941","MD.88","Stefan-Voda","Stefan-Voda",617283
+"1942","MD.89","Stra<U+0219>eni","Straseni",617301
+"1943","MD.87","Raionul Soroca","Raionul Soroca",617366
+"1944","MD.84","Rîscani","Riscani",617483
+"1945","MD.83","Rezina","Rezina",617501
+"1946","MD.82","Orhei","Orhei",617639
+"1947","MD.81","Raionul Ocnita","Raionul Ocnita",617656
+"1948","MD.59","Anenii Noi","Anenii Noi",617715
+"1949","MD.80","Nisporeni","Nisporeni",617754
+"1950","MD.79","Leova","Leova",617903
+"1951","MD.85","Sîngerei","Singerei",617913
+"1952","MD.69","Criuleni","Criuleni",617962
+"1953","MD.78","Ialoveni","Ialoveni",617991
+"1954","MD.57","Chi<U+0219>inau Municipality","Chisinau Municipality",618069
+"1955","MD.67","Causeni","Causeni",618119
+"1956","MD.65","Cantemir","Cantemir",618142
+"1957","MD.66","Calarasi","Calarasi",618162
+"1958","MD.64","Cahul","Cahul",618164
+"1959","MD.76","Glodeni","Glodeni",618260
+"1960","MD.75","Floresti","Floresti",618331
+"1961","MD.74","Fale<U+0219>ti","Falesti",618345
+"1962","MD.72","Dubasari","Dubasari",618363
+"1963","MD.71","Drochia","Drochia",618369
+"1964","MD.70","Donduseni","Donduseni",618381
+"1965","MD.68","Cimislia","Cimislia",618430
+"1966","MD.63","Briceni","Briceni",618511
+"1967","MD.61","Basarabeasca","Basarabeasca",618565
+"1968","MD.77","Hîncesti","Hincesti",858803
+"1969","MD.86","Soldanesti","Soldanesti",858808
+"1970","MD.58","Transnistria","Transnistria",858889
+"1971","MD.51","Gagauzia","Gagauzia",858895
+"1972","MD.62","Bender Municipality","Bender Municipality",861487
+"1973","MD.60","Balti","Balti",873909
+"1974","ME.17","Opština Rožaje","Opstina Rozaje",786233
+"1975","ME.21","Opština Žabljak","Opstina Zabljak",3186995
+"1976","ME.20","Ulcinj","Ulcinj",3188514
+"1977","ME.19","Tivat","Tivat",3189071
+"1978","ME.16","Podgorica","Podgorica",3189077
+"1979","ME.18","Opština Šavnik","Opstina Savnik",3191221
+"1980","ME.15","Opština Plužine","Opstina Pluzine",3193129
+"1981","ME.14","Pljevlja","Pljevlja",3193160
+"1982","ME.13","Opština Plav","Opstina Plav",3193227
+"1983","ME.12","Opština Nikšic","Opstina Niksic",3194493
+"1984","ME.11","Mojkovac","Mojkovac",3194925
+"1985","ME.10","Kotor","Kotor",3197537
+"1986","ME.09","Opština Kolašin","Opstina Kolasin",3197895
+"1987","ME.03","Berane","Berane",3199070
+"1988","ME.08","Herceg Novi","Herceg Novi",3199393
+"1989","ME.07","Danilovgrad","Danilovgrad",3202193
+"1990","ME.06","Cetinje","Cetinje",3202640
+"1991","ME.05","Budva","Budva",3203104
+"1992","ME.04","Bijelo Polje","Bijelo Polje",3204173
+"1993","ME.02","Bar","Bar",3204508
+"1994","ME.01","Andrijevica","Andrijevica",3343959
+"1995","ME.22","Gusinje","Gusinje",11497642
+"1996","ME.23","Petnjica","Petnjica",11497643
+"1997","ME.24","Tuzi","Tuzi",12104729
+"1998","MG.71","Diana","Diana",7670842
+"1999","MG.72","Sava","Sava",7670846
+"2000","MG.42","Sofia","Sofia",7670847
+"2001","MG.32","Analanjirofo","Analanjirofo",7670848
+"2002","MG.41","Boeny","Boeny",7670849
+"2003","MG.43","Betsiboka","Betsiboka",7670850
+"2004","MG.33","Alaotra Mangoro","Alaotra Mangoro",7670851
+"2005","MG.44","Melaky","Melaky",7670852
+"2006","MG.14","Bongolava","Bongolava",7670853
+"2007","MG.12","Vakinankaratra","Vakinankaratra",7670854
+"2008","MG.13","Itasy","Itasy",7670855
+"2009","MG.11","Analamanga","Analamanga",7670856
+"2010","MG.31","Atsinanana","Atsinanana",7670857
+"2011","MG.54","Menabe","Menabe",7670902
+"2012","MG.22","Amoron'i Mania","Amoron'i Mania",7670904
+"2013","MG.21","Upper Matsiatra","Upper Matsiatra",7670905
+"2014","MG.23","Vatovavy Fitovinany","Vatovavy Fitovinany",7670906
+"2015","MG.24","Ihorombe","Ihorombe",7670907
+"2016","MG.25","Atsimo-Atsinanana","Atsimo-Atsinanana",7670908
+"2017","MG.53","Anosy","Anosy",7670910
+"2018","MG.52","Androy","Androy",7670911
+"2019","MG.51","Atsimo-Andrefana","Atsimo-Andrefana",7670913
+"2020","MH.007","Ailinginae Atoll","Ailinginae Atoll",7303491
+"2021","MH.010","Ailinglaplap Atoll","Ailinglaplap Atoll",7303492
+"2022","MH.030","Ailuk Atoll","Ailuk Atoll",7303493
+"2023","MH.040","Arno Atoll","Arno Atoll",7303494
+"2024","MH.050","Aur Atoll","Aur Atoll",7303495
+"2025","MH.060","Bikar Atoll","Bikar Atoll",7303496
+"2026","MH.070","Bikini Atoll","Bikini Atoll",7303497
+"2027","MH.080","Ebon Atoll","Ebon Atoll",7303498
+"2028","MH.090","Enewetak Atoll","Enewetak Atoll",7303499
+"2029","MH.100","Erikub Atoll","Erikub Atoll",7303500
+"2030","MH.120","Jaluit Atoll","Jaluit Atoll",7303501
+"2031","MH.150","Kwajalein Atoll","Kwajalein Atoll",7303502
+"2032","MH.160","Lae Atoll","Lae Atoll",7303503
+"2033","MH.180","Likiep Atoll","Likiep Atoll",7303504
+"2034","MH.190","Majuro Atoll","Majuro Atoll",7303505
+"2035","MH.300","Maloelap Atoll","Maloelap Atoll",7303506
+"2036","MH.320","Mili Atoll","Mili Atoll",7303507
+"2037","MH.330","Namdrik Atoll","Namdrik Atoll",7303508
+"2038","MH.340","Namu Atoll","Namu Atoll",7303509
+"2039","MH.350","Rongelap Atoll","Rongelap Atoll",7303510
+"2040","MH.360","Rongrik Atoll","Rongrik Atoll",7303511
+"2041","MH.385","Taka Atoll","Taka Atoll",7303512
+"2042","MH.073","Bokak Atoll","Bokak Atoll",7303513
+"2043","MH.390","Ujae Atoll","Ujae Atoll",7303514
+"2044","MH.400","Ujelang","Ujelang",7303515
+"2045","MH.410","Utrik Atoll","Utrik Atoll",7303516
+"2046","MH.420","Wotho Atoll","Wotho Atoll",7303517
+"2047","MH.430","Wotje Atoll","Wotje Atoll",7303518
+"2048","MH.110","Jabat Island","Jabat Island",7303519
+"2049","MH.130","Jemo Island","Jemo Island",7303520
+"2050","MH.140","Kili Island","Kili Island",7303521
+"2051","MH.170","Lib Island","Lib Island",7303522
+"2052","MH.310","Mejit Island","Mejit Island",7303523
+"2053","MK.E9","Valandovo","Valandovo",784732
+"2054","MK.86","Resen","Resen",786339
+"2055","MK.51","Kratovo","Kratovo",789090
+"2056","MK.78","Pehchevo","Pehchevo",862938
+"2057","MK.72","Novo Selo","Novo Selo",862945
+"2058","MK.11","Bosilovo","Bosilovo",862946
+"2059","MK.A9","Vasilevo","Vasilevo",862947
+"2060","MK.E5","Dojran","Dojran",862949
+"2061","MK.08","Bogdanci","Bogdanci",862950
+"2062","MK.47","Konche","Konche",862953
+"2063","MK.62","Makedonska Kamenica","Makedonska Kamenica",862956
+"2064","MK.C6","Zrnovci","Zrnovci",862958
+"2065","MK.40","Karbinci","Karbinci",862960
+"2066","MK.25","Demir Kapija","Demir Kapija",862961
+"2067","MK.87","Rosoman","Rosoman",862973
+"2068","MK.35","Gradsko","Gradsko",862974
+"2069","MK.60","Lozovo","Lozovo",862975
+"2070","MK.19","Cešinovo-Obleševo","Cesinovo-Oblesevo",862977
+"2071","MK.E1","Novaci","Novaci",863468
+"2072","MK.04","Berovo","Berovo",863485
+"2073","MK.06","Bitola","Bitola",863486
+"2074","MK.D9","Mogila","Mogila",863488
+"2075","MK.01","Arachinovo","Arachinovo",863831
+"2076","MK.C7","Bogovinje","Bogovinje",863834
+"2077","MK.12","Brvenica","Brvenica",863835
+"2078","MK.C9","Chashka","Chashka",863838
+"2079","MK.18","Centar Zhupa","Centar Zhupa",863841
+"2080","MK.20","Chucher Sandevo","Chucher Sandevo",863842
+"2081","MK.D2","Debar","Debar",863843
+"2082","MK.22","Delchevo","Delchevo",863844
+"2083","MK.D3","Demir Hisar","Demir Hisar",863846
+"2084","MK.28","Dolneni","Dolneni",863849
+"2085","MK.33","Gevgelija","Gevgelija",863854
+"2086","MK.D4","Gostivar","Gostivar",863855
+"2087","MK.36","Ilinden","Ilinden",863856
+"2088","MK.D5","Jegunovce","Jegunovce",863858
+"2089","MK.D6","Kavadarci","Kavadarci",863861
+"2090","MK.43","Kichevo","Kichevo",863862
+"2091","MK.46","Kochani","Kochani",863865
+"2092","MK.52","Kriva Palanka","Kriva Palanka",863869
+"2093","MK.53","Krivogashtani","Krivogashtani",863870
+"2094","MK.54","Krushevo","Krushevo",863871
+"2095","MK.D7","Kumanovo","Kumanovo",863873
+"2096","MK.59","Lipkovo","Lipkovo",863875
+"2097","MK.D8","Makedonski Brod","Makedonski Brod",863877
+"2098","MK.69","Negotino","Negotino",863881
+"2099","MK.E2","Ohrid","Ohrid",863883
+"2100","MK.79","Petrovec","Petrovec",863886
+"2101","MK.80","Plasnica","Plasnica",863887
+"2102","MK.E3","Prilep","Prilep",863888
+"2103","MK.83","Probishtip","Probishtip",863889
+"2104","MK.84","Radovish","Radovish",863890
+"2105","MK.85","Rankovce","Rankovce",863891
+"2106","MK.E4","Mavrovo and Rostuša","Mavrovo and Rostusa",863892
+"2107","MK.92","Sopište","Sopiste",863896
+"2108","MK.97","Staro Nagorichane","Staro Nagorichane",863899
+"2109","MK.98","Shtip","Shtip",863900
+"2110","MK.E6","Struga","Struga",863901
+"2111","MK.E7","Strumica","Strumica",863902
+"2112","MK.A2","Studenichani","Studenichani",863903
+"2113","MK.A4","Sveti Nikole","Sveti Nikole",863905
+"2114","MK.A5","Tearce","Tearce",863906
+"2115","MK.E8","Tetovo","Tetovo",863907
+"2116","MK.F1","Veles","Veles",863909
+"2117","MK.B3","Vevchani","Vevchani",863911
+"2118","MK.B4","Vinica","Vinica",863912
+"2119","MK.B7","Vrapchishte","Vrapchishte",863914
+"2120","MK.C2","Zelenikovo","Zelenikovo",863918
+"2121","MK.C3","Zhelino","Zhelino",863919
+"2122","MK.F5","Debarca","Debarca",7056271
+"2123","MK.F6","Grad Skopje","Grad Skopje",11398357
+"2124","ML.08","Tombouctou","Tombouctou",2449066
+"2125","ML.06","Sikasso","Sikasso",2451184
+"2126","ML.05","Ségou","Segou",2451477
+"2127","ML.04","Mopti","Mopti",2453347
+"2128","ML.07","Koulikoro","Koulikoro",2454532
+"2129","ML.03","Kayes","Kayes",2455517
+"2130","ML.09","Gao","Gao",2457161
+"2131","ML.01","Bamako","Bamako",2460594
+"2132","ML.10","Kidal","Kidal",2597449
+"2133","ML.12070575","Taoudénit","Taoudenit",12070575
+"2134","ML.12070577","Ménaka","Menaka",12070577
+"2135","MM.12","Tanintharyi","Tanintharyi",1293118
+"2136","MM.11","Shan","Shan",1297099
+"2137","MM.10","Sagain","Sagain",1298480
+"2138","MM.17","Rangoon","Rangoon",1298822
+"2139","MM.01","Rakhine","Rakhine",1298852
+"2140","MM.16","Bago","Bago",1300463
+"2141","MM.13","Mon","Mon",1308528
+"2142","MM.08","Mandalay","Mandalay",1311871
+"2143","MM.15","Magway","Magway",1312604
+"2144","MM.06","Kayah","Kayah",1319539
+"2145","MM.05","Kayin","Kayin",1320233
+"2146","MM.04","Kachin","Kachin",1321702
+"2147","MM.03","Ayeyarwady","Ayeyarwady",1321850
+"2148","MM.02","Chin","Chin",1327132
+"2149","MM.18","Nay Pyi Taw","Nay Pyi Taw",8239588
+"2150","MN.19","Uvs","Uvs",1514967
+"2151","MN.12","Hovd","Hovd",1515696
+"2152","MN.10","Govi-Altay","Govi-Altay",1515917
+"2153","MN.09","Dzabkhan","Dzabkhan",1516012
+"2154","MN.03","Bayan-Ölgiy","Bayan-Olgiy",1516278
+"2155","MN.02","Bayanhongor","Bayanhongor",1516290
+"2156","MN.20","Ulaanbaatar","Ulaanbaatar",2028461
+"2157","MN.18","Central Aimak","Central Aimak",2028849
+"2158","MN.17","Sühbaatar","Suhbaatar",2029155
+"2159","MN.16","Selenge","Selenge",2029432
+"2160","MN.15","Övörhangay","OEvoerhangay",2029546
+"2161","MN.14","Ömnögovi","OEmnoegovi",2029669
+"2162","MN.13","Hövsgöl","Hovsgol",2030469
+"2163","MN.11","Hentiy","Hentiy",2030783
+"2164","MN.08","Middle Govi","Middle Govi",2031740
+"2165","MN.07","East Gobi Aymag","East Gobi Aymag",2031798
+"2166","MN.06","East Aimak","East Aimak",2031799
+"2167","MN.21","Bulgan","Bulgan",2032199
+"2168","MN.01","Arhangay","Arhangay",2032855
+"2169","MN.23","Darhan Uul","Darhan Uul",2055111
+"2170","MN.24","Govi-Sumber","Govi-Sumber",2055112
+"2171","MN.25","Orhon","Orhon",2055113
+"2172","MO.11875154","Nossa Senhora de Fátima","Nossa Senhora de Fatima",11875154
+"2173","MO.11875155","Santo António","Santo Antonio",11875155
+"2174","MO.11875156","São Lázaro","Sao Lazaro",11875156
+"2175","MO.11875157","Sé","Se",11875157
+"2176","MO.11875158","São Lourenço","Sao Lourenco",11875158
+"2177","MO.11875159","Nossa Senhora do Carmo","Nossa Senhora do Carmo",11875159
+"2178","MO.11875160","Cotai","Cotai",11875160
+"2179","MO.11875161","São Francisco Xavier","Sao Francisco Xavier",11875161
+"2180","MP.100","Rota","Rota",4041530
+"2181","MP.110","Saipan","Saipan",4041552
+"2182","MP.120","Tinian","Tinian",4041650
+"2183","MP.085","Northern Islands","Northern Islands",7733156
+"2184","MQ.MQ","Martinique","Martinique",6690603
+"2185","MR.06","Trarza","Trarza",2375742
+"2186","MR.11","Tiris Zemmour","Tiris Zemmour",2375989
+"2187","MR.09","Tagant","Tagant",2376551
+"2188","MR.12","Inchiri","Inchiri",2378903
+"2189","MR.02","Hodh El Gharbi","Hodh El Gharbi",2379024
+"2190","MR.01","Hodh Ech Chargi","Hodh Ech Chargi",2379025
+"2191","MR.10","Guidimaka","Guidimaka",2379216
+"2192","MR.04","Gorgol","Gorgol",2379384
+"2193","MR.08","Dakhlet Nouadhibou","Dakhlet Nouadhibou",2380426
+"2194","MR.05","Brakna","Brakna",2380635
+"2195","MR.03","Assaba","Assaba",2381344
+"2196","MR.07","Adrar","Adrar",2381972
+"2197","MR.13","Nouakchott Ouest","Nouakchott Ouest",11496391
+"2198","MR.14","Nouakchott Nord","Nouakchott Nord",11496392
+"2199","MR.15","Nouakchott Sud","Nouakchott Sud",11496393
+"2200","MS.03","Saint Peter","Saint Peter",3578039
+"2201","MS.02","Saint Georges","Saint Georges",3578044
+"2202","MS.01","Saint Anthony","Saint Anthony",3578045
+"2203","MT.01","Attard","Attard",8299700
+"2204","MT.02","Balzan","Balzan",8299701
+"2205","MT.03","Il-Birgu","Il-Birgu",8299702
+"2206","MT.04","Birkirkara","Birkirkara",8299703
+"2207","MT.05","Birzebbuga","Birzebbuga",8299704
+"2208","MT.06","Bormla","Bormla",8299705
+"2209","MT.07","Dingli","Dingli",8299706
+"2210","MT.08","Il-Fgura","Il-Fgura",8299707
+"2211","MT.09","Il-Furjana","Il-Furjana",8299708
+"2212","MT.10","Il-Fontana","Il-Fontana",8299709
+"2213","MT.11","Ghajnsielem","Ghajnsielem",8299710
+"2214","MT.12","L-Gharb","L-Gharb",8299711
+"2215","MT.13","Hal Gharghur","Hal Gharghur",8299712
+"2216","MT.14","L-Ghasri","L-Ghasri",8299713
+"2217","MT.15","Hal Ghaxaq","Hal Ghaxaq",8299714
+"2218","MT.16","Il-Gudja","Il-Gudja",8299715
+"2219","MT.17","Il-Gzira","Il-Gzira",8299716
+"2220","MT.18","Il-Hamrun","Il-Hamrun",8299717
+"2221","MT.19","L-Iklin","L-Iklin",8299718
+"2222","MT.20","L-Imdina","L-Imdina",8299719
+"2223","MT.21","L-Imgarr","L-Imgarr",8299720
+"2224","MT.22","L-Imqabba","L-Imqabba",8299721
+"2225","MT.23","L-Imsida","L-Imsida",8299722
+"2226","MT.24","Mtarfa","Mtarfa",8299723
+"2227","MT.25","Senglea","Senglea",8299724
+"2228","MT.26","Il-Kalkara","Il-Kalkara",8299725
+"2229","MT.27","Ta’ Kercem","Ta' Kercem",8299726
+"2230","MT.28","Kirkop","Kirkop",8299727
+"2231","MT.29","Lija","Lija",8299728
+"2232","MT.30","Luqa","Luqa",8299729
+"2233","MT.31","Il-Marsa","Il-Marsa",8299730
+"2234","MT.32","Marsaskala","Marsaskala",8299731
+"2235","MT.33","Marsaxlokk","Marsaxlokk",8299732
+"2236","MT.34","Il-Mellieha","Il-Mellieha",8299733
+"2237","MT.35","Il-Mosta","Il-Mosta",8299734
+"2238","MT.36","Il-Munxar","Il-Munxar",8299735
+"2239","MT.37","In-Nadur","In-Nadur",8299736
+"2240","MT.38","In-Naxxar","In-Naxxar",8299737
+"2241","MT.39","Paola","Paola",8299738
+"2242","MT.40","Pembroke","Pembroke",8299739
+"2243","MT.41","Tal-Pietà","Tal-Pieta",8299740
+"2244","MT.42","Il-Qala","Il-Qala",8299741
+"2245","MT.43","Qormi","Qormi",8299742
+"2246","MT.44","Il-Qrendi","Il-Qrendi",8299743
+"2247","MT.45","Ir-Rabat","Ir-Rabat",8299744
+"2248","MT.46","Victoria","Victoria",8299745
+"2249","MT.47","Safi","Safi",8299746
+"2250","MT.48","Saint John","Saint John",8299747
+"2251","MT.49","Saint Julian","Saint Julian",8299748
+"2252","MT.50","Saint Lawrence","Saint Lawrence",8299749
+"2253","MT.51","Saint Lucia","Saint Lucia",8299750
+"2254","MT.52","Saint Paul’s Bay","Saint Paul's Bay",8299751
+"2255","MT.53","Saint Venera","Saint Venera",8299752
+"2256","MT.54","Sannat","Sannat",8299753
+"2257","MT.55","Is-Siggiewi","Is-Siggiewi",8299754
+"2258","MT.56","Tas-Sliema","Tas-Sliema",8299755
+"2259","MT.57","Is-Swieqi","Is-Swieqi",8299756
+"2260","MT.58","Tarxien","Tarxien",8299757
+"2261","MT.59","Ta’ Xbiex","Ta' Xbiex",8299758
+"2262","MT.61","Ix-Xaghra","Ix-Xaghra",8299759
+"2263","MT.62","Ix-Xewkija","Ix-Xewkija",8299760
+"2264","MT.63","Ix-Xghajra","Ix-Xghajra",8299761
+"2265","MT.64","Haz-Zabbar","Haz-Zabbar",8299762
+"2266","MT.65","Haz-Zebbug","Haz-Zebbug",8299763
+"2267","MT.66","Iz-Zebbug","Iz-Zebbug",8299764
+"2268","MT.67","Iz-Zejtun","Iz-Zejtun",8299765
+"2269","MT.68","Iz-Zurrieq","Iz-Zurrieq",8299766
+"2270","MT.60","Valletta","Valletta",8334638
+"2271","MU.21","Agalega Islands","Agalega Islands",448254
+"2272","MU.20","Savanne","Savanne",934017
+"2273","MU.19","Rivière du Rempart","Riviere du Rempart",934090
+"2274","MU.18","Port Louis","Port Louis",934153
+"2275","MU.17","Plaines Wilhems","Plaines Wilhems",934166
+"2276","MU.16","Pamplemousses","Pamplemousses",934212
+"2277","MU.15","Moka","Moka",934275
+"2278","MU.14","Grand Port","Grand Port",934466
+"2279","MU.13","Flacq","Flacq",934522
+"2280","MU.12","Black River","Black River",934718
+"2281","MU.22","Cargados Carajos","Cargados Carajos",1106583
+"2282","MU.23","Rodrigues","Rodrigues",1547449
+"2283","MV.47","Vaavu Atholhu","Vaavu Atholhu",1281843
+"2284","MV.46","Thaa Atholhu","Thaa Atholhu",1281881
+"2285","MV.45","Shaviyani Atholhu","Shaviyani Atholhu",1281892
+"2286","MV.01","Seenu","Seenu",1281893
+"2287","MV.44","Raa Atoll","Raa Atoll",1281918
+"2288","MV.43","Noonu Atoll","Noonu Atoll",1281937
+"2289","MV.42","Gnyaviyani Atoll","Gnyaviyani Atoll",1281945
+"2290","MV.41","Meemu Atholhu","Meemu Atholhu",1281985
+"2291","MV.39","Lhaviyani Atholhu","Lhaviyani Atholhu",1282096
+"2292","MV.05","Laamu","Laamu",1282101
+"2293","MV.38","Kaafu Atoll","Kaafu Atoll",1282208
+"2294","MV.37","Haa Dhaalu Atholhu","Haa Dhaalu Atholhu",1282293
+"2295","MV.36","Haa Alifu Atholhu","Haa Alifu Atholhu",1282294
+"2296","MV.35","Gaafu Dhaalu Atoll","Gaafu Dhaalu Atoll",1282328
+"2297","MV.34","Gaafu Alif Atoll","Gaafu Alif Atoll",1282329
+"2298","MV.33","Faafu Atholhu","Faafu Atholhu",1282393
+"2299","MV.32","Dhaalu Atholhu","Dhaalu Atholhu",1282447
+"2300","MV.31","Baa Atholhu","Baa Atholhu",1282478
+"2301","MV.30","Northern Ari Atoll","Northern Ari Atoll",1282497
+"2302","MV.40","Male","Male",1337624
+"2303","MV.10346475","Southern Ari Atoll","Southern Ari Atoll",10346475
+"2304","MW.S","Southern Region","Southern Region",923817
+"2305","MW.N","Northern Region","Northern Region",924591
+"2306","MW.C","Central Region","Central Region",931597
+"2307","MX.31","Yucatán","Yucatan",3514211
+"2308","MX.30","Veracruz","Veracruz",3514780
+"2309","MX.29","Tlaxcala","Tlaxcala",3515359
+"2310","MX.28","Tamaulipas","Tamaulipas",3516391
+"2311","MX.27","Tabasco","Tabasco",3516458
+"2312","MX.23","Quintana Roo","Quintana Roo",3520887
+"2313","MX.22","Querétaro","Queretaro",3520914
+"2314","MX.21","Puebla","Puebla",3521082
+"2315","MX.20","Oaxaca","Oaxaca",3522509
+"2316","MX.19","Nuevo León","Nuevo Leon",3522542
+"2317","MX.17","Morelos","Morelos",3522961
+"2318","MX.15","México","Mexico",3523272
+"2319","MX.13","Hidalgo","Hidalgo",3527115
+"2320","MX.12","Guerrero","Guerrero",3527213
+"2321","MX.09","Mexico City","Mexico City",3527646
+"2322","MX.05","Chiapas","Chiapas",3531011
+"2323","MX.04","Campeche","Campeche",3531730
+"2324","MX.32","Zacatecas","Zacatecas",3979840
+"2325","MX.26","Sonora","Sonora",3982846
+"2326","MX.25","Sinaloa","Sinaloa",3983035
+"2327","MX.24","San Luis Potosí","San Luis Potosi",3985605
+"2328","MX.18","Nayarit","Nayarit",3995012
+"2329","MX.16","Michoacán","Michoacan",3995955
+"2330","MX.14","Jalisco","Jalisco",4004156
+"2331","MX.11","Guanajuato","Guanajuato",4005267
+"2332","MX.10","Durango","Durango",4011741
+"2333","MX.08","Colima","Colima",4013513
+"2334","MX.07","Coahuila","Coahuila",4013674
+"2335","MX.06","Chihuahua","Chihuahua",4014336
+"2336","MX.03","Baja California Sur","Baja California Sur",4017698
+"2337","MX.02","Baja California","Baja California",4017700
+"2338","MX.01","Aguascalientes","Aguascalientes",4019231
+"2339","MY.04","Melaka","Melaka",1733035
+"2340","MY.13","Terengganu","Terengganu",1733036
+"2341","MY.12","Selangor","Selangor",1733037
+"2342","MY.11","Sarawak","Sarawak",1733038
+"2343","MY.16","Sabah","Sabah",1733039
+"2344","MY.08","Perlis","Perlis",1733040
+"2345","MY.07","Perak","Perak",1733041
+"2346","MY.06","Pahang","Pahang",1733042
+"2347","MY.05","Negeri Sembilan","Negeri Sembilan",1733043
+"2348","MY.03","Kelantan","Kelantan",1733044
+"2349","MY.14","Kuala Lumpur","Kuala Lumpur",1733046
+"2350","MY.09","Penang","Penang",1733047
+"2351","MY.02","Kedah","Kedah",1733048
+"2352","MY.01","Johor","Johor",1733049
+"2353","MY.15","Labuan","Labuan",1734240
+"2354","MY.17","Putrajaya","Putrajaya",1996552
+"2355","MZ.09","Zambézia","Zambezia",1024312
+"2356","MZ.08","Tete","Tete",1026010
+"2357","MZ.05","Sofala","Sofala",1026804
+"2358","MZ.07","Niassa","Niassa",1030006
+"2359","MZ.06","Nampula","Nampula",1033354
+"2360","MZ.04","Maputo","Maputo",1040649
+"2361","MZ.10","Manica","Manica",1040947
+"2362","MZ.03","Inhambane","Inhambane",1045110
+"2363","MZ.02","Gaza","Gaza",1046058
+"2364","MZ.01","Cabo Delgado","Cabo Delgado",1051823
+"2365","MZ.11","Maputo City","Maputo City",1105845
+"2366","NA.28","Zambezi","Zambezi",1090052
+"2367","NA.21","Khomas","Khomas",3352137
+"2368","NA.29","Erongo","Erongo",3371199
+"2369","NA.30","Hardap","Hardap",3371200
+"2370","NA.31","Karas","Karas",3371201
+"2371","NA.32","Kunene","Kunene",3371202
+"2372","NA.33","Ohangwena","Ohangwena",3371203
+"2373","NA.35","Omaheke","Omaheke",3371205
+"2374","NA.36","Omusati","Omusati",3371206
+"2375","NA.37","Oshana","Oshana",3371207
+"2376","NA.38","Oshikoto","Oshikoto",3371208
+"2377","NA.39","Otjozondjupa","Otjozondjupa",3371209
+"2378","NA.40","Kavango East","Kavango East",8693188
+"2379","NA.41","Kavango West","Kavango West",8693189
+"2380","NC.02","South Province","South Province",2140464
+"2381","NC.01","North Province","North Province",2140685
+"2382","NC.03","Loyalty Islands","Loyalty Islands",7521415
+"2383","NE.07","Zinder","Zinder",2437797
+"2384","NE.06","Tahoua","Tahoua",2439374
+"2385","NE.04","Maradi","Maradi",2441289
+"2386","NE.03","Dosso","Dosso",2445486
+"2387","NE.02","Diffa","Diffa",2445702
+"2388","NE.01","Agadez","Agadez",2448083
+"2389","NE.09","Tillabéri","Tillaberi",2595293
+"2390","NE.08","Niamey","Niamey",2595294
+"2391","NG.51","Sokoto","Sokoto",2322907
+"2392","NG.50","Rivers","Rivers",2324433
+"2393","NG.49","Plateau","Plateau",2324828
+"2394","NG.32","Oyo","Oyo",2325190
+"2395","NG.48","Ondo","Ondo",2326168
+"2396","NG.16","Ogun","Ogun",2327546
+"2397","NG.31","Niger","Niger",2328925
+"2398","NG.05","Lagos","Lagos",2332453
+"2399","NG.30","Kwara","Kwara",2332785
+"2400","NG.24","Katsina","Katsina",2334797
+"2401","NG.29","Kano","Kano",2335196
+"2402","NG.23","Kaduna","Kaduna",2335722
+"2403","NG.28","Imo","Imo",2337542
+"2404","NG.22","Cross River","Cross River",2345891
+"2405","NG.27","Borno","Borno",2346794
+"2406","NG.26","Benue","Benue",2347266
+"2407","NG.46","Bauchi","Bauchi",2347468
+"2408","NG.25","Anambra","Anambra",2349961
+"2409","NG.21","Akwa Ibom","Akwa Ibom",2350813
+"2410","NG.11","FCT","FCT",2352776
+"2411","NG.45","Abia","Abia",2565340
+"2412","NG.36","Delta","Delta",2565341
+"2413","NG.35","Adamawa","Adamawa",2565342
+"2414","NG.37","Edo","Edo",2565343
+"2415","NG.47","Enugu","Enugu",2565344
+"2416","NG.39","Jigawa","Jigawa",2565345
+"2417","NG.52","Bayelsa","Bayelsa",2595344
+"2418","NG.53","Ebonyi","Ebonyi",2595345
+"2419","NG.54","Ekiti","Ekiti",2595346
+"2420","NG.55","Gombe","Gombe",2595347
+"2421","NG.56","Nassarawa","Nassarawa",2595348
+"2422","NG.57","Zamfara","Zamfara",2595349
+"2423","NG.40","Kebbi","Kebbi",2597363
+"2424","NG.41","Kogi","Kogi",2597364
+"2425","NG.42","Osun","Osun",2597365
+"2426","NG.43","Taraba","Taraba",2597366
+"2427","NG.44","Yobe","Yobe",2597367
+"2428","NI.15","Rivas","Rivas",3617051
+"2429","NI.14","Río San Juan","Rio San Juan",3617056
+"2430","NI.13","Nueva Segovia","Nueva Segovia",3617458
+"2431","NI.12","Matagalpa","Matagalpa",3617707
+"2432","NI.11","Masaya","Masaya",3617722
+"2433","NI.10","Managua","Managua",3617762
+"2434","NI.09","Madriz","Madriz",3617796
+"2435","NI.08","León","Leon",3618029
+"2436","NI.07","Jinotega","Jinotega",3618928
+"2437","NI.06","Granada","Granada",3619135
+"2438","NI.05","Estelí","Esteli",3619193
+"2439","NI.04","Chontales","Chontales",3620368
+"2440","NI.03","Chinandega","Chinandega",3620380
+"2441","NI.02","Carazo","Carazo",3620481
+"2442","NI.01","Boaco","Boaco",3620673
+"2443","NI.17","North Caribbean Coast","North Caribbean Coast",3830307
+"2444","NI.18","South Caribbean Coast","South Caribbean Coast",3830308
+"2445","NL.11","South Holland","South Holland",2743698
+"2446","NL.10","Zeeland","Zeeland",2744011
+"2447","NL.09","Utrecht","Utrecht",2745909
+"2448","NL.15","Overijssel","Overijssel",2748838
+"2449","NL.07","North Holland","North Holland",2749879
+"2450","NL.06","North Brabant","North Brabant",2749990
+"2451","NL.05","Limburg","Limburg",2751596
+"2452","NL.04","Groningen","Groningen",2755249
+"2453","NL.03","Gelderland","Gelderland",2755634
+"2454","NL.02","Friesland","Friesland",2755812
+"2455","NL.01","Drenthe","Drenthe",2756631
+"2456","NL.16","Flevoland","Flevoland",3319179
+"2457","NO.14","Rogaland","Rogaland",3141558
+"2458","NO.12","Oslo","Oslo",3143242
+"2459","NO.09","Nordland","Nordland",3144301
+"2460","NO.08","Møre og Romsdal","More og Romsdal",3145495
+"2461","NO.21","Trøndelag","Trondelag",11862827
+"2462","NO.30","Viken","Viken",12110595
+"2463","NO.42","Agder","Agder",12110596
+"2464","NO.54","Troms og Finnmark","Troms og Finnmark",12110597
+"2465","NO.34","Innlandet","Innlandet",12110598
+"2466","NO.38","Vestfold og Telemark","Vestfold og Telemark",12110599
+"2467","NO.46","Vestland","Vestland",12110600
+"2468","NP.1","Province 1","Province 1",12095447
+"2469","NP.2","Province 2","Province 2",12095448
+"2470","NP.3","Province 3","Province 3",12095449
+"2471","NP.4","Province 4","Province 4",12095450
+"2472","NP.5","Province 5","Province 5",12095451
+"2473","NP.6","Karnali Pradesh","Karnali Pradesh",12095452
+"2474","NP.7","Sudurpashchim Pradesh","Sudurpashchim Pradesh",12095453
+"2475","NR.14","Yaren","Yaren",2110418
+"2476","NR.13","Uaboe","Uaboe",2110420
+"2477","NR.12","Nibok","Nibok",2110423
+"2478","NR.11","Meneng","Meneng",2110431
+"2479","NR.10","Ijuw","Ijuw",2110432
+"2480","NR.09","Ewa","Ewa",2110435
+"2481","NR.08","Denigomodu","Denigomodu",2110437
+"2482","NR.07","Buada","Buada",2110440
+"2483","NR.06","Boe","Boe",2110441
+"2484","NR.05","Baiti","Baiti",2110442
+"2485","NR.04","Anibare","Anibare",2110445
+"2486","NR.03","Anetan","Anetan",2110448
+"2487","NR.02","Anabar","Anabar",2110449
+"2488","NR.01","Aiwo","Aiwo",2110451
+"2489","NZ.G2","Wellington","Wellington",2179538
+"2490","NZ.F3","Manawatu-Wanganui","Manawatu-Wanganui",2179671
+"2491","NZ.G1","Waikato","Waikato",2180293
+"2492","NZ.TAS","Tasman","Tasman",2181818
+"2493","NZ.F9","Taranaki","Taranaki",2181872
+"2494","NZ.F8","Southland","Southland",2182501
+"2495","NZ.E8","Bay of Plenty","Bay of Plenty",2182560
+"2496","NZ.F6","Northland","Northland",2185978
+"2497","NZ.F4","Marlborough","Marlborough",2187304
+"2498","NZ.F2","Hawke's Bay","Hawke's Bay",2190146
+"2499","NZ.F1","Gisborne","Gisborne",2190767
+"2500","NZ.E9","Canterbury","Canterbury",2192628
+"2501","NZ.E7","Auckland","Auckland",2193734
+"2502","NZ.10","Chatham Islands","Chatham Islands",4033013
+"2503","NZ.F5","Nelson","Nelson",6612108
+"2504","NZ.F7","Otago","Otago",6612109
+"2505","NZ.G3","West Coast","West Coast",6612113
+"2506","OM.01","Ad Dakhiliyah","Ad Dakhiliyah",411735
+"2507","OM.02","Al Batinah South","Al Batinah South",411736
+"2508","OM.03","Al Wustá","Al Wusta",411737
+"2509","OM.04","Southeastern Governorate","Southeastern Governorate",411738
+"2510","OM.09","Az¸ Z¸ahirah","Az Zahirah",411739
+"2511","OM.06","Muscat","Muscat",411740
+"2512","OM.07","Musandam","Musandam",411741
+"2513","OM.08","Dhofar","Dhofar",411742
+"2514","OM.10","Al Buraimi","Al Buraimi",7110710
+"2515","OM.12","Northeastern Governorate","Northeastern Governorate",8394433
+"2516","OM.11","Al Batinah North","Al Batinah North",8394434
+"2517","PA.10","Veraguas","Veraguas",3700159
+"2518","PA.09","Guna Yala","Guna Yala",3701537
+"2519","PA.08","Panamá","Panama",3703433
+"2520","PA.07","Los Santos","Los Santos",3704961
+"2521","PA.06","Herrera","Herrera",3708710
+"2522","PA.05","Darién","Darien",3711671
+"2523","PA.04","Colón","Colon",3712073
+"2524","PA.03","Coclé","Cocle",3712162
+"2525","PA.02","Chiriquí","Chiriqui",3712410
+"2526","PA.01","Bocas del Toro","Bocas del Toro",3713954
+"2527","PA.11","Emberá","Embera",7303686
+"2528","PA.12","Ngöbe-Buglé","Ngoebe-Bugle",7303688
+"2529","PA.13","Panamá Oeste","Panama Oeste",11353126
+"2530","PE.25","Ucayali","Ucayali",3691099
+"2531","PE.24","Tumbes","Tumbes",3691146
+"2532","PE.22","San Martín","San Martin",3692385
+"2533","PE.20","Piura","Piura",3693525
+"2534","PE.16","Loreto","Loreto",3695238
+"2535","PE.14","Lambayeque","Lambayeque",3695753
+"2536","PE.13","La Libertad","La Libertad",3695781
+"2537","PE.10","Huanuco","Huanuco",3696416
+"2538","PE.06","Cajamarca","Cajamarca",3699087
+"2539","PE.02","Ancash","Ancash",3699674
+"2540","PE.01","Amazonas","Amazonas",3699699
+"2541","PE.23","Tacna","Tacna",3928127
+"2542","PE.21","Puno","Puno",3931275
+"2543","PE.19","Pasco","Pasco",3932834
+"2544","PE.18","Moquegua","Moquegua",3934607
+"2545","PE.17","Madre de Dios","Madre de Dios",3935619
+"2546","PE.LMA","Lima","Lima",3936451
+"2547","PE.15","Lima region","Lima region",3936452
+"2548","PE.12","Junin","Junin",3937485
+"2549","PE.11","Ica","Ica",3938526
+"2550","PE.09","Huancavelica","Huancavelica",3939467
+"2551","PE.08","Cusco","Cusco",3941583
+"2552","PE.07","Callao","Callao",3946080
+"2553","PE.05","Ayacucho","Ayacucho",3947018
+"2554","PE.04","Arequipa","Arequipa",3947319
+"2555","PE.03","Apurímac","Apurimac",3947421
+"2556","PF.04","Îles Marquises","Iles Marquises",4019991
+"2557","PF.03","Îles Tuamotu-Gambier","Iles Tuamotu-Gambier",4030621
+"2558","PF.02","Leeward Islands","Leeward Islands",4034364
+"2559","PF.01","Îles du Vent","Iles du Vent",4034365
+"2560","PF.05","Îles Australes","Iles Australes",4034366
+"2561","PG.17","West New Britain","West New Britain",2083546
+"2562","PG.06","Western Province","Western Province",2083549
+"2563","PG.16","Western Highlands","Western Highlands",2083551
+"2564","PG.05","Southern Highlands","Southern Highlands",2086331
+"2565","PG.18","Sandaun","Sandaun",2087246
+"2566","PG.07","Bougainville","Bougainville",2089470
+"2567","PG.04","Northern Province","Northern Province",2089478
+"2568","PG.15","New Ireland","New Ireland",2089693
+"2569","PG.20","National Capital","National Capital",2089856
+"2570","PG.14","Morobe","Morobe",2090468
+"2571","PG.13","Manus","Manus",2091495
+"2572","PG.12","Madang","Madang",2091993
+"2573","PG.02","Gulf","Gulf",2096633
+"2574","PG.19","Enga","Enga",2097655
+"2575","PG.11","East Sepik","East Sepik",2097846
+"2576","PG.10","East New Britain","East New Britain",2097853
+"2577","PG.09","Eastern Highlands","Eastern Highlands",2097855
+"2578","PG.08","Chimbu","Chimbu",2098593
+"2579","PG.03","Milne Bay","Milne Bay",2132895
+"2580","PG.01","Central Province","Central Province",2133763
+"2581","PG.21","Hela","Hela",8521658
+"2582","PG.22","Jiwaka","Jiwaka",8521660
+"2583","PH.14","Autonomous Region in Muslim Mindanao","Autonomous Region in Muslim Mindanao",7115989
+"2584","PH.10","Northern Mindanao","Northern Mindanao",7521295
+"2585","PH.41","Mimaropa","Mimaropa",7521296
+"2586","PH.02","Cagayan Valley","Cagayan Valley",7521297
+"2587","PH.12","Soccsksargen","Soccsksargen",7521298
+"2588","PH.13","Caraga","Caraga",7521299
+"2589","PH.15","Cordillera","Cordillera",7521300
+"2590","PH.01","Ilocos","Ilocos",7521301
+"2591","PH.40","Calabarzon","Calabarzon",7521303
+"2592","PH.06","Western Visayas","Western Visayas",7521304
+"2593","PH.03","Central Luzon","Central Luzon",7521305
+"2594","PH.07","Central Visayas","Central Visayas",7521306
+"2595","PH.08","Eastern Visayas","Eastern Visayas",7521307
+"2596","PH.09","Zamboanga Peninsula","Zamboanga Peninsula",7521308
+"2597","PH.11","Davao","Davao",7521309
+"2598","PH.05","Bicol","Bicol",7521310
+"2599","PH.NCR","Metro Manila","Metro Manila",7521311
+"2600","PK.08","Islamabad","Islamabad",1162015
+"2601","PK.05","Sindh","Sindh",1164807
+"2602","PK.04","Punjab","Punjab",1167710
+"2603","PK.03","Khyber Pakhtunkhwa","Khyber Pakhtunkhwa",1168873
+"2604","PK.07","Gilgit-Baltistan","Gilgit-Baltistan",1168878
+"2605","PK.02","Balochistan","Balochistan",1183606
+"2606","PK.06","Azad Kashmir","Azad Kashmir",1184196
+"2607","PL.75","Lublin","Lublin",858785
+"2608","PL.77","Lesser Poland","Lesser Poland",858786
+"2609","PL.78","Mazovia","Mazovia",858787
+"2610","PL.80","Subcarpathia","Subcarpathia",858788
+"2611","PL.81","Podlasie","Podlasie",858789
+"2612","PL.84","Swietokrzyskie","Swietokrzyskie",858790
+"2613","PL.85","Warmia-Masuria","Warmia-Masuria",858791
+"2614","PL.72","Lower Silesia","Lower Silesia",3337492
+"2615","PL.74","Lódz Voivodeship","Lodz Voivodeship",3337493
+"2616","PL.76","Lubusz","Lubusz",3337494
+"2617","PL.79","Opole Voivodeship","Opole Voivodeship",3337495
+"2618","PL.82","Pomerania","Pomerania",3337496
+"2619","PL.83","Silesia","Silesia",3337497
+"2620","PL.86","Greater Poland","Greater Poland",3337498
+"2621","PL.87","West Pomerania","West Pomerania",3337499
+"2622","PL.73","Kujawsko-Pomorskie","Kujawsko-Pomorskie",3337500
+"2623","PM.97502","Saint-Pierre","Saint-Pierre",3424935
+"2624","PM.97501","Miquelon-Langlade","Miquelon-Langlade",3424938
+"2625","PR.001","Adjuntas","Adjuntas",4562487
+"2626","PR.003","Aguada","Aguada",4562503
+"2627","PR.005","Aguadilla","Aguadilla",4562512
+"2628","PR.007","Aguas Buenas","Aguas Buenas",4562516
+"2629","PR.009","Aibonito","Aibonito",4562531
+"2630","PR.011","Añasco","Anasco",4562605
+"2631","PR.013","Arecibo","Arecibo",4562640
+"2632","PR.015","Arroyo","Arroyo",4562682
+"2633","PR.017","Barceloneta","Barceloneta",4562771
+"2634","PR.019","Barranquitas","Barranquitas",4562779
+"2635","PR.021","Bayamón","Bayamon",4562837
+"2636","PR.023","Cabo Rojo","Cabo Rojo",4562997
+"2637","PR.025","Caguas","Caguas",4563011
+"2638","PR.027","Camuy","Camuy",4563065
+"2639","PR.029","Canóvanas","Canovanas",4563169
+"2640","PR.031","Carolina","Carolina",4563244
+"2641","PR.033","Cataño","Catano",4563299
+"2642","PR.035","Cayey","Cayey",4563309
+"2643","PR.037","Ceiba","Ceiba",4563380
+"2644","PR.039","Ciales","Ciales",4563774
+"2645","PR.041","Cidra","Cidra",4563778
+"2646","PR.043","Coamo","Coamo",4563812
+"2647","PR.045","Comerío","Comerio",4563921
+"2648","PR.047","Corozal","Corozal",4564004
+"2649","PR.049","Culebra","Culebra",4564071
+"2650","PR.051","Dorado","Dorado",4564134
+"2651","PR.053","Fajardo","Fajardo",4564949
+"2652","PR.054","Florida","Florida",4564993
+"2653","PR.055","Guánica","Guanica",4565091
+"2654","PR.057","Guayama","Guayama",4565107
+"2655","PR.059","Guayanilla","Guayanilla",4565112
+"2656","PR.061","Guaynabo","Guaynabo",4565120
+"2657","PR.063","Gurabo","Gurabo",4565126
+"2658","PR.065","Hatillo","Hatillo",4565348
+"2659","PR.067","Hormigueros","Hormigueros",4565381
+"2660","PR.069","Humacao","Humacao",4565449
+"2661","PR.071","Isabela","Isabela",4565581
+"2662","PR.073","Jayuya","Jayuya",4565684
+"2663","PR.075","Juana Díaz","Juana Diaz",4565713
+"2664","PR.077","Juncos","Juncos",4565720
+"2665","PR.079","Lajas","Lajas",4565900
+"2666","PR.081","Lares","Lares",4565910
+"2667","PR.083","Las Marías","Las Marias",4565961
+"2668","PR.085","Las Piedras","Las Piedras",4565981
+"2669","PR.087","Loíza","Loiza",4566025
+"2670","PR.089","Luquillo","Luquillo",4566106
+"2671","PR.091","Manatí","Manati",4566138
+"2672","PR.093","Maricao","Maricao",4566180
+"2673","PR.095","Maunabo","Maunabo",4566209
+"2674","PR.097","Mayagüez","Mayagueez",4566217
+"2675","PR.099","Moca","Moca",4566272
+"2676","PR.101","Morovis","Morovis",4566334
+"2677","PR.103","Naguabo","Naguabo",4566397
+"2678","PR.105","Naranjito","Naranjito",4566403
+"2679","PR.107","Orocovis","Orocovis",4566456
+"2680","PR.109","Patillas","Patillas",4566654
+"2681","PR.111","Peñuelas","Penuelas",4566689
+"2682","PR.113","Ponce","Ponce",4566886
+"2683","PR.117","Rincón","Rincon",4567727
+"2684","PR.115","Quebradillas","Quebradillas",4567734
+"2685","PR.119","Río Grande","Rio Grande",4567823
+"2686","PR.121","Sabana Grande","Sabana Grande",4568015
+"2687","PR.123","Salinas","Salinas",4568043
+"2688","PR.125","San Germán","San German",4568105
+"2689","PR.127","San Juan","San Juan",4568138
+"2690","PR.129","San Lorenzo","San Lorenzo",4568150
+"2691","PR.131","San Sebastián","San Sebastian",4568177
+"2692","PR.133","Santa Isabel","Santa Isabel",4568213
+"2693","PR.135","Toa Alta","Toa Alta",4568404
+"2694","PR.137","Toa Baja","Toa Baja",4568408
+"2695","PR.139","Trujillo Alto","Trujillo Alto",4568452
+"2696","PR.141","Utuado","Utuado",4568491
+"2697","PR.143","Vega Alta","Vega Alta",4568529
+"2698","PR.145","Vega Baja","Vega Baja",4568534
+"2699","PR.149","Villalba","Villalba",4568684
+"2700","PR.151","Yabucoa","Yabucoa",4568909
+"2701","PR.153","Yauco","Yauco",4568918
+"2702","PR.147","Vieques","Vieques",4568924
+"2703","PS.GZ","Gaza Strip","Gaza Strip",281132
+"2704","PS.WE","West Bank","West Bank",285153
+"2705","PT.19","District of Setúbal","District of Setubal",2262961
+"2706","PT.18","Santarém","Santarem",2263478
+"2707","PT.16","Portalegre","Portalegre",2264507
+"2708","PT.14","Lisbon","Lisbon",2267056
+"2709","PT.13","Leiria","Leiria",2267094
+"2710","PT.09","Faro","Faro",2268337
+"2711","PT.08","Évora","Evora",2268404
+"2712","PT.06","Castelo Branco","Castelo Branco",2269513
+"2713","PT.03","Beja","Beja",2270984
+"2714","PT.10","Madeira","Madeira",2593105
+"2715","PT.22","Viseu","Viseu",2732264
+"2716","PT.21","Vila Real","Vila Real",2732437
+"2717","PT.20","Viana do Castelo","Viana do Castelo",2732772
+"2718","PT.17","Porto","Porto",2735941
+"2719","PT.11","Guarda","Guarda",2738782
+"2720","PT.07","Coimbra","Coimbra",2740636
+"2721","PT.05","Bragança","Braganca",2742026
+"2722","PT.04","Braga","Braga",2742031
+"2723","PT.02","Aveiro","Aveiro",2742610
+"2724","PT.23","Azores","Azores",3411865
+"2725","PW.11","Ngatpang","Ngatpang",1559532
+"2726","PW.16","Sonsorol","Sonsorol",1559630
+"2727","PW.05","Kayangel","Kayangel",1559774
+"2728","PW.04","Hatohobei","Hatohobei",1559776
+"2729","PW.01","Aimeliik","Aimeliik",1559964
+"2730","PW.02","Airai","Airai",4037645
+"2731","PW.03","Angaur","Angaur",4037653
+"2732","PW.06","Koror","Koror",4037892
+"2733","PW.07","Melekeok","Melekeok",4037930
+"2734","PW.08","Ngaraard","Ngaraard",4037962
+"2735","PW.12","Ngchesar","Ngchesar",4037976
+"2736","PW.09","Ngarchelong","Ngarchelong",4038037
+"2737","PW.10","Ngardmau","Ngardmau",4038043
+"2738","PW.13","Ngaremlengui","Ngaremlengui",4038068
+"2739","PW.14","Ngiwal","Ngiwal",4038179
+"2740","PW.15","Peleliu","Peleliu",4038261
+"2741","PY.17","San Pedro","San Pedro",3437027
+"2742","PY.16","Presidente Hayes","Presidente Hayes",3437443
+"2743","PY.15","Paraguarí","Paraguari",3437599
+"2744","PY.13","Ñeembucú","Neembucu",3437677
+"2745","PY.12","Misiones","Misiones",3437727
+"2746","PY.11","Itapúa","Itapua",3437923
+"2747","PY.10","Guairá","Guaira",3438049
+"2748","PY.08","Cordillera","Cordillera",3438827
+"2749","PY.07","Concepción","Concepcion",3438833
+"2750","PY.06","Central","Central",3439137
+"2751","PY.19","Canindeyú","Canindeyu",3439216
+"2752","PY.05","Caazapá","Caazapa",3439296
+"2753","PY.04","Caaguazú","Caaguazu",3439312
+"2754","PY.02","Amambay","Amambay",3439433
+"2755","PY.01","Alto Paraná","Alto Parana",3439440
+"2756","PY.23","Alto Paraguay","Alto Paraguay",3439441
+"2757","PY.22","Asunción","Asuncion",3474570
+"2758","PY.24","Boquerón","Boqueron",3867442
+"2759","QA.08","Madinat ash Shamal","Madinat ash Shamal",389462
+"2760","QA.04","Al Khor","Al Khor",389465
+"2761","QA.09","Baladiyat Umm Salal","Baladiyat Umm Salal",389467
+"2762","QA.06","Baladiyat ar Rayyan","Baladiyat ar Rayyan",389469
+"2763","QA.01","Baladiyat ad Daw<U+1E29>ah","Baladiyat ad Dawhah",389470
+"2764","QA.10","Al Wakrah","Al Wakrah",389472
+"2765","QA.13","Baladiyat az¸ Z¸a‘ayin","Baladiyat az Za`ayin",8030540
+"2766","QA.14","Al-Shahaniya","Al-Shahaniya",11777514
+"2767","RE.RE","Réunion","Reunion",6690283
+"2768","RO.40","Vrancea","Vrancea",662447
+"2769","RO.39","Vâlcea","Valcea",662892
+"2770","RO.38","Vaslui","Vaslui",663116
+"2771","RO.37","Tulcea","Tulcea",664517
+"2772","RO.36","Timis","Timis",665091
+"2773","RO.35","Teleorman","Teleorman",665283
+"2774","RO.34","Suceava","Suceava",665849
+"2775","RO.33","Sibiu","Sibiu",667267
+"2776","RO.32","Satu Mare","Satu Mare",667869
+"2777","RO.31","Salaj","Salaj",668248
+"2778","RO.30","Prahova","Prahova",669737
+"2779","RO.29","Olt","Olt",671857
+"2780","RO.28","Neamt","Neamt",672460
+"2781","RO.27","Mures","Mures",672628
+"2782","RO.26","Mehedinti","Mehedinti",673612
+"2783","RO.25","Maramures","Maramures",673887
+"2784","RO.23","Iasi","Iasi",675809
+"2785","RO.22","Ialomita","Ialomita",675848
+"2786","RO.21","Hunedoara","Hunedoara",675917
+"2787","RO.20","Harghita","Harghita",676309
+"2788","RO.19","Gorj","Gorj",676898
+"2789","RO.42","Giurgiu","Giurgiu",677104
+"2790","RO.18","Galati","Galati",677692
+"2791","RO.17","Dolj","Dolj",679134
+"2792","RO.16","Dâmbovita","Dambovita",679385
+"2793","RO.15","Covasna","Covasna",680428
+"2794","RO.14","Constan<U+021B>a","Constanta",680962
+"2795","RO.13","Cluj","Cluj",681291
+"2796","RO.12","Caras-Severin","Caras-Severin",682714
+"2797","RO.41","Calarasi","Calarasi",683016
+"2798","RO.11","Buzau","Buzau",683121
+"2799","RO.10","Bucuresti","Bucuresti",683504
+"2800","RO.09","Brasov","Brasov",683843
+"2801","RO.08","Braila","Braila",683901
+"2802","RO.07","Botosani","Botosani",684038
+"2803","RO.06","Bistrita-Nasaud","Bistrita-Nasaud",684647
+"2804","RO.05","Bihor","Bihor",684878
+"2805","RO.04","Bacau","Bacau",685947
+"2806","RO.03","Arges","Arges",686192
+"2807","RO.02","Arad","Arad",686253
+"2808","RO.01","Alba","Alba",686581
+"2809","RO.43","Ilfov","Ilfov",865518
+"2810","RS.VO","Vojvodina","Vojvodina",784272
+"2811","RS.SE","Central Serbia","Central Serbia",785958
+"2812","RU.88","Jaroslavl","Jaroslavl",468898
+"2813","RU.86","Voronezj","Voronezj",472039
+"2814","RU.85","Vologda","Vologda",472454
+"2815","RU.84","Volgograd Oblast","Volgograd Oblast",472755
+"2816","RU.81","Ulyanovsk","Ulyanovsk",479119
+"2817","RU.80","Udmurtiya Republic","Udmurtiya Republic",479613
+"2818","RU.77","Tver’ Oblast","Tver' Oblast",480041
+"2819","RU.76","Tula","Tula",480508
+"2820","RU.73","Tatarstan Republic","Tatarstan Republic",484048
+"2821","RU.72","Tambov","Tambov",484638
+"2822","RU.70","Stavropol’ Kray","Stavropol' Kray",487839
+"2823","RU.69","Smolensk","Smolensk",491684
+"2824","RU.67","Saratovskaya Oblast","Saratovskaya Oblast",498671
+"2825","RU.65","Samara Oblast","Samara Oblast",499068
+"2826","RU.62","Ryazan Oblast","Ryazan Oblast",500059
+"2827","RU.61","Rostov","Rostov",501165
+"2828","RU.60","Pskov Oblast","Pskov Oblast",504338
+"2829","RU.90","Perm","Perm",511180
+"2830","RU.57","Penza","Penza",511555
+"2831","RU.56","Orel Oblast","Orel Oblast",514801
+"2832","RU.55","Orenburg Oblast","Orenburg Oblast",515001
+"2833","RU.52","Novgorod Oblast","Novgorod Oblast",519324
+"2834","RU.68","North Ossetia","North Ossetia",519969
+"2835","RU.50","Nenets","Nenets",522652
+"2836","RU.49","Murmansk","Murmansk",524304
+"2837","RU.48","Moscow","Moscow",524894
+"2838","RU.47","Moscow Oblast","Moscow Oblast",524925
+"2839","RU.46","Mordoviya Republic","Mordoviya Republic",525369
+"2840","RU.45","Mariy-El Republic","Mariy-El Republic",529352
+"2841","RU.43","Lipetsk Oblast","Lipetsk Oblast",535120
+"2842","RU.42","Leningradskaya Oblast'","Leningradskaya Oblast'",536199
+"2843","RU.66","St.-Petersburg","St.-Petersburg",536203
+"2844","RU.41","Kursk","Kursk",538555
+"2845","RU.38","Krasnodarskiy","Krasnodarskiy",542415
+"2846","RU.37","Kostroma Oblast","Kostroma Oblast",543871
+"2847","RU.34","Komi","Komi",545854
+"2848","RU.33","Kirov","Kirov",548389
+"2849","RU.28","Karelia","Karelia",552548
+"2850","RU.27","Karachayevo-Cherkesiya Republic","Karachayevo-Cherkesiya Republic",552927
+"2851","RU.25","Kaluga","Kaluga",553899
+"2852","RU.24","Kalmykiya Republic","Kalmykiya Republic",553972
+"2853","RU.23","Kaliningrad","Kaliningrad",554230
+"2854","RU.22","Kabardino-Balkariya Republic","Kabardino-Balkariya Republic",554667
+"2855","RU.21","Ivanovo","Ivanovo",555235
+"2856","RU.19","Ingushetiya Republic","Ingushetiya Republic",556349
+"2857","RU.51","Nizhny Novgorod Oblast","Nizhny Novgorod Oblast",559838
+"2858","RU.17","Dagestan","Dagestan",567293
+"2859","RU.16","Chuvashia","Chuvashia",567395
+"2860","RU.12","Chechnya","Chechnya",569665
+"2861","RU.10","Bryansk Oblast","Bryansk Oblast",571473
+"2862","RU.09","Belgorod Oblast","Belgorod Oblast",578071
+"2863","RU.08","Bashkortostan Republic","Bashkortostan Republic",578853
+"2864","RU.07","Astrakhan","Astrakhan",580491
+"2865","RU.06","Arkhangelskaya","Arkhangelskaya",581043
+"2866","RU.01","Adygeya Republic","Adygeya Republic",584222
+"2867","RU.83","Vladimir","Vladimir",826294
+"2868","RU.87","Yamalo-Nenets","Yamalo-Nenets",1486462
+"2869","RU.78","Tyumen’ Oblast","Tyumen' Oblast",1488747
+"2870","RU.79","Republic of Tyva","Republic of Tyva",1488873
+"2871","RU.75","Tomsk Oblast","Tomsk Oblast",1489421
+"2872","RU.71","Sverdlovsk","Sverdlovsk",1490542
+"2873","RU.54","Omsk","Omsk",1496152
+"2874","RU.53","Novosibirsk Oblast","Novosibirsk Oblast",1496745
+"2875","RU.40","Kurgan Oblast","Kurgan Oblast",1501312
+"2876","RU.91","Krasnoyarskiy","Krasnoyarskiy",1502020
+"2877","RU.32","Khanty-Mansia","Khanty-Mansia",1503773
+"2878","RU.31","Khakasiya Republic","Khakasiya Republic",1503834
+"2879","RU.29","Kemerovo Oblast","Kemerovo Oblast",1503900
+"2880","RU.03","Altai","Altai",1506272
+"2881","RU.13","Chelyabinsk","Chelyabinsk",1508290
+"2882","RU.04","Altai Krai","Altai Krai",1511732
+"2883","RU.63","Sakha","Sakha",2013162
+"2884","RU.59","Primorskiy (Maritime) Kray","Primorskiy (Maritime) Kray",2017623
+"2885","RU.30","Khabarovsk","Khabarovsk",2022888
+"2886","RU.20","Irkutsk Oblast","Irkutsk Oblast",2023468
+"2887","RU.89","Jewish Autonomous Oblast","Jewish Autonomous Oblast",2026639
+"2888","RU.05","Amur Oblast","Amur Oblast",2027748
+"2889","RU.11","Buryatiya Republic","Buryatiya Republic",2050915
+"2890","RU.64","Sakhalin Oblast","Sakhalin Oblast",2121529
+"2891","RU.44","Magadan Oblast","Magadan Oblast",2123627
+"2892","RU.92","Kamchatka","Kamchatka",2125072
+"2893","RU.15","Chukotka","Chukotka",2126099
+"2894","RU.93","Transbaikal Territory","Transbaikal Territory",7779061
+"2895","RW.11","Eastern Province","Eastern Province",6413337
+"2896","RW.12","Kigali","Kigali",6413338
+"2897","RW.13","Northern Province","Northern Province",6413339
+"2898","RW.14","Western Province","Western Province",6413340
+"2899","RW.15","Southern Province","Southern Province",6413341
+"2900","SA.19","Tabuk","Tabuk",101627
+"2901","SA.16","Najran","Najran",103628
+"2902","SA.14","Makkah","Makkah",104514
+"2903","SA.17","Jizan","Jizan",105298
+"2904","SA.13","<U+1E28>a'il","Hai'l Region",106280
+"2905","SA.11","'Asir","'Asir",108179
+"2906","SA.06","Eastern Province","Eastern Province",108241
+"2907","SA.10","Ar Riya<U+1E11>","Ar Riyad",108411
+"2908","SA.08","Al-Qassim","Al-Qassim",108933
+"2909","SA.05","Al Madinah al Munawwarah","Al Madinah al Munawwarah",109224
+"2910","SA.20","Al Jawf","Al Jawf",109470
+"2911","SA.15","Northern Borders","Northern Borders",109579
+"2912","SA.02","Al Bahah","Al Bahah",109954
+"2913","SB.11","Western Province","Western Province",2101556
+"2914","SB.03","Malaita","Malaita",2106552
+"2915","SB.07","Isabel","Isabel",2108262
+"2916","SB.06","Guadalcanal","Guadalcanal",2108831
+"2917","SB.10","Central Province","Central Province",2109495
+"2918","SB.09","Temotu","Temotu",2178472
+"2919","SB.08","Makira","Makira",2178730
+"2920","SB.12","Choiseul","Choiseul",7280292
+"2921","SB.13","Rennell and Bellona","Rennell and Bellona",7280293
+"2922","SB.14","Honiara","Honiara",9259067
+"2923","SC.23","Takamaka","Takamaka",241151
+"2924","SC.22","Saint Louis","Saint Louis",241181
+"2925","SC.27","Port Glaud","Port Glaud",241215
+"2926","SC.20","Pointe Larue","Pointe Larue",241221
+"2927","SC.19","Plaisance","Plaisance",241224
+"2928","SC.18","Mont Fleuri","Mont Fleuri",241251
+"2929","SC.17","Mont Buxton","Mont Buxton",241252
+"2930","SC.26","English River","English River",241302
+"2931","SC.25","Inner Islands","Inner Islands",241311
+"2932","SC.24","Grand Anse Mahe","Grand Anse Mahe",241330
+"2933","SC.14","Grand Anse Praslin","Grand Anse Praslin",241331
+"2934","SC.12","Glacis","Glacis",241336
+"2935","SC.11","Cascade","Cascade",241396
+"2936","SC.10","Bel Ombre","Bel Ombre",241424
+"2937","SC.09","Bel Air","Bel Air",241426
+"2938","SC.08","Beau Vallon","Beau Vallon",241428
+"2939","SC.07","Baie Sainte Anne","Baie Sainte Anne",241438
+"2940","SC.06","Baie Lazare","Baie Lazare",241439
+"2941","SC.05","Anse Royale","Anse Royale",241444
+"2942","SC.03","Anse Etoile","Anse Etoile",241447
+"2943","SC.02","Anse Boileau","Anse Boileau",241449
+"2944","SC.01","Anse-aux-Pins","Anse-aux-Pins",241450
+"2945","SC.29","Les Mamelles","Les Mamelles",448408
+"2946","SC.30","Roche Caiman","Roche Caiman",448409
+"2947","SC.28","Au Cap","Au Cap",448410
+"2948","SC.11876017","Outer Islands","Outer Islands",11876017
+"2949","SD.43","Northern State","Northern State",378389
+"2950","SD.29","Khartoum","Khartoum",379253
+"2951","SD.36","Red Sea","Red Sea",408646
+"2952","SD.38","Al Jazirah","Al Jazirah",408648
+"2953","SD.39","Al Qa<U+1E11>arif","Al Qadarif",408649
+"2954","SD.41","White Nile","White Nile",408653
+"2955","SD.42","Blue Nile","Blue Nile",408654
+"2956","SD.47","Western Darfur","Western Darfur",408658
+"2957","SD.62","West Kordofan State","West Kordofan State",408659
+"2958","SD.49","Southern Darfur","Southern Darfur",408660
+"2959","SD.50","Southern Kordofan","Southern Kordofan",408661
+"2960","SD.52","Kassala","Kassala",408663
+"2961","SD.53","River Nile","River Nile",408664
+"2962","SD.55","Northern Darfur","Northern Darfur",408666
+"2963","SD.56","North Kordofan","North Kordofan",408667
+"2964","SD.58","Sinnar","Sinnar",408669
+"2965","SD.60","Eastern Darfur","Eastern Darfur",8394435
+"2966","SD.61","Central Darfur","Central Darfur",8394436
+"2967","SE.14","Norrbotten","Norrbotten",604010
+"2968","SE.25","Västmanland","Vaestmanland",2664179
+"2969","SE.24","Västernorrland","Vaesternorrland",2664292
+"2970","SE.23","Västerbotten","Vaesterbotten",2664415
+"2971","SE.22","Värmland","Vaermland",2664870
+"2972","SE.21","Uppsala","Uppsala",2666218
+"2973","SE.26","Stockholm","Stockholm",2673722
+"2974","SE.18","Södermanland","Soedermanland",2676207
+"2975","SE.16","Östergötland","OEstergoetland",2685867
+"2976","SE.15","Örebro","OErebro",2686655
+"2977","SE.12","Kronoberg","Kronoberg",2699050
+"2978","SE.10","Dalarna","Dalarna",2699767
+"2979","SE.09","Kalmar","Kalmar",2702259
+"2980","SE.08","Jönköping","Joenkoeping",2702976
+"2981","SE.07","Jämtland","Jaemtland",2703330
+"2982","SE.06","Halland","Halland",2708794
+"2983","SE.05","Gotland","Gotland",2711508
+"2984","SE.03","Gävleborg","Gaevleborg",2712411
+"2985","SE.02","Blekinge","Blekinge",2721357
+"2986","SE.27","Skåne","Skane",3337385
+"2987","SE.28","Västra Götaland","Vaestra Goetaland",3337386
+"2988","SH.01","Ascension","Ascension",2411430
+"2989","SH.03","Tristan da Cunha","Tristan da Cunha",3370684
+"2990","SH.02","Saint Helena","Saint Helena",6930057
+"2991","SI.N5","Žalec","Zalec",3186843
+"2992","SI.E7","Zagorje ob Savi","Zagorje ob Savi",3186905
+"2993","SI.E5","Vrhnika","Vrhnika",3187213
+"2994","SI.D5","Tržic","Trzic",3188687
+"2995","SI.D4","Trebnje","Trebnje",3188885
+"2996","SI.D3","Trbovlje","Trbovlje",3188914
+"2997","SI.D2","Tolmin","Tolmin",3189037
+"2998","SI.D7","Velenje","Velenje",3189074
+"2999","SI.C5","Šmarje pri Jelšah","Smarje pri Jelsah",3190509
+"3000","SI.C4","Slovenska Konjice","Slovenska Konjice",3190529
+"3001","SI.L8","Slovenska Bistrica","Slovenska Bistrica",3190533
+"3002","SI.C2","Slovenj Gradec","Slovenj Gradec",3190535
+"3003","SI.B9","Škofja Loka","Skofja Loka",3190716
+"3004","SI.B7","Sežana","Sezana",3190944
+"3005","SI.B6","Sevnica","Sevnica",3190949
+"3006","SI.L7","Sentjur","Sentjur",3191028
+"3007","SI.L1","Ribnica","Ribnica",3191679
+"3008","SI.A3","Radovljica","Radovljica",3192062
+"3009","SI.A2","Radlje ob Dravi","Radlje ob Dravi",3192120
+"3010","SI.K7","Ptuj","Ptuj",3192240
+"3011","SI.94","Postojna","Postojna",3192672
+"3012","SI.J9","Piran-Pirano","Piran-Pirano",3193340
+"3013","SI.87","Ormož","Ormoz",3193964
+"3014","SI.J7","Novo Mesto","Novo Mesto",3194350
+"3015","SI.84","Nova Gorica","Nova Gorica",3194451
+"3016","SI.80","Murska Sobota","Murska Sobota",3194647
+"3017","SI.79","Mozirje","Mozirje",3194791
+"3018","SI.73","Metlika","Metlika",3195213
+"3019","SI.J2","Maribor","Maribor",3195505
+"3020","SI.64","Logatec","Logatec",3196288
+"3021","SI.I6","Ljutomer","Ljutomer",3196306
+"3022","SI.I5","Litija","Litija",3196424
+"3023","SI.I3","Lenart","Lenart",3196684
+"3024","SI.57","Laško","Lasko",3196759
+"3025","SI.54","Krško","Krsko",3197146
+"3026","SI.52","Kranj","Kranj",3197377
+"3027","SI.50","Koper-Capodistria","Koper-Capodistria",3197752
+"3028","SI.H7","Kocevje","Kocevje",3197942
+"3029","SI.H6","Kamnik","Kamnik",3198364
+"3030","SI.H4","Jesenice","Jesenice",3198646
+"3031","SI.40","Izola-Isola","Izola-Isola",3199016
+"3032","SI.38","Ilirska Bistrica","Ilirska Bistrica",3199130
+"3033","SI.36","Idrija","Idrija",3199169
+"3034","SI.34","Hrastnik","Hrastnik",3199296
+"3035","SI.32","Grosuplje","Grosuplje",3199522
+"3036","SI.29","Gornja Radgona","Gornja Radgona",3200196
+"3037","SI.25","Dravograd","Dravograd",3201252
+"3038","SI.G7","Domžale","Domzale",3201729
+"3039","SI.17","Crnomelj","Crnomelj",3202332
+"3040","SI.13","Cerknica","Cerknica",3202707
+"3041","SI.11","Celje","Celje",3202780
+"3042","SI.08","Brežice","Brezice",3203411
+"3043","SI.01","Ajdovšcina","Ajdovscina",3204853
+"3044","SI.35","Hrpelje-Kozina","Hrpelje-Kozina",3239050
+"3045","SI.19","Divaca","Divaca",3239051
+"3046","SI.91","Pivka","Pivka",3239054
+"3047","SI.I7","Loška Dolina","Loska Dolina",3239056
+"3048","SI.66","Loški Potok","Loski Potok",3239059
+"3049","SI.88","Osilnica","Osilnica",3239061
+"3050","SI.D8","Velike Lašce","Velike Lasce",3239062
+"3051","SI.C1","Škofljica","Skofljica",3239066
+"3052","SI.37","Ig","Ig",3239069
+"3053","SI.09","Brezovica","Brezovica",3239071
+"3054","SI.05","Borovnica","Borovnica",3239073
+"3055","SI.E1","Vipava","Vipava",3239075
+"3056","SI.49","Komen","Komen",3239078
+"3057","SI.J5","Miren-Kostanjevica","Miren-Kostanjevica",3239080
+"3058","SI.07","Brda","Brda",3239083
+"3059","SI.44","Kanal","Kanal",3239086
+"3060","SI.F2","Žiri","Ziri",3239087
+"3061","SI.14","Cerkno","Cerkno",3239091
+"3062","SI.F1","Železniki","Zelezniki",3239093
+"3063","SI.27","Gorenja Vas-Poljane","Gorenja Vas-Poljane",3239095
+"3064","SI.G4","Dobrova-Horjul-Polhov Gradec","Dobrova-Horjul-Polhov Gradec",3239096
+"3065","SI.46","Kobarid","Kobarid",3239098
+"3066","SI.06","Bovec","Bovec",3239100
+"3067","SI.04","Bohinj","Bohinj",3239101
+"3068","SI.03","Bled","Bled",3239103
+"3069","SI.82","Naklo","Naklo",3239104
+"3070","SI.53","Kranjska Gora","Kranjska Gora",3239105
+"3071","SI.K5","Preddvor","Preddvor",3239107
+"3072","SI.12","Cerklje na Gorenjskem","Cerklje na Gorenjskem",3239110
+"3073","SI.B2","Šencur","Sencur",3239111
+"3074","SI.E3","Vodice","Vodice",3239112
+"3075","SI.71","Medvode","Medvode",3239113
+"3076","SI.72","Mengeš","Menges",3239114
+"3077","SI.22","Dol pri Ljubljani","Dol pri Ljubljani",3239115
+"3078","SI.77","Moravce","Moravce",3239132
+"3079","SI.30","Gornji Grad","Gornji Grad",3239133
+"3080","SI.I9","Luce","Luce",3239134
+"3081","SI.K8","Ravne na Koroškem","Ravne na Koroskem",3239175
+"3082","SI.74","Mežica","Mezica",3239177
+"3083","SI.81","Muta","Muta",3239179
+"3084","SI.E6","Vuzenica","Vuzenica",3239180
+"3085","SI.16","Crna na Koroškem","Crna na Koroskem",3239181
+"3086","SI.62","Ljubno","Ljubno",3239184
+"3087","SI.C7","Šoštanj","Sostanj",3239185
+"3088","SI.C6","Šmartno ob Paki","Smartno ob Paki",3239187
+"3089","SI.68","Lukovica","Lukovica",3239188
+"3090","SI.99","Radece","Radece",3239189
+"3091","SI.39","Ivancna Gorica","Ivancna Gorica",3239191
+"3092","SI.20","Dobrepolje","Dobrepolje",3239193
+"3093","SI.B1","Semic","Semic",3239195
+"3094","SI.B4","Šentjernej","Sentjernej",3239197
+"3095","SI.B8","Škocjan","Skocjan",3239199
+"3096","SI.C9","Štore","Store",3239200
+"3097","SI.N3","Vojnik","Vojnik",3239202
+"3098","SI.E2","Vitanje","Vitanje",3239204
+"3099","SI.F3","Zrece","Zrece",3239205
+"3100","SI.76","Mislinja","Mislinja",3239207
+"3101","SI.L3","Ruše","Ruse",3239211
+"3102","SI.55","Kungota","Kungota",3239213
+"3103","SI.B3","Šentilj","Sentilj",3239214
+"3104","SI.89","Pesnica","Pesnica",3239215
+"3105","SI.26","Duplek","Duplek",3239216
+"3106","SI.98","Race-Fram","Race-Fram",3239224
+"3107","SI.C8","Starše","Starse",3239226
+"3108","SI.45","Kidricevo","Kidricevo",3239227
+"3109","SI.J1","Majšperk","Majsperk",3239229
+"3110","SI.N2","Videm","Videm",3239231
+"3111","SI.A7","Rogaška Slatina","Rogaska Slatina",3239234
+"3112","SI.A8","Rogatec","Rogatec",3239237
+"3113","SI.92","Podcetrtek","Podcetrtek",3239241
+"3114","SI.51","Kozje","Kozje",3239243
+"3115","SI.28","Gorišnica","Gorisnica",3239245
+"3116","SI.E9","Zavrc","Zavrc",3239247
+"3117","SI.24","Dornava","Dornava",3239248
+"3118","SI.42","Juršinci","Jursinci",3239251
+"3119","SI.D1","Sveti Jurij","Sveti Jurij",3239259
+"3120","SI.A1","Radenci","Radenci",3239262
+"3121","SI.97","Puconci","Puconci",3239268
+"3122","SI.A6","Rogašovci","Rogasovci",3239270
+"3123","SI.I2","Kuzma","Kuzma",3239272
+"3124","SI.31","Gornji Petrovci","Gornji Petrovci",3239275
+"3125","SI.78","Moravske Toplice","Moravske Toplice",3239279
+"3126","SI.47","Kobilje","Kobilje",3239280
+"3127","SI.02","Beltinci","Beltinci",3239282
+"3128","SI.D6","Turnišce","Turnisce",3239283
+"3129","SI.86","Odranci","Odranci",3239285
+"3130","SI.15","Crenšovci","Crensovci",3239286
+"3131","SI.83","Nazarje","Nazarje",3239294
+"3132","SI.61","Ljubljana","Ljubljana",3239318
+"3133","SI.N7","Žirovnica","Zirovnica",3344893
+"3134","SI.H5","Jezersko","Jezersko",3344894
+"3135","SI.M2","Solcava","Solcava",3344895
+"3136","SI.H8","Komenda","Komenda",3344896
+"3137","SI.H3","Horjul","Horjul",3344897
+"3138","SI.L6","Šempeter-Vrtojba","Sempeter-Vrtojba",3344898
+"3139","SI.F6","Bloke","Bloke",3344899
+"3140","SI.M1","Sodražica","Sodrazica",3344900
+"3141","SI.M8","Trzin","Trzin",3344901
+"3142","SI.K6","Prevalje","Prevalje",3344902
+"3143","SI.N4","Vransko","Vransko",3344903
+"3144","SI.M5","Tabor","Tabor",3344904
+"3145","SI.F7","Braslovce","Braslovce",3344905
+"3146","SI.K3","Polzela","Polzela",3344906
+"3147","SI.K4","Prebold","Prebold",3344907
+"3148","SI.H9","Kostel","Kostel",3344908
+"3149","SI.N8","Žužemberk","Zuzemberk",3344909
+"3150","SI.G6","Dolenjske Toplice","Dolenjske Toplice",3344910
+"3151","SI.J6","Mirna Pec","Mirna Pec",3344911
+"3152","SI.F5","Bistrica ob Sotli","Bistrica ob Sotli",3344912
+"3153","SI.G2","Dobje","Dobje",3344913
+"3154","SI.G3","Dobrna","Dobrna",3344914
+"3155","SI.J8","Oplotnica","Oplotnica",3344915
+"3156","SI.K2","Podvelka","Podvelka",3344916
+"3157","SI.L2","Ribnica na Pohorju","Ribnica na Pohorju",3344917
+"3158","SI.I8","Lovrenc na Pohorju","Lovrenc na Pohorju",3344918
+"3159","SI.L5","Selnica ob Dravi","Selnica ob Dravi",3344919
+"3160","SI.H1","Hoce-Slivnica","Hoce-Slivnica",3344920
+"3161","SI.J4","Miklavž na Dravskem Polju","Miklavz na Dravskem Polju",3344921
+"3162","SI.G9","Hajdina","Hajdina",3344922
+"3163","SI.N6","Žetale","Zetale",3344923
+"3164","SI.K1","Podlehnik","Podlehnik",3344924
+"3165","SI.J3","Markovci","Markovci",3344925
+"3166","SI.G1","Destrnik","Destrnik",3344926
+"3167","SI.M7","Trnovska Vas","Trnovska Vas",3344927
+"3168","SI.M4","Sveti Andraž v Slovenskih Goricah","Sveti Andraz v Slovenskih Goricah",3344928
+"3169","SI.F9","Cerkvenjak","Cerkvenjak",3344929
+"3170","SI.F4","Benedikt","Benedikt",3344930
+"3171","SI.M3","Sveta Ana","Sveta Ana",3344931
+"3172","SI.I1","Križevci","Krizevci",3344932
+"3173","SI.N1","Veržej","Verzej",3344933
+"3174","SI.M9","Velika Polana","Velika Polana",3344934
+"3175","SI.I4","Lendava-Lendva","Lendava-Lendva",3344935
+"3176","SI.G5","Dobrovnik-Dobronak","Dobrovnik-Dobronak",3344936
+"3177","SI.M6","Tišina","Tisina",3344937
+"3178","SI.F8","Cankova","Cankova",3344938
+"3179","SI.G8","Grad","Grad",3344939
+"3180","SI.H2","Hodoš-Hodos","Hodos-Hodos",3344940
+"3181","SI.K9","Razkrižje","Razkrizje",3344941
+"3182","SI.L9","Šmartno pri Litiji","Smartno pri Litiji",3344942
+"3183","SI.L4","Šalovci","Salovci",3344943
+"3184","SI.N9","Apace","Apace",8133579
+"3185","SI.O1","Cirkulane","Cirkulane",8133580
+"3186","SI.O3","Kostanjevica na Krki","Kostanjevica na Krki",8133581
+"3187","SI.O4","Log–Dragomer","Log-Dragomer",8133582
+"3188","SI.O5","Makole","Makole",8133583
+"3189","SI.O7","Mokronog-Trebelno","Mokronog-Trebelno",8133584
+"3190","SI.O8","Poljcane","Poljcane",8133585
+"3191","SI.O9","Recica ob Savinji","Recica ob Savinji",8133586
+"3192","SI.P1","Rence-Vogrsko","Rence-Vogrsko",8133587
+"3193","SI.P4","Središce ob Dravi","Sredisce ob Dravi",8133588
+"3194","SI.P5","Straža","Straza",8133589
+"3195","SI.P6","Sv. Trojica v Slov. Goricah","Sv. Trojica v Slov. Goricah",8133590
+"3196","SI.P8","Sveti Tomaž","Sveti Tomaz",8133591
+"3197","SI.P2","Šentrupert","Sentrupert",8133592
+"3198","SI.P3","Šmarješke Toplice","Smarjeske Toplice",8133593
+"3199","SI.P7","Sveti Jurij v Slovenskih Goricah","Sveti Jurij v Slovenskih Goricah",8469236
+"3200","SI.O2","Gorje","Gorje",8986279
+"3201","SI.P9","Ankaran","Ankaran",11288217
+"3202","SI.O6","Mirna","Mirna",11288255
+"3203","SJ.22","Jan Mayen","Jan Mayen",3041964
+"3204","SJ.21","Svalbard","Svalbard",7521757
+"3205","SK.03","Košický kraj","Kosicky kraj",865084
+"3206","SK.05","Prešovský kraj","Presovsky kraj",865085
+"3207","SK.08","Žilinský kraj","Zilinsky kraj",3056506
+"3208","SK.01","Banskobystrický kraj","Banskobystricky kraj",3343954
+"3209","SK.02","Bratislavský kraj","Bratislavsky kraj",3343955
+"3210","SK.04","Nitriansky kraj","Nitriansky kraj",3343956
+"3211","SK.06","Trenciansky kraj","Trenciansky kraj",3343957
+"3212","SK.07","Trnavský kraj","Trnavsky kraj",3343958
+"3213","SL.04","Western Area","Western Area",2403068
+"3214","SL.03","Southern Province","Southern Province",2403745
+"3215","SL.02","Northern Province","Northern Province",2404798
+"3216","SL.01","Eastern Province","Eastern Province",2409543
+"3217","SL.05","North West","North West",11919533
+"3218","SM.09","Serravalle","Serravalle",3166650
+"3219","SM.02","Chiesanuova","Chiesanuova",3178807
+"3220","SM.07","San Marino","San Marino",3345302
+"3221","SM.01","Acquaviva","Acquaviva",3345303
+"3222","SM.06","Borgo Maggiore","Borgo Maggiore",3345304
+"3223","SM.03","Domagnano","Domagnano",3345305
+"3224","SM.04","Faetano","Faetano",3345306
+"3225","SM.05","Fiorentino","Fiorentino",3345307
+"3226","SM.08","Montegiardino","Montegiardino",3345308
+"3227","SN.12","Ziguinchor","Ziguinchor",2243939
+"3228","SN.07","Thiès","Thies",2244800
+"3229","SN.05","Tambacounda","Tambacounda",2244990
+"3230","SN.14","Saint-Louis","Saint-Louis",2246451
+"3231","SN.15","Matam","Matam",2248753
+"3232","SN.13","Louga","Louga",2249221
+"3233","SN.11","Kolda","Kolda",2249781
+"3234","SN.10","Kaolack","Kaolack",2250804
+"3235","SN.09","Fatick","Fatick",2251910
+"3236","SN.03","Diourbel","Diourbel",2252308
+"3237","SN.01","Dakar","Dakar",2253350
+"3238","SN.16","Kaffrine","Kaffrine",7303935
+"3239","SN.17","Kédougou","Kedougou",7303936
+"3240","SN.18","Sédhiou","Sedhiou",7303937
+"3241","SO.20","Woqooyi Galbeed","Woqooyi Galbeed",50360
+"3242","SO.19","Togdheer","Togdheer",51230
+"3243","SO.14","Lower Shabeelle","Lower Shabeelle",51966
+"3244","SO.13","Middle Shabele","Middle Shabele",51967
+"3245","SO.12","Sanaag","Sanaag",52187
+"3246","SO.18","Nugaal","Nugaal",53477
+"3247","SO.10","Mudug","Mudug",53707
+"3248","SO.09","Lower Juba","Lower Juba",56083
+"3249","SO.08","Middle Juba","Middle Juba",56084
+"3250","SO.07","Hiiraan","Hiiraan",57060
+"3251","SO.06","Gedo","Gedo",58802
+"3252","SO.05","Galguduud","Galguduud",59362
+"3253","SO.04","Bay","Bay",64538
+"3254","SO.03","Bari","Bari",64661
+"3255","SO.02","Banaadir","Banaadir",64833
+"3256","SO.01","Bakool","Bakool",64982
+"3257","SO.21","Awdal","Awdal",6268943
+"3258","SO.22","Sool","Sool",6268947
+"3259","SR.19","Wanica","Wanica",3382761
+"3260","SR.18","Sipaliwini","Sipaliwini",3383062
+"3261","SR.17","Saramacca","Saramacca",3383110
+"3262","SR.16","Paramaribo","Paramaribo",3383329
+"3263","SR.15","Para","Para",3383337
+"3264","SR.14","Nickerie","Nickerie",3383438
+"3265","SR.13","Marowijne","Marowijne",3383560
+"3266","SR.12","Coronie","Coronie",3384397
+"3267","SR.11","Commewijne","Commewijne",3384418
+"3268","SR.10","Brokopondo","Brokopondo",3384481
+"3269","SS.367894","Ruweng","Ruweng",367894
+"3270","SS.9072661","Maiwut","Maiwut",9072661
+"3271","SS.9407085","Akobo","Akobo",9407085
+"3272","SS.11550543","Aweil","Aweil",11550543
+"3273","SS.11550544","Eastern Lakes","Eastern Lakes",11550544
+"3274","SS.11550545","Gogrial","Gogrial",11550545
+"3275","SS.11550548","Lol","Lol",11550548
+"3276","SS.11550552","Amadi State","Amadi State",11550552
+"3277","SS.11550555","Yei River","Yei River",11550555
+"3278","SS.11550558","Fashoda","Fashoda",11550558
+"3279","SS.11550562","Gok","Gok",11550562
+"3280","SS.11550563","Tonj","Tonj",11550563
+"3281","SS.11550564","Twic","Twic",11550564
+"3282","SS.11550565","Wau","Wau",11550565
+"3283","SS.11550566","Gbudwe","Gbudwe",11550566
+"3284","SS.11550567","Imatong","Imatong",11550567
+"3285","SS.11550569","Juba","Juba",11550569
+"3286","SS.11550570","Maridi","Maridi",11550570
+"3287","SS.11550571","Terekeka","Terekeka",11550571
+"3288","SS.11550573","Boma","Boma",11550573
+"3289","SS.11550574","Bieh","Bieh",11550574
+"3290","SS.11550575","Central Upper Nile","Central Upper Nile",11550575
+"3291","SS.11550576","Jonglei","Jonglei",11550576
+"3292","SS.11550577","Latjoor","Latjoor",11550577
+"3293","SS.11550578","Northern Liech","Northern Liech",11550578
+"3294","SS.11550579","Southern Liech","Southern Liech",11550579
+"3295","SS.11550580","Fangak","Fangak",11550580
+"3296","SS.11550581","Western Lakes","Western Lakes",11550581
+"3297","SS.11550582","Aweil East","Aweil East",11550582
+"3298","SS.11550588","Northern Upper Nile","Northern Upper Nile",11550588
+"3299","SS.11550589","Tambura","Tambura",11550589
+"3300","SS.11550596","Kapoeta","Kapoeta",11550596
+"3301","ST.02","São Tomé Island","Sao Tome Island",2410764
+"3302","ST.01","Príncipe","Principe",2410878
+"3303","SV.14","Usulután","Usulutan",3582882
+"3304","SV.13","Sonsonate","Sonsonate",3583101
+"3305","SV.12","San Vicente","San Vicente",3583176
+"3306","SV.11","Santa Ana","Santa Ana",3583332
+"3307","SV.10","San Salvador","San Salvador",3583360
+"3308","SV.09","San Miguel","San Miguel",3583462
+"3309","SV.08","Morazán","Morazan",3584317
+"3310","SV.07","La Unión","La Union",3584767
+"3311","SV.06","La Paz","La Paz",3585087
+"3312","SV.05","La Libertad","La Libertad",3585155
+"3313","SV.04","Cuscatlán","Cuscatlan",3586831
+"3314","SV.03","Chalatenango","Chalatenango",3587090
+"3315","SV.02","Cabañas","Cabanas",3587217
+"3316","SV.01","Ahuachapán","Ahuachapan",3587425
+"3317","SY.14","Tartus","Tartus",163342
+"3318","SY.13","Dimashq","Dimashq",167541
+"3319","SY.12","Idlib","Idlib",169387
+"3320","SY.11","Homs","Homs",169575
+"3321","SY.10","Hama","Hama",170015
+"3322","SY.09","Aleppo","Aleppo",170062
+"3323","SY.08","Rif-dimashq","Rif-dimashq",170652
+"3324","SY.07","Deir ez-Zor","Deir ez-Zor",170792
+"3325","SY.06","Daraa","Daraa",170903
+"3326","SY.05","As-Suwayda","As-Suwayda",172410
+"3327","SY.04","Ar-Raqqah","Ar-Raqqah",172957
+"3328","SY.03","Quneitra","Quneitra",173336
+"3329","SY.02","Latakia","Latakia",173578
+"3330","SY.01","Al-Hasakah","Al-Hasakah",173813
+"3331","SZ.04","Shiselweni","Shiselweni",934867
+"3332","SZ.03","Manzini","Manzini",934994
+"3333","SZ.02","Lubombo","Lubombo",935042
+"3334","SZ.01","Hhohho","Hhohho",935085
+"3335","TD.13","Salamat","Salamat",242048
+"3336","TD.12","Ouadaï","Ouadai",242246
+"3337","TD.02","Wadi Fira","Wadi Fira",244877
+"3338","TD.14","Tandjilé","Tandjile",2425287
+"3339","TD.17","Moyen-Chari","Moyen-Chari",2427315
+"3340","TD.16","Mayo-Kebbi Est","Mayo-Kebbi Est",2428132
+"3341","TD.09","Logone Oriental","Logone Oriental",2429058
+"3342","TD.08","Logone Occidental","Logone Occidental",2429060
+"3343","TD.07","Lac","Lac",2429323
+"3344","TD.06","Kanem","Kanem",2430873
+"3345","TD.05","Guéra","Guera",2431555
+"3346","TD.15","Chari-Baguirmi","Chari-Baguirmi",2434478
+"3347","TD.01","Batha","Batha",2435899
+"3348","TD.23","Borkou","Borkou",7602866
+"3349","TD.18","Hadjer-Lamis","Hadjer-Lamis",7603251
+"3350","TD.19","Mandoul","Mandoul",7603252
+"3351","TD.20","Mayo-Kebbi Ouest","Mayo-Kebbi Ouest",7603253
+"3352","TD.21","N’Djaména","N'Djamena",7603254
+"3353","TD.22","Barh el Gazel","Barh el Gazel",7603255
+"3354","TD.25","Sila","Sila",7603257
+"3355","TD.26","Tibesti","Tibesti",7603258
+"3356","TD.28","Ennedi-Ouest","Ennedi-Ouest",8604857
+"3357","TD.27","Ennedi-Est","Ennedi-Est",8604858
+"3358","TF.02","Crozet","Crozet",936339
+"3359","TF.03","Kerguelen","Kerguelen",1546558
+"3360","TF.01","Saint-Paul-et-Amsterdam","Saint-Paul-et-Amsterdam",1547221
+"3361","TF.05","Îles Éparses","Iles Eparses",6690916
+"3362","TF.04","Terre-Adélie","Terre-Adelie",6690917
+"3363","TG.26","Savanes","Savanes",2364205
+"3364","TG.25","Plateaux","Plateaux",2364370
+"3365","TG.24","Maritime","Maritime",2365173
+"3366","TG.22","Centrale","Centrale",2367237
+"3367","TG.23","Kara","Kara",2597439
+"3368","TH.15","Uthai Thani","Uthai Thani",1149965
+"3369","TH.65","Trang","Trang",1150006
+"3370","TH.08","Tak","Tak",1150489
+"3371","TH.60","Surat Thani","Surat Thani",1150514
+"3372","TH.09","Sukhothai","Sukhothai",1150532
+"3373","TH.52","Ratchaburi","Ratchaburi",1150953
+"3374","TH.59","Ranong","Ranong",1150964
+"3375","TH.57","Prachuap Khiri Khan","Prachuap Khiri Khan",1151073
+"3376","TH.62","Phuket","Phuket",1151253
+"3377","TH.56","Phetchaburi","Phetchaburi",1151416
+"3378","TH.61","Phang Nga","Phang Nga",1151462
+"3379","TH.01","Mae Hong Son","Mae Hong Son",1152221
+"3380","TH.05","Lamphun","Lamphun",1152467
+"3381","TH.06","Lampang","Lampang",1152472
+"3382","TH.63","Krabi","Krabi",1152631
+"3383","TH.50","Kanchanaburi","Kanchanaburi",1153080
+"3384","TH.11","Kamphaeng Phet","Kamphaeng Phet",1153089
+"3385","TH.58","Chumphon","Chumphon",1153555
+"3386","TH.03","Chiang Rai","Chiang Rai",1153668
+"3387","TH.02","Chiang Mai","Chiang Mai",1153670
+"3388","TH.72","Yasothon","Yasothon",1604767
+"3389","TH.70","Yala","Yala",1604869
+"3390","TH.10","Uttaradit","Uttaradit",1605214
+"3391","TH.49","Trat","Trat",1605277
+"3392","TH.29","Surin","Surin",1606029
+"3393","TH.51","Suphanburi","Suphanburi",1606032
+"3394","TH.68","Songkhla","Songkhla",1606146
+"3395","TH.30","Si Sa Ket","Si Sa Ket",1606238
+"3396","TH.33","Sing Buri","Sing Buri",1606269
+"3397","TH.67","Satun","Satun",1606375
+"3398","TH.37","Saraburi","Saraburi",1606417
+"3399","TH.54","Samut Songkhram","Samut Songkhram",1606585
+"3400","TH.55","Samut Sakhon","Samut Sakhon",1606587
+"3401","TH.42","Samut Prakan","Samut Prakan",1606589
+"3402","TH.20","Sakon Nakhon","Sakon Nakhon",1606789
+"3403","TH.25","Roi Et","Roi Et",1607000
+"3404","TH.47","Rayong","Rayong",1607016
+"3405","TH.36","Phra Nakhon Si Ayutthaya","Phra Nakhon Si Ayutthaya",1607530
+"3406","TH.07","Phrae","Phrae",1607551
+"3407","TH.12","Phitsanulok","Phitsanulok",1607707
+"3408","TH.13","Phichit","Phichit",1607724
+"3409","TH.14","Phetchabun","Phetchabun",1607736
+"3410","TH.41","Phayao","Phayao",1607758
+"3411","TH.66","Phatthalung","Phatthalung",1607778
+"3412","TH.69","Pattani","Pattani",1607976
+"3413","TH.39","Pathum Thani","Pathum Thani",1607982
+"3414","TH.38","Nonthaburi","Nonthaburi",1608132
+"3415","TH.17","Nong Khai","Nong Khai",1608231
+"3416","TH.31","Narathiwat","Narathiwat",1608408
+"3417","TH.04","Nan","Nan",1608451
+"3418","TH.64","Nakhon Si Thammarat","Nakhon Si Thammarat",1608525
+"3419","TH.16","Nakhon Sawan","Nakhon Sawan",1608526
+"3420","TH.27","Nakhon Ratchasima","Nakhon Ratchasima",1608528
+"3421","TH.73","Nakhon Phanom","Nakhon Phanom",1608530
+"3422","TH.53","Nakhon Pathom","Nakhon Pathom",1608533
+"3423","TH.43","Nakhon Nayok","Nakhon Nayok",1608538
+"3424","TH.78","Mukdahan","Mukdahan",1608595
+"3425","TH.24","Maha Sarakham","Maha Sarakham",1608899
+"3426","TH.34","Lopburi","Lopburi",1609031
+"3427","TH.18","Loei","Loei",1609070
+"3428","TH.40","Bangkok","Bangkok",1609348
+"3429","TH.22","Khon Kaen","Khon Kaen",1609775
+"3430","TH.23","Kalasin","Kalasin",1610468
+"3431","TH.46","Chon Buri","Chon Buri",1611108
+"3432","TH.48","Chanthaburi","Chanthaburi",1611268
+"3433","TH.26","Chaiyaphum","Chaiyaphum",1611406
+"3434","TH.32","Chai Nat","Chai Nat",1611415
+"3435","TH.44","Chachoengsao","Chachoengsao",1611438
+"3436","TH.28","Buriram","Buriram",1611452
+"3437","TH.35","Ang Thong","Ang Thong",1621034
+"3438","TH.76","Udon Thani","Udon Thani",1906686
+"3439","TH.74","Prachin Buri","Prachin Buri",1906687
+"3440","TH.75","Ubon Ratchathani","Ubon Ratchathani",1906688
+"3441","TH.77","Amnat Charoen","Amnat Charoen",1906689
+"3442","TH.79","Nong Bua Lam Phu","Nong Bua Lam Phu",1906690
+"3443","TH.80","Sa Kaeo","Sa Kaeo",1906691
+"3444","TH.81","Bueng Kan","Bueng Kan",8133594
+"3445","TJ.03","Sughd","Sughd",1221092
+"3446","TJ.01","Gorno-Badakhshan","Gorno-Badakhshan",1221692
+"3447","TJ.02","Khatlon","Khatlon",1347488
+"3448","TJ.RR","Republican Subordination","Republican Subordination",6452615
+"3449","TJ.04","Dushanbe","Dushanbe",7280679
+"3450","TK.N","Nukunonu","Nukunonu",4031091
+"3451","TK.F","Fakaofo","Fakaofo",4031112
+"3452","TK.A","Atafu","Atafu",4031116
+"3453","TL.VI","Viqueque","Viqueque",1622470
+"3454","TL.MF","Manufahi","Manufahi",1636309
+"3455","TL.MT","Manatuto","Manatuto",1636525
+"3456","TL.LI","Liquiçá","Liquica",1637729
+"3457","TL.LA","Lautém","Lautem",1638294
+"3458","TL.CO","Cova Lima","Cova Lima",1639462
+"3459","TL.ER","Ermera","Ermera",1644865
+"3460","TL.DI","Díli","Dili",1645456
+"3461","TL.BO","Bobonaro","Bobonaro",1648513
+"3462","TL.BA","Baucau","Baucau",1649538
+"3463","TL.OE","Oecusse","Oecusse",1651539
+"3464","TL.AN","Ainaro","Ainaro",1651809
+"3465","TL.AL","Aileu","Aileu",1651815
+"3466","TM.02","Balkan","Balkan",162152
+"3467","TM.01","Ahal","Ahal",162181
+"3468","TM.S","Ashgabat","Ashgabat",162182
+"3469","TM.03","Dasoguz","Dasoguz",601465
+"3470","TM.05","Mary","Mary",1218666
+"3471","TM.04","Lebap","Lebap",1219651
+"3472","TN.37","Zaghwan","Zaghwan",2464038
+"3473","TN.36","Tunis","Tunis",2464464
+"3474","TN.35","Tawzar","Tawzar",2464645
+"3475","TN.34","Tataouine","Tataouine",2464698
+"3476","TN.23","Susah","Susah",2464912
+"3477","TN.22","Silyanah","Silyanah",2465027
+"3478","TN.33","Sidi Bu Zayd","Sidi Bu Zayd",2465837
+"3479","TN.32","Safaqis","Safaqis",2467450
+"3480","TN.31","Qibili","Qibili",2468014
+"3481","TN.30","Gafsa","Gafsa",2468351
+"3482","TN.29","Qabis","Qabis",2468365
+"3483","TN.19","Nabul","Nabul",2468576
+"3484","TN.28","Madanin","Madanin",2469470
+"3485","TN.06","Jundubah","Jundubah",2470085
+"3486","TN.27","Bin ‘Arus","Bin 'Arus",2472477
+"3487","TN.18","Banzart","Banzart",2472699
+"3488","TN.17","Bajah","Bajah",2472770
+"3489","TN.38","Ariana","Ariana",2473245
+"3490","TN.03","Kairouan","Kairouan",2473451
+"3491","TN.02","Al Qasrayn","Al Qasrayn",2473460
+"3492","TN.16","Al Munastir","Al Munastir",2473495
+"3493","TN.15","Al Mahdiyah","Al Mahdiyah",2473574
+"3494","TN.14","Kef","Kef",2473637
+"3495","TN.39","Manouba","Manouba",6201192
+"3496","TO.03","Vava‘u","Vava`u",4032231
+"3497","TO.02","Tongatapu","Tongatapu",4032279
+"3498","TO.01","Ha‘apai","Ha`apai",4032637
+"3499","TO.EU","<U+02BB>Eua","'Eua",7668021
+"3500","TO.NI","Niuas","Niuas",7668055
+"3501","TR.66","Yozgat","Yozgat",296560
+"3502","TR.65","Van","Van",298113
+"3503","TR.64","Usak","Usak",298298
+"3504","TR.63","Sanliurfa","Sanliurfa",298332
+"3505","TR.62","Tunceli","Tunceli",298845
+"3506","TR.58","Sivas","Sivas",300617
+"3507","TR.74","Siirt","Siirt",300821
+"3508","TR.73","Nigde","Nigde",303826
+"3509","TR.50","Nevsehir","Nevsehir",303830
+"3510","TR.49","Mus","Mus",304041
+"3511","TR.48","Mugla","Mugla",304183
+"3512","TR.72","Mardin","Mardin",304794
+"3513","TR.45","Manisa","Manisa",304825
+"3514","TR.44","Malatya","Malatya",304919
+"3515","TR.43","Kütahya","Kuetahya",305267
+"3516","TR.71","Konya","Konya",306569
+"3517","TR.40","Kirsehir","Kirsehir",307513
+"3518","TR.38","Kayseri","Kayseri",308463
+"3519","TR.46","Kahramanmaras","Kahramanmaras",310858
+"3520","TR.35","Izmir","Izmir",311044
+"3521","TR.33","Isparta","Isparta",311071
+"3522","TR.32","Mersin","Mersin",311728
+"3523","TR.31","Hatay","Hatay",312394
+"3524","TR.70","Hakkâri","Hakkari",312888
+"3525","TR.83","Gaziantep","Gaziantep",314829
+"3526","TR.26","Eskisehir","Eskisehir",315201
+"3527","TR.25","Erzurum","Erzurum",315367
+"3528","TR.24","Erzincan","Erzincan",315372
+"3529","TR.23","Elazig","Elazig",315807
+"3530","TR.21","Diyarbakir","Diyarbakir",316540
+"3531","TR.20","Denizli","Denizli",317106
+"3532","TR.15","Burdur","Burdur",320390
+"3533","TR.13","Bitlis","Bitlis",321022
+"3534","TR.12","Bingöl","Bingoel",321079
+"3535","TR.11","Bilecik","Bilecik",321122
+"3536","TR.10","Balikesir","Balikesir",322164
+"3537","TR.09","Aydin","Aydin",322819
+"3538","TR.07","Antalya","Antalya",323776
+"3539","TR.68","Ankara","Ankara",323784
+"3540","TR.04","Agri","Agri",325163
+"3541","TR.03","Afyonkarahisar","Afyonkarahisar",325302
+"3542","TR.02","Adiyaman","Adiyaman",325329
+"3543","TR.81","Adana","Adana",325361
+"3544","TR.91","Osmaniye","Osmaniye",443183
+"3545","TR.88","Igdir","Igdir",443184
+"3546","TR.75","Aksaray","Aksaray",443185
+"3547","TR.76","Batman","Batman",443186
+"3548","TR.78","Karaman","Karaman",443187
+"3549","TR.79","Kirikkale","Kirikkale",443188
+"3550","TR.80","Sirnak","Sirnak",443189
+"3551","TR.90","Kilis","Kilis",443213
+"3552","TR.85","Zonguldak","Zonguldak",737021
+"3553","TR.61","Trabzon","Trabzon",738647
+"3554","TR.60","Tokat","Tokat",738742
+"3555","TR.59","Tekirdag","Tekirdag",738926
+"3556","TR.57","Sinop","Sinop",739598
+"3557","TR.55","Samsun","Samsun",740263
+"3558","TR.54","Sakarya","Sakarya",740352
+"3559","TR.53","Rize","Rize",740481
+"3560","TR.52","Ordu","Ordu",741098
+"3561","TR.41","Kocaeli","Kocaeli",742865
+"3562","TR.39","Kirklareli","Kirklareli",743165
+"3563","TR.37","Kastamonu","Kastamonu",743881
+"3564","TR.84","Kars","Kars",743942
+"3565","TR.34","Istanbul","Istanbul",745042
+"3566","TR.69","Gümüshane","Gumushane",746423
+"3567","TR.28","Giresun","Giresun",746878
+"3568","TR.22","Edirne","Edirne",747711
+"3569","TR.19","Çorum","Corum",748877
+"3570","TR.82","Çankiri","Cankiri",749747
+"3571","TR.17","Canakkale","Canakkale",749778
+"3572","TR.16","Bursa","Bursa",750268
+"3573","TR.14","Bolu","Bolu",750510
+"3574","TR.08","Artvin","Artvin",751816
+"3575","TR.05","Amasya","Amasya",752014
+"3576","TR.87","Bartin","Bartin",862467
+"3577","TR.89","Karabük","Karabuk",862468
+"3578","TR.92","Yalova","Yalova",862469
+"3579","TR.86","Ardahan","Ardahan",862470
+"3580","TR.77","Bayburt","Bayburt",862471
+"3581","TR.93","Düzce","Duzce",865521
+"3582","TT.11","Tobago","Tobago",3573606
+"3583","TT.10","San Fernando","San Fernando",3573739
+"3584","TT.05","Port of Spain","Port of Spain",3573891
+"3585","TT.03","Mayaro","Mayaro",3574155
+"3586","TT.01","Borough of Arima","Borough of Arima",3575052
+"3587","TT.CHA","Chaguanas","Chaguanas",7521937
+"3588","TT.CTT","Couva-Tabaquite-Talparo","Couva-Tabaquite-Talparo",7521938
+"3589","TT.DMN","Diego Martin","Diego Martin",7521939
+"3590","TT.PED","Penal/Debe","Penal/Debe",7521941
+"3591","TT.PRT","Princes Town","Princes Town",7521942
+"3592","TT.PTF","Point Fortin","Point Fortin",7521943
+"3593","TT.SGE","Sangre Grande","Sangre Grande",7521944
+"3594","TT.SIP","Siparia","Siparia",7521945
+"3595","TT.SJL","San Juan/Laventille","San Juan/Laventille",7521946
+"3596","TT.TUP","Tunapuna/Piarco","Tunapuna/Piarco",7521947
+"3597","TV.NUI","Nui","Nui",2110341
+"3598","TV.NMA","Nanumea","Nanumea",2110345
+"3599","TV.FUN","Funafuti","Funafuti",2110384
+"3600","TV.NIT","Niutao","Niutao",7601979
+"3601","TV.NMG","Nanumanga","Nanumanga",7601980
+"3602","TV.VAI","Vaitupu","Vaitupu",7601981
+"3603","TV.NKF","Nukufetau","Nukufetau",7601982
+"3604","TV.NKL","Nukulaelae","Nukulaelae",7601983
+"3605","TW.01","Fukien","Fukien",7280288
+"3606","TW.02","Takao","Takao",7280289
+"3607","TW.03","Taipei","Taipei",7280290
+"3608","TW.04","Taiwan","Taiwan",7280291
+"3609","TZ.19","Kagera","Kagera",148679
+"3610","TZ.25","Zanzibar Urban/West","Zanzibar Urban/West",148724
+"3611","TZ.22","Zanzibar North","Zanzibar North",148725
+"3612","TZ.21","Zanzibar Central/South","Zanzibar Central/South",148728
+"3613","TZ.18","Tanga","Tanga",149595
+"3614","TZ.17","Tabora","Tabora",149653
+"3615","TZ.16","Singida","Singida",149876
+"3616","TZ.15","Shinyanga","Shinyanga",150004
+"3617","TZ.24","Rukwa","Rukwa",150442
+"3618","TZ.02","Pwani","Pwani",150602
+"3619","TZ.20","Pemba South","Pemba South",150732
+"3620","TZ.13","Pemba North","Pemba North",150733
+"3621","TZ.12","Mwanza","Mwanza",152219
+"3622","TZ.10","Morogoro","Morogoro",153214
+"3623","TZ.09","Mbeya","Mbeya",154375
+"3624","TZ.08","Mara","Mara",154775
+"3625","TZ.07","Lindi","Lindi",155946
+"3626","TZ.06","Kilimanjaro","Kilimanjaro",157449
+"3627","TZ.05","Kigoma","Kigoma",157732
+"3628","TZ.04","Iringa","Iringa",159067
+"3629","TZ.03","Dodoma","Dodoma",160192
+"3630","TZ.23","Dar es Salaam","Dar es Salaam",160260
+"3631","TZ.26","Arusha","Arusha",161322
+"3632","TZ.27","Manyara","Manyara",435764
+"3633","TZ.14","Ruvuma","Ruvuma",877416
+"3634","TZ.11","Mtwara","Mtwara",877744
+"3635","TZ.31","Simiyu","Simiyu",8469238
+"3636","TZ.28","Geita","Geita",8469239
+"3637","TZ.29","Katavi","Katavi",8469240
+"3638","TZ.30","Njombe","Njombe",8469241
+"3639","TZ.32","Songwe","Songwe",11124984
+"3640","UA.27","Zhytomyr","Zhytomyr",686966
+"3641","UA.26","Zaporizhia","Zaporizhia",687699
+"3642","UA.25","Transcarpathia","Transcarpathia",687869
+"3643","UA.24","Volyn","Volyn",689064
+"3644","UA.23","Vinnyts'ka","Vinnyts'ka",689559
+"3645","UA.22","Ternopil","Ternopil",691649
+"3646","UA.21","Sumy","Sumy",692196
+"3647","UA.20","Sevastopol City","Sevastopol City",694422
+"3648","UA.19","Rivne","Rivne",695592
+"3649","UA.18","Poltava","Poltava",696634
+"3650","UA.17","Odesa","Odesa",698738
+"3651","UA.16","Mykolaiv","Mykolaiv",700567
+"3652","UA.15","Lviv","Lviv",702549
+"3653","UA.14","Luhansk","Luhansk",702657
+"3654","UA.13","Kyiv","Kyiv",703446
+"3655","UA.12","Kyiv City","Kyiv City",703447
+"3656","UA.11","Crimea","Crimea",703883
+"3657","UA.10","Kirovohrad","Kirovohrad",705811
+"3658","UA.09","Khmelnytskyi","Khmelnytskyi",706370
+"3659","UA.08","Kherson","Kherson",706442
+"3660","UA.07","Kharkiv","Kharkiv",706482
+"3661","UA.06","Ivano-Frankivsk","Ivano-Frankivsk",707470
+"3662","UA.05","Donetsk","Donetsk",709716
+"3663","UA.04","Dnipropetrovsk","Dnipropetrovsk",709929
+"3664","UA.03","Chernivtsi Oblast'","Chernivtsi Oblast'",710720
+"3665","UA.02","Chernihiv","Chernihiv",710734
+"3666","UA.01","Cherkasy","Cherkasy",710802
+"3667","UG.C","Central Region","Central Region",234594
+"3668","UG.E","Eastern Region","Eastern Region",8260673
+"3669","UG.N","Northern Region","Northern Region",8260674
+"3670","UG.W","Western Region","Western Region",8260675
+"3671","UM.450","Wake Island","Wake Island",4041685
+"3672","UM.350","Navassa Island","Navassa Island",4743755
+"3673","UM.050","Baker Island","Baker Island",5854907
+"3674","UM.100","Howland Island","Howland Island",5854922
+"3675","UM.150","Jarvis Island","Jarvis Island",5854926
+"3676","UM.200","Johnston Atoll","Johnston Atoll",5854929
+"3677","UM.250","Kingman Reef","Kingman Reef",5854936
+"3678","UM.300","Midway Islands","Midway Islands",5854943
+"3679","UM.400","Palmyra Atoll","Palmyra Atoll",5854952
+"3680","US.AR","Arkansas","Arkansas",4099753
+"3681","US.DC","Washington, D.C.","Washington, D.C.",4138106
+"3682","US.DE","Delaware","Delaware",4142224
+"3683","US.FL","Florida","Florida",4155751
+"3684","US.GA","Georgia","Georgia",4197000
+"3685","US.KS","Kansas","Kansas",4273857
+"3686","US.LA","Louisiana","Louisiana",4331987
+"3687","US.MD","Maryland","Maryland",4361885
+"3688","US.MO","Missouri","Missouri",4398678
+"3689","US.MS","Mississippi","Mississippi",4436296
+"3690","US.NC","North Carolina","North Carolina",4482348
+"3691","US.OK","Oklahoma","Oklahoma",4544379
+"3692","US.SC","South Carolina","South Carolina",4597040
+"3693","US.TN","Tennessee","Tennessee",4662168
+"3694","US.TX","Texas","Texas",4736286
+"3695","US.WV","West Virginia","West Virginia",4826850
+"3696","US.AL","Alabama","Alabama",4829764
+"3697","US.CT","Connecticut","Connecticut",4831725
+"3698","US.IA","Iowa","Iowa",4862182
+"3699","US.IL","Illinois","Illinois",4896861
+"3700","US.IN","Indiana","Indiana",4921868
+"3701","US.ME","Maine","Maine",4971068
+"3702","US.MI","Michigan","Michigan",5001836
+"3703","US.MN","Minnesota","Minnesota",5037779
+"3704","US.NE","Nebraska","Nebraska",5073708
+"3705","US.NH","New Hampshire","New Hampshire",5090174
+"3706","US.NJ","New Jersey","New Jersey",5101760
+"3707","US.NY","New York","New York",5128638
+"3708","US.OH","Ohio","Ohio",5165418
+"3709","US.RI","Rhode Island","Rhode Island",5224323
+"3710","US.VT","Vermont","Vermont",5242283
+"3711","US.WI","Wisconsin","Wisconsin",5279468
+"3712","US.CA","California","California",5332921
+"3713","US.CO","Colorado","Colorado",5417618
+"3714","US.NM","New Mexico","New Mexico",5481136
+"3715","US.NV","Nevada","Nevada",5509151
+"3716","US.UT","Utah","Utah",5549030
+"3717","US.AZ","Arizona","Arizona",5551752
+"3718","US.ID","Idaho","Idaho",5596512
+"3719","US.MT","Montana","Montana",5667009
+"3720","US.ND","North Dakota","North Dakota",5690763
+"3721","US.OR","Oregon","Oregon",5744337
+"3722","US.SD","South Dakota","South Dakota",5769223
+"3723","US.WA","Washington","Washington",5815135
+"3724","US.WY","Wyoming","Wyoming",5843591
+"3725","US.HI","Hawaii","Hawaii",5855797
+"3726","US.AK","Alaska","Alaska",5879092
+"3727","US.KY","Kentucky","Kentucky",6254925
+"3728","US.MA","Massachusetts","Massachusetts",6254926
+"3729","US.PA","Pennsylvania","Pennsylvania",6254927
+"3730","US.VA","Virginia","Virginia",6254928
+"3731","UY.19","Treinta y Tres","Treinta y Tres",3439780
+"3732","UY.18","Tacuarembó","Tacuarembo",3440033
+"3733","UY.17","Soriano","Soriano",3440054
+"3734","UY.16","San José","San Jose",3440645
+"3735","UY.15","Salto","Salto",3440711
+"3736","UY.14","Rocha","Rocha",3440771
+"3737","UY.13","Rivera","Rivera",3440780
+"3738","UY.12","Río Negro","Rio Negro",3440789
+"3739","UY.11","Paysandú","Paysandu",3441242
+"3740","UY.10","Montevideo","Montevideo",3441572
+"3741","UY.09","Maldonado","Maldonado",3441890
+"3742","UY.08","Lavalleja","Lavalleja",3442007
+"3743","UY.07","Florida","Florida",3442584
+"3744","UY.06","Flores","Flores",3442587
+"3745","UY.05","Durazno","Durazno",3442720
+"3746","UY.04","Colonia","Colonia",3443025
+"3747","UY.03","Cerro Largo","Cerro Largo",3443173
+"3748","UY.02","Canelones","Canelones",3443411
+"3749","UY.01","Artigas","Artigas",3443756
+"3750","UZ.09","Karakalpakstan","Karakalpakstan",453752
+"3751","UZ.12","Surxondaryo","Surxondaryo",1114926
+"3752","UZ.10","Samarqand","Samarqand",1114927
+"3753","UZ.08","Qashqadaryo","Qashqadaryo",1114928
+"3754","UZ.02","Bukhara","Bukhara",1114929
+"3755","UZ.14","Toshkent","Toshkent",1484838
+"3756","UZ.13","Toshkent Shahri","Toshkent Shahri",1484839
+"3757","UZ.16","Sirdaryo","Sirdaryo",1484840
+"3758","UZ.07","Navoiy","Navoiy",1484841
+"3759","UZ.06","Namangan","Namangan",1484842
+"3760","UZ.05","Xorazm","Xorazm",1484843
+"3761","UZ.15","Jizzax","Jizzax",1484844
+"3762","UZ.03","Fergana","Fergana",1484845
+"3763","UZ.01","Andijon","Andijon",1484846
+"3764","VC.05","Saint Patrick","Saint Patrick",3577818
+"3765","VC.04","Saint George","Saint George",3577819
+"3766","VC.03","Saint David","Saint David",3577821
+"3767","VC.02","Saint Andrew","Saint Andrew",3577822
+"3768","VC.06","Grenadines","Grenadines",3577892
+"3769","VC.01","Charlotte","Charlotte",3577934
+"3770","VE.23","Zulia","Zulia",3625035
+"3771","VE.22","Yaracuy","Yaracuy",3625210
+"3772","VE.21","Trujillo","Trujillo",3625974
+"3773","VE.20","Táchira","Tachira",3626553
+"3774","VE.19","Sucre","Sucre",3626655
+"3775","VE.18","Portuguesa","Portuguesa",3629941
+"3776","VE.17","Nueva Esparta","Nueva Esparta",3631462
+"3777","VE.16","Monagas","Monagas",3632100
+"3778","VE.15","Miranda","Miranda",3632191
+"3779","VE.14","Mérida","Merida",3632306
+"3780","VE.13","Lara","Lara",3636539
+"3781","VE.12","Guárico","Guarico",3640017
+"3782","VE.24","Dependencias Federales","Dependencias Federales",3640846
+"3783","VE.25","Distrito Federal","Distrito Federal",3640847
+"3784","VE.11","Falcón","Falcon",3640873
+"3785","VE.09","Delta Amacuro","Delta Amacuro",3644541
+"3786","VE.08","Cojedes","Cojedes",3645386
+"3787","VE.07","Carabobo","Carabobo",3646751
+"3788","VE.06","Bolívar","Bolivar",3648106
+"3789","VE.05","Barinas","Barinas",3648544
+"3790","VE.04","Aragua","Aragua",3649110
+"3791","VE.03","Apure","Apure",3649151
+"3792","VE.02","Anzoátegui","Anzoategui",3649198
+"3793","VE.01","Amazonas","Amazonas",3649302
+"3794","VE.26","Vargas","Vargas",3830309
+"3795","VI.010","Saint Croix Island","Saint Croix Island",7267902
+"3796","VI.020","Saint John Island","Saint John Island",7267903
+"3797","VI.030","Saint Thomas Island","Saint Thomas Island",7267904
+"3798","VN.58","Ngh<U+1EC7> An","Nghe An",1559969
+"3799","VN.59","Ninh Bình","Ninh Binh",1559970
+"3800","VN.60","Ninh Thu<U+1EAD>n","Ninh Thuan",1559971
+"3801","VN.65","Sóc Trang","Soc Trang",1559972
+"3802","VN.67","Trà Vinh","Tra Vinh",1559975
+"3803","VN.68","Tuyên Quang","Tuyen Quang",1559976
+"3804","VN.69","Vinh Long","Vinh Long",1559977
+"3805","VN.70","Yên Bái","Yen Bai",1559978
+"3806","VN.90","Lào Cai","Lao Cai",1562412
+"3807","VN.37","Ti<U+1EC1>n Giang","Tien Giang",1564676
+"3808","VN.66","Th<U+1EEB>a Thiên-Hu<U+1EBF>","Thua Thien-Hue",1565033
+"3809","VN.55","Kon Tum","Kon Tum",1565088
+"3810","VN.34","Thanh Hóa","Thanh Hoa",1566165
+"3811","VN.35","Thái Bình","Thai Binh",1566338
+"3812","VN.33","Tây Ninh Province","Tay Ninh Province",1566557
+"3813","VN.32","Son La","Son La",1567643
+"3814","VN.64","Qu<U+1EA3>ng Tr<U+1ECB>","Quang Tri",1568733
+"3815","VN.30","Qu<U+1EA3>ng Ninh","Quang Ninh",1568758
+"3816","VN.63","Qu<U+1EA3>ng Ngãi Province","Quang Ngai Province",1568769
+"3817","VN.62","Qu<U+1EA3>ng Bình","Quang Binh",1568839
+"3818","VN.61","Phú Yên","Phu Yen",1569805
+"3819","VN.53","Hòa Bình","Hoa Binh",1572594
+"3820","VN.24","Long An","Long An",1575788
+"3821","VN.39","L<U+1EA1>ng Son","Lang Son",1576632
+"3822","VN.23","Lâm Ð<U+1ED3>ng","Lam Dong",1577882
+"3823","VN.89","Lai Châu","Lai Chau",1577954
+"3824","VN.21","Ki<U+1EBF>n Giang","Kien Giang",1579008
+"3825","VN.54","Khánh Hòa","Khanh Hoa",1579634
+"3826","VN.20","Ho Chi Minh","Ho Chi Minh",1580578
+"3827","VN.52","Hà Tinh","Ha Tinh",1580700
+"3828","VN.50","Hà Giang","Ha Giang",1581030
+"3829","VN.49","Gia Lai","Gia Lai",1581088
+"3830","VN.44","Hanoi","Hanoi",1581129
+"3831","VN.87","Can Tho","Can Tho",1581188
+"3832","VN.13","Haiphong","Haiphong",1581297
+"3833","VN.47","Bình Thu<U+1EAD>n","Binh Thuan",1581882
+"3834","VN.09","Ð<U+1ED3>ng Tháp","Dong Thap",1582562
+"3835","VN.43","Ð<U+1ED3>ng Nai","Dong Nai",1582720
+"3836","VN.88","Ð<U+1EAF>k L<U+1EAF>k","GJak Lak",1584169
+"3837","VN.45","Bà R<U+1ECB>a-Vung Tàu","Ba Ria-Vung Tau",1584534
+"3838","VN.05","Cao B<U+1EB1>ng","Cao Bang",1586182
+"3839","VN.46","Bình Ð<U+1ECB>nh","Binh Dinh",1587871
+"3840","VN.03","B<U+1EBF>n Tre","Ben Tre",1587974
+"3841","VN.01","An Giang","An Giang",1594446
+"3842","VN.91","Ð<U+1EAF>k Nông","Dak Nong",1904987
+"3843","VN.92","Ði<U+1EC7>n Biên","Dien Bien",1905099
+"3844","VN.74","B<U+1EAF>c Ninh","Bac Ninh",1905412
+"3845","VN.71","B<U+1EAF>c Giang","Bac Giang",1905419
+"3846","VN.78","Da Nang","Da Nang",1905468
+"3847","VN.75","Bình Duong","Binh Duong",1905475
+"3848","VN.76","Bình Phu<U+1EDB>c","Binh Phuoc",1905480
+"3849","VN.85","Thái Nguyên","Thai Nguyen",1905497
+"3850","VN.84","Qu<U+1EA3>ng Nam","Quang Nam",1905516
+"3851","VN.83","Phú Th<U+1ECD>","Phu Tho",1905577
+"3852","VN.82","Nam Ð<U+1ECB>nh","Nam Dinh",1905626
+"3853","VN.80","Hà Nam","Ha Nam",1905637
+"3854","VN.72","B<U+1EAF>c K<U+1EA1>n","Bac Kan",1905669
+"3855","VN.73","B<U+1EA1>c Liêu","Bac Lieu",1905675
+"3856","VN.77","Cà Mau","Ca Mau",1905678
+"3857","VN.79","H<U+1EA3>i Duong","Hai Duong",1905686
+"3858","VN.81","Hung Yên","Hung Yen",1905699
+"3859","VN.86","Vinh Phúc","Vinh Phuc",1905856
+"3860","VN.93","H<U+1EAD>u Giang","Hau Giang",7506719
+"3861","VU.15","Tafea","Tafea",2134739
+"3862","VU.13","Sanma","Sanma",2134898
+"3863","VU.07","Torba","Torba",2137421
+"3864","VU.16","Malampa","Malampa",2208265
+"3865","VU.17","Penama","Penama",2208266
+"3866","VU.18","Shefa","Shefa",2208267
+"3867","WF.98613","Uvea","Uvea",4034759
+"3868","WF.98612","Sigave","Sigave",4034776
+"3869","WF.98611","Alo","Alo",4034884
+"3870","WS.11","Vaisigano","Vaisigano",4034910
+"3871","WS.06","Va‘a-o-Fonoti","Va`a-o-Fonoti",4034943
+"3872","WS.10","Tuamasaga","Tuamasaga",4034977
+"3873","WS.09","Satupa‘itea","Satupa`itea",4035046
+"3874","WS.08","Palauli","Palauli",4035154
+"3875","WS.07","Gagaifomauga","Gagaifomauga",4035313
+"3876","WS.05","Gaga‘emauga","Gaga`emauga",4035314
+"3877","WS.04","Fa‘asaleleaga","Fa`asaleleaga",4035383
+"3878","WS.03","Atua","Atua",4035402
+"3879","WS.02","Aiga-i-le-Tai","Aiga-i-le-Tai",4035425
+"3880","WS.01","A'ana","A'ana",4035434
+"3881","XK.10096138","Ferizaj","Ferizaj",10096138
+"3882","XK.10096859","Gjakova","Gjakova",10096859
+"3883","XK.10097357","Gjilan","Gjilan",10097357
+"3884","XK.10097358","Mitrovica","Mitrovica",10097358
+"3885","XK.10097359","Pec","Pec",10097359
+"3886","XK.10097360","Pristina","Pristina",10097360
+"3887","XK.10097361","Prizren","Prizren",10097361
+"3888","YE.25","Ta‘izz","Ta'izz",70222
+"3889","YE.05","Shabwah","Shabwah",70935
+"3890","YE.16","Sanaa","Sanaa",71132
+"3891","YE.15","Sa‘dah","Sa'dah",71333
+"3892","YE.27","Raymah","Raymah",71532
+"3893","YE.14","Ma’rib","Ma'rib",72966
+"3894","YE.10","Al Ma<U+1E29>wit","Al Mahwit",73200
+"3895","YE.21","Al Jawf","Al Jawf",74222
+"3896","YE.04","<U+1E28>a<U+1E11>ramawt","Hadramawt",75411
+"3897","YE.11","Dhamar","Dhamar",76183
+"3898","YE.03","Al Mahrah","Al Mahrah",78985
+"3899","YE.08","Al Hudaydah","Al Hudaydah",79416
+"3900","YE.20","Al Bayda","Al Bayda",79838
+"3901","YE.02","Aden","Aden",80412
+"3902","YE.01","Abyan","Abyan",80425
+"3903","YE.18","A<U+1E11> <U+1E10>ali‘","Ad Dali'",6201193
+"3904","YE.19","Omran","Omran",6201194
+"3905","YE.22","<U+1E28>ajjah","Hajjah",6201195
+"3906","YE.23","Ibb","Ibb",6201196
+"3907","YE.24","La<U+1E29>ij","Lahij",6201197
+"3908","YE.26","Amanat Al Asimah","Amanat Al Asimah",6940571
+"3909","YE.28","Soqatra","Soqatra",9645387
+"3910","YT.97601","Acoua","Acoua",7521421
+"3911","YT.97602","Bandraboua","Bandraboua",7521422
+"3912","YT.97603","Bandrele","Bandrele",7521423
+"3913","YT.97604","Bouéni","Boueni",7521424
+"3914","YT.97605","Chiconi","Chiconi",7521425
+"3915","YT.97606","Chirongui","Chirongui",7521426
+"3916","YT.97607","Dembeni","Dembeni",7521427
+"3917","YT.97608","Dzaoudzi","Dzaoudzi",7521428
+"3918","YT.97609","Kani-Kéli","Kani-Keli",7521429
+"3919","YT.97610","Koungou","Koungou",7521430
+"3920","YT.97611","Mamoudzou","Mamoudzou",7521431
+"3921","YT.97612","Mtsamboro","Mtsamboro",7521432
+"3922","YT.97613","M'Tsangamouji","M'Tsangamouji",7521433
+"3923","YT.97614","Ouangani","Ouangani",7521434
+"3924","YT.97615","Pamandzi","Pamandzi",7521435
+"3925","YT.97616","Sada","Sada",7521436
+"3926","YT.97617","Tsingoni","Tsingoni",7521437
+"3927","ZA.03","Orange Free State","Orange Free State",967573
+"3928","ZA.02","KwaZulu-Natal","KwaZulu-Natal",972062
+"3929","ZA.05","Eastern Cape","Eastern Cape",1085593
+"3930","ZA.06","Gauteng","Gauteng",1085594
+"3931","ZA.07","Mpumalanga","Mpumalanga",1085595
+"3932","ZA.08","Northern Cape","Northern Cape",1085596
+"3933","ZA.09","Limpopo","Limpopo",1085597
+"3934","ZA.10","North-West","North-West",1085598
+"3935","ZA.11","Western Cape","Western Cape",1085599
+"3936","ZM.01","Western","Western",896140
+"3937","ZM.07","Southern","Southern",896972
+"3938","ZM.06","North-Western","North-Western",900594
+"3939","ZM.05","Northern","Northern",900601
+"3940","ZM.09","Lusaka","Lusaka",909129
+"3941","ZM.04","Luapula","Luapula",909845
+"3942","ZM.03","Eastern","Eastern",917388
+"3943","ZM.08","Copperbelt","Copperbelt",917524
+"3944","ZM.02","Central","Central",921064
+"3945","ZM.10","Muchinga","Muchinga",11154503
+"3946","ZW.02","Midlands","Midlands",886119
+"3947","ZW.07","Matabeleland South","Matabeleland South",886747
+"3948","ZW.06","Matabeleland North","Matabeleland North",886748
+"3949","ZW.08","Masvingo","Masvingo",886761
+"3950","ZW.05","Mashonaland West","Mashonaland West",886841
+"3951","ZW.04","Mashonaland East","Mashonaland East",886842
+"3952","ZW.03","Mashonaland Central","Mashonaland Central",886843
+"3953","ZW.01","Manicaland","Manicaland",887358
+"3954","ZW.09","Bulawayo","Bulawayo",1105843
+"3955","ZW.10","Harare","Harare",1105844
