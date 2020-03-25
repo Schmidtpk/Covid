@@ -2,9 +2,10 @@ library(googledrive)
 
 # drive_download("https://docs.google.com/spreadsheets/d/1tYfD3vvSEaW3Cq9-UZoDtlKIfaMMVJq8XnV9XJUdK3s/edit#gid=0",
 #                      path = paste0("./data-raw/measures/download_temp_",substr(date(),5,10),".csv"),overwrite = TRUE)
+#measures <- read.csv( paste0("./data-raw/measures/download_temp_",substr(date(),5,10),".csv"),dec = ",")
 
+measures <- read.csv( paste0("./data-raw/measures/download_temp_Mar 24.csv"),dec = ",")
 
-measures <- read.csv( paste0("./data-raw/measures/download_temp_",substr(date(),5,10),".csv"),dec = ",")
 
 # data cleaning -----------------------------------------------------------
 
@@ -34,6 +35,7 @@ measures$end<-measures$End;measures$End<-NULL
 measures$start<-measures$Start;measures$Start<-NULL
 measures$meta <- measures$Meta..e.g..group.size.thresholds
 names(measures)[names(measures) == 'Affected.Pop.Share'] <- 'share'
+names(measures)[names(measures) == 'Country'] <- 'country'
 
-treatments <- measures %>% select(type,name,adm_level,in_country,start,end,meta,share)
+treatments <- measures %>% select(type,name,adm_level,in_country,start,end,meta,share,country)
 use_data(treatments,overwrite = TRUE)
