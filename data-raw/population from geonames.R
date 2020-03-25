@@ -2,13 +2,15 @@ colnames<-c("geonameid","name","asciiname","alternatenames","latitude","longitud
 
 ##adm1 dataset for coding instructions
 sss<-read.csv("data-raw/admin1CodesASCII.txt",sep="\t",encoding="UTF-8",col.names = c("code","name","name_ascii","id"))
-write.csv(sss,"data/adm1_codes.csv")
+adm1_codes <- sss
+use_data(adm1_codes,overwrite=TRUE)
+
 
 population<-NULL
 for(country in unique(substr(sss$code,1,2))) {
-  temp <- tempfile()
-  download.file(paste0("https://download.geonames.org/export/dump/",country,".zip"),temp)
-  unzip(zipfile=temp,exdir="data-raw/geonames")
+  # temp <- tempfile()
+  # download.file(paste0("https://download.geonames.org/export/dump/",country,".zip"),temp)
+  # unzip(zipfile=temp,exdir="data-raw/geonames")
   regions<-read.csv(paste0("data-raw/geonames/",country, ".txt"),col.names=colnames,sep="\t")
   regions<-regions[which(regions$feature.code=="ADM1"|regions$feature.code=="PCLI"),]
   regions<-regions[which(regions$feature.class=="A"),]
@@ -24,5 +26,5 @@ for(country in unique(substr(sss$code,1,2))) {
   regions<-droplevels(regions)
   population<-rbind(regions,population)
 }
-saveRDS(population,"data/pop.rda")
-
+pop<-population
+use_data(pop,overwrite = TRUE)
