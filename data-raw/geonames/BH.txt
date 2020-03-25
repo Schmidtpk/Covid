@@ -1,0 +1,552 @@
+289656	Dawḩat Salwá	Dawhat Salwa	Bahr as Salwa,Baḩr as Salwá,Dawhat Salwa,Dawhat Salwah,Dawhat as Salwa,Dawhat as Salwah,Dawḩat Salwah,Dawḩat Salwá,Dawḩat as Salwah,Dawḩat as Salwá,Dohat as Salwa,Khalij Salwa,Khalīj Salwá,Salwa Sea,dawhat salway,khlyj slwy,خليج سلوى,دَوْحَة سَلْوَى	25.34667	50.64444	H	BAY	BH	BH,SA	00				0		-9999	Asia/Bahrain	2017-10-04
+290064	Madīnat Ḩamad	Madinat Hamad	Madinat Hamad,Madīnat Ḩamad,madinat hamad,مَدِينَة حَمَد	26.13333	50.5	A	ADM1H	BH		14				0		14	Asia/Bahrain	2018-10-05
+290065	Ra’s Zuwayyid	Ra's Zuwayyid	Ra's Zuwayyid,Ras Zuwaiyid,Ra’s Zuwayyid,ras zuayid,رَأْس زُوَيِّد	26.08694	50.61972	T	PT	BH		17				0		1	Asia/Bahrain	2012-01-18
+290066	Dawḩat az Zimmah	Dawhat az Zimmah	Dawhat Fakakah,Dawhat az Zimmah,Dawḩat Fakākah,Dawḩat az Zimmah,Zimma Bay,Zimna Bay,dawhat aalzimat,دَوْحَة اَلزِّمَّة	26.23667	50.64361	H	BAY	BH	BH	01				0		-9999	Asia/Bahrain	2012-01-18
+290067	Ra’s az Zallāq	Ra's az Zallaq	Ra's az Zallaq,Ra’s az Zallāq,ras aalzalaaq,رَأْس اَلزَّلاَّق	26.04917	50.48278	T	PT	BH		17				0		5	Asia/Bahrain	2012-01-18
+290068	‘Ayn Yūsuf	`Ayn Yusuf	`Ayn Yusuf,عَيْن يُوسُف,‘Ayn Yūsuf	26.15722	50.59194	H	WLL	BH		16				0		4	Asia/Bahrain	2015-05-06
+290069	Jazīrat Ya‘şūf	Jazirat Ya`suf	Jazirat Ya`suf,Jazīrat Ya‘şūf,جَزِيرَة يَعْصُوف	26.10667	50.44528	T	ISL	BH		08				0		-9999	Asia/Bahrain	2012-01-18
+290070	Al Minţaqah al Wusţá	Al Mintaqah al Wusta	Al Mintaqah al Wusta,Al Minţaqah al Wusţá,Central Region,aalmintaqat aalwustay,اَلْمِنْطَقَة اَلْوُسْطَى	26.18333	50.51667	A	ADM1H	BH		11				57878		3	Asia/Bahrain	2018-01-10
+290071	Juzur al Wukūr	Juzur al Wukur	Juzur al Wukur,Juzur al Wukūr,juzur aalwukur,جُزُر اَلْوُكُور	25.65361	50.815	T	ISLS	BH		17				0		-9999	Asia/Bahrain	2012-01-18
+290072	West Spit	West Spit	West Spit	26.28611	50.52806	H	RFX	BH		15				0		-9999	Asia/Bahrain	2012-01-18
+290073	Wādiyān	Wadiyan	Wadiyah,Wadiyan,Wādiyān,wadian,وَادِيَان	26.15917	50.61111	P	PPL	BH		16				0		7	Asia/Bahrain	2015-05-06
+290074	‘Ayn Umm Majrá	`Ayn Umm Majra	Ain Umm Ijraiyi,Umm Ijra'i,Umm Ijrā’ī,`Ayn Umm Majra,عَيْن أُمّ مَجْرَى,‘Ayn Umm Majrá	26.13333	50.5	H	SPNG	BH		18				0		18	Asia/Bahrain	2013-08-06
+290075	Umm Kharūrah	Umm Kharurah	Umm Kharurah,Umm Kharūrah,aum kharurat,أُمّ خَرُورَة	25.66278	50.77444	T	ISL	BH		17				0		7	Asia/Bahrain	2012-01-18
+290076	Umm Jidr aş Şummān	Umm Jidr as Summan	Umm Jidr as Summan,Umm Jidr aş Şummān,aum jidr aalsumaan,أُمّ جِدْر اَلصُّمَّان	25.89278	50.565	L	AREA	BH		17				0		28	Asia/Bahrain	2012-01-18
+290077	‘Ayn Umm Jidr	`Ayn Umm Jidr	Umm Yadar,Umm Yādar,`Ayn Umm Jidr,عَيْن أُمّ جِدْر,‘Ayn Umm Jidr	25.90222	50.57417	H	WLL	BH		17				0		30	Asia/Bahrain	2012-01-18
+290078	Umm Jidr	Umm Jidr	Umm Jidr,aum jidr,أُمّ جِدْر	26.01111	50.52611	P	PPL	BH		17				0		21	Asia/Bahrain	2012-01-18
+290079	Bi’r Umm Ghuwayfah	Bi'r Umm Ghuwayfah	Bi'r Umm Ghuwayfah,Bi’r Umm Ghuwayfah,Umm Ghuwaifa,bir aum ghuayfat,بِئْر أُمّ غُوَيْفَة	26.11667	50.53333	H	WLL	BH		17				0		44	Asia/Bahrain	2012-01-18
+290080	Kawkab Umm as Sawālī	Kawkab Umm as Sawali	Kawkab Umm as Sawali,Kawkab Umm as Sawālī,Umm as Suwali,Umm as Suwālī,kawkab aum aalsawali,كَوْكَب أُمّ اَلسَّوَالِي	26.2225	50.66861	H	SPNG	BH		15				0		2	Asia/Bahrain	2012-01-18
+290081	‘Ayn Umm ash Sha‘ūm	`Ayn Umm ash Sha`um	`Ayn Umm ash Sh`um,`Ayn Umm ash Sha`um,عَيْن أُمّ اَلشَّعُوم,‘Ayn Umm ash Sha‘ūm,‘Ayn Umm ash Sh‘ūm	26.20722	50.59278	H	SPNG	BH		16				0		8	Asia/Bahrain	2012-01-18
+290082	Umm ash Sha‘ūm	Umm ash Sha`um	Umm ash Sha`um,Umm ash Shalum,Umm ash Shalūm,Umm ash Sha‘ūm,Umm ash Sholum,أُمّ اَلشَّعُوم	26.21667	50.58333	P	PPLX	BH		02				0		8	Asia/Bahrain	2012-01-18
+290083	Jazīrat Umm ash Shajar	Jazirat Umm ash Shajar	Jazirat Umm ash Shajar,Jazīrat Umm ash Shajar,Um el Shajar,Umm Shajar,Umm al-Shadjar,Umm ash Shahin,Umm ash Shanin,Umm ash-Shagar,jazirat aum aalshajar,جَزِيرَة أُمّ اَلشَّجَر	26.231	50.65177	T	ISLX	BH		01				0		-9999	Asia/Bahrain	2017-11-08
+290084	Umm ash Shajar	Umm ash Shajar	Um el Shajar,Umm ash Shahin,Umm ash Shajar,Umm ash Shanin,aum aalshajar,أُمّ اَلشَّجَر	26.22833	50.65583	P	PPL	BH		15				0		-9999	Asia/Bahrain	2012-01-18
+290085	Umm an Na‘sān	Umm an Na`san	Al-Na`san,Al-Na‘sān,Jazirat Umm Na`san,Jazīrat Umm Na‘sān,Um Nasan Island,Umm Na'asan,Umm Na'san,Umm Nasam Island,Umm Nasan Island,Umm Na’asān,Umm Na’san,Umm an Na`san,Umm an Na‘sān,Umm an-Nassan,أُمّ اَلنَّعْسَان	26.14972	50.4	T	ISL	BH		18				0		3	Asia/Bahrain	2013-08-06
+290086	Ra’s Umm al Ḩaşşam	Ra's Umm al Hassam	Ra's Umm al Hassam,Ras Umm al Hassam,Ra’s Umm al Ḩaşşam,ras aum aalhasam,رَأْس أُمّ اَلْحَصَّم	26.19528	50.59306	T	PT	BH		16				0		2	Asia/Bahrain	2012-01-18
+290087	Umm al Ḩaşşam	Umm al Hassam	Umm al Hassam,Umm al Ḩaşşam,Umm al-Hassam,aum aalhasam,أُمّ اَلْحَصَّم	26.2025	50.59194	P	PPLX	BH		16				0		6	Asia/Bahrain	2012-01-18
+290088	Nakhl Umm ‘Abd Allāh	Nakhl Umm `Abd Allah	Nakhl Umm `Abd Allah,Nakhl Umm ‘Abd Allāh,نَخْل أُمّ عَبْد اَللَّٰه	26.15	50.58333	V	GROVE	BH		16				0		4	Asia/Bahrain	2017-11-08
+290089	Umm ‘Abd Allāh	Umm `Abd Allah	Umm `Abd Allah,Umm ‘Abd Allāh,أُمّ عَبْد اَللَّٰه	26.15	50.58333	L	LCTY	BH		16				0		4	Asia/Bahrain	2015-05-06
+290090	Ra’s Tūblī	Ra's Tubli	Ra's Tubli,Ras Tubil,Ra’s Tūblī,ras tubli,رَأْس تُوبْلِي	26.19667	50.56167	T	PT	BH		16				0		0	Asia/Bahrain	2015-05-06
+290091	Tūblī	Tubli	Tubli,Tūblī,tubli,تُوبْلِي	26.18694	50.54944	P	PPL	BH		16				0		6	Asia/Bahrain	2015-05-06
+290092	Thalb	Thalb	Thalb,Thalib Shoal,thalb,ثَلْب	25.9	50.71667	H	RF	BH		13				0		-9999	Asia/Bahrain	2012-01-18
+290093	Ţashshān	Tashshan	Tashshan,tashaan,Ţashshān,طَشَّان	26.21139	50.54611	P	PPLX	BH		16				0		9	Asia/Bahrain	2015-05-06
+290094	Şuwayfirah	Suwayfirah	Saafra Race Course,Suwayfirah,Swaifera,suayfirat,Şuwayfirah,صُوَيْفِرَة	26.11667	50.55	S	RECR	BH		17				0		26	Asia/Bahrain	2012-01-18
+290095	Suwād ash Shamālīyah	Suwad ash Shamaliyah	Jazirat Sawad,Jazīrat Sawād,Little Sand Island,Sowad Shamaliya,Sowad Shamiliya Island,Suwad ash Shamaliyah,Suwād ash Shamālīyah,jazirat sawad,suad aalshamaliat,جَزِيرَة سَوَاد,سُوَاد اَلشَّمَالِيَّة	25.67541	50.81188	T	ISL	BH		17				0		3	Asia/Bahrain	2016-08-03
+290096	Suwād al Janūbīyah	Suwad al Janubiyah	Big Sand Island,Jazirat Suwad,Jazīrat Suwād,Sowad South Island,Suwad al Janubiyah,Suwād al Janūbīyah,suad aaljanubiat,سُوَاد اَلْجَنُوبِيَّة	25.6425	50.79972	T	ISL	BH		17				0		3	Asia/Bahrain	2012-01-18
+290097	Sūq al Khamīs	Suq al Khamis	Suk al-Kh-mis,Suq al Khamis,Sūk al-Kh-mīs,Sūq al Khamīs,suq aalkhamis,سُوق اَلْخَمِيس	26.2	50.55	L	LCTY	BH	BH	02				0		3	Asia/Bahrain	2012-01-18
+290098	‘Ayn aş Şummān	`Ayn as Summan	`Ayn as Summan,عَيْن اَلصُّمَّان,‘Ayn aş Şummān	25.88556	50.57528	H	WLL	BH		17				0		22	Asia/Bahrain	2012-01-18
+290099	‘Ayn as Sujūr	`Ayn as Sujur	`Ayn as Sujur,عَيْن اَلسُّجُور,‘Ayn as Sujūr	26.21667	50.46667	H	WLL	BH		18				0		11	Asia/Bahrain	2013-08-06
+290100	Jazīrat Suhaylah	Jazirat Suhaylah	Jazirat Sahailah,Jazirat Suhaylah,Jazīrat Sahailah,Jazīrat Suhaylah,jazirat suhaylat,جَزِيرَة سُهَيْلَة	26.26694	50.43583	H	RF	BH	BH	10				0		-9999	Asia/Bahrain	2012-01-18
+290101	Sufālah	Sufalah	Sufala,Sufalah,Sufālah,sufalat,سُفَالَة	26.16278	50.62556	P	PPL	BH		16				0		4	Asia/Bahrain	2015-05-06
+290102	Sitrah	Sitrah	Port of Sitra,Port of Sitrah,Sitra,Sitra Oil Loading Terminal,Sitra Terminal,Sitrah,Sitrah Anchorage,sitrat,سِتْرَة	26.14444	50.64194	S	TRMO	BH		17				0		6	Asia/Bahrain	2015-05-06
+290103	Sitrah	Sitrah	As Sitra,Jazirat Sitrah,Jazirat as Sitra,Jazīrat Sitrah,Jazīrat as Sitra,Sitra,Sitra Island,Sitrah,sitrat,سِتْرَة	26.15667	50.62139	T	ISL	BH		16				0		6	Asia/Bahrain	2015-05-06
+290104	Sitrah	Sitrah	Sitra,Sitrah,sitrat,strh,strt,sytrh,Ситра,סיטרה,سترة,ستره,سترہ,سِتْرَة	26.15472	50.62056	P	PPL	BH		16				37657		5	Asia/Bahrain	2015-05-06
+290105	Sitrah	Sitrah	Sitra,Sitrah,sitrat,سِتْرَة	26.15	50.61667	A	ADM1H	BH		06				47076		-9999	Asia/Bahrain	2018-10-05
+290106	Ḩayr Shutayā	Hayr Shutaya	Hayr Shutaya,hayr shutaya,حَيْر شُتَيَا,Ḩayr Shutayā	26.56528	50.77722	H	SHOL	BH		15				0		-9999	Asia/Bahrain	2012-01-18
+290107	Ra’s ash Shuraybah	Ra's ash Shuraybah	Ra's ash Shuraybah,Ras Sharaiba,Ra’s ash Shuraybah,ras aalshuraybat,رَأْس اَلشُّرَيْبَة	26.23028	50.46444	T	PT	BH		18				0		-9999	Asia/Bahrain	2013-08-06
+290108	‘Ayn ash Shūl	`Ayn ash Shul	Ain Shul,`Ayn ash Shul,عَيْن اَلشُّول,‘Ayn ash Shūl	26.11667	50.56667	H	WLL	BH		17				0		46	Asia/Bahrain	2012-01-18
+290109	Qal‘at Shaykh Khālid	Qal`at Shaykh Khalid	Qal`at Shaykh Khalid,Qal‘at Shaykh Khālid,قَلْعَة شَيْخ خَالِد	26.16667	50.6	S	FT	BH		16				0		-9999	Asia/Bahrain	2015-05-06
+290110	Jazīrat ash Shaykh	Jazirat ash Shaykh	Jazirat Ashaikh,Jazirat Ashikh,Jazirat Mashaikh,Jazirat ash Shaykh,Jazīrat ash Shaykh,jazirat aalshaykh,جَزِيرَة اَلشَّيْخ	26.05	50.63222	T	ISL	BH		13				0		1	Asia/Bahrain	2012-01-18
+290111	Al Qārah ash Shamālīyah	Al Qarah ash Shamaliyah	Al Qa`rah ash Shimaliyah,Al Qar`ah ash Shamaliyah,Al Qarah ash Shamaliyah,Al Qar‘ah ash Shamālīyah,Al Qa‘rah ash Shimālīyah,Al Qārah ash Shamālīyah,aalqarat aalshamaliat,اَلْقَارَة اَلشَّمَالِيَّة	26.00861	50.55944	T	HLL	BH		17				0		56	Asia/Bahrain	2012-01-18
+290112	Al Minţaqah ash Shamālīyah	Al Mintaqah ash Shamaliyah	Al Mintaqah ash Shamaliyah,Al Minţaqah ash Shamālīyah,Northern Region,aalmintaqat aalshamaliat,اَلْمِنْطَقَة اَلشَّمَالِيَّة	26.21667	50.48333	A	ADM1H	BH		10				47957		5	Asia/Bahrain	2018-10-05
+290113	Shahrakkān	Shahrakkan	Shaharakkan,Shahrakkan,Shahrakkān,shahrakaan,شَهْرَكَّان	26.07528	50.50139	P	PPL	BH		18				0		9	Asia/Bahrain	2013-08-06
+290114	Ra’s ash Shāb	Ra's ash Shab	Ra's ash Shab,Ra's ash Shabb,Ra’s ash Shāb,Ra’s ash Shābb,ras aalshaab,رَأْس اَلشَّاب	26.55	50.56667	H	RFX	BH		02				0		-9999	Asia/Bahrain	2012-01-18
+290115	‘Ayn as Sayyid	`Ayn as Sayyid	Saiyid,`Ayn as Sayyid,عَيْن اَلسَّيِّد,‘Ayn as Sayyid	26.2	50.48333	H	WLL	BH		18				0		10	Asia/Bahrain	2013-08-06
+290116	‘Ayn Sayyid	`Ayn Sayyid	Saiyid,`Ayn Sayyid,عَيْن سَيِّد,‘Ayn Sayyid	26.2	50.55	H	WLL	BH		02				0		3	Asia/Bahrain	2012-01-18
+290117	Jazīrat as Sāyah	Jazirat as Sayah	As Saja,As Sāja,Jazirat as Saja,Jazirat as Saya,Jazirat as Sayah,Jazīrat as Saja,Jazīrat as Sāyah,Jazīrat aş Sāyah,Saya,jazirat aalsaayat,جَزِيرَة اَلسَّايَة	26.2779	50.59584	T	ISLX	BH		15				0		-9999	Asia/Bahrain	2017-11-08
+290118	Sār	Sar	Sar,Sār,sar,سَار	26.19417	50.48194	P	PPL	BH		18				0		14	Asia/Bahrain	2013-08-06
+290119	Ra’s Sanad	Ra's Sanad	Ra's Sanad,Ra’s Sanad,ras sanad,رَأْس سَنَد	26.16028	50.59028	T	PT	BH		11				0		7	Asia/Bahrain	2012-01-18
+290120	Sanad	Sanad	Sanad,sanad,سَنَد	26.15028	50.58194	P	PPL	BH		16				0		5	Asia/Bahrain	2015-05-06
+290121	Sanābis	Sanabis	As Sanabis,As Sanābīs,Sanabis,Sanābis,sanabis,سَنَابِس	26.22722	50.55083	P	PPLX	BH		16				0		6	Asia/Bahrain	2012-01-18
+290122	Kawkab Samāhīj	Kawkab Samahij	Kawkab Samahij,Kawkab Samāhīj,kawkab samahij,كَوْكَب سَمَاهِيج	26.28333	50.65	H	SPNG	BH		15				0		-9999	Asia/Bahrain	2012-01-18
+290123	Samāhīj	Samahij	Samahidj,Samahij,Samāhīdj,Samāhīj,Simahij,samahij,سَمَاهِيج	26.28	50.635	P	PPL	BH		15				0		7	Asia/Bahrain	2012-01-18
+290124	Dawḩat Salwá	Dawhat Salwa	Dawhat Salwa,Dawḩat Salwá,dawhat salway,دَوْحَة سَلْوَى	25.55	50.61361	H	BAY	BH		08				0		-9999	Asia/Bahrain	2012-01-18
+290125	Ḑil‘ Salmān Bin Du‘ayj	Dil` Salman Bin Du`ayj	Dil` Salman Bin Du`ayj,ضِلْع سَلْمَان بِن دُعَيْج,Ḑil‘ Salmān Bin Du‘ayj	26.14944	50.48389	T	SCRP	BH		18				0		12	Asia/Bahrain	2013-08-06
+290126	Mīnā’ Salmān	Mina' Salman	Mina Sulman,Mina' Salman,Mīnā’ Salmān,مِينَاء سَلْمَان	26.21667	50.6	L	PRT	BH		16				0		0	Asia/Bahrain	2012-01-18
+290127	Salmābād	Salmabad	Salambad,Salmabad,Salmābād,salmabad,سَلْمَابَاد	26.18306	50.52472	P	PPL	BH		18				0		5	Asia/Bahrain	2015-05-06
+290128	Kawkab Şāliḩ	Kawkab Salih	Kawkab Salih,Kawkab Şāliḩ,kawkab salih,كَوْكَب صَالِح	26.16333	50.58861	H	SPNG	BH		02				0		3	Asia/Bahrain	2012-01-18
+290129	Ra’s Salbah	Ra's Salbah	Ra's Salbah,Ras Salba,Ras Salbe,Ra’s Salbah,ras salbat,رَأْس سَلْبَة	26.10944	50.62944	T	PT	BH		17				0		1	Asia/Bahrain	2015-05-06
+290130	Salbah	Salbah	Salba,Salbah,salbat,سَلْبَة	26.11667	50.61667	S	RUIN	BH		17				0		1	Asia/Bahrain	2015-05-06
+290131	Ra’s as Salá	Ra's as Sala	Ra's as Sala,Ra’s as Salá,ras aalsalay,رَأْس اَلسَّلَى	26.43333	50.45	H	RFX	BH		10				0		-9999	Asia/Bahrain	2012-01-18
+290132	Sakhara	Sakhara	Sakhara,Sakharah,Sakhari,sakhari,Şakharāh,Şakhārī,صَخَارِي	26.08667	50.5025	L	LCTY	BH		18				0		12	Asia/Bahrain	2013-08-06
+290133	Şāfirah	Safirah	Safiah,Safirah,Safrah,safirat,Şāfirah,صَافِرَة	26.105	50.53861	P	PPL	BH		17				0		29	Asia/Bahrain	2012-01-18
+290134	‘Ayn aş Şafāḩīyah	`Ayn as Safahiyah	`Ayn as Safahiyah,عَيْن اَلصَّفَاحِيَّة,‘Ayn aş Şafāḩīyah	26.18333	50.58333	H	WLL	BH		16				0		5	Asia/Bahrain	2012-01-18
+290135	Bandar Şadad	Bandar Sadad	Bandar Sadad,Bandar Şadad,bandar sadad,بَنْدَر صَدَد	26.08333	50.46667	H	ANCH	BH		08				0		-9999	Asia/Bahrain	2012-01-18
+290136	Şadad	Sadad	Sadad,sadad,Şadad,صَدَد	26.08278	50.48972	P	PPL	BH		18				0		5	Asia/Bahrain	2013-08-06
+290137	Fasht Rustan	Fasht Rustan	Fasht Rustan,fasht rustan,فَشْت رُسْتَن	26.27194	50.57056	H	RF	BH		15				0		-9999	Asia/Bahrain	2012-01-18
+290138	Ra’s ar Rummān	Ra's ar Rumman	Ra's ar Rumman,Ra’s ar Rummān,ras aalrumaan,رَأْس اَلرُّمَّان	26.23333	50.58333	T	PT	BH		16				0		11	Asia/Bahrain	2012-01-18
+290139	Ḑil‘ ar Rifā‘	Dil` ar Rifa`	Dil` Rafah,Dil` ar Rifa`,ضِلْع اَلرِّفَاع,Ḑil‘ Rafah,Ḑil‘ ar Rifā‘	26.08556	50.51722	T	CLF	BH		17				0		32	Asia/Bahrain	2012-01-18
+290140	Ra’s Rayyā	Ra's Rayya	Ra's Rayya,Ra’s Rayyā,ras rayaa,رَأْس رَيَّا	26.28472	50.63472	T	PT	BH		15				0		5	Asia/Bahrain	2012-01-18
+290141	Kawkab Rayyā	Kawkab Rayya	Kawkab Rayya,Kawkab Rayyā,kawkab rayaa,كَوْكَب رَيَّا	26.3	50.61667	H	SPNG	BH		15				0		-9999	Asia/Bahrain	2012-01-18
+290142	Rayyā	Rayya	Raiya,Rayya,Rayyā,rayaa,رَيَّا	26.28333	50.63333	P	PPL	BH	BH	15				0		9	Asia/Bahrain	2012-01-18
+290143	Rawḑat aş Şakhīr	Rawdat as Sakhir	Rawdat as Sakhir,Rawḑat aş Şakhīr,rawdat aalsakhir,رَوْضَة اَلصَّخِير	26.05	50.53333	V	GROVE	BH		17				0		31	Asia/Bahrain	2017-11-08
+290144	Ra’s al ‘Ayn	Ra's al `Ayn	Ain,Ra's al `Ayn,Ras al Ain,Ra’s al ‘Ayn,رَأْس اَلْعَيْن	26.4	50.53333	H	RF	BH		02				0		-9999	Asia/Bahrain	2012-01-18
+290145	‘Ayn ar Raḩá	`Ayn ar Raha	`Ayn ar Raha,عَيْن اَلرَّحَى,‘Ayn ar Raḩá	26.17639	50.61278	H	SPNG	BH		16				0		0	Asia/Bahrain	2015-05-06
+290146	Radm al Qawārī	Radm al Qawari	Radham al-Qawari,Radm al Kawari,Radm al Kawarī,Radm al Qawari,Radm al Qawārī,radm aalqawari,رَدْم اَلْقَوَارِي	26.18333	50.53333	L	LCTY	BH		19				0		10	Asia/Bahrain	2013-08-06
+290147	Rabaḑ ash Sharqīyah	Rabad ash Sharqiyah	Ar Rabadh,Ar Rabādh,Djezira Rubadh,Jazirat Rubadh,Jazirat Rubaz,Jazīrat Rubādh,Jazīrat Rubāz̧,Rabad ash Sharqiyah,Rabaḑ ash Sharqīyah,rabad aalsharqiat,رَبَض اَلشَّرْقِيَّة	25.75083	50.78167	T	ISL	BH		17				0		1	Asia/Bahrain	2012-01-18
+290148	Rabaḑ al Gharbīyah	Rabad al Gharbiyah	Rabad al Gharbiyah,Rabaḑ al Gharbīyah,rabad aalgharbiat,رَبَض اَلْغَرْبِيَّة	25.75194	50.76611	T	ISL	BH		17				0		0	Asia/Bahrain	2012-01-18
+290149	Ra’s al Qurayn	Ra's al Qurayn	Ra's al Qurayn,Ras al Qarain,Ra’s al Qurayn,ras aalqurayn,رَأْس اَلْقُرَيْن	25.93528	50.61306	T	PT	BH		17				0		1	Asia/Bahrain	2012-01-18
+290150	Qulay‘ah Rock	Qulay`ah Rock	Kalaia Rock,Qulay`ah Rock,Qulay‘ah Rock	26.41667	50.51667	T	RK	BH		02				0		-9999	Asia/Bahrain	2012-01-18
+290151	Qaşşār al Qulay‘ah	Qassar al Qulay`ah	Qassar al Qulay`ah,Qaşşār al Qulay‘ah,قَصَّار اَلْقُلَيْعَة	26.185	50.65222	H	RF	BH		01				0		-9999	Asia/Bahrain	2012-01-18
+290152	Khawr al Qulay‘ah	Khawr al Qulay`ah	Kaliya,Khawr al Qulay`ah,Khawr al Qulay‘ah,Khawra al-Kulay`a,Khawra al-Kulay‘a,Khor Kaliya,Khor al Qalaia,Khor-al-Qala'ah,Khor-al-Qala’ah,خَوْر اَلْقُلَيْعَة	26.20889	50.63889	H	INLT	BH		00				0		-9999	Asia/Bahrain	2012-01-18
+290153	Dawḩat al Quḑaybīyah	Dawhat al Qudaybiyah	Dawhat al Qudaybiyah,Dawḩat al Quḑaybīyah,Dohat al Qadhaibiyah,Dohat al Qadhaibīyah,Qudhaibiya Bay,dawhat aalqudaybiat,دَوْحَة اَلْقُضَيْبِيَّة	26.23213	50.60689	H	BAY	BH		06				0		-9999	Asia/Bahrain	2017-11-08
+290154	Qubayţ	Qubayt	Kubait,Qubayt,Qubayţ,qubayt,قُبَيْط	26.2	50.51667	P	PPL	BH		18				0		4	Asia/Bahrain	2013-08-06
+290155	‘Ayn Qaşşārī	`Ayn Qassari	`Ayn Qassari,عَيْن قَصَّارِي,‘Ayn Qaşşārī	26.2	50.55	H	SPNG	BH		02				0		3	Asia/Bahrain	2012-01-18
+290156	Qal‘at ‘Arād	Qal`at `Arad	Arad Fort,Qal`at `Arad,Qal‘at ‘Arād,قَلْعَة عَرَاد	26.2525	50.62694	S	FT	BH		15				0		1	Asia/Bahrain	2012-01-18
+290157	Qal‘at al ‘Ajāj	Qal`at al `Ajaj	Fort of Bahrain,Qal'at al Farangi,Qal`at al `Ajaj,Qalat Al-Bahrain,Qal‘at al ‘Ajāj,Qal’at al Farangi,قَلْعَة اَلْعَجَاج	26.23333	50.51667	S	RUIN	BH		05				0		8	Asia/Bahrain	2012-01-18
+290158	Qal‘at Abū Māhir	Qal`at Abu Mahir	Abu Mahir,Abu Mahir Fort,Abu Mahur,Abu Mahur Fort,Abu Māhur Fort,Bu Maher Fort,Muharraq Fort,Qal`at Abu Mahir,Qal‘at Abū Māhir,قَلْعَة أَبُو مَاهِر	26.24139	50.61361	S	FT	BH		15				0		3	Asia/Bahrain	2017-08-22
+290159	Ra’s Qalālī	Ra's Qalali	Ra's Qalali,Ras Galai,Ra’s Qalālī,ras qalaali,رَأْس قَلاَلِي	26.27083	50.65528	T	PT	BH		15				0		7	Asia/Bahrain	2012-01-18
+290160	Qalālī	Qalali	Galali,Kalali,Kalālī,Qalali,Qalani,Qalālī,Qalānī,qalaali,قَلاَلِي	26.27333	50.65028	P	PPL	BH		15				0		8	Asia/Bahrain	2012-01-18
+290161	Ra’s al Qal‘ah	Ra's al Qal`ah	Ra's al Qal`ah,Ras al Qala'a,Ras al Qala’a,Ra’s al Qal‘ah,رَأْس اَلْقَلْعَة	26.23556	50.51861	T	PT	BH		16				0		3	Asia/Bahrain	2015-05-06
+290162	Outer Anchorage	Outer Anchorage	Outer Anchorage,Outer Harbour	26.28333	50.53333	H	ANCH	BH	BH	05				0		-9999	Asia/Bahrain	2012-01-18
+290163	Nūr Juruft	Nur Juruft	Nur Juruft,Nūr Juruft,nur juruft,نُور جُرُفْت	26.23333	50.5	P	PPL	BH		10				0		6	Asia/Bahrain	2012-01-18
+290164	Qaşşār Nūn	Qassar Nun	Qassar Nun,Qaşşār Nūn,qasaar nun,قَصَّار نُون	25.78861	50.60306	T	ISL	BH		13				0		-9999	Asia/Bahrain	2012-01-18
+290165	Ḩālat Nūn	Halat Nun	Halat Nun,halat nun,حَالَة نُون,Ḩālat Nūn	25.77528	50.59833	T	ISL	BH		13				0		-9999	Asia/Bahrain	2012-01-18
+290166	Ra’s an Niqāh	Ra's an Niqah	Ra's al Niqah,Ra's an Niqah,Ra’s al Niqāh,Ra’s an Niqāh,ras aalniqah,رَأْس اَلنِّقَاه	25.86889	50.60556	T	SPIT	BH		17				0		2	Asia/Bahrain	2012-01-18
+290167	Ra’s Nawmah	Ra's Nawmah	Ra's Nawmah,Ra's Numah,Ras Noma,Ras Nomah,Ra’s Nawmah,Ra’s Nūmah,Rās Nomah,ras nawmat,رَأْس نَوْمَة	25.98639	50.45778	T	PT	BH		17				0		-9999	Asia/Bahrain	2012-01-18
+290168	Bandar Nakhlah	Bandar Nakhlah	Bandar Nakhlah,bandar nakhlat,بَنْدَر نَخْلَة	25.63333	50.76333	H	ANCH	BH		09				0		4	Asia/Bahrain	2012-01-18
+290169	Jazīrat an Nabī Şāliḩ	Jazirat an Nabi Salih	Al-Nabih Salih,Al-Nabīh Şāliḩ,An Nabi Salih,An Nabih Salih,An Nabī Şāliḩ,An Nabīh Sāliḩ,Djezire Nabi Sali,Djezire Nebi Sali,Jazirat an Nabi Salih,Jazīrat an Nabī Şāliḩ,Nabbi Salih Island,Nabi Salib Island,Nabih Salih,Nebbi Salih,Nebi Saleh,jazirat aalnabi salih,جَزِيرَة اَلنَّبِي صَالِح	26.18212	50.58562	T	ISL	BH		16				0		4	Asia/Bahrain	2017-11-08
+290170	Muḩazwarah Island	Muhazwarah Island	Mahazwarat Island,Muhazwara Island,Muhazwarah Island,Muḩazwarah Island	25.66667	50.78333	T	ISL	BH		17				0		-9999	Asia/Bahrain	2012-01-18
+290171	Jazīrat al Muḩarraq	Jazirat al Muharraq	Al Muharraq,Al Muḩarraq,Al-Muharrak,Al-Muḩarrak,Jazirat al Muharraq,Jazīrat al Muḩarraq,Muharraq Island,`Arad,jazirat aalmuharaq,جَزِيرَة اَلْمُحَرَّق,‘Arad	26.27139	50.63028	T	ISL	BH		15				0		8	Asia/Bahrain	2012-01-18
+290172	Dawḩat al Muḩarraq	Dawhat al Muharraq	Bay of Arad,Dawhat `Arad,Dawḩat `Arād,Dohat 'Arad,Dohat 'Arād,Muharraq Bay,dawhat aalmuharaq,دَوْحَة اَلْمُحَرَّق	26.25947	50.62479	H	BAY	BH	BH	15				0		-1	Asia/Bahrain	2007-06-04
+290173	Jazīrat Mashtān	Jazirat Mashtan	Jazirat Mashtan,Jazīrat Mashtān,jazirat mashtan,جَزِيرَة مَشْتَان	25.80773	50.68225	T	ISL	BH		09				0		-9999	Asia/Bahrain	2016-08-03
+290174	Marwazān	Marwazan	Marwazan,Marwazān,marwazan,مَرْوَزَان	26.22139	50.54389	P	PPLX	BH		16				0		7	Asia/Bahrain	2015-05-06
+290175	Marwadī	Marwadi	Marwadi,Marwadī,marwadi,مَرْوَدِي	26.31694	50.445	H	RF	BH		10				0		-9999	Asia/Bahrain	2012-01-18
+290176	Marqūbān	Marquban	Markuban,Markūbān,Marquban,Marqūbān,marquban,مَرْقُوبَان	26.16417	50.61833	P	PPL	BH		16				0		4	Asia/Bahrain	2015-05-06
+290177	Khawr Maqţa‘ Tūblī	Khawr Maqta` Tubli	Khawr Lupin,Khawr Maqta` Tubli,Khawr Maqţa‘ Tūblī,Khor Magta Tubli,Khor Makta'a Tubil,Khor Makta’a Tubil,Khor Maqta Tubli,خَوْر مَقْطَع تُوبْلِي	26.2	50.56667	H	INLT	BH		00				0		6	Asia/Bahrain	2012-01-18
+290178	Maqābā	Maqaba	Makaba,Maqaba,Maqābā,maqaba,مَقَابَا	26.21083	50.4875	P	PPL	BH		18				0		10	Asia/Bahrain	2013-08-06
+290179	Manī	Mani	Mani,Manī,mani,مَنِي	26.21667	50.55	P	PPL	BH		16				0		8	Asia/Bahrain	2012-01-18
+290180	Mīnā’ al Manāmah	Mina' al Manamah	Mina' al Manamah,Mīnā’ al Manāmah,مِينَاء اَلْمَنَامَة	26.23611	50.5725	L	PRT	BH		16				0		3	Asia/Bahrain	2012-01-18
+290181	Dawḩat al Manāmah	Dawhat al Manamah	Dawhat al Manamah,Dawḩat al Manāmah,Manama Bay,Manamah Bay,Manāmah Bay,dawhat aalmanamat,دَوْحَة اَلْمَنَامَة	26.24889	50.55111	H	BAY	BH	BH	02				0		-9999	Asia/Bahrain	2012-01-18
+290182	Ra’s al Mamţalah	Ra's al Mamtalah	Ra's al M'ttalah,Ra's al Mamtalah,Ra's al Matallah,Ra's al Mumattalah,Ra's al Mutallah,Ras al Mattala,Ras al Muttala,Ra’s al Mamţalah,Ra’s al Maţallah,Ra’s al Mumaţţalah,Ra’s al Muţallah,Ra’s al M’ţţalah,ras aalmamtalat,ras almtlt,رأس المطلة,رَأْس اَلْمَمْطَلَة	25.89888	50.51626	T	CAPE	BH		17				0		1	Asia/Bahrain	2017-11-08
+290183	Mamlaḩat al Mamţalah	Mamlahat al Mamtalah	Mamlahat Mumattalah,Mamlahat al M'ttalah,Mamlahat al Mamtalah,Mamlahat al Matallah,Mamlahat al Mutallah,Mamlaḩat Mumaţţalah,Mamlaḩat al Mamţalah,Mamlaḩat al Maţallah,Mamlaḩat al Muţallah,Mamlaḩat al M’ţţalah,Mimlahat al Mattala,Mimlahat al Muttala,mamlahat aalmamtalat,mmlht almtlt,مملحة المطلة,مَمْلَحَة اَلْمَمْطَلَة	25.96372	50.49186	H	SBKH	BH		17				0		1	Asia/Bahrain	2017-11-08
+290184	Dawḩat al Mamţalah	Dawhat al Mamtalah	Dawhat Mumattalah,Dawhat al M'ttalah,Dawhat al Mamtalah,Dawhat al Mutallah,Dawḩat Mumaţţalah,Dawḩat al Mamţalah,Dawḩat al Mutallah,Dawḩat al M’ţţalah,Dwahat al Mamtalah,Dwaḩat al Mamţalah,Matallah Bay,Mattala Bay,Muttala Bay,dawhat aalmamtalat,دَوْحَة اَلْمَمْطَلَة	25.90111	50.51806	H	INLT	BH	BH	08				0		8	Asia/Bahrain	2012-01-18
+290185	‘Ayn al Mahazzah	`Ayn al Mahazzah	Muhazza,`Ayn al Mahazzah,عَيْن اَلْمَهَزَّة,‘Ayn al Mahazzah	26.16722	50.6275	H	WLL	BH		16				0		1	Asia/Bahrain	2015-05-06
+290186	Mahazzah	Mahazzah	Mahazzah,Muhazza,mahazat,مَهَزَّة	26.16944	50.62611	P	PPL	BH		16				0		4	Asia/Bahrain	2015-05-06
+290187	Madīnat ‘Īsá	Madinat `Isa	Isa,Isa Town,Madinat `Isa,Madīnat ‘Īsá,Medinat Isa,مَدِينَة عِيسَى	26.17361	50.54778	P	PPL	BH		17				38090		7	Asia/Bahrain	2015-05-06
+290188	Madīnat ‘Īsá	Madinat `Isa	Isa Town,Madinat `Isa,Madīnat ‘Īsá,مَدِينَة عِيسَى	26.16667	50.55	A	ADM1H	BH		12				38090		4	Asia/Bahrain	2018-10-05
+290189	Jabal Lughaybirāt	Jabal Lughaybirat	Jabal Lughaybirat,Jabal Lughaybirāt,jabal lughaybirat,جَبَل لُغَيْبِرَات	26.05833	50.54833	T	HLL	BH						0		77	Asia/Bahrain	2013-08-06
+290190	Liyā	Liya	Liya,Liyā,lia,لِيَا	26.26056	50.51639	T	RK	BH		05				0		-9999	Asia/Bahrain	2012-01-18
+290191	Nakhl Lawzī	Nakhl Lawzi	Nakhal Lazi,Nakhal Lozi,Nakhl Lawzi,Nakhl Lawzī,nakhl lawzi,نَخْل لَوْزِي	26.13333	50.5	V	GRVP	BH		18				0		18	Asia/Bahrain	2013-08-06
+290192	‘Ayn Khuwayş	`Ayn Khuways	`Ayn Khuways,عَيْن خُوَيْص,‘Ayn Khuwayş	26.16278	50.49389	H	SPNG	BH		18				0		6	Asia/Bahrain	2013-08-06
+290193	Khuwayş	Khuways	Huwais,Khuwais,Khuways,Khuwayş,khuays,خُوَيْص	26.16667	50.5	P	PPL	BH		18				0		6	Asia/Bahrain	2013-08-06
+290194	Ra’s Khuşayfah	Ra's Khusayfah	Khusaifa,Ra's Khusayfah,Ra's Khusayfah Spit,Ras Khasaifa Spit,Ra’s Khuşayfah,Ra’s Khuşayfah Spit,ras khusayfat,رَأْس خُصَيْفَة	26.32917	50.57083	H	RFX	BH		15				0		-9999	Asia/Bahrain	2012-01-18
+290195	Qaşşār Khuşayfah	Qassar Khusayfah	Jazirat Khasaifa,Jazirat Khusayfah,Jazīrat Khasaifa,Jazīrat Khuşayfah,Khasaifa Island,Qassar Khusayfah,Qaşşār Khuşayfah,qasaar khusayfat,قَصَّار خُصَيْفَة	26.29194	50.6225	T	ISL	BH	BH	15				0		-9999	Asia/Bahrain	2012-01-18
+290196	Khawr Fasht	Khawr Fasht	Khawr Fasht,Khor Fasht,khawr fasht,خَوْر فَشْت	26.33139	50.40889	H	RF	BH	BH	10				0		-9999	Asia/Bahrain	2012-01-18
+290197	‘Ayn al Khaḑrā’	`Ayn al Khadra'	Khadhra,`Ayn al Khadra',عَيْن اَلْخَضْرَاء,‘Ayn al Khaḑrā’	26.18	50.51111	H	SPNG	BH		18				0		5	Asia/Bahrain	2015-05-06
+290198	Kawrah	Kawrah	Kawarah,Kawrah,kawrat,كَوْرَة	26.18333	50.56667	P	PPL	BH		16				0		1	Asia/Bahrain	2015-05-06
+290199	Kawkab Kassar	Kawkab Kassar	Kawkab Kassar,kawkab kasar,كَوْكَب كَسَّر	26.16667	50.6	H	SPNG	BH		06				0		-9999	Asia/Bahrain	2012-01-18
+290200	Bandar Karzakkān	Bandar Karzakkan	Bandar Karzakkan,Bandar Karzakkān,bandar karzakaan,بَنْدَر كَرْزَكَّان	26.1	50.46667	H	ANCH	BH		08				0		-9999	Asia/Bahrain	2012-01-18
+290201	Karzakkān	Karzakkan	Karrzakkan,Karrzakkān,Karzakkan,Karzakkān,karzakaan,كَرْزَكَّان	26.11556	50.48194	P	PPL	BH		18				0		12	Asia/Bahrain	2013-08-06
+290202	‘Ayn Karrānah	`Ayn Karranah	`Ayn Karranah,عَيْن كَرَّانَة,‘Ayn Karrānah	26.21667	50.51667	H	WLL	BH		18				0		11	Asia/Bahrain	2013-08-06
+290203	Karrānah	Karranah	Karanah,Karrama,Karramah,Karranah,Karrāmah,Karrānah,Karānah,karaanat,كَرَّانَة	26.22917	50.50944	P	PPL	BH		18				0		11	Asia/Bahrain	2013-08-06
+290204	Karbābād	Karbabad	Karbabad,Karbābād,karbabad,كَرْبَابَاد	26.23028	50.52944	P	PPL	BH		16				0		6	Asia/Bahrain	2012-01-18
+290205	Kaflān	Kaflan	Kaflan,Kaflar,Kaflān,kaflaan,كَفْلاَن	26.18333	50.58333	P	PPL	BH	BH	02				0		5	Asia/Bahrain	2012-01-18
+290206	Khawr al Kāb	Khawr al Kab	Khawr Maqta `Tubli,Khawr Maqta ‘Tūblī,Khawr al Kab,Khawr al Kabb,Khawr al Kāb,Khor Lupin,Khor al Hab,khawr aalkab,خَوْر اَلْكَاب	26.19472	50.57167	H	INLT	BH	BH	00				0		1	Asia/Bahrain	2012-01-18
+290208	Juzayyirah	Juzayyirah	Jazaiyira,Jazaiyra,Juzayirah,Juzayyirah,juzayirat,جُزَيِّرَة	26.19028	50.58472	T	ISL	BH		16				0		5	Asia/Bahrain	2012-01-18
+290209	Ra’s al Jusayrah	Ra's al Jusayrah	Ra's al Jaza'ir,Ra's al Jusayrah,Ras Jasaira,Ra’s al Jazā’ir,Ra’s al Jusayrah,ras aaljusayrat,رَأْس اَلْجُسَيْرَة	25.88333	50.6	T	PT	BH		17				0		4	Asia/Bahrain	2012-01-18
+290210	Jusayrah	Jusayrah	Jasaira,Jasairah,Jusayrah,jusayrat,جُسَيْرَة	25.88333	50.6	P	PPL	BH		17				0		4	Asia/Bahrain	2012-01-18
+290211	Qaşşār Jurdī	Qassar Jurdi	Jardi,Jazirat Jurdi,Jazīrat Jurdī,Jurdi Rock,Qassar Jurdi,Qaşşār Jurdī,qasaar jurdi,قَصَّار جُرْدِي	26.29092	50.66471	T	ISL	BH		15				0		-9999	Asia/Bahrain	2017-11-08
+290212	Jurdāb	Jurdab	Jurdab,Jurdah,Jurdāb,jurdab,جُرْدَاب	26.16944	50.57528	P	PPL	BH		16				0		4	Asia/Bahrain	2015-05-06
+290213	Ra’s al Jufayr	Ra's al Jufayr	Ra's Qazqaz,Ra's al Jasrah,Ra's al Jufayr,Ras al Jasra,Ras al Jufair,Ra’s Qazqaz,Ra’s al Jasrah,Ra’s al Jufayr,ras aaljufayr,رَأْس اَلْجُفَيْر	26.21472	50.61222	T	PT	BH		16				0		5	Asia/Bahrain	2012-01-18
+290214	Jubaylāt	Jubaylat	Jubailat,Jubailāt,Jubaylat,Jubaylāt,jubaylaat,جُبَيْلاَت	26.23333	50.51667	L	LCTY	BH		18				0		8	Asia/Bahrain	2013-08-06
+290215	Jidd Ḩafş	Jidd Hafs	Djidd Hafs,Djidd Ḥafṣ,Jadd Hafs,Jid Hafs,Jidd Hafs,Jidd Ḩafş,Judd Hafs,Judd Ḩafş,jid hafs,جِدّ حَفْص	26.21861	50.54778	P	PPL	BH		16				31735		6	Asia/Bahrain	2012-01-18
+290216	Jidd Ḩafş	Jidd Hafs	Jidd Hafs,Jidd Ḩafş,Jidhafs,jid hafs,جِدّ حَفْص	26.21667	50.53333	A	ADM1H	BH		05				55301		2	Asia/Bahrain	2018-10-05
+290217	Jidd ‘Alī	Jidd `Ali	Jidd `Ali,Jidd ‘Alī,Judd Ali,جِدّ عَلِي	26.17917	50.56028	P	PPL	BH		16				0		8	Asia/Bahrain	2015-05-06
+290218	Jidd al Ḩājj	Jidd al Hajj	Jidd al Hajj,Jidd al Ḩājj,jid aalhaj,جِدّ اَلْحَاجّ	26.23333	50.5	P	PPL	BH		10				0		6	Asia/Bahrain	2012-01-18
+290219	Jiddah	Jiddah	Cliff Island,Djida,Djidā,Jazirat Jidi,Jazīrat Jidi,Jeddah,Jida Island,Jiddah,jidat,جِدَّة	26.19417	50.40167	T	ISL	BH		18				0		10	Asia/Bahrain	2013-08-06
+290220	Ra’s al Jazā’ir	Ra's al Jaza'ir	Ra's al Jaza'ir,Ras al Jazayir,Ra’s al Jazā’ir,ras aaljazayir,رَأْس اَلْجَزَائِر	25.96167	50.45667	T	PT	BH		17				0		3	Asia/Bahrain	2012-01-18
+290221	Jaww	Jaww	Djaww,Jau,Jaw,Jaww,jaw,جَوّ	25.99861	50.61667	P	PPL	BH		17				0		6	Asia/Bahrain	2012-01-18
+290222	Ra’s al Jasrah	Ra's al Jasrah	Ra's al Jasrah,Ras Jasra,Ra’s al Jasrah,ras aaljasrat,رَأْس اَلْجَسْرَة	26.16472	50.44722	T	PT	BH		18				0		3	Asia/Bahrain	2013-08-06
+290223	Bandar al Jasrah	Bandar al Jasrah	Bandar Jasra,Bandar al Jasrah,bandar aaljasrat,بَنْدَر اَلْجَسْرَة	26.15	50.43333	H	ANCH	BH	BH	08				0		-9999	Asia/Bahrain	2012-01-18
+290224	Fasht al Jārim	Fasht al Jarim	Fasht al Jarim,Fasht al Jārim,fasht aaljarim,فَشْت اَلْجَارِم	26.47889	50.51417	H	RF	BH		10				0		-9999	Asia/Bahrain	2012-01-18
+290225	Al Qārah al Janūbīyah	Al Qarah al Janubiyah	Al Qar`ah al Janubiyah,Al Qarah Janubiyah,Al Qarah Janūbīyah,Al Qarah al Janubiyah,Al Qar‘ah al Janūbīyah,Al Qārah al Janūbīyah,aalqarat aaljanubiat,اَلْقَارَة اَلْجَنُوبِيَّة	26.00917	50.56333	T	HLL	BH		17				0		54	Asia/Bahrain	2012-02-02
+290226	Jannūsān	Jannusan	Djannusan,Djannusān,Jannusan,Jannūsān,januwsan,جَنُّوسَان	26.23056	50.49472	P	PPL	BH		18				0		8	Asia/Bahrain	2013-08-06
+290228	‘Ayn Jamālah	`Ayn Jamalah	`Ayn Jamalah,عَيْن جَمَالَة,‘Ayn Jamālah	26.2	50.55	H	WLL	BH		02				0		3	Asia/Bahrain	2012-01-18
+290229	Jamālah	Jamalah	Jamala,Jamalah,Jamālah,Jumaylat,Jumaylāt,jamalat,جَمَالَة	26.2	50.55	P	PPL	BH		16				0		3	Asia/Bahrain	2015-05-06
+290230	Ḩadd al Jamal	Hadd al Jamal	Hadd al Jamal,Hadd al Yamal,Ra's Jamal,Ra's al Yaman,Ra’s Jamal,Ra’s al Yaman,had aaljamal,حَدّ اَلْجَمَل,Ḩadd al Jamal	25.85083	50.60778	T	PT	BH		17				0		5	Asia/Bahrain	2012-01-18
+290231	Jādam	Jadam	Jadam,Jādam,jadam,جَادَم	26.38333	50.5	H	RFX	BH		10				0		-9999	Asia/Bahrain	2012-01-18
+290232	Jabbārī	Jabbari	Jabbari,Jabbārī,Yabberi Rock,jabaari,جَبَّارِي	25.88278	50.64472	T	RK	BH		13				0		-9999	Asia/Bahrain	2012-01-18
+290233	Jabal Camp	Jabal Camp	Jabal Camp,Jebal,جَبَل عَمْپ	26.03333	50.55	S	CMPO	BH		17				0		77	Asia/Bahrain	2012-01-18
+290234	Jabalat Ḩabashī	Jabalat Habashi	Jabalat Habashi,Jabalat Habshi,Jabalat Ḩabashī,jabalat habashi,جَبَلَة حَبَشِي	26.21722	50.5275	P	PPL	BH		18				0		9	Asia/Bahrain	2013-08-06
+290235	Qaşşār ‘Īsá Bin Sayf al Binālī	Qassar `Isa Bin Sayf al Binali	Qassar `Isa Bin Sayf al Binali,Qaşşār ‘Īsá Bin Sayf al Binālī,قَصَّار عِيسَى بِن سَيْف اَلْبِنَالِي	26.18333	50.6	T	ISL	BH		12				0		-9999	Asia/Bahrain	2012-01-18
+290236	Inner Anchorage	Inner Anchorage	Inner Anchorage,Inner Harbour	26.25	50.56667	H	ANCH	BH	BH	02				0		-9999	Asia/Bahrain	2012-01-18
+290237	Qarn Ibrāhīm	Qarn Ibrahim	Qarn Ibrahim,Qarn Ibrāhīm,qarn aibrahim,قَرْن إِبْرَاهِيم	25.91417	50.55278	T	HLL	BH		17				0		39	Asia/Bahrain	2012-01-18
+290238	‘Ayn al Ḩunaynī	`Ayn al Hunayni	Ain al Hanaini,`Ayn al Hunayni,عَيْن اَلْحُنَيْنِي,‘Ayn al Ḩunaynī	26.11889	50.55639	H	WLL	BH		17				0		24	Asia/Bahrain	2014-11-05
+290239	Ḩillat as Sūq	Hillat as Suq	Hillat as Suq,hilat aalsuwq,حِلَّة اَلسُّوق,Ḩillat as Sūq	26.2	50.55	P	PPL	BH		05				0		3	Asia/Bahrain	2012-01-18
+290240	Ḩillat ‘Abd aş Şāliḩ	Hillat `Abd as Salih	Hillah,Hillat,Hillat `Abd as Salih,حِلَّة عَبْد اَلصَّالِح,Ḩillah,Ḩillat ‘Abd aş Şāliḩ	26.22139	50.51667	P	PPL	BH		18				0		11	Asia/Bahrain	2013-08-06
+290241	Ra’s Ḩayyān	Ra's Hayyan	Ra's Hayyan,Ras Haiyan,Ras Sa'sa'ah,Ra’s Ḩayyān,Rās Sa’sa’ah,ras hayaan,رَأْس حَيَّان	26.04	50.63139	T	CAPE	BH		17				0		1	Asia/Bahrain	2012-01-18
+290242	Ḩawrat ‘Inqā	Hawrat `Inqa	Hawrat `Inqa,Horat Unqa,حَوْرَة عِنْقَا,Ḩawrat ‘Inqā	26.02944	50.5025	L	AREA	BH		08				0		4	Asia/Bahrain	2012-01-18
+290243	Jazīrat Ḩawār	Jazirat Hawar	Djezira Hawar,Hawar I,Hawar Island,Hawār I,Howar,Jazirat Hawar,Jazīrat Ḩawār,jazirat hawar,جَزِيرَة حَوَار	25.65508	50.75485	T	ISL	BH		17				0		3	Asia/Bahrain	2017-11-08
+290244	‘Ayn Hartah	`Ayn Hartah	Harta,`Ayn Hartah,عَيْن هَرْتَة,‘Ayn Hartah	26.2	50.58333	H	SPNG	BH		16				0		-9999	Asia/Bahrain	2012-01-18
+290245	Harbadīyah	Harbadiyah	Harbadiyah,Harbadīyah,harbadiat,هَرْبَدِيَّة	26.23333	50.5	P	PPL	BH		18				0		6	Asia/Bahrain	2013-08-06
+290246	Hamalah Camp	Hamalah Camp	Hamala Camp,Hamalah Camp,هَمَلَة عَمْپ	26.15	50.48333	S	INSM	BH		18				0		16	Asia/Bahrain	2014-10-01
+290247	Madīnat Ḩamad	Madinat Hamad	Hamad Town,Madinat Hamad,Madīnat Ḩamad,madinat hamad,مَدِينَة حَمَد	26.11528	50.50694	P	PPL	BH		19				52718		35	Asia/Bahrain	2017-03-22
+290248	Ra’s Ḩālat Umm al Bayḑ	Ra's Halat Umm al Bayd	Ra's Halat Umm al Bayd,Ras Hala Umm al Baidh,Ras Halat Umm al Baidh,Ra’s Ḩālat Umm al Bayḑ,ras halat aum aalbayd,رَأْس حَالَة أُمّ اَلْبَيْض	26.11667	50.63333	T	PT	BH		17				0		4	Asia/Bahrain	2015-05-06
+290249	Ḩālat Umm al Bayḑ	Halat Umm al Bayd	Halat As-Saud,Halat Umm al Baidh,Halat Umm al Bayd,Um al-Baidh,halat aum aalbayd,حَالَة أُمّ اَلْبَيْض,Ḩālat Umm al Bayḑ	26.11667	50.63333	P	PPL	BH		17				0		4	Asia/Bahrain	2015-05-06
+290250	Ḩālat as Sulţah	Halat as Sultah	Halat As Suluta,Halat al-Salata,Halat as Sultah,Hālat al-Salaṭa,halat aalsultat,حَالَة اَلسُّلْطَة,Ḩālat as Sulţah	26.24278	50.63861	P	PPL	BH		15				0		4	Asia/Bahrain	2012-01-18
+290251	Ḩālat an Na‘īm	Halat an Na`im	Halat Nu`aym,Halat al Naim,Halat an Na`im,Naim,حَالَة اَلنَّعِيم,Ḥālat Nu‘aym,Ḩālat an Na‘īm	26.23889	50.63528	P	PPL	BH		15				0		5	Asia/Bahrain	2012-01-18
+290252	Ḩālat al Khulayfāt	Halat al Khulayfat	Halat,Halat al Khulayfat,Halat-al-Khalaifat,Halat-at-Khulaifat,Hālat-al-Khalaifāt,Khulaffat,halat aalkhulayfat,حَالَة اَلْخُلَيْفَات,Ḩālat al Khulayfāt	26.25	50.63333	P	PPL	BH		15				0		4	Asia/Bahrain	2012-01-18
+290253	Ḩālat Abū Māhir	Halat Abu Mahir	Abu Mahir,Abū Māhir,Halat Abu Mahir,Halat Abu Mahur,Halat Abu Māhur,halat aabu mahir,حَالَة أَبُو مَاهِر,Ḩālat Abū Māhir	26.24444	50.61917	P	PPLX	BH		15				0		2	Asia/Bahrain	2012-01-18
+290254	Ḩālah	Halah	Halah,Halat,halat,حَالَة,Ḩālah,Ḩālāt	26.16667	50.61667	S	LDNG	BH		16				0		4	Asia/Bahrain	2015-05-06
+290255	Ḩālah	Halah	Halah,Halat,halat,حَالَة,Ḩālah,Ḩālāt	26.17333	50.62139	P	PPL	BH		16				0		3	Asia/Bahrain	2015-05-06
+290256	‘Ayn al Ḩakīm	`Ayn al Hakim	Ain al Halkim,Ain el Hakim,`Ayn al Hakim,عَيْن اَلْحَكِيم,‘Ayn al Ḩakīm	26.17833	50.57389	H	WLL	BH		12				0		1	Asia/Bahrain	2012-01-18
+290257	Fasht al Hadbah	Fasht al Hadbah	Fasht al Hadba,Fasht al Hadbah,fasht aalhadbat,فَشْت اَلْهَدْبَة	26.28333	50.58333	H	RFX	BH	BH	15				0		-9999	Asia/Bahrain	2012-01-18
+290258	Al Minţaqah al Gharbīyah	Al Mintaqah al Gharbiyah	Al Mintaqah al Gharbiyah,Al Minţaqah al Gharbīyah,Western Region,aalmintaqat aalgharbiat,اَلْمِنْطَقَة اَلْغَرْبِيَّة	26.11667	50.48333	A	ADM1H	BH		08				27900		6	Asia/Bahrain	2018-01-10
+290259	Dawḩat al Fārisīyah	Dawhat al Farisiyah	Dawhat al Farisiyah,Dawḩat al Fārisīyah,Farsiyah Bay,dawhat aalfarisiat,دَوْحَة اَلْفَارِسِيَّة	26.09417	50.62972	H	BAY	BH	BH	06				0		1	Asia/Bahrain	2012-01-18
+290260	Dumistān	Dumistan	Dumistan,Dumistān,dumistan,دُمِسْتَان	26.12639	50.48111	P	PPL	BH		18				0		7	Asia/Bahrain	2013-08-06
+290261	Jabal ad Dukhān	Jabal ad Dukhan	Jabal ad Dukhan,Jabal ad Dukhkhan,Jabal ad Dukhkhān,Jabal ad Dukhān,jabal aaldukhan,جَبَل اَلدُّخَان	26.03889	50.545	T	MT	BH		17				0	134	102	Asia/Bahrain	2015-04-08
+290262	Ra’s Dūbās	Ra's Dubas	Ra's Dubas,Ra’s Dūbās,ras dubas,رَأْس دُوبَاس	25.93333	50.46667	T	PT	BH		17				0		-9999	Asia/Bahrain	2012-01-18
+290263	Qaşşār Dīwān	Qassar Diwan	Kassar Diwan,Kassār Dīwān,Qassar Diwan,Qaşşār Dīwān,qasaar diwan,قَصَّار دِيوَان	26.1825	50.66361	T	RK	BH	BH	01				0		-9999	Asia/Bahrain	2012-01-18
+290264	Fasht ad Dībal	Fasht ad Dibal	Fasht ad Dibal,Fasht ad Dubal,Fasht ad Dībal,fasht aaldiybal,فَشْت اَلدِّيبَل	26.26639	50.95444	H	RF	BH	BH	01				0		-9999	Asia/Bahrain	2010-08-10
+290265	Qurayn adh Dhirbān	Qurayn adh Dhirban	Qurayn adh Dhirban,Qurayn adh Dhirbān,qurayn aaldhirban,قُرَيْن اَلذِّرْبَان	25.93639	50.60278	T	HLL	BH		17				0		20	Asia/Bahrain	2012-01-18
+290266	Ḩadd ad Dīb	Hadd ad Dib	Hadd ad Dib,Hadd adh Dhi'b,had aldiyb,حَدّ الدِّيب,Ḩadd ad Dīb,Ḩadd adh Dhi’b	25.56176	50.79154	T	SPIT	BH		17				0		-9999	Asia/Bahrain	2015-07-03
+290267	Ra’s ad Dayr	Ra's ad Dayr	Ra's ad Darr,Ra's ad Dayr,Ra’s ad Darr,Ra’s ad Dayr,ras aaldayr,رَأْس اَلدَّيْر	26.28278	50.61417	T	PT	BH		15				0		6	Asia/Bahrain	2012-01-18
+290268	Ra’s Dawārin	Ra's Dawarin	Ra's Dawarin,Ra's Zurawen,Ra’s Dawārin,Ra’s Zurawen,ras dawarin,رَأْس دَوَارِن	26.25	50.56667	H	RFX	BH		02				0		-9999	Asia/Bahrain	2012-01-18
+290269	Dār Kulayb	Dar Kulayb	Dar Chulaib,Dar Kulaib,Dar Kulayb,Dār Kulaib,Dār Kulayb,dar kulayb,دَار كُلَيْب	26.06861	50.50389	P	PPL	BH		17				65466		10	Asia/Bahrain	2015-05-06
+290270	Bandar ad Dār	Bandar ad Dar	Bandar ad Da,Bandar ad Dar,Bandar ad Dā,Bandar ad Dār,bandar aaldaar,بَنْدَر اَلدَّار	26.13556	50.635	H	ANCH	BH	BH	06				0		1	Asia/Bahrain	2012-01-18
+290271	Fasht Bū Thawr	Fasht Bu Thawr	Fasht Bu Thawr,Fasht Bū Thawr,fasht bu thawr,فَشْت بُو ثَوْر	25.8	50.76667	T	ISL	BH		09				0		-9999	Asia/Bahrain	2012-01-18
+290272	Ra’s al Busaytīn	Ra's al Busaytin	Ra's al Busaytin,Ras Busaitin,Ra’s al Busaytīn,ras aalbusaytin,رَأْس اَلْبُسَيْتِين	26.27611	50.60972	T	PT	BH		15				0		1	Asia/Bahrain	2012-01-18
+290273	Juzur Bū Sadād	Juzur Bu Sadad	Busdad Island,Juzur Bu Sadad,Juzur Bū Sadād,juzur bu sadad,جُزُر بُو سَدَاد	25.624	50.78249	T	ISL	BH		17				0		-9999	Asia/Bahrain	2016-08-03
+290274	Būrī	Buri	Buri,Būrī,buri,بُورِي	26.15139	50.4975	P	PPL	BH		18				0		9	Asia/Bahrain	2013-08-06
+290275	Bū Qūwah	Bu Quwah	Bu Quwah,Bu Quwwah,Bukuwa,Bū Quwwah,Bū Qūwah,bu quwat,بُو قُووَة	26.20472	50.52	P	PPL	BH		18				0		7	Asia/Bahrain	2013-08-06
+290276	Qal‘at al Buqayshī	Qal`at al Buqayshi	Kala'at al Bakaishi,Kala’at al Bakaishi,Qal`at al Buqayshi,Qal‘at al Buqayshī,قَلْعَة اَلْبُقَيْشِي	26.06667	50.48333	S	HSTS	BH		18				0		3	Asia/Bahrain	2017-11-08
+290277	Nakhl Budayyi‘at Ghazāl	Nakhl Budayyi`at Ghazal	Nakhl Budayyi`at Ghazal,Nakhl Budayyi‘at Ghazāl,نَخْل بُدَيِّعَة غَزَال	26.05	50.5	V	CULT	BH		17				0		3	Asia/Bahrain	2012-01-18
+290278	Ra’s al Budayyi‘	Ra's al Budayyi`	Ra's al Budayyi`,Ras Budaia,Ras Budaiya',Ra’s al Budayyi‘,Rās Budaiya’,رَأْس اَلْبُدَيِّع	26.20806	50.44667	T	PT	BH		18				0		-9999	Asia/Bahrain	2013-08-06
+290279	Dawḩat al Budayyi‘	Dawhat al Budayyi`	Budaia Bay,Dawhat al Budayyi`,Dawḩat al Budayyi‘,دَوْحَة اَلْبُدَيِّع	26.21139	50.43722	H	BAY	BH		10				0		-9999	Asia/Bahrain	2012-01-18
+290280	Bū ‘Ashīrah	Bu `Ashirah	Bu Ashira,Bu `Ashirah,Bū ‘Ashīrah,بُو عَشِيرَة	26.20778	50.57722	P	PPLX	BH		16				0		1	Asia/Bahrain	2012-01-18
+290281	Ra’s Bin Anas	Ra's Bin Anas	Ra's Bin Anas,Ras an Nannas,Ra’s Bin Anas,ras bin aanas,رَأْس بِن أَنَس	26.23333	50.6	T	PT	BH		16				0		3	Asia/Bahrain	2012-01-18
+290282	Bilād al Qadīm	Bilad al Qadim	Bilad al Qadim,Bilad al-Kadim,Bilād al Qadīm,Bilād al-Kadīm,bilaad aalqadim,بِلاَد اَلْقَدِيم	26.21167	50.56194	P	PPLX	BH		16				0		9	Asia/Bahrain	2012-01-18
+290283	Fasht Barţufī	Fasht Bartufi	Fasht Bartufi,Fasht Barţufī,fasht bartufi,فَشْت بَرْطُفِي	26.235	50.46	H	RF	BH		10				0		-9999	Asia/Bahrain	2012-01-18
+290284	Ra’s al Barr	Ra's al Barr	Ra's Hadd al Bahrayn,Ra's al Barr,Ras al Bar,Ra’s al Barr,Ra’s Ḩadd al Baḩrayn,ras aalbar,رَأْس اَلْبَرّ	25.80223	50.56509	T	PT	BH		17				0		6	Asia/Bahrain	2017-11-08
+290285	Barbūrah	Barburah	Barbura,Barburah,Barbūrah,barburat,بَرْبُورَة	26.13333	50.58333	L	LCTY	BH		17				0		10	Asia/Bahrain	2015-05-06
+290286	Bārbār	Barbar	Barbar,Bārbār,barbar,بَارْبَار	26.22944	50.48083	P	PPL	BH		18				0		7	Asia/Bahrain	2013-08-06
+290287	Banī Jamrah	Bani Jamrah	Bani Jamrah,Banī Jamrah,Jamra,Jamrah,bani jamrat,بَنِي جَمْرَة	26.20972	50.45972	P	PPL	BH		19				0		9	Asia/Bahrain	2016-11-14
+290288	Bahrain International Airport	Bahrain International Airport	Aeroport Internacional de Bahrain,Aeroport international de Bahrain,Aeroport international de Bahrein,Aeroporto Internacional do Bahrain,Aeroporto Internazionale del Bahrein,Aeropuerto Internacional de Barein,Aeropuerto Internacional de Baréin,Aéroport international de Bahrain,Aéroport international de Bahreïn,BAH,Bahrain International Airport,Bahraingo nazioarteko aireportua,Bahrainin kansainvaelinen lentoasema,Bahrainin kansainvälinen lentoasema,Bahreini nemzetkoezi repueloter,Bahreini nemzetközi repülőtér,Bahreino tarptautinis oro uostas,Bakhrejn,Bandar Udara Internasional Bahrain,Diethnes Aerodromio tou Bachrein,Flughafen Bahrain,Internationale luchthaven van Bahrein,Lapangan Terbang Antarabangsa Bahrain,Matar al Bahrayn ad Dawli,Maţār al Baḩrayn ad Dawlī,Mezhdunarodnyj aehroport Bakhrejn,OBBI,Port lotniczy Bahrajn,San bay quoc te Bahrain,Sân bay quốc tế Bahrain,Zracna luka Bahrein,Zračna luka Bahrein,ba lin guo ji ji chang,baharaina antararastriya vimanatala,baharina antarrastriya vimanaksetra,balein gugjegonghang,baren guo ji kong gang,matar aalbahrayn aaldawli,mtar albhryn aldwly,tha xakasyan nanachati bahren,Διεθνές Αεροδρόμιο του Μπαχρέιν,Бахрейн,Международный аэропорт Бахрейн,Фурудгоҳи Байн‌алмиллалии Баҳрайн,فرودگاه بین‌المللی بحرین,مطار البحرين الدولي,مَطَار اَلْبَحْرَيْن اَلدَّوْلِي,बहरीन अन्तर्राष्ट्रीय विमानक्षेत्र,बहरैन आंतरराष्ट्रीय विमानतळ,ท่าอากาศยานนานาชาติบาห์เรน,バーレーン国際空港,巴林国际机场,바레인 국제공항	26.27083	50.63361	S	AIRP	BH	BH	15				0	1	5	Asia/Bahrain	2013-11-17
+290289	Bahrain Islands	Bahrain Islands	Bahrain Islands,Bahrein Islands,Illes de Bahrain,Jaza'ir al Bahrayn,Jazā’ir al Baḩrayn,Tylos,Tyros,jazayir aalbahrayn,جَزَائِر اَلْبَحْرَيْن	25.99028	50.55083	T	ISLS	BH		13				0		14	Asia/Bahrain	2012-01-18
+290290	Ḩadd al Baḩrayn	Hadd al Bahrayn	Hadd al Bahrayn,had aalbahrayn,حَدّ اَلْبَحْرَيْن,Ḩadd al Baḩrayn	25.79778	50.56667	T	SPIT	BH		17				0		-9999	Asia/Bahrain	2012-01-18
+290291	Kingdom of Bahrain	Kingdom of Bahrain	Al Bahrayn,Al Baḩrayn,BAH,Ba-ren,Baareeni,Bachrain,Bachrein,Baharan,Bahareni,Bahareyini,Baharina,Bahrain,Bahrain - albhryn,Bahrain - البحرين,Bahrain nutome,Bahraina,Bahraini,Bahrajn,Bahrayn,Bahrein,Bahreina,Bahreinas,Bahrene,Bahreyin,Bahreyn,Bahreïn,Bahruaens,Bahruäns,Bahrâina,Bahréin,Bahrɛnɛ,Bairein,Bairéin,Bakhrain,Bakhrehjn,Bakhrein,Bakhrejn,Barein,Barejno,Baren,Bareyini,Baxreyn,Baħrajn,Behreyn,Bhahareni,Dawlat al Bahrayn,Dawlat al Baḩrayn,Kingdom of Bahrain,Mamlakat al Bahrayn,Mamlakat al Baḩrayn,Mpachrein,Orileede Barani,Orílẹ́ède Báránì,Paleini,Shekdom of Bahrain,State of Bahrain,albhryn,ba lin,bahara'ina,baharain,baharaina,baharen,baharena,baharin,baharina,bahraiൻ,bahreini,bahren,bahrena,balein,baren,beharina,bhryn,bhryyn,bەھrېyyn,dawlat aalbahrayn,fd,i-Bahrain,mmlkt albhryn,pahrain,pakurain,prathes bahren,Μπαχρέιν,Бахрaин,Бахреин,Бахрейн,Бахрэйн,Баҳрайн,Բահրեյն,בחריין,בחרין,البحرين,بحرین,بەحرەین,بەھرېيىن,دَوْلَة اَلْبَحْرَيْن,مملكة البحرين,ܒܚܪܝܢ,बहरीन,बहरैन,बहारीन,बाहरेन,बाह्रेन,বাহরাইন,বাহারিন,બેહરીન,ବାହାରିନ୍,பகுரைன்,பஹ்ரைன்,బహరేన్,ಬಹರೈನ್,ബഹ്റൈന്‍,ബഹ്റൈൻ,බහරේන්,บาห์เรน,ประเทศบาห์เรน,ບາເລນ,བཧ་རེན,བྷཱ་རེན།,ဘာရိန်း,ბაჰრეინი,ባህሬን,បារ៉ែន,バーレーン,巴林,바레인	26.03333	50.55	A	PCLI	BH		00				738004		77	Asia/Bahrain	2013-11-10
+290292	Gulf of Bahrain	Gulf of Bahrain	Bahrainbukta,Bahrajnsky zaliv,Bahrajnský záliv,Bahreino ilanka,Bahreino įlanka,Bahreinski zaljev,Golf van Bahrein,Golfe de Bahrein,Golfe de Bahreïn,Golfo de Barein,Golfo de Baréin,Golfo del Bahrein,Golfo do Bahrain,Gulf of Bahrain,Gulf of Bahrayn,Gulf of Bahrein,Gulf of Baḥrayn,Gulf of Baḩrayn,Khalij al Bahrayn,Khalīj al Baḥrayn,Khalīj al Baḩrayn,Teluk Bahrain,Zatoka Bahrajnu,khalij aalbahrayn,khlyj albhryn,khlyj bhryn,mprz bhryyn,מפרץ בחריין,خليج البحرين,خلیج بحرین,خَلِيج اَلْبَحْرَيْن	25.66667	50.58333	H	GULF	BH		00				0		-9999	Asia/Bahrain	2013-06-05
+290293	Khawr al Bāb	Khawr al Bab	Khawr al Bab,Khawr al Bāb,Khor al Bab,khawr aalbab,خَوْر اَلْبَاب	26.39972	50.42444	H	CHNM	BH	BH	10				0		-9999	Asia/Bahrain	2012-01-18
+290294	Az Zinj	Az Zinj	Az Zinj,Zinj,aalzinj,اَلزِّنْج	26.21528	50.56417	P	PPLX	BH		16				0		5	Asia/Bahrain	2012-01-18
+290295	Az Zimmah	Az Zimmah	Az Zimmah,Zimma,Zimmah,aalzimat,اَلزِّمَّة	26.25528	50.64694	P	PPL	BH		15				0		8	Asia/Bahrain	2012-01-18
+290296	Az Zallāq	Az Zallaq	Al-Zallak,Al-Zallāk,Az Zallaq,Az Zallāq,Zallaq,Zellaq,Zelzaq,aalzalaaq,اَلزَّلاَّق	26.0475	50.48639	P	PPL	BH		17				0		5	Asia/Bahrain	2012-01-18
+290297	Jazīrat al ‘Azl	Jazirat al `Azl	El Azil,Jazirat Umm ash Shujayrah,Jazirat al `Azl,Jazīrat Umm ash Shujayrah,Jazīrat al ‘Azl,Umm Shiyara,Umm ash Shiyaira,Umm ash-Shujaira,Uum ash Shiyaira,جَزِيرَة اَلْعَزْل	26.21738	50.67019	T	ISLX	BH		15				0		3	Asia/Bahrain	2017-11-08
+290298	‘Ayn ad Dār	`Ayn ad Dar	'Ain-ad-Dar,Ain al-Dar,`An ad Dar,`Ayn ad Dar,عَيْن اَلدَّار,‘An ad Dār,‘Ayn ad Dār,’Ain-ad-Dār	26.21667	50.53333	P	PPL	BH		05				0		10	Asia/Bahrain	2012-01-18
+290299	Oil City	Oil City	Al Chirabia,Al Ghiraibat,Al `Awali,Al ‘Awālī,Bapco,Kirabad,Oil City,`Awali,عَوَالِي,‘Awālī	26.08444	50.55056	P	PPL	BH		17				0		55	Asia/Bahrain	2012-01-18
+290300	As Suhaylah	As Suhaylah	As Suhaylah,Sala,Salá,aalsuhaylat,اَلسُّهَيْلَة	26.26583	50.43806	H	RF	BH	BH	10				0		-9999	Asia/Bahrain	2012-01-18
+290301	As Sāyah	As Sayah	As Sayah,As Sāyah,Sajah,Sājah,aalsaayat,اَلسَّايَة	26.26667	50.58333	H	SPNG	BH	BH	15				0		-9999	Asia/Bahrain	2012-01-18
+290302	Aş Şāliḩīyah	As Salihiyah	As Salihiyah,Aş Şāliḩīyah,aalsaalihiat,اَلصَّالِحِيَّة	26.21556	50.55	P	PPLX	BH		16				0		6	Asia/Bahrain	2012-01-18
+290303	Aş Şakhīr	As Sakhir	As Sakhir,Aş Şakhīr,Sakhir,aalsakhir,اَلصَّخِير	26.0625	50.52722	P	PPL	BH		17				0		22	Asia/Bahrain	2012-01-18
+290304	‘Askar	`Askar	Al `Askar,Al ‘Askar,`Askar,عَسْكَر,‘Askar	26.05722	50.61639	P	PPL	BH		17				0		8	Asia/Bahrain	2012-01-18
+290305	Ash Shuraybah	Ash Shuraybah	Ain Sharaiba,Ash Shuraybah,Sharaibah,aalshuraybat,اَلشُّرَيْبَة	26.25	50.46667	H	SPNG	BH	BH	10				0		-9999	Asia/Bahrain	2012-01-18
+290306	Ash Shākhūrah	Ash Shakhurah	Al-Shakhura,Al-Shākhūra,Ash Shakhurah,Ash Shākhūrah,Shakhura,Shakhurah,Shakhurq,Shākhūrah,aalshaakhurat,اَلشَّاخُورَة	26.21472	50.50694	P	PPL	BH		18				0		8	Asia/Bahrain	2013-08-06
+290307	Ash Shabak	Ash Shabak	Ash Shabak,aalshabak,اَلشَّبَك	25.97694	50.56139	H	SBKH	BH		17				0		4	Asia/Bahrain	2012-01-18
+290308	Ar Ruq‘ah	Ar Ruq`ah	Ar Ruq`ah,Ar Ruq‘ah,Ruka'a,Ruka’a,Ruq`ah,Ruqa'ah,Ruqa’ah,Ruq‘ah,اَلرُّقْعَة	26.23333	50.5	P	PPL	BH		10				0		6	Asia/Bahrain	2012-01-18
+290309	Ar Rumaythah	Ar Rumaythah	Al-Rumaytha',Al-Rumaythā’,Ar Rumaytha,Ar Rumaythah,Ar Rumaythā,Rumaidha,Rumaidhah,Rumaitha,Rumaithah,Rumayzah,Rumayz̧ah,aalrumaythat,alrmytha,الرميثا,اَلرُّمَيْثَة	25.92043	50.55583	P	PPL	BH		17				0		39	Asia/Bahrain	2017-11-08
+290310	Ar Rumānūm	Ar Rumanum	Ar Rumamin,Ar Rumanum,Ar Rumānūm,aalrumanum,اَلرُّمَانُوم	26.05167	50.55111	T	HLL	BH		17				0		70	Asia/Bahrain	2012-01-18
+290311	Ar Rifā‘ ash Sharqī	Ar Rifa` ash Sharqi	Al-Rifa` al-Sharki,Al-Rifā‘ al-Shārki,Ar Rifa` ash Sharqi,Ar Rifā‘ ash Sharqī,Rifa' Ash Sharqi,Rifa`a Ash Sharqi,Rifa‘a Ash Sharqi,Rifa’ Ash Sharqi,اَلرِّفَاع اَلشَّرْقِي	26.12389	50.57361	P	PPLX	BH		17				0		36	Asia/Bahrain	2015-05-06
+290312	Ar Rifā‘ ash Shamālī	Ar Rifa` ash Shamali	Al-Rifa` al-Shamali,Al-Rifā‘ al-Shamālī,Ar Rifa` ash Shamali,Ar Rifā‘ ash Shamālī,North Rifa`,North Rifā‘,Rifa'a Ash Shamal,Rifa` ash Shamal,Rifa’a Ash Shamal,Rifā‘ ash Shamāl,اَلرِّفَاع اَلشَّمَالِي	26.1375	50.55111	P	PPLX	BH		17				0		39	Asia/Bahrain	2015-05-06
+290313	Ar Rifā‘ al Gharbī Camp	Ar Rifa` al Gharbi Camp	Ar Rifa' Camp,Ar Rifa` al Gharbi Camp,Ar Rifā‘ al Gharbī Camp,Ar Rifā’ Camp,Rifa'a Camp,Rifa’a Camp,West Rifa' Camp,West Rifā’ Camp,اَلرِّفَاع اَلْغَرْبِي عَمْپ	26.11667	50.58333	S	CMPO	BH		17				0		29	Asia/Bahrain	2012-01-18
+290314	Ar Rifā‘ wa al Minţaqah al Janūbīyah	Ar Rifa' wa al Mintaqah al Janubiyah		26.1	50.55	A	ADM1H	BH		13				0		37	Asia/Bahrain	2017-12-18
+290315	Ar Rifā‘ al Gharbī	Ar Rifa` al Gharbi	Al-Rifa` al Gharbi,Al-Rifā‘ al Gharbī,Ar Rifa` al Gharbi,Ar Rifā‘ al Gharbī,Rifa` al Gharbi,Rifa` al Qibli,Rifaa Al Gharbi,Rifā‘ al Gharbī,Rifā‘ al Qiblī,West Rifa`,West Rifā‘,اَلرِّفَاع اَلْغَرْبِي	26.13278	50.52028	P	PPL	BH		17				0		38	Asia/Bahrain	2012-01-18
+290316	‘Arād	`Arad	Sar,Sār,`Arad,عَرَاد,‘Arād	26.25611	50.63222	P	PPL	BH		15				0		7	Asia/Bahrain	2012-01-18
+290319	An Nuwaydirāt	An Nuwaydirat	An Nuwaydirat,An Nuwaydirāt,Nuwaidirat,Nuwaidrat,Nuwaydirat,Nuwaydirāt,aalnuwaydirat,اَلنُّوَيْدِرَات	26.13472	50.5975	P	PPL	BH		17				0		4	Asia/Bahrain	2015-05-06
+290320	An Nu‘ayjāt	An Nu`ayjat	An Nu`ayjat,An Nu‘ayjāt,Na'aija,Na’aijā,اَلنُّعَيْجَات	26.23333	50.43333	T	RKS	BH		10				0		-9999	Asia/Bahrain	2012-01-18
+290321	An Nāşirīyah	An Nasiriyah	An Nasiriyah,An Nāşirīyah,aalnaasiriat,اَلنَّاصِرِيَّة	26.08333	50.48333	S	BLDG	BH		18				0		4	Asia/Bahrain	2013-08-06
+290322	Al Wasmīyah	Al Wasmiyah	Al Wasmiyah,Al Wasmīyah,Wasmiya,Wasmiyah,Wasmīyah,aalwasmiat,اَلْوَسْمِيَّة	26.02111	50.475	P	PPL	BH		17				0		4	Asia/Bahrain	2012-01-18
+290323	Al Qurayyah	Al Qurayyah	Al Qurayyah,Kuraiya,Kuriya,Quraiyah,Qurayyah,aalqurayat,اَلْقُرَيَّة	26.19722	50.46278	P	PPL	BH		18				0		7	Asia/Bahrain	2013-08-06
+290324	Al Qaryah	Al Qaryah	Al Qaryah,Kariya,Qariya,Qarya,Qaryah,Qurayyah,Quryah,aalqaryat,اَلْقَرْيَة	26.18278	50.58361	P	PPL	BH		16				0		6	Asia/Bahrain	2012-01-18
+290325	Al Qaryah	Al Qaryah	Al Qaryah,Kuriya,aalqaryat,اَلْقَرْيَة	26.17222	50.61056	P	PPL	BH		16				0		4	Asia/Bahrain	2015-05-06
+290326	Al Qal‘ah	Al Qal`ah	Al Qal`ah,Al Qal‘ah,Manama Fort,Manamah Fort,Manāmah Fort,Qal'at-ad-Diwan,Qal’at-ad-Dīwān,اَلْقَلْعَة	26.21667	50.58333	S	FT	BH		16				0		8	Asia/Bahrain	2012-01-18
+290327	Al Qadam	Al Qadam	Al Qadam,Qadam,aalqadam,اَلْقَدَم	26.21556	50.51917	P	PPL	BH		18				0		8	Asia/Bahrain	2013-08-06
+290328	Al Muwaylighah	Al Muwaylighah	Al Muwaylighah,Muwailaha,Muwailghah,aalmuaylighat,اَلْمُوَيْلِغَة	26.20667	50.55889	P	PPL	BH		16				0		6	Asia/Bahrain	2012-01-18
+290329	Al Mu‘tariḑ	Al Mu`tarid	Al Mu`tarid,Al Mu‘tariḑ,اَلْمُعْتَرِض	25.78401	50.70843	T	ISL	BH		09				0		-9999	Asia/Bahrain	2016-08-03
+290330	Al Muşallá	Al Musalla	Al Musalla,Al Muşallá,Musalla,aalmusalay,اَلْمُصَلَّى	26.21222	50.53722	P	PPLX	BH		16				0		7	Asia/Bahrain	2015-05-06
+290331	Al Muqshā‘	Al Muqsha`	Al Muqsha`,Al Muqshā‘,Magsha,Muqsha',Muqshā’,اَلْمُقْشَاع	26.21972	50.52306	P	PPL	BH		16				0		8	Asia/Bahrain	2015-05-06
+290332	Al Muharraq	Al Muharraq	Al Muharrak,Al Muharraq,Al Muḩarraq,Al'-Mukharrak,Al-Muharrak,Al-Muharraq,Al-Muḥarrak,Moharek,Muharrak,Muharraq,Muharraq Town,Muhurraq,aalmuharaq,al-Muharraq,mhrq,Аль-Мухаррак,اَلْمُحَرَّق,محرق	26.25722	50.61194	P	PPL	BH		15				97458		7	Asia/Bahrain	2019-06-17
+290333	Muharraq Governorate	Muharraq Governorate	Al Muharraq,Al Muḩarraq,Gouvernorat de Muharraq,Governacio dal-Muharraq,Governació dal-Muharraq,Governatorato di Muharraq,Gubernio Muharrako,Kagubernuran Muharraq,Kegubernuran Al Muharraq,Muharako muchafaza,Muharrak kormanyzosag,Muharrak kormányzóság,Muharraq,Muharraq guvernement,Muharraqguvernementet,Mukharak,Mukharrak,Pentadbiran Al Muharraq,Provincia de Muharraq,Província de Muharraq,aalmuharaq,astan mhrq,mhafzh mhrq,mhafzt almhrq,mu ha la ge sheng,muhalakeu ju,Мухарак,Мухаррак,استان محرق,اَلْمُحَرَّق,محافظة المحرق,محافظه محرق,محافظہ محرق,穆哈拉格省,무하라크 주	26.25	50.61667	A	ADM1	BH		15				189114		3	Asia/Bahrain	2019-07-26
+290334	Al Muḩammadīyah	Al Muhammadiyah	Al Muhammadiyah,Al Muḩammadīyah,Jazirat ar Raka,Jazirat ar Raqah,Jazīrat ar Rakā,Jazīrat ar Raqah,Raka Island,Umm Sabaan Island,Umm Saban,Umm as Sabban,Umm as Subban,Umm aş Şabbān,Umm-al-Subban,Umm-al-Ṣubbān,aalmuhamadiat,اَلْمُحَمَّدِيَّة	26.19944	50.43611	T	ISL	BH		18				0		-9999	Asia/Bahrain	2013-08-06
+290335	Al Markh	Al Markh	Al Markh,aalmarkh,اَلْمَرْخ	26.01111	50.49944	L	AREA	BH		17				0		4	Asia/Bahrain	2012-01-18
+290336	Al Markh	Al Markh	Al Markh,Markh,aalmarkh,اَلْمَرْخ	26.21028	50.47333	P	PPL	BH		19				0		11	Asia/Bahrain	2016-11-14
+290337	Al Maqţa‘	Al Maqta`	Al Maqta`,Al Maqţa‘,اَلْمَقْطَع	25.6675	50.74944	H	ANCH	BH		09				0		2	Asia/Bahrain	2012-01-18
+290338	Mīnā’ al Manāmah	Mina' al Manamah	Al Manamah Harbour,Al Manāmah Harbour,Bahrain Harbour,Bahrayn Harbor,Bahrein Harbour,Manama Harbour,Manāma Harbour,Mina' al Manamah,Mīnā’ al Manāmah,مِينَاء اَلْمَنَامَة	26.23722	50.56778	H	HBR	BH		02				0		-9999	Asia/Bahrain	2012-01-18
+290339	Al Manāmah	Al Manamah	Al Manamah,Al Manāmah,Manama,aalmanamat,اَلْمَنَامَة	26.21667	50.58333	A	ADM1H	BH		02				157370		1	Asia/Bahrain	2018-01-10
+290340	Manama	Manama	Al Manama,Al Manamah,Al Manāma,Al Manāmah,Al-Manama,Al-Manamah,Al-Manāmah,Maenamae,Manaama,Manam,Manama,Manamae,Manamah,Manameh,Manamo,Manáma,Manāma,Menama,Mename,Mänamä,WGF,aalmanamat,almnamh,almnamt,mai na ma,mai na mai,manama,mnamh,mnamہ,Μανάμα,Манамæ,Манама,Մանամա,מנאמה,المنامة,المنامه,اَلْمَنَامَة,منامه,منامہ,مەنامە,मनामा,মানামা,ਮਨਾਮਾ,ମାନାମା,மனாமா,മനാമ,มานามา,མ་ན་མ།,მანამა,ማናማ,マナーマ,麥納瑪,麦纳麦,마나마	26.22787	50.58565	P	PPLC	BH		16				147074		12	Asia/Bahrain	2019-09-05
+290341	Al Mamţalah	Al Mamtalah	Al M'ttalah,Al Mamtalah,Al Mamţalah,Al Matallah,Al Maţallah,Al Mumattalah,Al Mumaţţalah,Al Mutallah,Al M’ţţalah,Mattala,Mutallah,Muţallah,aalmamtalat,اَلْمَمْطَلَة	25.92417	50.51944	P	PPL	BH		17				0		8	Asia/Bahrain	2012-01-18
+290342	Al Mālikīyah	Al Malikiyah	Al Malikiyah,Al Mālikīyah,Al-Malikiyya,Al-Mālikiyya,Malichiya,Malikiyah,Mālikīyah,aalmalikiat,اَلْمَالِكِيَّة	26.09806	50.48667	P	PPL	BH		18				0		6	Asia/Bahrain	2013-08-06
+290343	Al Makhrūq	Al Makhruq	Al Mahruq,Al Makhruq,Al Makhrūq,Al Maḩrūq,Makhruq,Makhrūq,aalmakhruq,اَلْمَخْرُوق	26.1	50.58333	S	RUIN	BH		17				0		28	Asia/Bahrain	2012-01-18
+290344	Al Māḩūz	Al Mahuz	Al Mahuz,Al Māḩūz,Mahuz,aalmahuz,اَلْمَاحُوز	26.21222	50.58889	P	PPLX	BH		16				0		7	Asia/Bahrain	2012-01-18
+290345	Al Ma‘āmīr	Al Ma`amir	Al Ma`amir,Al Ma‘āmīr,Ma'amir,Ma’amir,اَلْمَعَامِير	26.13333	50.60861	P	PPL	BH		17				0		2	Asia/Bahrain	2015-05-06
+290346	Al Khārijīyah	Al Kharijiyah	Al Kharijiyah,Al Khārijīyah,Al-Kharidjiyya,Al-Khāridjiyya,Kharijiya,Kharijiyah,Khārijīyah,aalkharijiat,اَلْخَارِجِيَّة	26.16361	50.60472	P	PPL	BH		16				0		3	Asia/Bahrain	2015-05-06
+290347	Al Jufayr	Al Jufayr	Al Jufayr,Al-Djufayr,Jafair,Jufair,aaljufayr,اَلْجُفَيْر	26.21056	50.61167	P	PPLX	BH		16				0		7	Asia/Bahrain	2012-01-18
+290348	Al Jubaylāt	Al Jubaylat	Al Jubaylat,Al Jubaylāt,Jabailat,Jubailat,Jubailāt,aaljubaylaat,اَلْجُبَيْلاَت	26.18194	50.55333	P	PPL	BH		16				0		9	Asia/Bahrain	2015-05-06
+290349	Al Jil‘ah	Al Jil`ah	Al Jil`ah,Al Jil‘ah,اَلْجِلْعَة	25.98111	50.53083	T	HLL	BH		17				0		61	Asia/Bahrain	2012-01-18
+290350	Al Jazā’ir	Al Jaza'ir	Al Jaza'ir,Al Jazā’ir,Jazair,Jazayir,Jazāir,aaljazayir,اَلْجَزَائِر	25.96722	50.45944	S	RUIN	BH		17				0		2	Asia/Bahrain	2012-01-18
+290351	Al Jasrah	Al Jasrah	Al Jasrah,Al-Djasra,Jasra,Jasrah,Jesera,aaljasrat,اَلْجَسْرَة	26.16222	50.44917	P	PPL	BH		19				0		4	Asia/Bahrain	2016-11-14
+290352	Al Janabīyah	Al Janabiyah	Al Janabiyah,Al Janabīyah,Janabiya,Janabiyah,Janābīyah,aaljanabiat,اَلْجَنَبِيَّة	26.19	50.46778	P	PPL	BH		18				0		7	Asia/Bahrain	2013-08-06
+290353	Jabalat al Burhāmah	Jabalat al Burhamah	Al Jabalah,Jabala,Jabalah,Jabalat al Burhamah,Jabalat al Burhāmah,jabalat aalburhamat,جَبَلَة اَلْبُرْهَامَة	26.22306	50.54972	P	PPLX	BH		16				0		8	Asia/Bahrain	2012-01-18
+290354	‘Ālī	`Ali	`Ali,عَالِي,‘Ālī	26.16194	50.51639	P	PPL	BH		18				0		10	Asia/Bahrain	2015-05-06
+290355	Al Ḩūl	Al Hul	Al Hul,Al Ḩūl,aalhul,اَلْحُول	25.73917	50.55806	T	SPIT	BH		08				0		-9999	Asia/Bahrain	2012-01-18
+290356	Al Hujayr	Al Hujayr	Al Hujayr,Hujair,Husair,aalhujayr,اَلْهُجَيْر	26.18333	50.55	P	PPL	BH		16				0		5	Asia/Bahrain	2015-05-06
+290357	Al Hayiya Island	Al Hayiya Island	Al Hayiya Island,El Hayiya Island	25.69949	50.79979	T	ISL	BH		17				0		6	Asia/Bahrain	2016-08-03
+290358	Jabal al Ḩasī	Jabal al Hasi	Jabal al Hasi,Jabal al Hassay,Jabal al Ḩasī,jabal aalhasi,جَبَل اَلْحَسِي	26.08806	50.58889	T	HLL	BH		17				0		35	Asia/Bahrain	2012-01-18
+290359	Al Hamalah	Al Hamalah	Al Hamalah,Al-Hamla,Hamala,Hamalah,aalhamalat,اَلْهَمَلَة	26.14333	50.45944	P	PPL	BH		18				0		6	Asia/Bahrain	2013-08-06
+290360	Al Ḩajar	Al Hajar	Al Hajar,Al Ḩajar,Hajar,aalhajar,اَلْحَجَر	26.21111	50.51389	P	PPL	BH		18				0		8	Asia/Bahrain	2013-08-06
+290361	Al Ḩafīrah	Al Hafirah	Al Hafirah,Al Ḩafīrah,Hafina,Hafira,Hafirah,aalhafirat,اَلْحَفِيرَة,Ḩafīrah	25.9975	50.5875	H	WLL	BH		17				0		9	Asia/Bahrain	2012-01-18
+290363	Al Ḩadd	Al Hadd	Al Hadd,Al Hidd,Al Ḩadd,Al Ḩidd,Hadd,Hidd,aalhad,اَلْحَدّ	26.24556	50.65417	P	PPL	BH		15				12797		7	Asia/Bahrain	2012-01-18
+290364	Ghuraifa	Ghuraifa	Al Ghurayfah,Gharaifa,Ghuraifa,Ghuraifah,Ghurayfah,aalghurayfat,اَلْغُرَيْفَة	26.20549	50.602	P	PPLX	BH		16				0		6	Asia/Bahrain	2013-11-22
+290365	Al Ghaynah	Al Ghaynah	Al Ghaina,Al Ghaynah,aalghaynat,اَلْغَيْنَة	25.96667	50.58333	H	SBKH	BH		17				0		8	Asia/Bahrain	2012-01-18
+290366	Al Busaytīn	Al Busaytin	Al Busaytin,Al Busaytīn,Basatin,Basātīn,Busaitin,aalbusaytin,اَلْبُسَيْتِين	26.26944	50.60778	P	PPL	BH		15				0	2	8	Asia/Bahrain	2012-01-18
+290367	Al Buhayr	Al Buhayr	Al Buhayr,aalbuhayr,اَلْبُهَيْر	26.15	50.56667	H	SBKH	BH		17				0		9	Asia/Bahrain	2015-05-06
+290368	Al Budayyi‘	Al Budayyi`	Al Buday`,Al Budayyi`,Al Budayyi‘,Al Buday‘,Badaiya`a,Badaiya‘a,Budaia,Budaiya,Buday`ah,Budayya`,Budayya‘,Buday‘ah,اَلْبُدَيِّع	26.21306	50.45	P	PPL	BH		18				0		5	Asia/Bahrain	2013-08-06
+290369	Al Bid‘ah	Al Bid`ah	Al Bid`ah,Al Bid‘ah,Bid`ah,Bid‘ah,اَلْبِدْعَة	26.22528	50.53722	P	PPLX	BH		16				0		9	Asia/Bahrain	2015-05-06
+290370	Al Bajawīyah	Al Bajawiyah	Al Bajawiyah,Al Bajawīyah,Baijawiyah,Baijawīyah,aalbajawiat,اَلْبَجَوِيَّة	26.21667	50.55	L	LCTY	BH	BH	02				0		8	Asia/Bahrain	2012-01-18
+290371	Al Baḩrayn	Al Bahrayn	Al Bahrayn,Al Baḩrayn,Awali,Bahrain,Bahrein,aalbahrayn,اَلْبَحْرَيْن	26	50.55	L	OILF	BH		17				0		30	Asia/Bahrain	2012-01-18
+290372	Bahrain Island	Bahrain Island	Al Bahrain,Al Bahrayn,Al Baḩrain,Al Baḩrayn,Awal,Awāl,Bahrain,Bahrain Island,Bahrayn,Bahrein,Bahrein Island,Bahreini saar,Bahreino sala,Ile de Bahrein,Illa de Bahrain,Isla de Barein,Isla de Baréin,aalbahrayn,jzyrt albhryn,Île de Bahreïn,اَلْبَحْرَيْن,جزيرة البحرين	26	50.55	T	ISL	BH		13				1095000		30	Asia/Bahrain	2019-04-13
+290373	Al Awbayidh	Al Awbayidh	Al Awbayidh,aalaawbayidh,اَلأَوْبَيِذ	26.03333	50.53333	T	HLL	BH		17				0		33	Asia/Bahrain	2012-01-18
+290374	Al ‘Aqārīyah	Al `Aqariyah	'Aqariyah,Akariya,Al `Aqariyah,Al ‘Aqārīyah,`Akariyah,اَلْعَقَارِيَّة,‘Akarīyah,’Aqārīyah	26.1	50.48333	S	LDNG	BH		18				0		5	Asia/Bahrain	2013-08-06
+290375	Al ‘Amar	Al `Amar	Al `Amar,Al `Umar,Al ‘Amar,Al ‘Umar,Amar,`Amur,اَلْعَمَر,‘Amur	25.98813	50.52791	P	PPL	BH		17				0		19	Asia/Bahrain	2017-11-08
+290376	Al ‘Akr	Al `Akr	'Aqur,Al `Akr,Al `Akur,Al `Aqr,Al `Aqur,Al ‘Akr,Al ‘Akur,Al ‘Aqr,Al ‘Aqur,Ikur,اَلْعَكْر,’Aqur	26.14306	50.61028	P	PPL	BH		16				0		4	Asia/Bahrain	2015-05-06
+290377	Al ‘Adlīyah	Al `Adliyah	Al `Adliyah,Al ‘Adlīyah,اَلْعَدْلِيَّة	26.21722	50.54056	P	PPLX	BH		16				0		9	Asia/Bahrain	2015-05-06
+290378	Al ‘Adā’im	Al `Ada'im	Al `Ada'im,Al ‘Adā’im,`Ada'im,اَلْعَدَائِم,‘Adā’im	25.99	50.48167	S	RUIN	BH		17				0		0	Asia/Bahrain	2012-01-18
+290379	Kawkab al ‘Akr	Kawkab al `Akr	Kawkab `Aqr,Kawkab al `Akr,Kawkab al ‘Akr,Kawkab ‘Aqr,كَوْكَب اَلْعَكْر	26.14472	50.60667	H	SPNG	BH		16				0		4	Asia/Bahrain	2015-05-06
+290380	Ra’s al ‘Akr	Ra's al `Akr	Ra's al `Akr,Ra's al `Aqr,Ras al Ikur,Ras al Ykur,Ra’s al ‘Akr,Ra’s al ‘Aqr,رَأْس اَلْعَكْر	26.14861	50.60944	T	PT	BH		16				0		4	Asia/Bahrain	2015-05-06
+290381	Jazīrat ‘Ajīrah	Jazirat `Ajirah	Ajaira Island,Ajirah,Ajīrah,Jabalat Ajirah,Jabalat Ajīrah,Jazirat `Ajirah,Jazīrat ‘Ajīrah,جَزِيرَة عَجِيرَة	25.74	50.82333	T	ISL	BH		09				0		4	Asia/Bahrain	2012-01-18
+290382	‘Ayn ‘Adhārī	`Ayn `Adhari	Adari Pool,Adori Spring,The Turquoise Pool,Virgins' Pool,Virgins’ Pool,`Adari,`Ayn `Adhari,عَيْن عَذَارِي,‘Adārī,‘Ayn ‘Adhārī	26.2	50.55	H	SPNG	BH		05				0		3	Asia/Bahrain	2012-01-18
+290383	Fasht Adham	Fasht Adham	Adhom,Fasht Adham,fasht aadham,فَشْت أَذَم	26.03333	50.71667	T	ISL	BH		13				0		-9999	Asia/Bahrain	2012-01-18
+290384	Ad Dūr	Ad Dur	Ad Dur,Ad Dūr,Dar al Manadil,Dur,Dār al Manādīl,aalduwr,اَلدُّور	25.97889	50.61499	P	PPL	BH		17				0		4	Asia/Bahrain	2017-11-08
+290385	Ad Dirāz	Ad Diraz	Ad Diraz,Ad Dirāz,Diraz,aaldiraz,اَلدِّرَاز	26.21806	50.47056	P	PPL	BH		18				0		12	Asia/Bahrain	2013-08-06
+290386	Ad Dayr	Ad Dayr	Ad Dayr,Dair,Dair-ar-Rahib,Dair-ar-Rāhib,Dayr ar Rahib,Dayr ar Rāhib,aaldayr,اَلدَّيْر	26.28417	50.62361	P	PPL	BH		15				0		9	Asia/Bahrain	2012-01-18
+290387	Ḩayr al ‘Adālah	Hayr al `Adalah	Adala Bank,Hair al Adhalah,Hayr al Adhalah,Hayr al `Adalah,Hayr al `Azalah,`Adalah,حَيْر اَلْعَدَالَة,Ḩayr al ‘Adālah,Ḩayr al ‘Azālah,‘Adālah	26.56556	50.50722	H	SHOL	BH		10				0		-9999	Asia/Bahrain	2012-01-18
+290388	‘Ayn Abū Zaydān	`Ayn Abu Zaydan	Abu Zaidan,Abu Zaidān,`Ayn Abu Zaydan,عَيْن أَبُو زَيْدَان,‘Ayn Abū Zaydān	26.2	50.55	H	SPNG	BH		02				0		3	Asia/Bahrain	2012-01-18
+290389	Ra’s Abū Şubḩ	Ra's Abu Subh	Ra's Abu Subh,Ra’s Abū Şubḩ,ras aabu subh,رَأْس أَبُو صُبْح	26.22694	50.46111	T	PT	BH		18				0		4	Asia/Bahrain	2013-08-06
+290390	Qaşşār Abū Shāhīn	Qassar Abu Shahin	Bu Shanin,Jazirat Abu Shahin,Jazīrat Abū Shāhīn,Qassar Abu Shahin,Qaşşār Abū Shāhīn,qasaar aabu shahin,قَصَّار أَبُو شَاهِين	26.235	50.66806	T	ISLX	BH		01				0		-9999	Asia/Bahrain	2017-11-08
+290391	Abū Şaydān	Abu Saydan	Abu Saydan,Abu Shaiban,Abū Şaydān,aabu saydan,أَبُو صَيْدَان	26.2	50.53333	H	WLL	BH		18				0		3	Asia/Bahrain	2013-08-06
+290392	Abū Şaybi‘	Abu Saybi`	Abu Saibi',Abu Saibi’,Abu Saybi`,Abū Şaybi‘,أَبُو صَيْبِع	26.2175	50.50694	P	PPL	BH		18				0		9	Asia/Bahrain	2013-08-06
+290393	Abū Māhir	Abu Mahir	Abu Mahir,Abu Mahur,Abu Māhur,Abū Māhir,aabu mahir,أَبُو مَاهِر	26.23861	50.61833	H	SPNG	BH		15				0		-9999	Asia/Bahrain	2012-01-18
+290394	Ra’s Abū Jarjūr	Ra's Abu Jarjur	Ra's Abu Jarjur,Ra’s Abū Jarjūr,ras aabu jarjur,رَأْس أَبُو جَرْجُور	26.07083	50.62333	T	PT	BH		17				0		3	Asia/Bahrain	2012-01-18
+290395	Abū Bahām	Abu Baham	Abu Baham,Abū Bahām,aabu baham,أَبُو بَهَام	26.2075	50.54417	P	PPL	BH		16				0		7	Asia/Bahrain	2015-05-06
+290396	Ra’s Abū al Mawj	Ra's Abu al Mawj	Moj,Ra's Abu al Mawj,Ras Abul Moj,Ra’s Abū al Mawj,ras aabu aalmawj,رَأْس أَبُو اَلْمَوْج	26.01861	50.47222	T	PT	BH		17				0		-9999	Asia/Bahrain	2012-01-18
+290397	Abū al ‘Awsaj	Abu al `Awsaj	Abu al `Awsaj,Abū al ‘Awsaj,أَبُو اَلْعَوْسَج	25.95917	50.56472	L	AREA	BH		17				0		13	Asia/Bahrain	2012-01-18
+290398	‘Ayn ‘Abd Allāh	`Ayn `Abd Allah	`Ayn `Abd Allah,عَيْن عَبْد اَللَّٰه,‘Ayn ‘Abd Allāh	26.15528	50.58583	H	WLL	BH		16				0		2	Asia/Bahrain	2015-05-06
+385036	As Sahlah al Fawqīyah	As Sahlah al Fawqiyah	As Sahlah al Fawqiyah,As Sahlah al Fawqīyah,Sahlat al Fuqiyah,Sahlat al Fūqīyah,Sihlatal Fukiya,aalsahlat aalfawqiat,اَلسَّهْلَة اَلْفَوْقِيَّة	26.20556	50.53056	P	PPLX	BH		18				0		9	Asia/Bahrain	2013-08-07
+385037	As Sahlat al Ḩadrīyah	As Sahlat al Hadriyah	As Sahlat al Hadriyah,As Sahlat al Ḩadrīyah,Sahlat al Hadriyah,Sahlat al `Awdah,Sahlat al Ḩadrīyah,Sahlat al ‘Awdah,Sahlat-al-`Audah,Sahlat-al-‘Audah,Sahlat-as-Saghirah,Sahlat-as-Saghīrah,Sihlatal Hadriya,aalsahlat aalhadriat,اَلسَّهْلَة اَلْحَدْرِيَّة	26.20167	50.53583	P	PPLX	BH		18				0		6	Asia/Bahrain	2013-08-07
+385038	Ar Rifā‘	Ar Rifa'	Ar Rifa,Ar Rifa`,Ar Rifā‘,Riffa,اَلرِّفَاع	26.13	50.555	P	PPL	BH		17				79550		43	Asia/Bahrain	2015-05-06
+385039	Jāmi‘at al Khalīj al ‘Arabī	Jami`at al Khalij al `Arabi	Jami`at al Khalij al `Arabi,Jāmi‘at al Khalīj al ‘Arabī,جَامِعَة اَلْخَلِيج اَلْعَرَبِي	26.05167	50.51333	S	SCH	BH		17				0		25	Asia/Bahrain	2012-01-19
+385042	Al Qal‘ah	Al Qal`ah	Al Qal`ah,Al Qal‘ah,اَلْقَلْعَة	25.98083	50.53056	P	PPL	BH		17				0		61	Asia/Bahrain	2012-01-19
+385043	Al ‘Arīn	Al `Arin	Al `Arin,Al ‘Arīn,اَلْعَرِين	26.0025	50.50444	L	RESW	BH		17				0		7	Asia/Bahrain	2012-01-19
+392735	Sakhir Airbase	Sakhir Airbase	Awali,Awwal,Sakhir Airbase,aawal,أَوَل	26.03485	50.52448	S	AIRF	BH		17				0	25	13	Asia/Bahrain	2018-04-07
+392751	Ḩayr ar Ruq‘ah	Hayr ar Ruq`ah	Hayr ar Ruq`ah,حَيْر اَلرُّقْعَة,Ḩayr ar Ruq‘ah	26.31778	50.35	H	SHOL	BH		00				0		-9999	Asia/Bahrain	2012-01-19
+392830	Al Baynah aş Şaghīrah	Al Baynah as Saghirah	Al Bayn as Saghir,Al Bayn as Saghirah,Al Bayn aş Şaghīr,Al Bayn aş Şaghīrah,Al Baynah Al Saghirah,Al Baynah as Saghirah,Al Baynah aş Şaghīrah,albyn alsghyr,albynt alsghyrt,البين الصغير,البينة الصغيرة	26.17584	50.31579	T	ISL	BH		00				0		-9999	Asia/Bahrain	2017-06-07
+392831	Qit‘at Jarādah	Qit`at Jaradah	Qit`at Jaradah,Qit‘at Jarādah,qtʿt jradt,قطعة جرادة	26.18509	50.89868	H	RF	BH		00				0		-9999	Asia/Bahrain	2016-08-03
+412518	Zalāqat as Sufun	Zalaqat as Sufun	Zalaqat as Sufun,Zalāqat as Sufun,zalaaqat aalsufun,زَلاَقَة اَلسُّفُن	26.24417	50.60194	T	PT	BH		16				0		-9999	Asia/Bahrain	2012-01-19
+412519	Thalib	Thalib	Thalib,thalib,ثَلِب	25.91	50.69806	T	RK	BH		00				0		-9999	Asia/Bahrain	2012-01-19
+6493879	Ramada Manama City Centre Bahrain	Ramada Manama City Centre Bahrain		26.23754	50.55366	S	HTL	BH		02				0		-9999	Asia/Bahrain	2016-05-23
+6499636	Mercure Grand Hotel Seef 4	Mercure Grand Hotel Seef 4		26.2227	50.5778	S	HTL	BH		02				0		9	Asia/Bahrain	2007-04-14
+6500594	Moevenpick Hotel Bahrain	Moevenpick Hotel Bahrain		26.2644	50.6247	S	HTL	BH		15				0		-1	Asia/Bahrain	2007-04-14
+6503279	Novotel Al Dana Resort Bahrain	Novotel Al Dana Resort Bahrain		26.24	50.59	S	HTL	BH		02				0		5	Asia/Bahrain	2007-04-14
+6518166	Sheraton Bahrain Htl And Tower	SHERATON BAHRAIN HTL AND TOWER		26.2166	50.5666	S	HTL	BH		02				0		7	Asia/Bahrain	2007-04-12
+6519219	Elite Grande Hotel	ELITE GRANDE HOTEL		26.0668	50.5114	S	HTL	BH		08				0		23	Asia/Bahrain	2007-04-15
+6519258	Banyan Tree Desert Spa Resort	BANYAN TREE DESERT SPA RESORT		26.2166	50.5666	S	HTL	BH		02				0		7	Asia/Bahrain	2007-04-15
+6521203	Metropolitan Hotel	METROPOLITAN HOTEL		26.2166	50.5666	S	HTL	BH		02				0		7	Asia/Bahrain	2007-04-15
+6521351	Grand Hotel Bahrain	GRAND HOTEL BAHRAIN		26.2166	50.5666	S	HTL	BH		02				0		7	Asia/Bahrain	2007-04-15
+6521450	Windsor Tower Hotel	WINDSOR TOWER HOTEL		26.2166	50.5666	S	HTL	BH		02				0		7	Asia/Bahrain	2007-04-15
+6521991	Elite Royale   Luxury Apartment	ELITE ROYALE   LUXURY APARTMENT		26.0668	50.5114	S	HTL	BH		08				0		23	Asia/Bahrain	2007-04-14
+6522325	Elite Four   Luxury Apartments	ELITE FOUR   LUXURY APARTMENTS		26.0668	50.5114	S	HTL	BH		08				0		23	Asia/Bahrain	2007-04-14
+6529268	Best Western Juffair Hotel	BEST WESTERN JUFFAIR HOTEL		26.2166	50.5666	S	HTL	BH		02				0		7	Asia/Bahrain	2007-04-14
+6529271	Ritz-Carlton Bahrain Hotel-Spa	RITZ-CARLTON BAHRAIN HOTEL-SPA		26.2166	50.5666	S	HTL	BH		02				0		7	Asia/Bahrain	2007-04-14
+6942066	Qal'at al-Bahrain	Qal'at al-Bahrain	Bahrain Fort,Fort of Bahrain,Portugal Fort,Portuguese Fort	26.23344	50.52	S	FT	BH		16				0		12	Asia/Bahrain	2017-08-22
+7090954	Capital Governorate	Capital Governorate	Capital,Manama,Muhafazat al 'Asimah,Muḩāfaz̧at al ‘Āşimah,mhafzt alʿasmt,محافظة العاصمة	26.21667	50.58333	A	ADM1	BH		16				329510		8	Asia/Bahrain	2019-07-26
+7090972	Southern Governorate	Southern Governorate	Southern Governorate,al Muhafazah Al Janubiyah,al Muḩāfaz̧ah Al Janūbīyah,al-Muhafazah al-Janobiyah,almhafzt aljnwbyt,المحافظة الجنوبية	25.86667	50.58333	A	ADM1	BH		17				91450		6	Asia/Bahrain	2015-12-18
+7090973	Central Governorate	Central Governorate	Central Governorate,al Muhafazah Al Wusta,al Muḩāfaz̧ah Al Wusţá,almhafzt alwsty,المحافظة الوسطى	26.16667	50.56667	A	ADM1H	BH		18				0		6	Asia/Bahrain	2017-03-21
+7090974	Northern Governorate	Northern Governorate	Al Muhafazah ash Shamaliyah,Eszaki kormanyzosag,Gouvernorat septentrional,Governatorato Settentrionale,Kagubernuran Kaler,Kagubernuran Kalér,Kegubernuran Utara,Kuzey Valiligi,Kuzey Valiliği,Noord,Nordlige guvernement,Norra guvernementet,Norte,Northern,Northren Govrenorate,Provincia do Norte,Província do Norte,Severna provincija,Siaures muchafaza,al Muhafazah Ash Shamaliyah,al Muḩāfaz̧ah Ash Shamālīyah,almhafzt alshmalyt,alshmalyt,bei fang sheng,bugbu ju,mhafzh shmalyh,shmalyh,Északi kormányzóság,Šiaurės muchafaza,Северна провинция,الشمالية,المحافظة الشمالية,شمالیه,محافظه شماليه,محافظہ شمالیہ,北方省,북부 주	26.15	50.46667	A	ADM1	BH		19				276949		5	Asia/Bahrain	2019-07-26
+7284881	Hawar Islands	Hawar Islands	Hawar,Hawar Adalari,Hawar Adaları,Hawar-Inseln,Hawar-eilanden,Hawár,Iles Hawar,Illes Hawar,Islas Hawar,Juzur Hawar,Wyspy Hawar,jzayr hwar,jzr hwar,Îles Hawar,جزایر حوار,جزر حوار	25.64462	50.76765	T	ISLS	BH	QA					3875		8	Asia/Bahrain	2010-11-15
+7645592	Habayan Mediumwave Transmitter	Habayan Mediumwave Transmitter		26.03549	50.62567	S	TOWR	BH		13				0		4	Asia/Bahrain	2011-01-11
+8394007	Bahrain International Circuit	Bahrain International Circuit	Bahraingo Nazioarteko Zirkuitua,Bahrein Internasionale Renbaan,Bahreinas Starptautiska trase,Bahreinas Starptautiskā trase,Bahreyn Uluslararasi Pisti,Bahreyn Uluslararası Pisti,Circuit de Bahrain,Circuit international de Sakhir,Circuito Internacional de Bahrain,Circuito Internacional de Bahrein,Circuito Internacional de Barein,Circuito Internacional de Baréin,Circuíto Internacional de Bahrain,Litar Antarabangsa Bahrain,Sakhir,Sakkhir,Sirkuit Internasional Bahrain,Trasa Sakhir,ba lin guo ji sai dao,balein inteonaesyeoneol seokis,hlbt albhryn aldwlyt,Сакхир,Сахир,Сахір,حلبة البحرين الدولية,バーレーン・インターナショナル・サーキット,巴林国际赛道,바레인 인터내셔널 서킷	26.0325	50.51056	S	RECR	BH		08				0		9	Asia/Bahrain	2012-09-14
+8643013	Seef	Seef		26.23967	50.53685	P	PPL	BH		16				0		-9999	Asia/Bahrain	2013-11-18
+8643327	Al Juffair	Al Juffair		26.21111	50.60111	P	PPLX	BH		16				0		10	Asia/Bahrain	2014-12-30
+9882535	Somerset Al Fateh Bahrain	Somerset Al Fateh Bahrain		26.22353	50.6097	S	HTL	BH						0		-9999	Asia/Bahrain	2014-12-19
+9882537	Regency Intercontinental	Regency Intercontinental		26.23487	50.57352	S	HTL	BH		02				0		8	Asia/Bahrain	2014-12-19
+9882539	Ramee California	Ramee California		26.2166	50.6107	S	HTL	BH		02				0		13	Asia/Bahrain	2014-12-19
+9882541	Ramee Palace	Ramee Palace		26.22129	50.60751	S	HTL	BH						0		1	Asia/Bahrain	2014-12-19
+9882543	Ramee Suite 3	Ramee Suite 3		26.22857	50.59712	S	HTL	BH						0		13	Asia/Bahrain	2014-12-19
+9882545	Ramee Baisan Int'l	Ramee Baisan Int'l		26.23239	50.59656	S	HTL	BH		02				0		14	Asia/Bahrain	2014-12-19
+9882547	Ramee Suite 4	Ramee Suite 4		26.21329	50.60682	S	HTL	BH		02				0		2	Asia/Bahrain	2014-12-19
+9882549	Ramee Suite 2	Ramee Suite 2		26.21499	50.60846	S	HTL	BH		02				0		8	Asia/Bahrain	2014-12-19
+9882551	The Diplomat Radisson Blu	The Diplomat Radisson Blu		26.24224	50.59174	S	HTL	BH		02				0		9	Asia/Bahrain	2014-12-19
+9882552	Pars International	Pars International		26.22094	50.60144	S	HTL	BH						0		2	Asia/Bahrain	2014-12-19
+9882554	Monroe Hotel	Monroe Hotel		26.22803	50.5969	S	HTL	BH						0		15	Asia/Bahrain	2014-12-19
+9882555	K Hotel	K Hotel		26.21399	50.61045	S	HTL	BH		02				0		5	Asia/Bahrain	2014-12-19
+9882556	Westin Bahrain City Center	Westin Bahrain City Center		26.23248	50.55216	S	HTL	BH		02				0		-9999	Asia/Bahrain	2014-12-19
+9882557	Crowne Plaza	Crowne Plaza		26.24367	50.59049	S	HTL	BH		02				0		7	Asia/Bahrain	2014-12-19
+9882558	Gulf Gate	Gulf Gate		26.23371	50.5712	S	HTL	BH		02				0		6	Asia/Bahrain	2014-12-19
+9882559	Fraser Suites	Fraser Suites		26.23319	50.53445	S	HTL	BH		05				0		4	Asia/Bahrain	2014-12-19
+9882560	Elite Resort & Spa	Elite Resort & Spa		26.24581	50.60206	S	HTL	BH						0		-9999	Asia/Bahrain	2014-12-19
+9882561	Elite Seef Residence	Elite Seef Residence		26.23924	50.53826	S	HTL	BH		05				0		-9999	Asia/Bahrain	2014-12-19
+9882562	Elite Five	Elite Five		26.21877	50.60059	S	HTL	BH		02				0		9	Asia/Bahrain	2014-12-19
+9882563	The Juffair Grand Hotel	The Juffair Grand Hotel		26.20877	50.59879	S	HTL	BH		02				0		7	Asia/Bahrain	2014-12-19
+9882564	The Dragon & Sealoft Resort	The Dragon & Sealoft Resort		26.28702	50.67099	S	HTL	BH						0		-9999	Asia/Bahrain	2014-12-19
+9882565	Concord International	Concord International		26.22663	50.58287	S	HTL	BH		02				0		9	Asia/Bahrain	2014-12-19
+9882566	Al Safir Tower	Al Safir Tower		26.21721	50.60488	S	HTL	BH		02				0		7	Asia/Bahrain	2014-12-19
+9882567	Le Meridien Bahrain City Cente	Le Meridien Bahrain City Cente		26.0667	50.5577	S	HTL	BH		13				0		58	Asia/Bahrain	2014-12-19
+9882568	Swiss-Belhotel Seef Bahrain	Swiss-Belhotel Seef Bahrain		26.237	50.537	S	HTL	BH		05				0		-9999	Asia/Bahrain	2014-12-19
+9882569	The Domain Bahrain	The Domain Bahrain		26.241	50.591	S	HTL	BH		02				0		6	Asia/Bahrain	2014-12-19
+9882571	Best Western Plus The Olive	Best Western Plus The Olive		26.217	50.583	S	HTL	BH		02				0		8	Asia/Bahrain	2014-12-19
+9882573	Ramee Grand Hotel & Spa	Ramee Grand Hotel & Spa		26.217	50.583	S	HTL	BH		02				0		8	Asia/Bahrain	2014-12-19
+9882575	Elite Crystal Hotel	Elite Crystal Hotel		26.21576	50.61102	S	HTL	BH		02				0		9	Asia/Bahrain	2014-12-19
+9882577	Al Manzil Suites Hotel	Al Manzil Suites Hotel		26.216	50.604	S	HTL	BH		02				0		16	Asia/Bahrain	2014-12-19
+9884253	Fraser Suites Seef Bahrain Hotel	Fraser Suites Seef Bahrain Hotel		26.23336	50.53444	S	HTL	BH		05				0		4	Asia/Bahrain	2015-01-02
+9884393	Delmon International	Delmon International		26.2304	50.5693	S	HTL	BH		02				0		6	Asia/Bahrain	2015-01-02
+9957959	Concord International Hotel	Concord International Hotel		26.2179	50.61355	S	HTL	BH		02				0		3	Asia/Bahrain	2015-01-13
+9957960	Oriental Palace Hotel	Oriental Palace Hotel		26.2331	50.57781	S	HTL	BH		02				0		16	Asia/Bahrain	2015-01-13
+9957961	Atlas Hotel Bahrain	Atlas Hotel Bahrain		26.21488	50.58794	S	HTL	BH		02				0		10	Asia/Bahrain	2015-01-13
+9957962	Pars International Hotel	Pars International Hotel		26.2185	50.57051	S	HTL	BH		02				0		6	Asia/Bahrain	2015-01-13
+9957963	The K Hotel	The K Hotel		26.21397	50.61027	S	HTL	BH		02				0		13	Asia/Bahrain	2015-01-13
+9957964	Sofitel Bahrain Zallaq Thalassa Sea & Spa Hotel	Sofitel Bahrain Zallaq Thalassa Sea & Spa Hotel		26.05343	50.48498	S	HTL	BH						0		4	Asia/Bahrain	2015-01-13
+9958994	Ramee Baisan Hotel	Ramee Baisan Hotel		26.22062	50.56591	S	HTL	BH		02				0		10	Asia/Bahrain	2015-01-16
+9958996	Ramee Suites 3	Ramee Suites 3		26.2166	50.5666	S	HTL	BH		02				0		7	Asia/Bahrain	2015-01-16
+9958998	Kempinski Grand & Ixir Bahrain City Centre	Kempinski Grand & Ixir Bahrain City Centre		26.23258	50.55235	S	HTL	BH		02				0		-9999	Asia/Bahrain	2015-01-16
+9962016	Ramee International	Ramee International		26.21208	50.60955	S	HTL	BH		02				0		9	Asia/Bahrain	2015-01-18
+9962017	Elite Two	Elite Two		26.19394	50.541	S	HTL	BH		11				0		3	Asia/Bahrain	2015-01-18
+9962018	Elite Suites	Elite Suites		26.2285	50.5431	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-01-18
+9962021	Gulf Gate Hotel Bahrain	Gulf Gate Hotel Bahrain		26.19454	50.53468	S	HTL	BH		11				0		6	Asia/Bahrain	2015-01-18
+9962022	Landmark	Landmark		26.23479	50.5964	S	HTL	BH		02				0		15	Asia/Bahrain	2015-01-18
+9962023	Sea Shell	Sea Shell		26.21025	50.5916	S	HTL	BH		02				0		5	Asia/Bahrain	2015-01-18
+9962024	Gulf Hotel	Gulf Hotel		25.93041	50.63777	S	HTL	BH						0		-9999	Asia/Bahrain	2015-01-18
+9962025	Bahrian Plaza	Bahrian Plaza		26.22585	50.58344	S	HTL	BH		02				0		12	Asia/Bahrain	2015-01-18
+9962026	Ramee Suite 1	Ramee Suite 1		26.21738	50.60363	S	HTL	BH		02				0		3	Asia/Bahrain	2015-01-18
+9962027	Mashtan	Mashtan		26.234	50.576	S	HTL	BH		02				0		9	Asia/Bahrain	2015-01-18
+9962028	Best Western The Juffair Grand Hotel	Best Western The Juffair Grand Hotel		26.2328	50.5955	S	HTL	BH		02				0		18	Asia/Bahrain	2015-01-18
+9962041	Kempinski Grand & Ixir Hotel Bahrain City Centre	Kempinski Grand & Ixir Hotel Bahrain City Centre		26.23249	50.55208	S	HTL	BH		02				0		-9999	Asia/Bahrain	2015-01-19
+9962042	Gulf Pearl (Al Manama)	Gulf Pearl (Al Manama)		26.2339	50.5752	S	HTL	BH		02				0		11	Asia/Bahrain	2015-01-19
+9962043	Al Areen	Al Areen		26.00256	50.51666	S	HTL	BH		08				0		29	Asia/Bahrain	2015-01-19
+9962045	Elite Pavilion	Elite Pavilion		26.19247	50.53355	S	HTL	BH		11				0		1	Asia/Bahrain	2015-01-19
+9962048	Elite Three	Elite Three		26.19321	50.53342	S	HTL	BH		11				0		1	Asia/Bahrain	2015-01-19
+9962049	L'hotel	L'hotel		26.23725	50.53743	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-01-19
+9962051	Ramee Suites 3 Apartment	Ramee Suites 3 Apartment		26.23464	50.59847	S	HTL	BH		02				0		9	Asia/Bahrain	2015-01-19
+9962053	Best Western Baisan Tower	Best Western Baisan Tower		26.235	50.5969	S	HTL	BH		02				0		15	Asia/Bahrain	2015-01-19
+9962055	Crowne Plaza Bahrain	Crowne Plaza Bahrain		26.11599	50.49316	S	HTL	BH		08				0		10	Asia/Bahrain	2015-01-19
+9962057	Al Jazira	Al Jazira		26.23265	50.57419	S	HTL	BH		02				0		16	Asia/Bahrain	2015-01-19
+9962058	Elite One	Elite One		26.19215	50.53469	S	HTL	BH		11				0		3	Asia/Bahrain	2015-01-19
+9962065	Awal	Awal		26.19098	50.53996	S	HTL	BH		11				0		2	Asia/Bahrain	2015-01-19
+9962067	Ewa	Ewa		26.23153	50.56551	S	HTL	BH		02				0		6	Asia/Bahrain	2015-01-19
+9962069	Al Safir Hotel & Tower	Al Safir Hotel & Tower		26.03139	50.51444	S	HTL	BH		08				0		18	Asia/Bahrain	2015-01-19
+9962071	Oriental Palace (Al Manama)	Oriental Palace (Al Manama)		26.2332	50.578	S	HTL	BH		02				0		13	Asia/Bahrain	2015-01-19
+9962072	Atlas (Al Manama)	Atlas (Al Manama)		26.23075	50.57024	S	HTL	BH		02				0		7	Asia/Bahrain	2015-01-19
+9962075	V Tower Residence	V Tower Residence		26.2326	50.57778	S	HTL	BH		02				0		15	Asia/Bahrain	2015-01-19
+9962077	Mirador	Mirador		26.22527	50.59777	S	HTL	BH		02				0		10	Asia/Bahrain	2015-01-19
+9962080	Tylos	Tylos		26.2298	50.5699	S	HTL	BH		02				0		14	Asia/Bahrain	2015-01-19
+9962082	Golden Tulip Bahrein	Golden Tulip Bahrein		26.2397	50.5847	S	HTL	BH		02				0		6	Asia/Bahrain	2015-01-19
+9962084	Phoenicia	Phoenicia		26.26223	50.62051	S	HTL	BH		15				0		3	Asia/Bahrain	2015-01-19
+9962086	Al Safir Residence	Al Safir Residence		26.21867	50.60311	S	HTL	BH						0		3	Asia/Bahrain	2015-01-19
+9962088	Elite Seef Residence & Hotel	Elite Seef Residence & Hotel		26.223	50.54425	S	HTL	BH		05				0		9	Asia/Bahrain	2015-01-19
+9962090	Elite Grande	Elite Grande		26.223	50.54425	S	HTL	BH		05				0		9	Asia/Bahrain	2015-01-19
+9962094	Sealoft Boutique Chalets	Sealoft Boutique Chalets		26.28781	50.6725	S	HTL	BH						0		-9999	Asia/Bahrain	2015-01-19
+9964648	Al Bander Hotel	Al Bander Hotel		26.17189	50.55085	S	HTL	BH		12				0		11	Asia/Bahrain	2015-01-20
+9964649	Best Western Elite Hotel	Best Western Elite Hotel		26.21502	50.53346	S	HTL	BH		05				0		10	Asia/Bahrain	2015-01-20
+9964651	Elite Suite - Sanabis	Elite Suite - Sanabis		26.22847	50.54625	S	HTL	BH		05				0		4	Asia/Bahrain	2015-01-20
+9966208	Ramee Grand Hotel &Amp Spa	Ramee Grand Hotel &Amp Spa		26.23515	50.53601	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-01-20
+9966221	Phonecia Hotel	Phonecia Hotel		26.21667	50.58333	S	HTL	BH		02				0		8	Asia/Bahrain	2015-01-20
+9966222	Phoenicia Tower	Phoenicia Tower		26.26222	50.62049	S	HTL	BH		15				0		3	Asia/Bahrain	2015-01-20
+9966234	Monroe Hotel Bharian	Monroe Hotel Bharian		26.22961	50.59668	S	HTL	BH		02				0		22	Asia/Bahrain	2015-01-20
+9966236	Marriott Executive Apartments Manama	Marriott Executive Apartments Manama		26.22052	50.59865	S	HTL	BH		02				0		1	Asia/Bahrain	2015-01-20
+9966243	Holiday Villa Bahrain	Holiday Villa Bahrain		26.23207	50.59728	S	HTL	BH		02				0		12	Asia/Bahrain	2015-01-20
+9966245	Holiday Inn Express	Holiday Inn Express		26.23212	50.59723	S	HTL	BH		02				0		18	Asia/Bahrain	2015-01-20
+9966247	Hani Royal	Hani Royal		26.23715	50.53039	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-01-20
+9966249	Grand Safir Hotel	Grand Safir Hotel		26.21883	50.60314	S	HTL	BH						0		-1	Asia/Bahrain	2015-01-20
+9969017	Elite Resort And Spa	Elite Resort And Spa		26.24597	50.60178	S	HTL	BH						0		-9999	Asia/Bahrain	2015-01-22
+9969067	Movenpick Hotel Bahrain	Movenpick Hotel Bahrain		26.26439	50.62571	S	HTL	BH		15				0		-1	Asia/Bahrain	2015-01-22
+9969068	Ramee Palace Hotel All Suites Hotel	Ramee Palace Hotel All Suites Hotel		26.20597	50.60577	S	HTL	BH		02				0		5	Asia/Bahrain	2015-01-22
+9969069	Ramee Suites 2	Ramee Suites 2		26.214	50.609	S	HTL	BH		02				0		8	Asia/Bahrain	2015-01-22
+9969072	Hani Suites And Spa	Hani Suites And Spa		26.2371	50.53032	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-01-22
+9969074	Ramee Suites 4	Ramee Suites 4		26.21326	50.60696	S	HTL	BH		02				0		2	Asia/Bahrain	2015-01-22
+9969075	Mercure Grand Hotel Seef All Suites	Mercure Grand Hotel Seef All Suites		26.23217	50.541	S	HTL	BH		05				0		7	Asia/Bahrain	2015-01-22
+9969076	Al Manzil Suites Juffair	Al Manzil Suites Juffair		26.21578	50.60364	S	HTL	BH		02				0		14	Asia/Bahrain	2015-01-22
+9969078	Elite V	Elite V		26.20217	50.60944	S	HTL	BH						0		6	Asia/Bahrain	2015-01-22
+9969079	Golden Tulip Bahrain	Golden Tulip Bahrain		26.18933	50.53711	S	HTL	BH		11				0		5	Asia/Bahrain	2015-01-22
+9969082	Westin And Le Meridien Bahrain City Centre Ex Kempinski Grand And Ixir Hotel Bahrain	Westin And Le Meridien Bahrain City Centre Ex Kempinski Grand And Ixir Hotel Bahrain		26.23259	50.55232	S	HTL	BH		02				0		-9999	Asia/Bahrain	2015-01-22
+9969085	Al Areen Palace And Spa	Al Areen Palace And Spa		26.00249	50.50621	S	HTL	BH		08				0		6	Asia/Bahrain	2015-01-22
+9969209	Elite Royal Hotel	Elite Royal Hotel		26.22006	50.60122	S	HTL	BH		02				0		0	Asia/Bahrain	2015-01-22
+9969303	Hotel Diva	Hotel Diva		26.22014	50.6047	S	HTL	BH						0		13	Asia/Bahrain	2015-01-22
+9969336	Serene Landmark Hotel Apartment Juffair Bahrain	Serene Landmark Hotel Apartment Juffair Bahrain		26.22191	50.60327	S	HTL	BH						0		1	Asia/Bahrain	2015-01-22
+9969337	Seashell Hotel Bahrain	Seashell Hotel Bahrain		26.21667	50.58333	S	HTL	BH		02				0		8	Asia/Bahrain	2015-01-22
+9969353	Rameee Suite 3	Rameee Suite 3		26.22799	50.59753	S	HTL	BH						0		13	Asia/Bahrain	2015-01-22
+9969647	Al Khobar Plaza	Al Khobar Plaza		26.2139	50.60528	S	HTL	BH		02				0		12	Asia/Bahrain	2015-01-22
+9969685	Residence Inn By Marriott	Residence Inn By Marriott		26.20545	50.60008	S	HTL	BH		02				0		2	Asia/Bahrain	2015-01-22
+10098965	Days Hotel Manama	Days Hotel Manama		26.23545	50.5969	S	HTL	BH		02				0		12	Asia/Bahrain	2015-02-13
+10098966	Sofitel Bahrain Zallaq Thalass	Sofitel Bahrain Zallaq Thalass		26.0533	50.48455	S	HTL	BH						0		3	Asia/Bahrain	2015-02-13
+10098968	Elite Pavillion	Elite Pavillion		26.2183	50.6041	S	HTL	BH		02				0		13	Asia/Bahrain	2015-02-13
+10100537	Al Safir Htl & Tower	Al Safir Htl & Tower		26.21725	50.60485	S	HTL	BH		02				0		7	Asia/Bahrain	2015-02-14
+10100538	Bw Plus The Olive	Bw Plus The Olive		26.21991	50.60379	S	HTL	BH						0		10	Asia/Bahrain	2015-02-14
+10105671	Royal Phoenicia	Royal Phoenicia		26.23684	50.59655	S	HTL	BH		02				0		9	Asia/Bahrain	2015-02-19
+10105947	Al Manzil Suites 2 Adliya	Al Manzil Suites 2 Adliya		26.21559	50.58068	S	HTL	BH		02				0		7	Asia/Bahrain	2015-02-19
+10105948	Al Jaberiya Suites 1	Al Jaberiya Suites 1		26.21353	50.62044	S	HTL	BH						0		5	Asia/Bahrain	2015-02-19
+10107796	Sofitel Bahrain Zallaq Thalassa Sea And Spa	Sofitel Bahrain Zallaq Thalassa Sea And Spa		26.05346	50.48498	S	HTL	BH						0		4	Asia/Bahrain	2015-02-20
+10107860	Ramee Grand Htl & Spa	Ramee Grand Htl & Spa		26.23514	50.53598	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-02-20
+10110158	The Domain Hotel And Spa	The Domain Hotel And Spa		26.24009	50.59049	S	HTL	BH		02				0		6	Asia/Bahrain	2015-02-22
+10110755	Best Western Olaya Suites Hotel	Best Western Olaya Suites Hotel		26.21667	50.58333	S	HTL	BH		02				0		8	Asia/Bahrain	2015-02-22
+10113358	Hotel Florida	Hotel Florida		26.23101	50.59789	S	HTL	BH		02				0		16	Asia/Bahrain	2015-02-23
+10114522	Majestic Arjaan By Rotana	Majestic Arjaan By Rotana		26.2656	50.5994	S	HTL	BH		15				0		-9999	Asia/Bahrain	2015-02-24
+10114984	Al Murooj Hotel	Al Murooj Hotel		26.21327	50.60512	S	HTL	BH		02				0		5	Asia/Bahrain	2015-02-24
+10115256	Tulip Inn	Tulip Inn		26.22865	50.54621	S	HTL	BH		05				0		4	Asia/Bahrain	2015-02-24
+10115257	Al Raya Suites	Al Raya Suites		26.22405	50.54647	S	HTL	BH		05				0		9	Asia/Bahrain	2015-02-24
+10116054	Elite Tower	Elite Tower		26.24025	50.53623	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-02-24
+10117472	Frsan Plaza	Frsan Plaza		26.21696	50.61041	S	HTL	BH		02				0		8	Asia/Bahrain	2015-02-25
+10117474	Al Bander Hotel & Resort	Al Bander Hotel & Resort		26.11491	50.63576	S	HTL	BH						0		3	Asia/Bahrain	2015-02-25
+10121127	The Dragon Beach Hotel & Resort	The Dragon Beach Hotel & Resort		26.28657	50.67181	S	HTL	BH						0		-9999	Asia/Bahrain	2015-02-26
+10123267	Panorama Hotel Bahrain	Panorama Hotel Bahrain		26.21628	50.60943	S	HTL	BH		02				0		9	Asia/Bahrain	2015-02-27
+10123268	Hani Suites Spa Manama	Hani Suites Spa Manama		26.23719	50.53035	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-02-27
+10123342	Sofitel Bahrain Zallaq Thalassa Sea & Spa 28Km From Manama	Sofitel Bahrain Zallaq Thalassa Sea & Spa 28Km From Manama		26.053	50.485	S	HTL	BH						0		4	Asia/Bahrain	2015-02-27
+10124641	Fraser Suite	Fraser Suite		26.2333	50.53454	S	HTL	BH		05				0		4	Asia/Bahrain	2015-03-04
+10125178	Ramee Baisan International	Ramee Baisan International		26.23239	50.59656	S	HTL	BH		02				0		14	Asia/Bahrain	2015-03-04
+10128330	Elite One Luxury Apartments	Elite One Luxury Apartments		26.23161	50.59553	S	HTL	BH		02				0		18	Asia/Bahrain	2015-03-06
+10128331	Elite 5	Elite 5		26.21452	50.6043	S	HTL	BH		02				0		9	Asia/Bahrain	2015-03-06
+10128932	Diplomat Radisson Blue Hotel Residence & Spa	Diplomat Radisson Blue Hotel Residence & Spa		26.24198	50.59247	S	HTL	BH		02				0		2	Asia/Bahrain	2015-03-09
+10170040	The Gulf Hotel Bahrain	The Gulf Hotel Bahrain		26.2162	50.595	S	HTL	BH		02				0		11	Asia/Bahrain	2015-03-10
+10170041	Al Safir Hotel And Tower	Al Safir Hotel And Tower		26.21726	50.60487	S	HTL	BH		02				0		7	Asia/Bahrain	2015-03-10
+10170042	Marriott Exec Ap Manama	Marriott Exec Ap Manama		26.22054	50.60619	S	HTL	BH						0		1	Asia/Bahrain	2015-03-10
+10170043	The Diplomat Radisson Blu Hotel Residence & Spa	The Diplomat Radisson Blu Hotel Residence & Spa		26.2425	50.59162	S	HTL	BH		02				0		9	Asia/Bahrain	2015-03-10
+10175546	Y Inn Express Bahrain	Y Inn Express Bahrain		26.23207	50.59724	S	HTL	BH		02				0		12	Asia/Bahrain	2015-03-30
+10177198	Te Pavillion	Te Pavillion		26.2183	50.6041	S	HTL	BH		02				0		13	Asia/Bahrain	2015-04-06
+10227266	Awal Hotel	Awal Hotel		26.23395	50.57597	S	HTL	BH		02				0		9	Asia/Bahrain	2015-04-16
+10227267	City Center Hotel	City Center Hotel		26.23233	50.57242	S	HTL	BH		02				0		12	Asia/Bahrain	2015-04-16
+10228068	Al Areen Palace & Spa	Al Areen Palace & Spa		26.00244	50.51761	S	HTL	BH		08				0		33	Asia/Bahrain	2015-04-17
+10228069	The Palace Boutique	The Palace Boutique		26.20864	50.5957	S	HTL	BH		02				0		4	Asia/Bahrain	2015-04-17
+10229728	Florida Apartment	Florida Apartment		26.23279	50.59691	S	HTL	BH		02				0		14	Asia/Bahrain	2015-04-21
+10229729	Hani Royal Hotel	Hani Royal Hotel		26.21185	50.58962	S	HTL	BH		02				0		6	Asia/Bahrain	2015-04-21
+10229730	Serene Landmark Residence (Seef-Bahrain)	Serene Landmark Residence (Seef-Bahrain)		26.22339	50.54451	S	HTL	BH		05				0		9	Asia/Bahrain	2015-04-21
+10229731	Gulf Court	Gulf Court		26.22865	50.54621	S	HTL	BH		05				0		4	Asia/Bahrain	2015-04-21
+10238674	Serene Landmark Tower - Al Fateh (Juffair)	Serene Landmark Tower - Al Fateh (Juffair)		26.22089	50.60392	S	HTL	BH						0		3	Asia/Bahrain	2015-04-28
+10238680	One Juffair Luxury Serviced Apartments	One Juffair Luxury Serviced Apartments		26.21129	50.60681	S	HTL	BH		02				0		8	Asia/Bahrain	2015-04-28
+10238690	Sea Diamond Plaza	Sea Diamond Plaza		26.2198	50.60615	S	HTL	BH						0		1	Asia/Bahrain	2015-04-28
+10260178	Tulip Inn Bahrain Suites And Residence	Tulip Inn Bahrain Suites And Residence		26.23	50.546	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-05-08
+10277188	Residence Inn Manama Juffair	Residence Inn Manama Juffair		26.21988	50.60466	S	HTL	BH						0		13	Asia/Bahrain	2015-05-08
+10278528	Four Seasons Hotel Bahrain Bay	Four Seasons Hotel Bahrain Bay		26.24732	50.5809	S	HTL	BH		02				0		-9999	Asia/Bahrain	2015-05-12
+10279126	Art Rotana	Art Rotana		26.29001	50.66029	S	HTL	BH		15				0		-9999	Asia/Bahrain	2015-05-14
+10279283	Al Bander Htl and Resort	Al Bander Htl and Resort		26.11512	50.6345	S	HTL	BH						0		3	Asia/Bahrain	2015-05-14
+10281712	Sofitel Bahrain Zallaq Thalassa Sea and Spa Hotel	Sofitel Bahrain Zallaq Thalassa Sea and Spa Hotel		26.21538	50.58333	S	HTL	BH		02				0		5	Asia/Bahrain	2015-05-19
+10291120	Ramee Suites 1	Ramee Suites 1		26.20975	50.60285	S	HTL	BH		02				0		9	Asia/Bahrain	2015-05-27
+10291121	Ramee Suite 2 Furnished Apartment	Ramee Suite 2 Furnished Apartment		26.20975	50.60285	S	HTL	BH		02				0		9	Asia/Bahrain	2015-05-27
+10291122	The Ritz Carlton Bah	The Ritz Carlton Bah		26.24546	50.53741	S	HTL	BH		05				0		-9999	Asia/Bahrain	2015-05-27
+10291124	Ramee Suite 1 Aparment	Ramee Suite 1 Aparment		26.21312	50.60889	S	HTL	BH		02				0		10	Asia/Bahrain	2015-05-27
+10291128	Elite Two Luxury Apartments	Elite Two Luxury Apartments		26.0668	50.5114	S	HTL	BH		08				0		23	Asia/Bahrain	2015-05-27
+10291129	Elite Pavilion Luxury Apartments	Elite Pavilion Luxury Apartments		26.0668	50.5114	S	HTL	BH		08				0		23	Asia/Bahrain	2015-05-27
+10291130	Elite Five Luxury Apartments	Elite Five Luxury Apartments		26.0668	50.5114	S	HTL	BH		08				0		23	Asia/Bahrain	2015-05-27
+10291133	Bahrain International Hotel	Bahrain International Hotel		26.2696	50.6269	S	HTL	BH		15				0		10	Asia/Bahrain	2015-05-27
+10291135	Hawar Island Resort	Hawar Island Resort		25.6575	50.7569	S	HTL	BH						0		4	Asia/Bahrain	2015-05-27
+10291136	Al Commodore	Al Commodore		26.2281	50.5884	S	HTL	BH		02				0		16	Asia/Bahrain	2015-05-27
+10291138	Adhari	Adhari		26.2308	50.5711	S	HTL	BH		02				0		5	Asia/Bahrain	2015-05-27
+10340005	Regency Inter Continental	Regency Inter Continental		26.2351	50.574	S	HTL	BH		02				0		10	Asia/Bahrain	2015-06-12
+10344910	The Westin Bahrain City Centre	The Westin Bahrain City Centre		26.23247	50.55203	S	HTL	BH		02				0		-9999	Asia/Bahrain	2015-06-18
+11048875	Amwaj Islands	Amwaj Islands		26.2922	50.6662	T	ISL	BH		15				0	0	-9999	Asia/Bahrain	2016-01-19
+11048876	A'ali	A'ali		26.16298	50.51594	P	PPLX	BH		11				0	0	10	Asia/Bahrain	2016-01-19
+11048877	Abu Saiba	Abu Saiba		26.21782	50.50199	P	PPLX	BH		05				0	0	8	Asia/Bahrain	2016-01-19
+11048878	Adliya	Adliya		26.21604	50.58458	P	PPLX	BH		02				0	0	10	Asia/Bahrain	2016-01-19
+11153625	Ramada Hotel & Suites Amwaj Island	Ramada Hotel & Suites Amwaj Island		26.29254	50.66394	S	HTL	BH		15				0		-9999	Asia/Bahrain	2016-05-23
+11280045	Sheraton Bahrain Hotel	Sheraton Bahrain Hotel		26.23973	50.58346	S	HTL	BH		02				0	0	7	Asia/Bahrain	2016-10-13
+11524244	Khalifa Bin Salman Port	Khalifa Bin Salman Port		26.19507	50.71032	L	PRT	BH						0		-9999	Asia/Bahrain	2017-04-29
+11550666	ISA Air Base	ISA Air Base	OBBS,Shaikh Isa Air Base	25.91571	50.58955	S	AIRB	BH		13				0		33	Asia/Bahrain	2017-06-05
+11704230	Artist Nasser AlYousif House	Artist Nasser AlYousif House		26.23046	50.57995	R	RD	BH		02				0		9	Asia/Bahrain	2017-10-04
+11843091	Hawar Island Highway Strip	Hawar Island Highway Strip	Hawar Island Highway Strip	25.69317	50.76537	S	AIRF	BH		17				0		-9999	Asia/Bahrain	2018-04-09
+11843092	Ar Rifa Al Gharbi Heliport	Ar Rifa Al Gharbi Heliport	Ar Rifa Al Gharbi Heliport	26.10851	50.57752	S	AIRH	BH		17				0		40	Asia/Bahrain	2018-04-09
+11874014	Beit Al Quran	Beit Al Quran		26.2397	50.5917	P	PPLH	BH		16				0		-9999	Asia/Bahrain	2018-05-15

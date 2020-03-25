@@ -4,3 +4,4 @@
 .Ruserdata
 literature/
 .Rprofile
+data-raw/geonames/*.txt

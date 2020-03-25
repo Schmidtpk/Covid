@@ -1,0 +1,526 @@
+1252387	Zarāfi	Zarafi		27.14518	90.69223	P	PPL	BT		00				0		539	Asia/Thimphu	2012-12-05
+1252388	Yuwak	Yuwak	Yuwak	27.51667	89.86667	P	PPL	BT		00				0		1397	Asia/Thimphu	2012-05-05
+1252389	Yönpu La	Yonpu La		27.25	91.53333	T	PASS	BT		00				0		2615	Asia/Thimphu	1994-01-08
+1252390	Yembo La	Yembo La		27.13333	91.41667	T	PASS	BT		00				0		1223	Asia/Thimphu	1994-01-08
+1252391	Yeb La	Yeb La		27.73333	91.2	T	PASS	BT		00				0		2354	Asia/Thimphu	1994-01-08
+1252392	Yale La	Yale La		27.86667	89.43333	T	PASS	BT		00				0		4444	Asia/Thimphu	1994-01-08
+1252393	Yālang	Yalang	Yalang,Yālang	27.43333	91.63333	P	PPL	BT		00				0		2521	Asia/Thimphu	2012-02-01
+1252394	Wong Chu	Wong Chu	Chhuka,Chin Chu,Thimbu,Timbu,Wong,Wong Chu	26.83333	89.58333	H	STMX	BT		00				0		804	Asia/Thimphu	2012-01-17
+1252395	Wangdue Phodrang	Wangdue Phodrang	Du Phodrang,Wangdiphodrang,Wangdu Phodrang,Wangdue Phodrang,Wangdü Phodrang	27.48615	89.89915	P	PPLA	BT		22				7507		1273	Asia/Thimphu	2013-08-02
+1252396	Wangchukling	Wangchukling	Wangchukling	27.55	90.73333	P	PPL	BT		00				0		2772	Asia/Thimphu	2012-01-17
+1252397	Wāgya La	Wagya La		28.28333	89.88333	T	PASS	BT		00				0		4919	Asia/Thimphu	1997-02-11
+1252398	Usak	Usak	Usak	27.25	89.76667	P	PPL	BT		00				0		3244	Asia/Thimphu	2012-01-17
+1252399	Ura La	Ura La		27.45	90.85	T	PASS	BT		00				0		2755	Asia/Thimphu	1994-01-08
+1252400	Ura Dzong	Ura Dzong	Ura Dzong,Uro Dzong	27.43333	90.88333	S	FT	BT	BT	00				0		3245	Asia/Thimphu	2012-01-17
+1252401	Ura	Ura	Ura	27.41667	90.91667	P	PPL	BT		05				0		3648	Asia/Thimphu	2012-02-01
+1252402	Tungka La	Tungka La		26.95	91.36667	P	PPL	BT		00				0		2046	Asia/Thimphu	1994-01-08
+1252403	Tse Kang	Tse Kang	Tse Kang	27.75	91.23333	P	PPL	BT		00				0		2988	Asia/Thimphu	2012-01-17
+1252404	Tsangka	Tsangka		27.48333	90.46667	P	PPL	BT		00				0		2782	Asia/Thimphu	1994-01-08
+1252405	Tremo La	Tremo La	Tremo La,Tremo Pass,Tren o La	27.68333	89.18333	T	PASS	BT	BT	13				0		4649	Asia/Thimphu	2012-01-17
+1252406	Tosumani	Tosumani	Tosuman,Tosumani	27.92727	91.32036	P	PPL	BT		00				0		4081	Asia/Thimphu	2012-12-05
+1252407	Tormoshangsa	Tormoshangsa	Torma Shong,Tormoshangsa	27.48333	91.1	P	PPL	BT	BT	11				0		3147	Asia/Thimphu	2012-01-17
+1252408	Trongsa	Trongsa	Tongsa,Tongsa Dzong,Trongsa,Тонгса	27.5026	90.50716	P	PPLA	BT		21				2805		2108	Asia/Thimphu	2012-02-01
+1252409	Mangde Chhu	Mangde Chhu	Mangde,Mangde Chhu,Mangde Chu,Tongsa,Tongsa Chu	26.86667	90.95	H	STM	BT	BT	00				0		604	Asia/Thimphu	2012-01-17
+1252410	Tongla Kenga	Tongla Kenga	Tongla Kenga	27.13333	91.21667	P	PPL	BT		00				0		1352	Asia/Thimphu	2012-01-17
+1252411	Tobrang	Tobrang	Tobrang	27.71667	91.5	P	PPL	BT		11				0		2862	Asia/Thimphu	2012-01-17
+1252412	Tima	Tima	Tima	27.16667	89.03333	P	PPL	BT		00				0		1533	Asia/Thimphu	2019-04-10
+1252413	Khenpa Dzong	Khenpa Dzong	Khenpa Dzong,Thunkar	27.81667	91.08333	P	PPL	BT	BT	11				0		1722	Asia/Thimphu	2012-01-17
+1252414	Thungsi La	Thungsi La		27.4	90.96667	T	PASS	BT		00				0		3762	Asia/Thimphu	1994-01-08
+1252415	Thumgaon	Thumgaon	Thumgaon	26.98333	89.96667	P	PPL	BT		00				0		1557	Asia/Thimphu	2012-01-17
+1252416	Thimphu	Thimphu	Tempu,Thimbu,Thimfou,Thimpago,Thimphou,Thimphu,Thimpu,Timbu,Timbuo,Timfou,Timfu,Timfú,Timphu,Timpou (therine) Pounaka (cheimerine),Timpu,Timpû,Tkhimpkhu,Tėmpu,thim phu,thimphu,thimpu,thiphu,thymphw,timbu,timphu,timpu,ting bu,tinpu,tymfw,tymfww,tympw,Θίμφου,Τιμπού (θερινή) Πουνάκα (χειμερινή),Тимбу,Тхимпху,Тхімпху,Թհիմփհու,טהימפהו,تىمپۇ,تيمفو,تھمپو,تیمفو,تیمفوو,تیمپو,ٹھمپھو,थिंफू,थिम्पु,थिम्पू,थिम्फू,থিম্ফু,ਥਿੰਫੂ,ଥିମ୍ପୁ,திம்பு,థింపూ,ಥಿಂಪು,തിംഫു,තිම්පු,ทิมพู,ཐིམ་ཕུ།,ཐིམ་ཕུུུུ,თიმფუ,ጢምጱ,ティンプー,廷布,팀부	27.46609	89.64191	P	PPLC	BT	BT	20				98676	2320	2307	Asia/Thimphu	2019-09-05
+1252417	Thebong La	Thebong La		27.28333	91.33333	T	PASS	BT		00				0		2047	Asia/Thimphu	1994-01-08
+1252418	Thebong	Thebong	Thebong	27.26667	91.26667	P	PPL	BT		00				0		1614	Asia/Thimphu	2012-01-17
+1252419	Tendu	Tendu		27.13333	88.88333	P	PPL	BT		00				0		1164	Asia/Thimphu	1994-01-08
+1252420	Tawang Chu	Tawang Chu	Tawang Chu,Towang,Towang Chu	27.5	91.7	H	STM	BT	BT	00				0		1183	Asia/Thimphu	2012-01-17
+1252421	Tashtanje	Tashtanje		26.98333	92.01667	P	PPL	BT		00				0		967	Asia/Thimphu	1994-01-08
+1252422	Trashi Yangtse	Trashi Yangtse	Tashi Tang-tsi Dzong,Tashi Yang-tsi Dzong,Tashi Yangtse,Tashi Yāng-tsi Dzong,Tashigang,Tashigangtsi,Trashi Yangtse	27.6116	91.498	P	PPLA	BT		24				3025		1788	Asia/Thimphu	2012-02-01
+1252423	Trashigang	Trashigang	Benkar,Tashi Gang Dzong,Tashigang,Trashigang,YON	27.3331	91.55424	P	PPLA	BT		19				872		1174	Asia/Thimphu	2014-08-19
+1252424	Tashigang	Tashigang	Tashi Gang Dzong,Tashigang	27.16667	91.75	A	ADM2	BT	BT	19	1252424			0		2272	Asia/Thimphu	2014-03-18
+1252425	Tashi Chho Dzong	Tashi Chho Dzong	Cha-shih-ch'u-tsung,Cha-shih-ch’ü-tsung,Ta-hsi-su-tsung,Ta-hsi-su-tun,Ta-shih-ch'u,Ta-shih-ch’u,Tash Chho Dzong,Tashi Chho Dzong,Tashi Chhuc Dzong,Tassisudon,Trashi Chhodzong,Trashi Chhödzong,Trashi Cho Dzong,Trashi Chö Dzong,Trashicho	27.48333	89.61667	P	PPL	BT	BT	00				0		2641	Asia/Thimphu	2012-01-17
+1252426	Tarka La	Tarka La	Taga La,Tarka La,Tarka Lo	27.2	89.73333	T	PASS	BT	BT	00				0		3496	Asia/Thimphu	2012-01-17
+1252427	Taripe	Taripe	Taripe,Taripo,Tarphe	27.73671	91.42672	P	PPL	BT		00				0		2203	Asia/Thimphu	2012-12-05
+1252428	Tangsebi	Tangsebi		27.43333	90.43333	P	PPL	BT		00				0		1993	Asia/Thimphu	1994-01-08
+1252429	Tang Chu	Tang Chu		27.45	89.88333	H	STM	BT		00				0		1809	Asia/Thimphu	1994-01-08
+1252430	Tamji	Tamji	Tamji	27.8	89.63333	P	PPL	BT		00				0		4426	Asia/Thimphu	2012-01-17
+1252431	Tamjee	Tamjee		27.66667	89.9	P	PPL	BT		00				0		1327	Asia/Thimphu	1994-01-08
+1252432	Tāla	Tala	Tala,Tāla	26.86667	89.56667	P	PPL	BT		00				0		1669	Asia/Thimphu	2012-01-17
+1252433	Daga	Daga	Daga,Ta-Ga-Na,Taga Dzong	27.07529	89.87688	P	PPLA	BT		08				2243		1558	Asia/Thimphu	2012-02-01
+1252434	Sufali	Sufali	Sufali	26.86667	90.98333	P	PPL	BT		00				0		214	Asia/Thimphu	2019-04-10
+1252435	Suchha	Suchha	Suchha	27.23333	89.45	P	PPL	BT		00				0		3007	Asia/Thimphu	2012-01-17
+1252436	Sangbay	Sangbay	Sangbay,Sombe Dzong	27.16667	89.08333	P	PPL	BT	BT	10				0		1760	Asia/Thimphu	2012-01-17
+1252437	Sirkim La	Sirkim La		27.3	91.81667	T	PASS	BT		00				0		3358	Asia/Thimphu	1994-01-08
+1252438	Sintoka Dzong	Sintoka Dzong		27.43333	89.66667	S	FT	BT		00				0		2517	Asia/Thimphu	1994-01-08
+1252439	Singye Dzong	Singye Dzong	Senghe Dzong,Singhi Dzong,Singye Dzong	27.91667	91.35	P	PPL	BT	BT	11				0		4412	Asia/Thimphu	2012-01-17
+1252440	Sinchu La	Sinchu La	Sinchu La,Sinchu Pass,Sinchula Pass	26.78333	89.58333	T	PASS	BT	IN	00				0		1425	Asia/Thimphu	2017-02-04
+1252441	Simu Dzong	Simu Dzong		27.38333	89.6	S	FT	BT		00				0		2556	Asia/Thimphu	1994-01-08
+1252442	Shuri	Shuri	Shuri	27.5	90.75	P	PPL	BT		00				0		2737	Asia/Thimphu	2012-01-17
+1252443	Shongar Dzong	Shongar Dzong	Shongar Dzong	27.25	91.08333	P	PPL	BT		12				0		2166	Asia/Thimphu	2012-01-17
+1252444	Shodug	Shodug	Shodug	27.76667	89.45	P	PPL	BT		00				0		4950	Asia/Thimphu	2012-01-17
+1252445	Shiuji	Shiuji		27.17681	89.02529	P	PPL	BT		10				0		1644	Asia/Thimphu	2012-12-05
+1252446	Shingkarap	Shingkarap	Shingkarap	27.61667	89.26667	P	PPL	BT		00				0		2982	Asia/Thimphu	2012-01-17
+1252447	Shingbe	Shingbe	Shingbe	27.93333	91.61667	P	PPL	BT		00				0		4215	Asia/Thimphu	2012-01-17
+1252448	Shegaria	Shegaria		27.66667	90	P	PPL	BT		00				0		2668	Asia/Thimphu	1994-01-08
+1252449	Sharithang	Sharithang	Sharitang,Sharithang	27.41667	89.01667	P	PPL	BT	BT	00				0		3359	Asia/Thimphu	2012-01-17
+1252450	Shapang	Shapang	Shapang	27.65	91.46667	P	PPL	BT		00				0		1916	Asia/Thimphu	2012-01-17
+1252451	Shemgang	Shemgang	Shamgong Dzong,Shangong Dzong,Shemgang,Zhemgang,Шемганг	27.21689	90.65793	P	PPLA	BT		18				852		1900	Asia/Thimphu	2012-02-01
+1252452	Shali	Shali	Shali	27.48333	91.56667	P	PPL	BT		00				0		2175	Asia/Thimphu	2012-01-17
+1252453	Shabling	Shabling	Shabling	27.73333	91.11667	P	PPL	BT		00				0		2056	Asia/Thimphu	2012-01-17
+1252454	Sengor	Sengor	Sengor,Singur	27.36667	91.01667	P	PPL	BT	BT	00				0		3029	Asia/Thimphu	2012-01-17
+1252455	Sele La	Sele La	Sela La,Sele La	27.23333	89.26667	T	PASS	BT	BT	10				0		3767	Asia/Thimphu	2012-01-17
+1252456	Sawaphu	Sawaphu		27.36667	90.2	P	PPL	BT		00				0		3004	Asia/Thimphu	1994-01-08
+1252457	Sawang	Sawang	Sawang	27.789	91.29466	P	PPL	BT		00				0		2326	Asia/Thimphu	2012-12-05
+1252458	Sassi	Sassi	Sassi	27.13333	91.43333	P	PPL	BT		00				0		1295	Asia/Thimphu	2012-01-17
+1252459	Sasoka	Sasoka	Sasoka	27.75	90.86667	P	PPL	BT		00				0		4216	Asia/Thimphu	2012-01-17
+1252460	Sarpang	Sarpang	Sarbhang,Sarbhāng,Sarpang	26.86395	90.26745	P	PPLA	BT		09				10416		344	Asia/Thimphu	2013-08-02
+1252461	Sankosh River	Sankosh River	Mo,Mo Chhu,Mo Chu,Mu Chu,Puna Tsang Chhu,Punakha,Sankosh,Sankosh River	26.38333	89.8	H	STM	BT	IN	00				0		39	Asia/Thimphu	2014-03-06
+1252462	Sangkari	Sangkari	Sangkari	27.3	89.31667	P	PPL	BT		00				0		2782	Asia/Thimphu	2012-01-17
+1252463	Sānchi	Sanchi	Samchhi,Sanchi,Somchi,Sānchi	27.3	90.61667	P	PPL	BT	BT	00				0		1957	Asia/Thimphu	2012-01-17
+1252464	Sana	Sana	Sana	27.58333	91.38333	P	PPL	BT		00				0		2714	Asia/Thimphu	2012-01-17
+1252465	Samtengang	Samtengang	Samtengang	27.53333	90	P	PPL	BT		00				0		1854	Asia/Thimphu	2012-01-17
+1252466	Samdrup Choling	Samdrup Choling	Samdrop,Samdrup,Samdrup Choling	27.4	90.5	P	PPL	BT	BT	21				0		1306	Asia/Thimphu	2012-01-17
+1252467	Sama River	Sama River		26.8	89.98333	H	STM	BT		00				0		654	Asia/Thimphu	1994-01-08
+1252468	Sakteng	Sakteng	Sakden,Sakdon,Sakteng	27.38333	91.86667	P	PPL	BT	BT	19				0		3083	Asia/Thimphu	2012-01-17
+1252469	Saidu	Saidu	Saidu	27.83333	90.93333	P	PPL	BT		00				0		3592	Asia/Thimphu	2012-01-17
+1252470	Sage La	Sage La		27.46667	89.28333	T	PASS	BT		00				0		3787	Asia/Thimphu	1994-01-08
+1252471	Rungzyung	Rungzyung	Rungzyung	27.35	91.66667	P	PPL	BT		00				0		1436	Asia/Thimphu	2012-01-17
+1252472	Rudong La	Rudong La		27.58333	90.9	T	PASS	BT		00				0		3167	Asia/Thimphu	1997-02-11
+1252473	Ritang	Ritang	Ritang	27.55	90.16667	P	PPL	BT		00				0		2585	Asia/Thimphu	2012-01-17
+1252474	Rife	Rife	Rife	27.88333	90.51667	P	PPL	BT		00				0		5119	Asia/Thimphu	2012-01-17
+1252475	Rapley	Rapley		27.1	89.28333	P	PPL	BT		00				0		1671	Asia/Thimphu	1994-01-08
+1252476	Ragna Khola	Ragna Khola		26.88333	90.01667	H	STM	BT		00				0		358	Asia/Thimphu	1994-01-08
+1252477	Raga	Raga	Raga	27.3	89.53333	P	PPL	BT		00				0		2541	Asia/Thimphu	2012-01-17
+1252478	Rading	Rading	Rading	26.96667	91.46667	P	PPL	BT		00				0		1302	Asia/Thimphu	2012-01-17
+1252479	Punākha	Punakha	Distrito de Punakha,Dzongkhag Punakha,Punaka,Punakha,Punakkha,Punakla,Punāka,Punākla,pu na ka,Пунакха,སྤུ་ན་ཁ་,普那卡	27.59137	89.87743	P	PPLA	BT		15				21500		1293	Asia/Thimphu	2013-08-11
+1252480	Pumo La	Pumo La		27.45	89.56667	T	MT	BT		00				0		3712	Asia/Thimphu	1994-01-08
+1252481	Pinsoperi	Pinsoperi	Pinsoperi	27.11667	89.95	P	PPL	BT		00				0		2336	Asia/Thimphu	2012-01-17
+1252482	Pimi	Pimi	Pimi	27.56667	90.98333	P	PPL	BT		00				0		3431	Asia/Thimphu	2012-01-17
+1252483	Pieksao	Pieksao		26.93333	90.98333	P	PPL	BT		00				0		1091	Asia/Thimphu	1994-01-08
+1252484	Phuntsholing	Phuntsholing	Phuentsholing,Phuentsolingo,Phuentŝolingo,Phunchholing,Phuntsoling,Pkhuncholing,Puncolingas,Punčolingas,peng cuo lin,phuncholinga,puncholling,Пхунчолинг,Пхунчолінг,پھونتشولنگ,फुन्छोलिङ्ग,ཕུན་ཚོགས་གླིང་,彭措林,푼촐링	26.85164	89.38837	P	PPL	BT		06				17043		330	Asia/Thimphu	2019-09-05
+1252485	Pho Chhu	Pho Chhu	Pho Chhu,Pho Chu	27.68333	89.88333	H	STM	BT	BT	00				0		2306	Asia/Thimphu	2012-01-17
+1252486	Phisugaon	Phisugaon	Phisugaon	26.75369	90.1101	P	PPL	BT		00				0		202	Asia/Thimphu	2012-12-05
+1252487	Pinkhua	Pinkhua	Pengkhua,Pinkhua	26.71667	90.05	P	PPL	BT	BT	09				0		152	Asia/Thimphu	2012-01-17
+1252488	Pele La	Pele La		27.55	90.21667	T	PASS	BT		22				0		3339	Asia/Thimphu	1997-02-11
+1252489	Paro Chhu	Paro Chhu	Paro,Paro Chhu,Paro Chu	27.31667	89.53333	H	STM	BT	BT	00				0		2375	Asia/Thimphu	2012-01-17
+1252490	Paro	Paro	PBH,Paras,Paro,Paro Dzong,Rimpung Dzong,pa luo,palo,paro,paro-bhutana,Πάρο,Паро,پارو، بھوٹان,पारो-भूटान,პარო,パロ,帕羅,파로	27.4305	89.41334	P	PPLA	BT		13				2169		2266	Asia/Thimphu	2019-09-05
+1252491	Pantang River	Pantang River		26.86667	92.71667	H	STM	BT		00				0		94	Asia/Thimphu	1994-01-08
+1252492	Pangkha	Pangkha	Pangkha,Panka	26.95	90.81667	P	PPL	BT	BT	18				0		818	Asia/Thimphu	2012-01-17
+1252493	Pangolākha	Pangolakha	Pangolaka,Pangolakha,Pangolāka,Pangolākha	27.2	88.78333	T	PK	BT	BT	00				0		2757	Asia/Thimphu	2012-01-17
+1252494	Pang La	Pang La		27.75	91.2	T	PASS	BT		00				0		2393	Asia/Thimphu	1994-01-08
+1252495	Pajo	Pajo	Pajo	27.53333	89.88333	P	PPL	BT		15				3032		1438	Asia/Thimphu	2012-10-18
+1252496	Pāglādiya Nad	Pagladiya Nad	Pagladiya,Pagladiya Nad,Pagladiya River,Pāgladiya,Pāglādiya Nad	26.6	91.5	H	STM	BT	BT	00				0		67	Asia/Thimphu	2012-01-17
+1252497	Pachu	Pachu	Pachu	26.9	89.35	P	PPL	BT		00				0		636	Asia/Thimphu	2012-01-17
+1252498	Orka La	Orka La	Orka,Orka La,Punsum La	27.41667	92.01667	T	PASS	BT	BT	00				0		4185	Asia/Thimphu	2012-01-17
+1252499	Nyingsang La	Nyingsang La	Nyingsang La,Nyuksang La	26.78333	89.58333	T	PASS	BT	IN	00				0		1425	Asia/Thimphu	2017-02-04
+1252500	Nyingsang La	Nyingsang La	Nyingsang La,Nyuksang La	27.45	91.9	T	PASS	BT	BT	00				0		3642	Asia/Thimphu	2012-01-17
+1252501	Ningsang La	Ningsang La	Ningsang La	27.18333	91.8	P	PPL	BT		00				0		3013	Asia/Thimphu	2012-01-17
+1252502	Nimgong	Nimgong	Nimgang,Nimgong	27.20839	90.93877	P	PPL	BT		00				0		934	Asia/Thimphu	2012-12-05
+1252503	Niche Kālikhola	Niche Kalikhola		26.88314	90.08819	P	PPL	BT		00				0		654	Asia/Thimphu	2012-12-05
+1252504	Ngālangkang	Ngalangkang	Khamna,Khampa,Ngalangkang,Ngālangkang	27.45	91.58333	P	PPL	BT	BT	00				0		1203	Asia/Thimphu	2012-01-17
+1252506	Naspe	Naspe	Naspe	27.68333	90.71667	P	PPL	BT		00				0		3013	Asia/Thimphu	2012-01-17
+1252507	Namtir	Namtir	Namtil,Namtir	27.33333	90.4	P	PPL	BT	BT	00				0		3472	Asia/Thimphu	2012-01-17
+1252508	Namshi La	Namshi La	Kainli La,Namshi La,ཁན་ལི་ལ	28.10039	90.3696	T	PASS	BT		00				0		5257	Asia/Thimphu	2013-07-05
+1252509	Naktsang	Naktsang	Naktsang	27.38333	89.26667	P	PPL	BT		00				0		3064	Asia/Thimphu	2012-01-17
+1252510	Naitola	Naitola		26.9	91.26667	P	PPL	BT		00				0		766	Asia/Thimphu	1994-01-08
+1252511	Nab Chöte	Nab Chote		27.58333	90.43333	P	PPL	BT		00				0		2307	Asia/Thimphu	1994-01-08
+1252512	Moinlagarqung La	Moinlagarqung La	Kar Chung La,Meng-la-ka-erh-ts'ao Shan-k'ou,Mon La Kar,Mon La Kar Chong,Monla Karchung,Mönla Karchung,མོན་ལ་དཀར་ཆུང་ལ	28.06622	90.62176	T	PASS	BT	CN,BT	05				0		4931	Asia/Thimphu	2007-08-05
+1252513	Monka	Monka	Monka	27.38333	91.16667	P	PPL	BT		00				0		2062	Asia/Thimphu	2012-01-17
+1252514	Mongar	Mongar	Mongar,Mongar Dzong,Монгар	27.27471	91.23963	P	PPLA	BT		12				2969		1648	Asia/Thimphu	2012-02-01
+1252515	Momai Thāng	Momai Thang		26.91667	89.85	P	PPL	BT		00				0		942	Asia/Thimphu	1994-01-08
+1252516	Mochhu	Mochhu		27.13333	89.11667	P	PPL	BT		00				0		1570	Asia/Thimphu	1994-01-08
+1252517	Mili La	Mili La	Mili La,Mill La	27.18333	90.86667	T	PASS	BT	BT	00				0		2766	Asia/Thimphu	2012-01-17
+1252518	Ma Shan-k'ou	Ma Shan-k'ou	Me La,མེ་ལ	27.95	91.65	T	PASS	BT	CN,BT	00				0		4003	Asia/Thimphu	2007-08-05
+1252519	Māogaon	Maogaon	Maogaon,Māogaon	27.02587	90.40178	P	PPL	BT		00				0		1192	Asia/Thimphu	2012-12-05
+1252520	Manikyangsa	Manikyangsa	Manikyangsa	27.53333	90.1	P	PPL	BT		00				0		2010	Asia/Thimphu	2012-01-17
+1252521	Lung Chen	Lung Chen	Lung Chen	27.63333	90.18333	P	PPL	BT		00				0		2781	Asia/Thimphu	2012-01-17
+1252522	Louri	Louri		27.1	91.93333	P	PPL	BT		00				0		1561	Asia/Thimphu	1994-01-08
+1252523	Lobnig	Lobnig	Lobnig	27.15	89.55	P	PPL	BT		00				0		2412	Asia/Thimphu	2012-01-17
+1252524	Lingshi La	Lingshi La	Lingshi La,Phyen La	27.95	89.43333	T	PASS	BT	BT	00				0		4995	Asia/Thimphu	2012-01-17
+1252525	Lingshi Dzong	Lingshi Dzong		27.91667	89.43333	S	FT	BT		20				0		4613	Asia/Thimphu	1997-02-11
+1252526	Lhuentse	Lhuentse	Lenlung,Lhuentse,Lhuntshi,Lhuntsi Dzong,Lingshi Dzong	27.66787	91.18393	P	PPLA	BT		11				100		1403	Asia/Thimphu	2013-08-02
+1252527	Lhobrak River	Lhobrak River	Lhobrak Chu,Lhobrak River,Lo-pu-la-k'o Ho,Lo-pu-la-k’o Ho	27.5	91.1	H	STM	BT	CN	00				0		2433	Asia/Thimphu	2014-03-06
+1252528	Lhedang	Lhedang	Lhedang,Weitsang	27.95001	90.69214	P	PPL	BT		05				0		4239	Asia/Thimphu	2012-12-05
+1252529	Lesser Himalaya	Lesser Himalaya	Himachal,Himalaya,Inner Himalaya,Lesser Himalaya,Middle Himalayas	30	80	T	MTS	BT	BT	00				0		2028	Asia/Thimphu	2012-01-17
+1252530	Lao	Lao	Lao	27.81667	91.5	P	PPL	BT		00				0		4381	Asia/Thimphu	2012-01-17
+1252531	Lamti	Lamti		27.33333	90.56667	P	PPL	BT		00				0		1705	Asia/Thimphu	1994-01-08
+1252532	Lāmedāda	Lamedada		26.95	90.13333	P	PPL	BT		00				0		1457	Asia/Thimphu	1994-01-08
+1252533	Kyu La	Kyu La		27.43333	89.1	T	PASS	BT		00				0		4054	Asia/Thimphu	1994-01-08
+1252534	Kyikyi La	Kyikyi La		27.5	90.71667	T	PASS	BT		00				0		2885	Asia/Thimphu	1994-01-08
+1252535	Chapchha	Chapchha	Chapcha,Chapchha,Kyapcha Dzong	27.2	89.55	P	PPL	BT	BT	06				0		2674	Asia/Thimphu	2012-01-17
+1252536	Kuru Chhu	Kuru Chhu	Kur,Kur Chu,Kuru,Kuru Chhu,Kuru Chu	27.03333	91.06667	H	STM	BT	BT	00				0		1328	Asia/Thimphu	2012-01-17
+1252537	Kungtar	Kungtar	Kungtar	27.53333	91.05	P	PPL	BT		00				0		2684	Asia/Thimphu	2012-01-17
+1252538	Kulong Chhu	Kulong Chhu	Kulong,Kulong Chhu,Kulong Chu,Tashi Yang-tsi Chu,Tashi Yāng-tsi Chu	27.45	91.6	H	STM	BT	BT	00				0		1138	Asia/Thimphu	2012-01-17
+1252540	Kisona	Kisona	Kisona	27.25	90	P	PPL	BT		00				0		1219	Asia/Thimphu	2012-01-17
+1252541	Khitokha	Khitokha	Khitokha	26.9	89.61667	P	PPL	BT		00				0		729	Asia/Thimphu	2012-01-17
+1252542	Khar	Khar		27	91.35	P	PPL	BT		00				0		1481	Asia/Thimphu	1994-01-08
+1252543	Kengkhar La	Kengkhar La	Kenga La,Kengkhar La	27.11667	91.23333	T	PASS	BT	BT	00				0		649	Asia/Thimphu	2012-01-17
+1252544	Kengkhar	Kengkhar	Kenga,Kengkhar	27.1	91.25	P	PPL	BT	BT	00				0		992	Asia/Thimphu	2012-01-17
+1252545	Kencho	Kencho	Kencho	27.75	89.71667	P	PPL	BT		00				0		2218	Asia/Thimphu	2012-01-17
+1252546	Kechungka	Kechungka	Gesekha,Kechangka,Kechungka	27.41667	89.25	P	PPL	BT	BT	00				0		2849	Asia/Thimphu	2012-01-17
+1252547	Kechu La	Kechu La		27.6	89.98333	T	PASS	BT		00				0		3142	Asia/Thimphu	1994-01-08
+1252548	Kapi Dzong	Kapi Dzong	Kapi Dzong,Tukna	27.638	89.81274	S	FT	BT		00				0		1314	Asia/Thimphu	2012-12-05
+1252549	Kangri La	Kangri La		27.81667	90.21667	T	PASS	BT		00				0		4844	Asia/Thimphu	1994-01-08
+1252550	Kangpar	Kangpar	Kangpar	27.16667	91.73333	P	PPL	BT		00				0		2958	Asia/Thimphu	2012-01-17
+1252551	Kānamākra River	Kanamakra River	Kanamakra River,Kānamākra River	26.53333	90.58333	H	STM	BT		00				0		58	Asia/Thimphu	2012-01-17
+1252552	Kamganka	Kamganka		27.24981	89.96068	P	PPL	BT		00				0		1700	Asia/Thimphu	2012-12-05
+1252553	Kagha	Kagha		27.53333	90.46667	P	PPL	BT		00				0		2709	Asia/Thimphu	1994-01-08
+1252554	Jelep La	Jelep La	Jelep La,Jelep La Pass	27.36667	88.85	T	PASS	BT	BT	00				0		4221	Asia/Thimphu	2012-01-17
+1252555	Jato La	Jato La		27.58333	89.66667	T	PASS	BT		00				0		3446	Asia/Thimphu	1994-01-08
+1252556	Jaldakha Chhu	Jaldakha Chhu	Jaldakha Chhu,Jaldhaka River,Jaldhāka River,Mansai	26.26667	89.26667	H	STM	BT	BT	00				0		46	Asia/Thimphu	2012-01-17
+1252557	Hlāri	Hlari	Hilari,Hlari,Hlāri	27.4	88.98333	P	PPL	BT	BT	00				0		3334	Asia/Thimphu	2012-01-17
+1252559	Hi Chu	Hi Chu		27.26667	91.45	H	STM	BT		00				0		933	Asia/Thimphu	1994-01-08
+1252560	Geylegphug	Geylegphug	GLU,Gelaphu,Gelephu,Gelyephug,Geylegphug,Hatisar,Hatisār,དག་ལགས་ཕ་,དགེ་ལེགས་ཕུ་	26.86833	90.48778	P	PPL	BT	BT	09				0		221	Asia/Thimphu	2014-08-19
+1252561	Harācha	Haracha	Haracha,Harācha	27.18333	90.03333	P	PPL	BT		00				0		1583	Asia/Thimphu	2012-01-17
+1252562	Ha La	Ha La		27.45	89.15	T	PASS	BT		00				0		3757	Asia/Thimphu	1994-01-08
+1252563	Ha	Ha	Ha,Ha Dzong	27.38747	89.28074	P	PPLA	BT		10				1449		2718	Asia/Thimphu	2013-06-27
+1252564	Ha Dzong	Ha Dzong		27.39285	89.27584	S	FT	BT		10				0		2721	Asia/Thimphu	2012-12-05
+1252565	Ha Chhu	Ha Chhu	Ha Chhu,Ha Chu,Ha River	27.23333	89.5	H	STM	BT	BT	00				0		2437	Asia/Thimphu	2012-01-17
+1252566	Gyetsa	Gyetsa	Gyetsa	27.51667	90.63333	P	PPL	BT		00				0		3342	Asia/Thimphu	2012-02-01
+1252567	Gyemo Chen	Gyemo Chen	Byemochen,Gyemo Chen,Mount Gipmochi	27.27414	88.902	T	MT	BT	IN	00				0		4171	Asia/Thimphu	2018-02-06
+1252568	Gye Che	Gye Che		27.66667	89.21667	S	RHSE	BT		00				0		4072	Asia/Thimphu	1994-01-08
+1252570	Gönphu	Gonphu		27.08333	90.76667	P	PPL	BT		00				0		1191	Asia/Thimphu	2006-08-31
+1252571	Gong La	Gong La		28	91.18333	T	PASS	BT		00				0		3428	Asia/Thimphu	1994-01-08
+1252572	Gongchuāndgaon	Gongchuandgaon		27.03333	90.43333	P	PPL	BT		00				0		1564	Asia/Thimphu	1994-01-08
+1252573	Gnimthenla	Gnimthenla		26.90948	89.85719	P	PPL	BT		00				0		1217	Asia/Thimphu	2012-12-05
+1252574	Giala	Giala	Giala	27.37366	89.9683	P	PPL	BT		00				0		2481	Asia/Thimphu	2012-12-05
+1252575	Ghunkarah	Ghunkarah	Ghunkarah	27.4	91.56667	P	PPL	BT		00				0		1650	Asia/Thimphu	2012-01-17
+1252576	Getta Dzong	Getta Dzong		27.24561	89.4143	S	FT	BT		00				0		2676	Asia/Thimphu	2012-12-05
+1252577	Gasila	Gasila		27.33333	89.8	P	PPL	BT		00				0		2520	Asia/Thimphu	1994-01-08
+1252578	Gasa	Gasa	Gasa,Gasa Dzong	27.90372	89.72689	P	PPLA	BT		23				548		2761	Asia/Thimphu	2013-08-26
+1252579	Gang La	Gang La	Gag La,Gang La	27.98333	91.2	T	PASS	BT	BT	00				0		4110	Asia/Thimphu	2012-01-17
+1252580	Galechugaon	Galechugaon		27.35	91.55	H	STM	BT		00				0		852	Asia/Thimphu	1994-01-08
+1252581	Galechugaon	Galechugaon	Galechugaon	27	90.53333	P	PPL	BT		00				0		1042	Asia/Thimphu	2012-01-17
+1252582	Dzongsa Dzong	Dzongsa Dzong	Dzongsa Dzong,Jumsa	27.1	88.88333	P	PPL	BT	BT	16				0		911	Asia/Thimphu	2012-01-17
+1252583	Dungna	Dungna	Duna Dzong,Dungna	27.03333	89.4	P	PPL	BT	BT	06				0		1368	Asia/Thimphu	2012-01-17
+1252584	Dukye Dzong	Dukye Dzong	Duggye Dzong,Dukye Dzong	27.51651	89.33306	S	FT	BT		00				0		2680	Asia/Thimphu	2012-12-05
+1252585	Duars	Duars	Dooars,Duars,Duars Plain,Dwars	26.75	89.75	L	RGN	BT	BT	00				0		388	Asia/Thimphu	2012-01-17
+1252586	Dotanang	Dotanang	Dotanang	27.58333	89.63333	P	PPL	BT		00				0		2550	Asia/Thimphu	2012-01-17
+1252587	Doronagaon	Doronagaon		26.83204	89.81261	P	PPL	BT		00				0		1738	Asia/Thimphu	2012-12-05
+1252588	Doring	Doring	Doring	27.2	89.2	P	PPL	BT		00				0		2481	Asia/Thimphu	2012-01-17
+1252589	Donkar	Donkar	Donkar	27.63922	91.22442	P	PPL	BT		00				0		1346	Asia/Thimphu	2012-12-05
+1252590	Donga La	Donga La	Donga La,Donga Pass,Drongkhya La,To-kan,Tung-chia Shan-k'ou,Tung-chia Shan-k’ou,Tung-ko Shan-k'ou,Tung-ko Shan-k’ou	27.55	91.28333	T	PASS	BT	BT	00				0		2668	Asia/Thimphu	2012-01-17
+1252591	Domka	Domka	Domka	27.06667	91.06667	P	PPL	BT		00				0		1755	Asia/Thimphu	2012-01-17
+1252592	Dogsar	Dogsar	Dogsar	27.94854	91.13867	P	PPL	BT		00				0		2380	Asia/Thimphu	2012-12-05
+1252593	Diptsang	Diptsang		27.05	91.98333	P	PPL	BT		00				0		1422	Asia/Thimphu	1994-01-08
+1252594	Dichenphuk Dzong	Dichenphuk Dzong		27.55	89.6	S	FT	BT		00				0		3390	Asia/Thimphu	1994-01-08
+1252595	Dhur	Dhur	Dhur	27.61512	90.66992	P	PPL	BT		00				0		2778	Asia/Thimphu	2012-12-05
+1252596	Dhāje	Dhaje		26.96667	90.11667	P	PPL	BT		00				0		1195	Asia/Thimphu	1994-01-08
+1252597	Dewāngiri	Dewangiri		26.86667	91.46667	P	PPL	BT		17				0		559	Asia/Thimphu	1997-02-11
+1252598	Dengan La	Dengan La	Dangan La,Dengan La	27.13333	92.03333	T	PASS	BT	BT	00				0		2410	Asia/Thimphu	2012-01-17
+1252599	Denchukha	Denchukha	Denchukha,Denehukha	27.01667	89.25	P	PPL	BT	BT	00				0		1633	Asia/Thimphu	2012-01-17
+1252600	Dametsi	Dametsi	Damecha,Dametsi,Damoitsi,Damotse,Demtsi	27.3	91.45	P	PPL	BT	BT	12				0		1100	Asia/Thimphu	2012-01-17
+1252601	Daphu	Daphu	Daphu	26.96667	89.38333	P	PPL	BT		06				1666		914	Asia/Thimphu	2013-08-18
+1252602	Drangme Chhu	Drangme Chhu	Dangma,Dangme Chu,Danme Chu,Drangme Chhu,Gong Ri,Manas River,Manās River	26.21667	90.63333	H	STM	BT	IN	00				0		36	Asia/Thimphu	2014-03-06
+1252603	Dam	Dam	Dam	27.11667	89.76667	P	PPL	BT		00				0		2301	Asia/Thimphu	2012-01-17
+1252604	Daina River	Daina River	Daina River	26.66667	88.9	H	STM	BT	IN	00				0		90	Asia/Thimphu	2014-03-06
+1252605	Chuyul	Chuyul	Chuyul	27.53333	89.3	P	PPL	BT		00				0		3238	Asia/Thimphu	2012-01-17
+1252606	Chungkar	Chungkar		27.05	91.41667	P	PPL	BT		00				0		2002	Asia/Thimphu	1994-01-08
+1252607	Cho-mo-la-li Shan	Cho-mo-la-li Shan	Cho-mu-la-li Shan,Chomo Lhari,Chomo Lhāri,Chomolhari,Chumalari,Chumalhari,Jomolhari	27.82405	89.26919	T	MT	BT	CN,BT	13				0	7314	7079	Asia/Thimphu	2010-06-03
+1252608	Tsirang	Tsirang	Chirang,Tsirang	27.0219	90.12291	P	PPLA	BT		07				18667		1410	Asia/Thimphu	2013-08-02
+1252609	Chilo	Chilo	Chilo	27.55	90	P	PPL	BT		00				0		2151	Asia/Thimphu	2012-01-17
+1252610	Tsimasham	Tsimasham	Chhukha,Chhukha Dzong,Chukha,Chukkha,Tsimasham,Чукха	27.0989	89.53604	P	PPLA	BT		06				2855		2245	Asia/Thimphu	2013-08-02
+1252611	Chhukha Dzong	Chhukha Dzong	Chbukha Dzong,Chhukha Dzong	27.06667	89.58333	S	FT	BT	BT	06				0		1815	Asia/Thimphu	2012-01-17
+1252612	Chhachhu La	Chhachhu La		27.85	90.6	T	PASS	BT		00				0		5088	Asia/Thimphu	1994-01-08
+1252613	Chendebi	Chendebi		27.45	90.33333	P	PPL	BT		00				0		2798	Asia/Thimphu	1994-01-08
+1252614	Chemaito	Chemaito	Chemaito,Ohemaito	27.5	90.28333	P	PPL	BT	BT	00				0		3044	Asia/Thimphu	2012-01-17
+1252615	Chekkha	Chekkha	Chekha,Chekkha	27.66667	89.21667	S	FT	BT	BT	00				0		4072	Asia/Thimphu	2012-01-17
+1252616	Changra	Changra		27.4	90.46667	P	PPL	BT		00				0		1732	Asia/Thimphu	1994-01-08
+1252617	Changchukha Dzong	Changchukha Dzong	Chanchukha Dzong,Changchukha Dzong	27.13333	90.35	P	PPL	BT	BT	09				0		2873	Asia/Thimphu	2012-01-17
+1252618	Chamka	Chamka	Chamka,Chamka Chu	27.81667	90.7	H	STM	BT	BT	00				0		4216	Asia/Thimphu	2012-01-17
+1252619	Chamarchi	Chamarchi		26.9	89.1	P	PPL	BT		00				0		425	Asia/Thimphu	1994-01-08
+1252620	Chalaika	Chalaika	Chalaika	27.08333	89.86667	P	PPL	BT		00				0		1630	Asia/Thimphu	2012-01-17
+1252621	Byaradingka	Byaradingka	Byaradingka	27.76667	89.45	P	PPL	BT		00				0		4950	Asia/Thimphu	2012-01-17
+1252622	Byakar Dzong	Byakar Dzong	Bumtang,Byakar Dzong	27.55	90.71667	P	PPL	BT	BT	05				0		3095	Asia/Thimphu	2019-04-01
+1252623	Buri Chu	Buri Chu		27	90.21667	P	PPL	BT		00				0		1897	Asia/Thimphu	1994-01-08
+1252625	Bumtang Tang	Bumtang Tang	Bumtang Tang,Bumthang,Jakar	27.6	90.81667	P	PPL	BT	BT	00				0		3749	Asia/Thimphu	2019-04-01
+1252626	Bumthang Chhu	Bumthang Chhu	Bumtang,Bumtang Chu,Bumtang River,Bumtang Tang,Bumthang Chhu,Murchangfu Chu	26.93333	90.85	H	STM	BT		00				0		586	Asia/Thimphu	2012-01-17
+1252627	Bod La	Bod La	Bod,Bod Pass,Pi-te Shan-k'ou,Pode La,Podê La,ཕོ་སྡེ་ལ	28.06774	91.22532	T	PASS	BT	BT,CN	11				0		4989	Asia/Thimphu	2007-08-05
+1252628	Black Mountain Range	Black Mountain Range	Black Mountain Range,Black Mountains	27.28333	90.38333	T	MTS	BT	BT	00				0		4606	Asia/Thimphu	2012-01-17
+1252629	Black Mountain	Black Mountain		27.28333	90.38333	T	MT	BT		00				0		4606	Asia/Thimphu	1997-02-11
+1252630	Bitana Sang	Bitana Sang		27.2	90.66667	S	BDG	BT		00				0		1603	Asia/Thimphu	1994-01-08
+1252631	Bitana	Bitana	Bitana	27.05	90.3	P	PPL	BT		00				0		1552	Asia/Thimphu	2012-01-17
+1252632	Bioka	Bioka		26.9	90.91667	P	PPL	BT		00				0		528	Asia/Thimphu	1994-01-08
+1252633	Bigar Chu	Bigar Chu		27.55	91.18333	H	STM	BT		00				0		1969	Asia/Thimphu	1994-01-08
+1252634	Kingdom of Bhutan	Kingdom of Bhutan	An Bhutain,An Bhútain,An Bhútáin,Bh2utan,Bhoetaan,Bhoetan,Bhotana,Bhoutan,Bhutaan,Bhutan,Bhutan nutome,Bhutani,Bhután,Bhwtan,Bhùtán,Bhútán,Botan,Boutan,Bu-tan (Bhutan),Butaan,Butaani,Butaean,Butaen,Butan,Butan Patshalygy,Butana,Butanas,Butani,Butania,Butanmudin Nutg,Butano,Butao,Butaŋ,Butàn,Bután,Bután - འབྲུག་ཡུལ,Butáni,Butão,Butäan,Butän,Butāna,Buuten,Bútan,Bûtan,Druk-yul,IBhuthani,Iiʼniʼ Tłʼiishtsoh Bikéyah,Kingdom of Bhutan,Kraljevina Butan,Mpoutan,Orileede Butani,Orílẹ́ède Bútánì,Putani,Pūtani,Regne de Bhutan,Shoҳigarii Butan,batan,bhutan,bhutana,bhwtn,bu dan,butan,butan wang guo,bwtan,bwwtan,bwټan,i-Bhutan,phutan,phuthan,prathes phutan,putan,puttan,Μπουτάν,Бутан,Бутан Патшалығы,Бутанмудин Нутг,Шоҳигарии Бутан,Բութան,Բուտան,בהוטאן,בהוטן,باتان,بوتان,بووتان,بوټان,بھوٹان,بۇتان,ބޫޓާން,भुटान,भूटान,भूतान,ভুটান,ভূটান,ભૂટાન,ભૂતાન,ଭୁଟାନ,ଭୁଟାନ୍,பூடான்,பூட்டான்,భూటాన్,ಭುತಾನ,ಭೂತಾನ್,ഭൂട്ടാന്‍,ഭൂട്ടാൻ,භූතානය,ประเทศภูฏาน,ภูฏาน,ภูฐาน,ພູຖານ,འབྲུག,འབྲུག་ཡུལ་,འབྲུག་ཡུལ།,ဘတနနငင,ဘူတန်နိုင်ငံ,ბუტანი,ბჰუტანი,ቡህታን,ប៊ូតាន,ブータン,ブータン王国,不丹,부탄	27.5	90.5	A	PCLI	BT		00				699847		1816	Asia/Thimphu	2015-10-30
+1252635	Bhurgaon	Bhurgaon	Bhurgaon	26.9	90.43333	P	PPL	BT		00				0		361	Asia/Thimphu	2012-01-17
+1252636	Bhangbārai	Bhangbarai		27.26667	90.3	P	PPL	BT		00				0		3324	Asia/Thimphu	1994-01-08
+1252637	Beteni	Beteni	Beteni	27.03333	90.23333	P	PPL	BT		00				0		2379	Asia/Thimphu	2019-04-10
+1252638	Barshong	Barshong	Barshong,Borshang	27.7	89.55	P	PPL	BT	BT	00				0		3678	Asia/Thimphu	2012-01-17
+1252639	Bali	Bali	Bala,Bali	27.36664	90.56238	P	PPL	BT		00				0		1289	Asia/Thimphu	2012-12-05
+1252640	Balfai	Balfai	Balfai	27.21667	91.5	P	PPL	BT		00				0		1578	Asia/Thimphu	2012-01-17
+1252641	Bachāp	Bachap	Bachap,Bachāp	26.98333	89.81667	P	PPL	BT		00				0		2016	Asia/Thimphu	2012-01-17
+1252643	Ama	Ama	Ama	27.35315	89.9021	P	PPL	BT		00				0		1684	Asia/Thimphu	2012-12-05
+1252644	Alla	Alla		27.35	89.96667	P	PPL	BT		00				0		2245	Asia/Thimphu	1994-01-08
+1337278	Bumthang Dzongkhag	Bumthang Dzongkhag	Bum-thang rzong-khag,Bumthang,Bumthang Dzongkhag,བམ་ཐང་རང་ཁག་,བུམ་ཐང་རྫོང་ཁག་	27.7	90.78333	A	ADM1	BT		05				21658		3873	Asia/Thimphu	2015-12-18
+1337279	Chhukha Dzongkhag	Chhukha Dzongkhag	Chhukha,Chhukha Dzongkhag,Chu-kha rdzong-khag,Chukha,Chukha District,Districtul Chukha,Distrito de Chukha,ཆ་ཁ་རང་ཁག་,ཆུ་ཁ་རྫོང་ཁག་	27	89.55	A	ADM1	BT		06				61173		3171	Asia/Thimphu	2016-10-21
+1337280	Dagana Dzongkhag	Dagana Dzongkhag	Daga,Daga Dzongkhag,Dagana,Dagana District,Dagana Dzongkhag,Dar-dkar-na rdzong-khag,Distrito de Dagana,དར་དཀར་ན་རང་ཁག་,དར་དཀར་ན་རྫོང་ཁག་	27.1	89.86667	A	ADM1	BT		08				26837		1564	Asia/Thimphu	2016-10-21
+1337281	Tsirang Dzongkhag	Tsirang Dzongkhag	Chirang,Chirang Dzongkhag,Tsirang,Tsirang Dzongkhag	27.03333	90.16667	A	ADM1	BT		07				29207		1414	Asia/Thimphu	2012-02-01
+1337282	Sarpang Dzongkhag	Sarpang Dzongkhag	Geylegphug,Geylegphug Dzongkhag,Sarpang,Sarpang District,Sarpang Dzongkhag	27.03333	90.41667	A	ADM1	BT		09				0		1184	Asia/Thimphu	2012-02-01
+1337283	Haa Dzongkhag	Haa Dzongkhag	Ha,Ha Dzongkhag,Haa,Haa District,Haa Dzongkhag,ཧ་,ཧ་རང་ཁག་,ཧཱ་,ཧཱ་རྫོང་ཁག་	27.33333	89.18333	A	ADM1	BT		10				13020		3681	Asia/Thimphu	2016-10-21
+1337284	Lhuentse Dzongkhag	Lhuentse Dzongkhag	Lhuentse,Lhuentse Dzongkhag,Lhun-rtse rdzong-khag,Lhuntse,Lhuntse District,Lhuntshi,Lhuntshi Dzongkhag,ལན་ར་རང་ཁག་,ལྷུན་རྩེ་རྫོང་ཁག་	27.75	91.18333	A	ADM1	BT		11				0		3099	Asia/Thimphu	2016-10-21
+1337285	Mongar Dzongkhag	Mongar Dzongkhag	Mong-sgar rdzong-khag,Mongar,Mongar District,Mongar Dzongkhag,Monggar,མང་སར་རང་ཁག་,མོང་སྒར་རྫོང་ཁག་	27.25	91.23333	A	ADM1	BT		12				52490		2090	Asia/Thimphu	2016-10-21
+1337286	Paro Dzongkhag	Paro Dzongkhag	Distrito de Paro,Paro,Paro District,Paro Dzongkhag,Spa-ro rdzong-khag,paro-bhutana,Паро,पारो-भूटान,ས་ར་རང་ཁག་,སྤ་རོ་རྫོང་ཁག་	27.51667	89.4	A	ADM1	BT		13				32129		3232	Asia/Thimphu	2015-12-18
+1337287	Pemagatshel Dzongkhag	Pemagatshel Dzongkhag	Pad-ma Dgaa-tshal rdzong-khag,Pemagatsel,Pemagatsel Dzongkhag,Pemagatshel,Pemagatshel District,Pemagatshel Dzongkhag,པད་མ་དགའ་ཚལ་རང་ཁག་,པད་མ་དགའ་ཚལ་རྫོང་ཁག་	27	91.36667	A	ADM1	BT		14				0		1639	Asia/Thimphu	2016-10-21
+1337288	Punakha Dzongkhag	Punakha Dzongkhag	Punakha,Punakha Dzongkhag	27.7	89.85	A	ADM1	BT		15				22951		2800	Asia/Thimphu	2012-02-01
+1337289	Samtse Dzongkhag	Samtse Dzongkhag	Samchi,Samchi Dzongkhag,Samtse,Samtse Dzongkhag	27.03333	89.08333	A	ADM1	BT		16				64805		2253	Asia/Thimphu	2012-01-16
+1337290	Samdrup Jongkhar Dzongkhag	Samdrup Jongkhar Dzongkhag	Distrito de Samdrup Jongkhar,Dzongkhag Samdrup Jongkhar,Samdrup,Samdrup Jongkhar,Samdrup Jongkhar District,Samdrup Jongkhar Dzongkhag,Samdrup Jongkhari ringkond	26.91667	91.61667	A	ADM1	BT		17				52459		849	Asia/Thimphu	2012-01-16
+1337291	Zhemgang Dzongkhag	Zhemgang Dzongkhag	Shemgang,Shemgang Dzongkhag,Zhemgang,Zhemgang Dzongkhag	27.08333	90.85	A	ADM1	BT		18				27048		2508	Asia/Thimphu	2012-01-16
+1337292	Trashigang Dzongkhag	Trashigang Dzongkhag	Tashigang,Tashigang Dzongkhag,Trashigang,Trashigang District,Trashigang Dzongkhag	27.25	91.75	A	ADM1	BT		19				0		3362	Asia/Thimphu	2012-01-16
+1337293	Thimphu Dzongkhag	Thimphu Dzongkhag	Thimphu,Thimphu Dzongkhag	27.6	89.58333	A	ADM1	BT		20				89840		3634	Asia/Thimphu	2012-02-01
+1337294	Trongsa Dzongkhag	Trongsa Dzongkhag	Tongsa,Tongsa Dzong,Tongsa Dzongkhag,Trongsa,Trongsa Dzongkhag	27.35	90.53333	A	ADM1	BT		21				19135		1892	Asia/Thimphu	2013-05-21
+1337295	Wangdue Phodrang Dzongkhag	Wangdue Phodrang Dzongkhag	Wangdi Phodrang,Wangdi Phodrang Dzongkhag,Wangdu Phodrang,Wangdue Phodrang,Wangdue Phodrang Dzongkhag,Wangdü Phodrang	27.5	90.13333	A	ADM1	BT		22				34746		3176	Asia/Thimphu	2013-01-09
+1337299	Lingshi	Lingshi	Lingshi,Lingshi Dzong	27.91667	89.43333	P	PPL	BT	BT	20				0		4613	Asia/Thimphu	2012-01-19
+1337300	Torsa Chhu	Torsa Chhu	Torsa,Torsa Chhu	26.86667	89.36667	H	STM	BT	BT	00				0		190	Asia/Thimphu	2012-01-19
+1337301	Jakar	Jakar	BUT,Bjakar,Bya-kar,Dzakar,Dzakaras,Dzhakar,Džakaras,Jakar,Jakaro,Jokhar Dzong,jakr,Џакар,Джакар,جاکر	27.54918	90.7525	P	PPLA	BT		05				4829		2587	Asia/Thimphu	2014-08-20
+1337302	Kurjey	Kurjey	Kurjey	27.61667	90.7	P	PPL	BT		05				0		2987	Asia/Thimphu	2012-01-19
+1337303	Nangnang	Nangnang	Nangnang	27.6	90.88333	P	PPL	BT		05				0		2725	Asia/Thimphu	2012-01-19
+1337304	Gangtey Gonpa	Gangtey Gonpa		27.5	90.16667	P	PPL	BT		22				0		3079	Asia/Thimphu	1997-02-11
+1337305	Dang Chhu	Dang Chhu		27.58333	90.18333	H	STM	BT		00				0		2148	Asia/Thimphu	1997-02-11
+1337354	Lalai	Lalai		26.78333	90.51667	P	PPL	BT		09				0		147	Asia/Thimphu	1997-02-11
+1337356	Panbang	Panbang	Panbang	26.86667	90.98333	P	PPL	BT		18				1360		214	Asia/Thimphu	2012-01-19
+1337357	Nganglam	Nganglam	Nganglam	26.78333	91.25	P	PPL	BT		17				707		145	Asia/Thimphu	2012-01-19
+1337359	Kalikhola	Kalikhola		26.71667	90.85	P	PPL	BT		09				0		140	Asia/Thimphu	1997-02-11
+1337360	Samtse	Samtse	Samchi,Samtse	26.89903	89.09951	P	PPLA	BT		16				5479		417	Asia/Thimphu	2013-08-02
+1337361	Chengmari	Chengmari	Chengmari,Chengmore,Chengmōre	26.91667	89.03333	P	PPL	BT	BT	16				0		321	Asia/Thimphu	2012-01-19
+1337362	Dorokha	Dorokha	Dorkha,Dorokha	27.01667	89.21667	P	PPL	BT	BT	16				0		652	Asia/Thimphu	2012-01-19
+1337363	Sibsu	Sibsu	Sibsu,Sipchu	26.99722	88.9	P	PPL	BT	BT	08				0		446	Asia/Thimphu	2012-01-19
+1337372	Damphu	Damphu	Damphu,Domaphu	27.01667	90.1	P	PPL	BT	BT	07				0		870	Asia/Thimphu	2012-01-19
+1337373	Lamidangra	Lamidangra		26.96667	90.1	P	PPL	BT		07				0		708	Asia/Thimphu	1997-02-11
+1337374	Dagapela	Dagapela	Dagapela	26.93333	89.95	P	PPL	BT		07				0		1273	Asia/Thimphu	2012-01-19
+1337375	Radi	Radi		27.36667	91.68333	P	PPL	BT		19				0		1267	Asia/Thimphu	1997-02-11
+1337376	Gyepozhing	Gyepozhing		27.18333	91.16667	P	PPL	BT		12				0		1273	Asia/Thimphu	1997-02-11
+1337377	Thrimshing	Thrimshing	Thimsing,Thrimshing	27.13333	91.61667	P	PPL	BT	BT	19				0		1583	Asia/Thimphu	2019-04-02
+1337378	Wamrong	Wamrong	Wamrong	27.06667	91.56667	P	PPL	BT		19				416		1439	Asia/Thimphu	2012-01-19
+1337379	Pemagatshel	Pemagatshel	Pemagatsel,Pemagatshel	27.03795	91.40305	P	PPLA	BT		14				13864		1207	Asia/Thimphu	2013-08-08
+1337380	Tseshinang	Tseshinang	Tseshinang	27.75	90.06667	P	PPL	BT		22				0		3785	Asia/Thimphu	2012-01-19
+1337381	Dawakha	Dawakha		27.66667	89.91667	P	PPL	BT		15				0		1802	Asia/Thimphu	1997-02-11
+1337382	Drugyel Dzong	Drugyel Dzong	Drugyel Dzong	27.5	89.33333	P	PPL	BT		13				0		2523	Asia/Thimphu	2012-01-19
+1337383	Damthang	Damthang	Damthang	27.41667	89.35	P	PPL	BT		10				0		2854	Asia/Thimphu	2012-01-19
+1337384	Tshalunang	Tshalunang	Tshalunang	27.46883	89.52257	P	PPL	BT		13				0		2755	Asia/Thimphu	2016-02-23
+1337385	Atsho Chhubar	Atsho Chhubar	Atsho Chhubar	27.48333	89.4	P	PPL	BT		13				0		3220	Asia/Thimphu	2012-01-19
+1337386	Daifam	Daifam	Daifam	26.9	92.1	P	PPL	BT		17				662		346	Asia/Thimphu	2012-05-06
+1337387	Bhangtar	Bhangtar	Bhangtar	26.81667	91.71667	P	PPL	BT		17				656		303	Asia/Thimphu	2012-01-19
+1337388	Samdrup Jongkhar	Samdrup Jongkhar	Samdrup Jongkhar	26.80069	91.50519	P	PPLA	BT		17				7507		173	Asia/Thimphu	2013-08-02
+1337389	Laya	Laya	Laya	28.1622	89.5996	P	PPL	BT		15				0		5791	Asia/Thimphu	2013-07-06
+1337390	Lunana	Lunana	Lunana	28.29989	90.23229	P	PPL	BT		15				0		5279	Asia/Thimphu	2013-07-06
+6520301	Amankora Thimphu	AMANKORA THIMPHU		27.4833	89.6	S	HTL	BT		20				0		2835	Asia/Thimphu	2007-04-15
+6523024	Hotel Uma Paro	HOTEL UMA PARO		27.4333	89.4166	S	HTL	BT		13				0		2266	Asia/Thimphu	2007-04-14
+6525068	Amankora	AMANKORA		27.4333	89.4166	S	HTL	BT		13				0		2266	Asia/Thimphu	2007-04-14
+6941100	Taktsang Monastery	Taktsang Monastery		27.49167	89.36333	S	MSTY	BT		13				0		3041	Asia/Thimphu	2009-05-07
+6942271	Gangteng Gonopa	Gangteng Gonopa		27.5	90.16667	S	MSTY	BT		22				0		3079	Asia/Thimphu	2009-06-11
+6942272	Gangteng Gonpa	Gangteng Gonpa		27.5	90.16667	S	MSTY	BT		22				0		3079	Asia/Thimphu	2009-06-11
+7302310	Tongshanjiabu	Tongshanjiabu		28.18658	89.95756	T	MT	BT		15				0	7207	7105	Asia/Thimphu	2010-06-03
+7302311	Kangphu Kang I	Kangphu Kang I	Shimokangri	28.15616	90.07304	T	MT	BT		15				0	7220	6804	Asia/Thimphu	2020-02-17
+7302312	Chomolhari Kang	Chomolhari Kang		28.16619	90.18256	T	MT	BT		15				0	7121	6998	Asia/Thimphu	2010-06-03
+7302313	Liangkang Kangri	Liangkang Kangri		28.06418	90.44353	T	MT	BT		15				0	7534	7226	Asia/Thimphu	2010-06-03
+7302373	Gangkhar Puensum	Gangkhar Puensum	Gan'nkar Pouensoum,Gangkar Puensum,Gangkar Punsum,Gangker Punsum,Gangkhar Puensum,Gangkhar Puensumas,Gangkkhar Puensum,Gankar Punzum,Kangkar Punsum,Kankar Puensum,Kankar Punsum,Kankar Pünsum,Kankar-Punsum,gang ga ben sun feng,gangkaleu punseom,gangkhar pwnzwm,Γανγκάρ Πουενσούμ,Гангкар Пуенсум,Гангкхар Пуенсум,Гангхар Пуенсум,Канкар-Пунсум,גאנגקאר פואנסום,گانگکهار پونزوم,گنکھڑ پیونسم,གངས་དཀར་སྤུན་གསུམ,განგკხარ-პუენსუმი,ガンカー・プンスム,冈嘎本孙峰,강카르 푼섬	28.04914	90.45477	T	MT	BT		22				0	7570	7098	Asia/Thimphu	2020-02-17
+7303651	Gasa	Gasa	Gasa,Gasa District,Gasa Dzongkhag,Mgar-sa rdzong-khag,མགར་ས་རང་ཁག་,མགར་ས་རྫོང་ཁག་	27.91313	89.70886	A	ADM1	BT		23				3500		3381	Asia/Thimphu	2016-10-21
+7303653	Trashi Yangste	Trashi Yangste	Trashi Yangste,Trashiyangtse District	27.58468	91.45466	A	ADM1	BT		24				0		2254	Asia/Thimphu	2010-12-02
+7645265	Samtse	Samtse		26.91309	89.08361	P	PPL	BT		16				0		406	Asia/Thimphu	2019-04-02
+7646290	Pele La	Pele La		27.55	90.21667	P	PPL	BT		22				0		3339	Asia/Thimphu	2011-01-15
+7646447	Dangchu	Dangchu		27.55301	90.21069	A	ADM2	BT		22	7646447			0		3610	Asia/Thimphu	2011-01-17
+7646448	Tsangkha	Tsangkha		27.02788	90.04885	A	ADM2	BT		08	7646448			0		966	Asia/Thimphu	2011-01-17
+7646449	Lajab	Lajab		27.09016	90.01421	A	ADM2	BT		08	7646449			0		1751	Asia/Thimphu	2011-01-17
+7646456	Drukgyegang	Drukgyegang		26.97897	90.02916	A	ADM2	BT		08	7646456			0		1471	Asia/Thimphu	2011-01-17
+7646634	Khar	Khar		26.94093	91.39005	A	ADM2	BT		14	7646634			0		1940	Asia/Thimphu	2011-01-18
+7646635	Chongshing	Chongshing		27.00063	91.35817	A	ADM2	BT		14	7646635			0		1942	Asia/Thimphu	2011-01-18
+7646636	Yurung	Yurung		27.0437	91.34465	A	ADM2	BT		14	7646636			0		1064	Asia/Thimphu	2011-01-18
+7647111	Radi	Radi		27.34642	91.70927	A	ADM2	BT		19	7647111			0		2144	Asia/Thimphu	2011-01-21
+7647112	Nangkor	Nangkor		27.20107	90.80763	A	ADM2	BT		18	7647112			0		2295	Asia/Thimphu	2011-01-21
+7647113	Phuentsholing	Phuentsholing		26.91389	89.42317	A	ADM2	BT		06	7647113			0		1263	Asia/Thimphu	2011-01-21
+7647116	Bongo	Bongo		26.92043	89.62193	A	ADM2	BT		06	7647116			0		1317	Asia/Thimphu	2011-01-21
+7647118	Goshing	Goshing		26.96509	90.91624	A	ADM2	BT		18	7647118			0		614	Asia/Thimphu	2011-01-21
+7647122	Bardo	Bardo		27.07292	90.99064	A	ADM2	BT		18	7647122			0		1147	Asia/Thimphu	2011-01-21
+7647125	Lumang	Lumang		27.12827	91.53658	A	ADM2	BT		19	7647125			0		1611	Asia/Thimphu	2011-01-21
+7647130	Thrimshing	Thrimshing		27.09496	91.59825	A	ADM2	BT		19	7647130			0		1358	Asia/Thimphu	2011-01-21
+7647496	Kanglung	Kanglung		27.29	91.54	P	PPL	BT		19				0		1240	Asia/Thimphu	2011-01-24
+7647631	Chabchha	Chabchha		27.17634	89.54901	A	ADM2	BT		06	7647631			0		2674	Asia/Thimphu	2011-01-25
+7647632	Khiphisa	Khiphisa		27.03027	89.95758	A	ADM2	BT		08	7647632			0		1796	Asia/Thimphu	2011-01-25
+7647633	Nubi	Nubi		27.57324	90.47333	A	ADM2	BT		21	7647633			0		2194	Asia/Thimphu	2011-01-25
+7647634	Bjakteng	Bjakteng		27.41241	90.53263	A	ADM2	BT		21	7647634			0		1898	Asia/Thimphu	2011-01-25
+7647804	Kikhorthang	Kikhorthang		26.99869	90.14044	A	ADM2	BT		07	7647804			0		1463	Asia/Thimphu	2011-01-26
+7647805	Beteni	Beteni		26.89656	90.11259	A	ADM2	BT		07	7647805			0		701	Asia/Thimphu	2011-01-26
+7647808	Ruepaisa	Ruepaisa		27.38292	89.96707	A	ADM2	BT		22	7647808			0		2475	Asia/Thimphu	2011-01-26
+7647809	Nahi	Nahi		27.42462	89.82341	A	ADM2	BT		22	7647809			0		3011	Asia/Thimphu	2011-01-26
+7647813	Trong	Trong		27.10936	90.67809	A	ADM2	BT		18	7647813			0		1355	Asia/Thimphu	2011-01-26
+7647816	Mewang	Mewang		27.39939	89.56854	A	ADM2	BT		13	7647816			0		2347	Asia/Thimphu	2011-01-26
+7668639	Paro Airport	Paro Airport	Aerodrom Paro,Aeroport international de Paro,Aeroporto Internazionale di Paro,Aeropuerto Internacional de Paro,Aéroport international de Paro,Bandar Udara Paro,Flughafen Paro,Internacia Flughaveno de Paro,Internationale Luchthaven Paro,Lapangan Terbang Paro,Letisko Paro,PBH,Paliparan ng Paro,Paro,Paro Airport,Paro lufthavn,Paro oro uostas,Paroi nemzetkoezi repueloter,Paros flygplats,Parói nemzetközi repülőtér,Port lotniczy Paro,San bay Paro,Sân bay Paro,VQPR,Zracna luka Paro,Zračna luka Paro,frwdgah parw,pa luo ji chang,palo gonghang,paro hava'i ada,paro kong gang,paro vimanaksetra,paro vimanatala,Аеродром Паро,Паро,فرودگاه پارو,पारो विमानक्षेत्र,पारो विमानतळ,ਪਾਰੋ ਹਵਾਈ ਅੱਡਾ,パロ空港,帕羅機場,파로 공항	27.4032	89.4246	S	AIRP	BT		13				0		2230	Asia/Thimphu	2018-03-19
+7701319	Autsho	Autsho		27.44309	91.17485	P	PPL	BT		11				0		914	Asia/Thimphu	2011-03-08
+7701322	Shari	Shari		27.26173	89.34271	P	PPL	BT		10				0		2795	Asia/Thimphu	2011-03-08
+7701325	Lobeysa	Lobeysa		27.52273	89.8855	P	PPL	BT		20				0		1223	Asia/Thimphu	2011-03-08
+7701327	Phuentsholing	Phuentsholing		26.85892	89.39048	P	PPL	BT		06				0		330	Asia/Thimphu	2011-03-08
+7910396	Paro populated 1	Paro populated 1		27.38893	89.43135	P	PPL	BT		13				0		2220	Asia/Thimphu	2011-07-25
+7910397	Paro Populated2	Paro Populated2		27.38619	89.42736	P	PPL	BT		13				0		2245	Asia/Thimphu	2011-07-25
+7910398	Paro Populated3	Paro Populated3		27.39071	89.42521	P	PPL	BT		13				0		2248	Asia/Thimphu	2011-07-25
+7910399	Paro Populated4	Paro Populated4		27.38899	89.43397	P	PPL	BT		13				0		2230	Asia/Thimphu	2011-07-25
+8411014	Gelephu Airport	Gelephu Airport	GLU,Gelephu Airport,Gelyephug Airport,VQGP	26.88389	90.46836	S	AIRP	BT		09				0		276	Asia/Thimphu	2014-05-18
+8411015	Gelephu Bus Station	Gelephu Bus Station	Gelephu Bus Station	26.86965	90.48715	S	BUSTN	BT		09				0		220	Asia/Thimphu	2012-11-04
+8411020	Yonphula Airport	Yonphula Airport	VQTY,YON,Yongphulla Airport,Yonphula Airport,Yonphula Tashigang Airport,Yonphula Trashigang Airport	27.256	91.51457	S	AIRP	BT		19				0		2533	Asia/Thimphu	2014-05-18
+8429850	Paro Dzong	Paro Dzong		27.43796	89.41391	S	FT	BT		13				0		2367	Asia/Thimphu	2012-12-07
+8429851	Taga Dzong	Taga Dzong		27.04965	89.89538	S	FT	BT		13				0		1388	Asia/Thimphu	2012-12-07
+8429852	Dūmte	Dumte		27.04553	89.18275	P	PPL	BT		16				0		1067	Asia/Thimphu	2012-12-07
+8429853	Hingslo	Hingslo		27.17937	89.15256	P	PPL	BT		10				0		1969	Asia/Thimphu	2012-12-07
+8429854	Bumtaka	Bumtaka		27.6568	89.86962	P	PPL	BT		10				0		1360	Asia/Thimphu	2012-12-07
+8429855	Gasa Dzong	Gasa Dzong	Gasa Dzong	27.92207	89.68516	S	FT	BT		23				0		3866	Asia/Thimphu	2013-04-06
+8429856	Gipsa	Gipsa		26.97265	89.98475	P	PPL	BT		00				0		1456	Asia/Thimphu	2012-12-07
+8430190	Rachau	Rachau		27.55378	90.10368	P	PPL	BT		00				0		2243	Asia/Thimphu	2012-12-07
+8430191	Yekho	Yekho		27.47903	90.16009	P	PPL	BT		00				0		2888	Asia/Thimphu	2012-12-07
+8430192	Rukubji	Rukubji	Rukubji	27.51555	90.27384	P	PPL	BT		00				0		2778	Asia/Thimphu	2019-02-22
+8430197	Chela	Chela		27.5673	90.44478	P	PPL	BT		00				0		2251	Asia/Thimphu	2012-12-07
+8430200	Gāmling	Gamling		27.62445	90.89183	P	PPL	BT		00				0		2887	Asia/Thimphu	2012-12-07
+8430201	Shingkhar	Shingkhar		27.47899	90.90348	P	PPL	BT		00				0		3147	Asia/Thimphu	2012-12-07
+8430205	Pangsu	Pangsu		27.25723	90.57762	P	PPL	BT		00				0		1466	Asia/Thimphu	2012-12-07
+8430206	Chungsing	Chungsing		27.01492	90.55726	P	PPL	BT		00				0		946	Asia/Thimphu	2012-12-07
+8430221	Majgaon	Majgaon		27.02013	90.0756	P	PPL	BT		00				0		600	Asia/Thimphu	2012-12-07
+8430222	Nepāltārgaon	Nepaltargaon		26.86356	90.50342	P	PPL	BT		00				0		206	Asia/Thimphu	2012-12-07
+8430223	Dumegaon	Dumegaon		26.92992	90.40474	P	PPL	BT		00				0		693	Asia/Thimphu	2012-12-07
+8430224	Ajingregaon	Ajingregaon		26.95447	90.2885	P	PPL	BT		00				0		836	Asia/Thimphu	2012-12-07
+8430225	Sāmātung	Samatung		26.81974	90.18997	P	PPL	BT		00				0		314	Asia/Thimphu	2012-12-07
+8431115	Momring	Momring		27.12582	91.90799	P	PPL	BT		00				0		1526	Asia/Thimphu	2012-12-07
+8431117	Kho Ling	Kho Ling		27.19805	91.58493	P	PPL	BT		00				0		1900	Asia/Thimphu	2012-12-07
+8431119	Pangthāng	Pangthang		27.11518	91.43071	P	PPL	BT		00				0		794	Asia/Thimphu	2012-12-07
+8431121	Jimkhār	Jimkhar		27.60687	91.50671	P	PPL	BT		00				0		1931	Asia/Thimphu	2012-12-07
+8431124	Jam Khar	Jam Khar		27.39061	91.60864	P	PPL	BT		00				0		2068	Asia/Thimphu	2012-12-07
+8431130	Ga Ling	Ga Ling		27.3392	91.64453	P	PPL	BT		00				0		1584	Asia/Thimphu	2012-12-07
+8431133	Drakhāng	Drakhang		27.73228	91.70901	P	PPL	BT		00				0		2161	Asia/Thimphu	2012-12-07
+8431173	Māgo	Mago		27.69284	92.21599	P	PPL	BT		00				0		4010	Asia/Thimphu	2012-12-07
+8431174	Gorjo	Gorjo		27.598	92.40522	P	PPL	BT		00				0		4240	Asia/Thimphu	2012-12-07
+8431190	Ānkāling	Ankaling		27.03785	92.15262	P	PPL	BT		00				0		783	Asia/Thimphu	2012-12-07
+8531844	Bathpalathang Airport	Bathpalathang Airport	BUT,Bathpalathang Airport,VQBT	27.56299	90.74651	S	AIRP	BT		05				0		2580	Asia/Thimphu	2013-05-16
+8740320	Nganglam New	Nganglam New		26.81771	91.24836	P	PPL	BT		17				0		329	Asia/Thimphu	2014-03-26
+8740340	Tsimalakha	Tsimalakha		27.08602	89.54151	P	PPL	BT		06				0		2268	Asia/Thimphu	2014-03-26
+8740926	Tshimalakha	Tshimalakha		27.08602	89.54151	P	PPL	BT		06				0		2268	Asia/Thimphu	2014-04-02
+9072792	Dala	Dala		26.85	89.54972	P	PPL	BT		06				0		1990	Asia/Thimphu	2014-06-05
+9198784	Druk Green Power Corporation	Druk Green Power Corporation		27.47821	89.63058	S	BLDO	BT		20				0		2395	Asia/Thimphu	2014-07-10
+9204070	Dagachhu Hydropower Plant	Dagachhu Hydropower Plant		26.83861	89.96944	S	PSH	BT		07				0		191	Asia/Thimphu	2014-07-14
+9212645	Zhiwa Ling	Zhiwa Ling	Zhiwa Ling Hotel	27.44053	89.41548	S	HTL	BT		13				0		2388	Asia/Thimphu	2014-07-15
+9258352	Bubja	Bubja		27.40226	90.53195	P	PPLL	BT		21				0		1867	Asia/Thimphu	2014-08-04
+10172752	Lungtenzampa	Lungtenzampa		27.46821	89.64441	P	PPLA	BT		20				0		2319	Asia/Thimphu	2015-03-15
+10173480	Deothang	Deothang		26.89	91.5	P	PPL	BT		17				0		1323	Asia/Thimphu	2015-03-24
+10402308	Tharpaling Monastery	Tharpaling Monastery		27.53046	90.6874	S	MSTY	BT		05				0		3544	Asia/Thimphu	2015-08-06
+11071518	Mangdechhu Hydropower Plant	Mangdechhu Hydropower Plant		27.48	90.49472	S	PSH	BT		21				0		1905	Asia/Thimphu	2016-02-11
+11071536	Chhukha Hydropower Plant	Chhukha Hydropower Plant	Chukha Hydropower Project	27.05849	89.56333	S	PS	BT		06				0		1475	Asia/Thimphu	2016-03-10
+11071732	Punatsangchhu-2 Hydroelectric Powerplant	Punatsangchhu-2 Hydroelectric Powerplant		27.31385	89.95225	S	PSH	BT		22				0		1120	Asia/Thimphu	2016-02-17
+11072098	Gelephu General Referral Hospital	Gelephu General Referral Hospital	Gelephu Regional Referral Hospital	26.87405	90.49035	S	HSP	BT		09				0		229	Asia/Thimphu	2016-03-10
+11072144	Jigme Dorji Wangchuck National Referral Hospital	Jigme Dorji Wangchuck National Referral Hospital	JDWNRH Hospital,National Referral Hospital	27.46353	89.63878	S	HSP	BT		20				0		2347	Asia/Thimphu	2016-03-02
+11072149	Sherubtse College	Sherubtse College		27.2864	91.52358	S	UNIV	BT		19				0		1854	Asia/Thimphu	2016-02-23
+11072152	College of Science and Technology	College of Science and Technology		26.85015	89.39397	S	UNIV	BT		06				0		434	Asia/Thimphu	2016-02-23
+11072155	Babesa	Babesa		27.43277	89.65024	P	PPL	BT		20				0		2275	Asia/Thimphu	2016-02-23
+11072205	Kholongchu Hydro Electric Power Project	Kholongchu Hydro Electric Power Project		27.54744	91.51357	S	PS	BT		19				0		1542	Asia/Thimphu	2016-02-24
+11072214	Gaeddu College of Business Studies	Gaeddu College of Business Studies	Gedu College of Business Studies	26.92256	89.52166	S	UNIV	BT		06				0		1992	Asia/Thimphu	2016-03-10
+11072220	Tango Bhuddist College	Tango Bhuddist College	Tango Thorim Shedra	27.53605	89.66637	S	MSTY	BT		20				0		2878	Asia/Thimphu	2016-02-24
+11072245	Wangdue Phodrang Dzong	Wangdue Phodrang Dzong		27.47501	89.89706	S	MSTY	BT		22				0		1246	Asia/Thimphu	2016-02-25
+11072252	Folk Heritage museum	Folk Heritage museum		27.48239	89.63217	S	MUS	BT		20				0		2366	Asia/Thimphu	2016-02-25
+11072255	Nehru-Wangchuck Cultural Centre	Nehru-Wangchuck Cultural Centre		27.47594	89.637	S	COMC	BT		20				0		2336	Asia/Thimphu	2016-02-25
+11072269	Supreme Court of Bhutan	Supreme Court of Bhutan		27.49781	89.63467	S	CTHSE	BT		20				0		2337	Asia/Thimphu	2016-02-25
+11072272	Royal Textile Academy of Bhutan	Royal Textile Academy of Bhutan		27.47914	89.63602	S	FCL	BT		20				0		2354	Asia/Thimphu	2016-02-25
+11072714	Tala Hydropower Plant	Tala Hydropower Plant		26.87065	89.58217	S	PSH	BT		06				0		1586	Asia/Thimphu	2016-03-02
+11072715	Punatsangchhu-1 Hydroelectric Project	Punatsangchhu-1 Hydroelectric Project		27.421	89.90461	S	PSH	BT		22				0		1166	Asia/Thimphu	2016-03-02
+11072722	Dungsum Cement Plant	Dungsum Cement Plant		26.87408	91.22954	S	MFG	BT		17				0		405	Asia/Thimphu	2016-03-02
+11073598	Public Health Laboratory	Public Health Laboratory	Royal Centre for Disease Control	27.42437	89.65318	S	ITTR	BT		20				0		2467	Asia/Thimphu	2016-03-10
+11073616	Institute of Language and Culture Studies (ILCS)	Institute of Language and Culture Studies (ILCS)		27.43858	90.4819	S	UNIV	BT		21				0		2160	Asia/Thimphu	2016-03-10
+11073621	Paro College of Education (PCE)	Paro College of Education (PCE)		27.41584	89.42123	S	SCHC	BT		13				0		2245	Asia/Thimphu	2016-08-09
+11073622	Jigme Namgyel Engineering College (JNEC)	Jigme Namgyel Engineering College (JNEC)	Jigme Namgyel Polytechnic	26.86034	91.46408	S	SCHC	BT						0		858	Asia/Thimphu	2017-04-18
+11073624	Samtse Hospital	Samtse Hospital		27.42443	89.6532	S	HSP	BT		20				0		2467	Asia/Thimphu	2016-03-10
+11073625	Royal Institute of Health Sciences (RIHS)	Royal Institute of Health Sciences (RIHS)		27.46216	89.63967	S	UNIV	BT		20				0		2345	Asia/Thimphu	2016-03-10
+11073628	National Institute of Traditional Medicine	National Institute of Traditional Medicine		27.48017	89.62938	S	UNIV	BT		20				0		2416	Asia/Thimphu	2016-03-10
+11101512	Tingtibi	Tingtibi		27.15	90.68	P	PPL	BT		18				0		551	Asia/Thimphu	2016-03-14
+11101513	Praling	Praling		27.04111	90.80639	P	PPLL	BT		18				0		976	Asia/Thimphu	2016-03-14
+11101553	SAARC Forestry Centre (SFC)	SAARC Forestry Centre (SFC)		27.51227	89.64533	S	ITTR	BT		20				0		2458	Asia/Thimphu	2016-03-14
+11101594	Chhukha	Chhukha		27.0627	89.56053	P	PPLL	BT		06				0		1565	Asia/Thimphu	2016-03-15
+11101596	Lhamoy Zingkha Gewog	Lhamoy Zingkha Gewog	Lhamoi Dzinghkha,Lhamoi Dzinghkha Gewog,Lhamoy Zingkha	26.75694	89.8	P	PPLS	BT		09				0		558	Asia/Thimphu	2016-03-15
+11101599	Chamkharchu-I (Digala) Powerplant	Chamkharchu-I (Digala) Powerplant	Chakharchhu I (Digala )	27.08333	90.76667	S	PS	BT		18				0		1191	Asia/Thimphu	2016-03-15
+11101601	Sunkosh Hydro Electric Power Plant	Sunkosh Hydro Electric Power Plant		26.7519	89.89732	S	PS	BT		09				0		121	Asia/Thimphu	2016-03-15
+11101602	Trashigang Dzong	Trashigang Dzong	Tashigang Dzong,Trashigang Fortress	27.33692	91.55146	S	FT	BT		19				0		1037	Asia/Thimphu	2016-03-15
+11101603	Bunakha Hydroelectric Project (BHEP)	Bunakha  Hydroelectric  Project  (BHEP)		27.13431	89.53928	S	PS	BT		06				0		1929	Asia/Thimphu	2016-03-15
+11101604	Trashiyangtse Dzong	Trashiyangtse Dzong		27.61493	91.49628	S	FT	BT		19				0		1865	Asia/Thimphu	2016-03-15
+11101605	Wangdue Phodrang Dzong	Wangdue Phodrang Dzong		27.47519	89.89716	S	FT	BT		22				0		1250	Asia/Thimphu	2016-03-15
+11101606	Lhuntse Dzong	Lhuntse Dzong		27.65	91.1	S	FT	BT		11				0		2603	Asia/Thimphu	2016-03-15
+11101607	Royal Audit Authority	Royal Audit Authority		27.48036	89.63173	S	ADMF	BT		20				0		2381	Asia/Thimphu	2016-03-15
+11101608	Wangchu Reservoir Hydro Power Plant	Wangchu Reservoir Hydro Power Plant		26.7678	89.7358	S	PS	BT		09				0		177	Asia/Thimphu	2016-03-15
+11101609	Office of the Attorney General	Office of the Attorney General		27.47707	89.62898	S	ADMF	BT		20				0		2418	Asia/Thimphu	2016-03-15
+11101610	Bhutan Broadcasting Service (BBS)	Bhutan Broadcasting Service (BBS)		27.47957	89.63385	S	BLDG	BT		20				0		2366	Asia/Thimphu	2016-03-15
+11185677	National Conservation Laboratory	National Conservation Laboratory		27.47615	89.63696	S	ITTR	BT		20				0		2336	Asia/Thimphu	2016-06-23
+11287732	Lingzhi Gewog	Lingzhi Gewog	Lingshi	27.85694	89.43278	A	ADM2	BT		20	11287732			0		4210	Asia/Thimphu	2016-11-13
+11494745	College Of Natural Resources	College Of Natural Resources		27.5036	89.8785	S	SCHC	BT		22				0		1403	Asia/Thimphu	2017-03-09
+11496359	Punatsangchhu-II HEP	Punatsangchhu-II HEP		27.31441	89.95055	S	DAM	BT		22				0		1146	Asia/Thimphu	2017-03-21
+11496360	Gomkora	Gomkora	Gom Kora	27.4257	91.56496	P	PPL	BT		19				0		808	Asia/Thimphu	2017-03-21
+11496430	Tango University of Buddhist Studies	Tango University of Buddhist Studies	Tango College,Tango Gompa	27.59297	89.6389	S	UNIV	BT		20				0		2948	Asia/Thimphu	2017-03-21
+11523680	Royal University of Bhutan	Royal University of Bhutan		27.47879	89.62819	S	UNIV	BT		20				0		2421	Asia/Thimphu	2017-04-18
+11523686	Thimphu Institute of Zorig Chusum	Thimphu Institute of Zorig Chusum		27.48285	89.63153	S	UNIV	BT		20				0		2377	Asia/Thimphu	2017-04-18
+11669725	Jigme Dorji National Park	Jigme Dorji National Park		27.82784	89.72912	L	PRK	BT		15				0		2352	Asia/Thimphu	2017-08-23
+11670039	Kungarapten	Kungarapten		27.41071	90.51586	P	PPL	BT		21				0		1737	Asia/Thimphu	2017-08-30
+11670040	Phobjikha Valley	Phobjikha Valley		27.46592	90.17655	T	VAL	BT		22				0		2837	Asia/Thimphu	2017-08-30
+11703624	Chagri Dorjeden Monastery	Chagri Dorjeden Monastery	Cheri Monastery	27.59555	89.62536	S	MSTY	BT		20				0		2844	Asia/Thimphu	2017-09-25
+11703636	Changlimithang Stadium	Changlimithang Stadium		27.4711	89.6393	S	STDM	BT		20				0		2323	Asia/Thimphu	2017-09-25
+11903710	Shana	Shana		27.6537	89.26457	S	CMP	BT		13				0		3281	Asia/Thimphu	2018-07-31
+11903711	Jangothang	Jangothang		27.76692	89.33555	S	CMP	BT		20				0		4114	Asia/Thimphu	2018-07-31
+11903776	Jangothan	Jangothan		27.77467	89.34491	S	CMP	BT		20				0		4449	Asia/Thimphu	2018-08-01
+11903777	Shodu	Shodu		27.75976	89.45203	S	CMP	BT		20				0		4818	Asia/Thimphu	2018-08-01
+11903778	Dolamkensho	Dolamkensho		27.64204	89.59279	S	CMP	BT		20				0		4002	Asia/Thimphu	2018-08-01
+11903779	Chari Goenpa	Chari Goenpa		27.61588	89.6127	S	CMP	BT		20				0		3597	Asia/Thimphu	2018-08-01
+11903780	Chebesa	Chebesa		27.92755	89.41907	S	CMP	BT		20				0		4872	Asia/Thimphu	2018-08-01
+11903781	Laya	Laya		28.15905	89.69991	S	CMP	BT		23				0		4352	Asia/Thimphu	2018-08-01
+11903782	Limithang	Limithang		28.05379	89.60172	S	CMP	BT		23				0		4253	Asia/Thimphu	2018-08-01
+11903783	Robluthang	Robluthang		28.02834	89.49048	S	CMP	BT		23				0		4704	Asia/Thimphu	2018-08-01
+11903784	Tashijaithang	Tashijaithang		27.99318	89.47949	S	CMP	BT		20				0		4364	Asia/Thimphu	2018-08-01
+11903785	Koina	Koina		27.99682	89.72531	S	CMP	BT		23				0		3879	Asia/Thimphu	2018-08-01
+11903786	Choten Nebu	Choten Nebu		27.59471	89.78436	S	CMP	BT		15				0		2425	Asia/Thimphu	2018-08-01
+11903787	Dubchepang	Dubchepang		27.53506	89.84478	S	CMP	BT		15				0		1713	Asia/Thimphu	2018-08-01
+11903788	Chumina	Chumina		27.5238	89.70964	S	CMP	BT		15				0		3604	Asia/Thimphu	2018-08-01
+11903789	Lingmuhka	Lingmuhka		27.58357	89.94379	S	CMP	BT		15				0		2379	Asia/Thimphu	2018-08-01
+11903790	Chungsekha	Chungsekha		27.53609	89.93311	S	CMP	BT		22				0		2416	Asia/Thimphu	2018-08-01
+11903791	Samtengang	Samtengang		27.5067	89.92805	S	CMP	BT		22				0		1779	Asia/Thimphu	2018-08-01
+11903792	Woche	Woche		28.11645	89.98298	S	CMP	BT		23				0		5411	Asia/Thimphu	2018-08-01
+11903793	Tarina	Tarina		28.11887	89.83878	S	CMP	BT		23				0		5682	Asia/Thimphu	2018-08-01
+11903794	Narithang	Narithang		28.12371	89.79483	S	CMP	BT		23				0		4432	Asia/Thimphu	2018-08-01
+11903795	Rodophu	Rodophu		28.07525	89.78384	S	CMP	BT		23				0		4991	Asia/Thimphu	2018-08-01
+11903796	Luana	Luana		28.06071	90.02966	S	CMP	BT		23				0		4414	Asia/Thimphu	2018-08-01
+11903797	Lhadi	Lhadi		28.10069	90.03927	S	CMP	BT		23				0		4978	Asia/Thimphu	2018-08-01
+11903798	Thangza	Thangza		28.10675	90.2384	S	CMP	BT		23				0		4392	Asia/Thimphu	2018-08-01
+11903799	Dangey	Dangey		28.08494	90.2947	S	CMP	BT		23				0		4611	Asia/Thimphu	2018-08-01
+11903800	Tsochena	Tsochena		28.02677	90.24251	S	CMP	BT		23				0		4870	Asia/Thimphu	2018-08-01
+11903801	Maorothang	Maorothang		27.6258	90.26448	S	CMP	BT		22				0		3968	Asia/Thimphu	2018-08-01
+11903802	Tampetsho	Tampetsho		27.74984	90.19856	S	CMP	BT		22				0		4218	Asia/Thimphu	2018-08-01
+11903803	Chukarpo	Chukarpo		27.84674	90.21092	S	CMP	BT		22				0		4832	Asia/Thimphu	2018-08-01
+11903804	Jichu Dramo	Jichu Dramo		27.9402	90.17384	S	CMP	BT		22				0		4289	Asia/Thimphu	2018-08-01
+11903823	Kurjey	Kurjey		27.60187	90.70393	S	CMP	BT		05				0		2707	Asia/Thimphu	2018-08-01
+11903824	Gorsum	Gorsum		27.66392	90.69294	S	CMP	BT		05				0		3754	Asia/Thimphu	2018-08-01
+11903825	Tsochenchen	Tsochenchen		27.71256	90.58582	S	CMP	BT		05				0		4146	Asia/Thimphu	2018-08-01
+11903826	Duer Tsachu	Duer Tsachu		27.80006	90.5254	S	CMP	BT		05				0		4489	Asia/Thimphu	2018-08-01
+11903827	Warthang	Warthang		27.96705	90.45948	S	CMP	BT		22				0		4823	Asia/Thimphu	2018-08-01
+11903828	Phorang	Phorang		28.00949	90.38258	S	CMP	BT		23				0		5342	Asia/Thimphu	2018-08-01
+11903829	Geche Woma	Geche Woma		28.05313	90.34825	S	CMP	BT		23				0		5285	Asia/Thimphu	2018-08-01
+11903830	Tsorim	Tsorim		28.06646	90.31392	S	CMP	BT		23				0		5102	Asia/Thimphu	2018-08-01
+11903831	Thangbi	Thangbi		27.6123	90.72041	S	CMP	BT		05				0		2797	Asia/Thimphu	2018-08-01
+11903832	Nga Lhakhang	Nga Lhakhang		27.63298	90.75886	S	CMP	BT		05				0		3325	Asia/Thimphu	2018-08-01
+11903833	Thakung	Thakung		27.63541	90.87559	S	CMP	BT		05				0		2972	Asia/Thimphu	2018-08-01
+11903834	Ugyen Choling	Ugyen Choling		27.60864	90.95524	S	CMP	BT		05				0		3370	Asia/Thimphu	2018-08-01
+11903835	Phokpey	Phokpey		27.60681	91.06098	S	CMP	BT		11				0		2280	Asia/Thimphu	2018-08-01
+11903836	Ungar	Ungar		27.62202	91.15505	S	CMP	BT		11				0		2525	Asia/Thimphu	2018-08-01
+11903837	Khahi	Khahi		27.63723	91.17428	S	CMP	BT		11				0		2436	Asia/Thimphu	2018-08-01
+11903838	T. Zam	T. Zam		27.64818	91.18801	S	CMP	BT		11				0		2210	Asia/Thimphu	2018-08-01
+11903839	Minji	Minji		27.65244	91.19282	S	CMP	BT		11				0		1925	Asia/Thimphu	2018-08-01
+11903840	Pemi	Pemi		27.59489	91.32996	S	CMP	BT		11				0		3788	Asia/Thimphu	2018-08-01
+11903841	Taupang	Taupang		27.61436	91.38077	S	CMP	BT		24				0		3409	Asia/Thimphu	2018-08-01
+11903845	Sayphu	Sayphu		27.33626	91.7007	S	CMP	BT		19				0		2326	Asia/Thimphu	2018-08-01
+11903846	Jyonkhar	Jyonkhar		27.3948	91.81743	S	CMP	BT		19				0		1991	Asia/Thimphu	2018-08-01
+11903847	Sankteng	Sankteng		27.40455	91.97536	S	CMP	BT		19				0		3695	Asia/Thimphu	2018-08-01
+11903848	Merak	Merak		27.28134	91.89571	S	CMP	BT		19				0		3899	Asia/Thimphu	2018-08-01
+11903849	Panbang	Panbang		26.87479	91.0799	S	CMP	BT		18				0		337	Asia/Thimphu	2018-08-01
+11903850	Nezaygang	Nezaygang		27.23924	91.14582	S	CMP	BT		12				0		1115	Asia/Thimphu	2018-08-01
+11903851	Nagor	Nagor		27.10729	91.14857	S	CMP	BT		12				0		2244	Asia/Thimphu	2018-08-01
+11903852	Dogar	Dogar		27.05471	91.11698	S	CMP	BT		12				0		1194	Asia/Thimphu	2018-08-01
+11903853	Ngangla	Ngangla		26.93846	91.13758	S	CMP	BT		18				0		469	Asia/Thimphu	2018-08-01
+11903854	Pangkhar	Pangkhar		26.93356	90.95905	S	CMP	BT		18				0		587	Asia/Thimphu	2018-08-01
+11903855	Gomphu	Gomphu		27.03024	90.78602	S	CMP	BT		18				0		1450	Asia/Thimphu	2018-08-01
+11903856	Zurphey	Zurphey		27.12439	90.65418	S	CMP	BT		18				0		1407	Asia/Thimphu	2018-08-01
+11903857	Khotokha	Khotokha		27.39052	90.04032	S	CMP	BT		22				0		2669	Asia/Thimphu	2018-08-01
+11903858	Gogona	Gogona		27.43563	90.11036	S	CMP	BT		22				0		3008	Asia/Thimphu	2018-08-01
+11903859	Totokha	Totokha		27.41003	89.68876	S	CMP	BT		20				0		2930	Asia/Thimphu	2018-08-01
+11903860	Labana	Labana		27.40637	89.64481	S	CMP	BT		20				0		2772	Asia/Thimphu	2018-08-01
+11903861	Genekha	Genekha		27.3271	89.56379	S	CMP	BT		20				0		2335	Asia/Thimphu	2018-08-01
+11903862	Dupchepang	Dupchepang		27.56597	89.74369	S	CMP	BT		15				0		2656	Asia/Thimphu	2018-08-01
+11903863	Choren Nebu	Choren Nebu		27.59883	89.79725	S	CMP	BT		15				0		2182	Asia/Thimphu	2018-08-01
+11903864	Jena	Jena		27.46244	89.44431	S	CMP	BT		13				0		2962	Asia/Thimphu	2018-08-01
+11903865	Bimelangtsho	Bimelangtsho		27.44538	89.49787	S	CMP	BT		20				0		3278	Asia/Thimphu	2018-08-01
+11903866	Phajoding	Phajoding		27.49655	89.58851	S	CMP	BT		20				0		3300	Asia/Thimphu	2018-08-01

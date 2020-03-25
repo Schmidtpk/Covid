@@ -1,0 +1,668 @@
+3572952	Zeta Island	Zeta Island		32.28083	-64.82056	T	ISL	BM		11				0		8	Atlantic/Bermuda	1995-08-16
+3572953	Wreck Hill	Wreck Hill		32.28	-64.88556	T	HLL	BM		08				0	43	22	Atlantic/Bermuda	1995-08-16
+3572954	Wreck Bay	Wreck Bay		32.28194	-64.88667	H	BAY	BM		08				0		6	Atlantic/Bermuda	1995-08-16
+3572955	Five Star Island	Five Star Island	Five Star Island,Wilson Island,Wilson's Island,Wilson’s Island	32.25616	-64.84366	T	ISL	BM	BM	10				0		1	Atlantic/Bermuda	2018-02-13
+3572956	William’s Point	William's Point		32.30667	-64.80389	T	PT	BM		05				0		18	Atlantic/Bermuda	1995-08-16
+3572957	Whitney’s Bay	Whitney's Bay		32.25861	-64.8775	H	COVE	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3572958	White’s Island	White's Island	Kerosene Island,White's Island,White’s Island	32.37306	-64.68111	T	ISL	BM		07				0		1	Atlantic/Bermuda	2012-01-18
+3572959	White Point	White Point		32.31833	-64.71333	T	PT	BM		09				0		6	Atlantic/Bermuda	1995-08-16
+3572960	White’s Island	White's Island	White Island,White's Island,White’s Island	32.28806	-64.78528	T	ISL	BM		04				0		3	Atlantic/Bermuda	2014-01-19
+3572961	White Flats	White Flats		32.38333	-64.81667	H	SHOL	BM		00				0		-9999	Atlantic/Bermuda	1993-12-22
+3572962	Whale Island	Whale Island	Whale Island	32.27889	-64.88139	T	ISL	BM		08				0		0	Atlantic/Bermuda	2012-01-18
+3572963	Whalebone Bay	Whalebone Bay		32.36444	-64.71389	H	BAY	BM		07				0		5	Atlantic/Bermuda	1995-08-16
+3572964	West Whale Bay	West Whale Bay		32.255	-64.87389	H	COVE	BM		10				0		1	Atlantic/Bermuda	1995-08-16
+3572965	Westcott Island	Westcott Island	Westcott Island	32.36222	-64.67194	T	ISL	BM		07				0		4	Atlantic/Bermuda	2012-01-18
+3572966	Well Bay	Well Bay		32.34917	-64.65778	H	BAY	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3572967	Watlington Point	Watlington Point		32.3	-64.75	T	PT	BM		01				0		14	Atlantic/Bermuda	1993-12-22
+3572968	Watford Island	Watford Island	Watford Island	32.30647	-64.85646	T	ISL	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3572969	Watford Bridge	Watford Bridge		32.30507	-64.85823	S	BDG	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3572970	Watch Hill	Watch Hill		32.31611	-64.71889	T	HLL	BM		09				0		43	Atlantic/Bermuda	1995-08-16
+3572971	Warwick Pond	Warwick Pond		32.26778	-64.80417	H	PND	BM		11				0		13	Atlantic/Bermuda	1995-08-16
+3572972	Warwick Parish	Warwick Parish	Heron Bay,Warwick,Warwick Parish	32.26583	-64.80722	A	ADM1	BM		11				8932		11	Atlantic/Bermuda	2012-01-16
+3572973	Warwick Long Bay	Warwick Long Bay		32.2575	-64.80889	H	BGHT	BM		11				0		-9999	Atlantic/Bermuda	1995-08-16
+3572974	Warwick Camp	Warwick Camp	Warwick Camp	32.25722	-64.81611	P	PPL	BM		11				0		39	Atlantic/Bermuda	2018-07-04
+3572975	Walsingham Caves	Walsingham Caves	Walsingham Caves	32.34806	-64.71028	S	CAVE	BM		07				0		14	Atlantic/Bermuda	2018-12-05
+3572976	Walsingham Bay	Walsingham Bay		32.345	-64.70917	H	COVE	BM		02				0		5	Atlantic/Bermuda	1995-08-16
+3572977	Waller’s Point	Waller's Point		32.33611	-64.68167	T	PT	BM		07				0		15	Atlantic/Bermuda	1995-08-16
+3572978	Fort Victoria	Fort Victoria		32.38667	-64.67583	S	FT	BM		06				0		46	Atlantic/Bermuda	1995-08-16
+3572979	Tynes Bay	Tynes Bay		32.30917	-64.76778	H	BAY	BM		01				0		10	Atlantic/Bermuda	1995-08-16
+3572980	Two Way Shoal	Two Way Shoal		32.30861	-64.80167	H	SHOL	BM		05				0		-9999	Atlantic/Bermuda	1995-08-16
+3572981	Two Rock Passage	Two Rock Passage	Two Rock Passage,Two Rocks Pass,Two Rocks Passage	32.29139	-64.81111	H	CHN	BM	BM	05				0		4	Atlantic/Bermuda	2012-01-18
+3572982	Turtle Hill	Turtle Hill		32.25417	-64.82389	T	HLL	BM		10				0		62	Atlantic/Bermuda	1995-08-16
+3572983	Turtle Bay	Turtle Bay		32.24861	-64.85111	H	COVE	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3572984	Turn-Up Breaker	Turn-Up Breaker		32.33333	-64.63333	H	RF	BM		07				0		-9999	Atlantic/Bermuda	1995-03-09
+3572985	Tudor’s Hill	Tudor's Hill	Tudor Hill,Tudor's Hill,Tudor’s Hill	32.26444	-64.87667	T	HLL	BM		10				0		45	Atlantic/Bermuda	2012-01-18
+3572986	Tudor’s Bay	Tudor's Bay		32.26333	-64.87972	H	COVE	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3572987	Tucker’s Town Bay	Tucker's Town Bay		32.33306	-64.6925	H	COVE	BM		07				0		4	Atlantic/Bermuda	1995-08-16
+3572988	Tucker’s Town	Tucker's Town	Tucker's Town,Tucker’s Town	32.33278	-64.68806	P	PPL	BM		07				0		24	Atlantic/Bermuda	2012-01-18
+3572989	Tucker’s Bay	Tucker's Bay		32.32444	-64.74056	H	COVE	BM		02				0		10	Atlantic/Bermuda	1995-08-16
+3572990	Trunk Island	Trunk Island	Trunk Island	32.33333	-64.7275	T	ISL	BM		02				0		5	Atlantic/Bermuda	2012-05-05
+3572991	Trott’s Pond	Trott's Pond	Trott's Pond,Trott’s Pond	32.32806	-64.70278	H	LK	BM		02				0		7	Atlantic/Bermuda	2012-01-18
+3572992	Trott’s Bay	Trott's Bay		32.32611	-64.70111	H	BGHT	BM		02				0		1	Atlantic/Bermuda	1995-08-16
+3572993	Trimingham Hill	Trimingham Hill		32.28944	-64.76917	T	HLL	BM		04				0		45	Atlantic/Bermuda	1995-08-16
+3572994	Town Hill	Town Hill	The Peak,Town Hill	32.31722	-64.73306	T	HLL	BM	BM	09				0		77	Atlantic/Bermuda	2012-01-18
+3572995	Town Cut	Town Cut	Town Cut,Town Cut Channel	32.37806	-64.66417	H	CHN	BM	BM	07				0		12	Atlantic/Bermuda	2012-01-18
+3572996	Tom Wood’s Bay	Tom Wood's Bay		32.30306	-64.81472	H	COVE	BM		05				0		14	Atlantic/Bermuda	1995-08-16
+3572997	Todd’s Hill	Todd's Hill		32.25	-64.81667	T	HLL	BM		11				0		-9999	Atlantic/Bermuda	1995-03-09
+3572998	Tobacco Bay	Tobacco Bay		32.38839	-64.67921	H	COVE	BM		06				0		8	Atlantic/Bermuda	2017-07-12
+3572999	Timlin’s Narrows	Timlin's Narrows		32.28444	-64.80694	H	CHNM	BM		11				0		11	Atlantic/Bermuda	1995-08-16
+3573000	The Rocky Partners	The Rocky Partners		32.38333	-64.8	H	SHOL	BM		00				0		-9999	Atlantic/Bermuda	1993-12-22
+3573001	Flatt’s Village	Flatt's Village	Flatt's Village,Flatt’s Village,The Flatts Village	32.32094	-64.74016	P	PPL	BM		09				0		28	Atlantic/Bermuda	2014-09-21
+3573002	The Chimneys	The Chimneys	Brangmans Spots,The Chimneys	32.41667	-64.81667	H	SHOL	BM	BM	00				0		-9999	Atlantic/Bermuda	2012-01-18
+3573003	Tepping Shoals	Tepping Shoals		32.35222	-64.73167	H	SHOL	BM		02				0		-9999	Atlantic/Bermuda	1995-08-16
+3573004	Taylor’s Point	Taylor's Point	Taylor Point,Taylor's Point,Taylor’s Point	32.33167	-64.73528	T	PT	BM		02				0		10	Atlantic/Bermuda	2012-01-18
+3573005	Tatem Point	Tatem Point		32.29389	-64.86278	T	PT	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573006	Swan’s Bay	Swan's Bay		32.30528	-64.7925	H	COVE	BM		05				0		15	Atlantic/Bermuda	1995-08-16
+3573007	Surf Bay	Surf Bay		32.33389	-64.68222	H	BGHT	BM		07				0		6	Atlantic/Bermuda	1995-08-16
+3573008	Sunnyside	Sunnyside		32.32639	-64.74111	P	PPL	BM		02				0		10	Atlantic/Bermuda	1995-08-16
+3573009	Sugarloaf Hill	Sugarloaf Hill	Cherrystone Hill,Sugarloaf Hill	32.37556	-64.69722	T	HLL	BM	BM	07				0		0	Atlantic/Bermuda	2012-01-18
+3573010	Sugar Cane Point	Sugar Cane Point		32.30472	-64.86083	T	PT	BM		08				0		6	Atlantic/Bermuda	1995-08-16
+3573011	Sue Wood Bay	Sue Wood Bay		32.30194	-64.74194	H	BAY	BM		01				0		1	Atlantic/Bermuda	1995-08-16
+3573012	Stovel Bay	Stovel Bay		32.30611	-64.81611	H	COVE	BM		05				0		4	Atlantic/Bermuda	1995-08-16
+3573013	Stonehole Bay	Stonehole Bay		32.255	-64.81361	H	COVE	BM		11				0		5	Atlantic/Bermuda	1995-08-16
+3573014	Stokes Point	Stokes Point		32.3725	-64.68861	T	PT	BM		07				0		6	Atlantic/Bermuda	1995-08-16
+3573015	Stocks Harbour	Stocks Harbour		32.37056	-64.68861	H	HBR	BM		07				0		4	Atlantic/Bermuda	1995-08-16
+3573016	Stake Bay	Stake Bay		32.35861	-64.66667	H	BAY	BM		07				0		1	Atlantic/Bermuda	1995-08-16
+3573017	The Stags	The Stags		32.33417	-64.74361	T	RKS	BM		09				0		-9999	Atlantic/Bermuda	1995-08-16
+3573018	Stag Rocks	Stag Rocks		32.31405	-64.83068	T	RKS	BM		05				0		-9999	Atlantic/Bermuda	2018-02-02
+3573019	Spring Benny’s Bay	Spring Benny's Bay		32.26639	-64.88111	H	BAY	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3573020	Spittal Pond	Spittal Pond	Spittal Pond	32.31167	-64.72611	H	LK	BM		09				0		8	Atlantic/Bermuda	2012-01-18
+3573021	Spithead	Spithead		32.2725	-64.8125	T	PT	BM		11				0		6	Atlantic/Bermuda	1995-08-16
+3573022	Spencer’s Point	Spencer's Point		32.30833	-64.72917	T	PT	BM		09				0		4	Atlantic/Bermuda	1995-08-16
+3573023	Spectacle Island	Spectacle Island		32.28747	-64.80088	T	ISL	BM		04				0		8	Atlantic/Bermuda	2014-04-07
+3573025	Spanish Point	Spanish Point		32.305	-64.81111	T	PEN	BM		05				0		26	Atlantic/Bermuda	1995-08-16
+3573026	Southampton Parish	Southampton Parish	Port Royal,Southampton,Southampton Parish	32.25083	-64.85639	A	ADM1	BM		10				6260		29	Atlantic/Bermuda	2012-01-16
+3573027	Somerset Island	Somerset Island	Somerset Island	32.29833	-64.87028	T	ISL	BM		08				0		14	Atlantic/Bermuda	2012-02-02
+3573028	Somerset Bridge	Somerset Bridge	Somerset Bridge	32.27833	-64.87667	S	BDG	BM		08				0		9	Atlantic/Bermuda	2012-01-18
+3573029	Somerset	Somerset	Somerset	32.29833	-64.86833	P	PPL	BM		08				0		22	Atlantic/Bermuda	2012-05-05
+3573030	Smith’s Sound	Smith's Sound		32.36861	-64.66139	H	BAY	BM		07				0		0	Atlantic/Bermuda	1995-08-16
+3573031	Smith’s Parish	Smith's Parish	Harris Bay,Smith's,Smith's Parish,Smithʼs,Smith’s,Smith’s Parish	32.31528	-64.73528	A	ADM1	BM		09				5852		69	Atlantic/Bermuda	2013-02-07
+3573032	Smith’s Island	Smith's Island	Smith's Island,Smith’s Island	32.37159	-64.66443	T	ISL	BM		07				0		16	Atlantic/Bermuda	2017-07-12
+3573033	Smith’s Bay	Smith's Bay		32.26139	-64.87889	H	COVE	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3573034	Skroggin’s Hill	Skroggin's Hill		32.25972	-64.87056	T	HLL	BM		10				0		40	Atlantic/Bermuda	1995-08-16
+3573035	Skroggin’s Bay	Skroggin's Bay	Scrogham's Bay,Scrogham’s Bay,Skroggin's Bay,Skroggin’s Bay	32.28278	-64.87028	H	COVE	BM		08				0		18	Atlantic/Bermuda	2012-01-18
+3573036	Sinky Bay	Sinky Bay		32.23333	-64.83333	H	COVE	BM		10				0		-9999	Atlantic/Bermuda	1993-12-22
+3573037	Ship Point	Ship Point		32.37083	-64.675	T	PT	BM		07				0		10	Atlantic/Bermuda	1995-08-16
+3573038	Shelly Bay Shoal	Shelly Bay Shoal	Shelley Bay Shoal,Shelly Bay Shoal	32.34167	-64.76	H	SHOL	BM	BM	02				0		-9999	Atlantic/Bermuda	2012-01-18
+3573039	Shelly Bay	Shelly Bay	Shelley Bay,Shelly Bay	32.3325	-64.74056	H	BAY	BM	BM	02				0		1	Atlantic/Bermuda	2012-01-18
+3573040	Shark Hole	Shark Hole		32.33667	-64.70639	H	BAY	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3573041	Point Shares	Point Shares	Point Shares	32.29361	-64.80472	T	PEN	BM		05				0		15	Atlantic/Bermuda	2018-12-05
+3573042	Seymour’s Pond	Seymour's Pond		32.25194	-64.85	H	PND	BM		10				0		16	Atlantic/Bermuda	1995-08-16
+3573043	Severn Bridge	Severn Bridge		32.37167	-64.68694	S	BDG	BM		07				0		3	Atlantic/Bermuda	1995-08-16
+3573044	Seon Point	Seon Point		32.34	-64.73861	T	PT	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3573045	Sea Venture Shoals	Sea Venture Shoals	Sea Venture Flat,Sea Venture Shoals	32.38139	-64.63639	H	SHOL	BM	BM	07				0		-9999	Atlantic/Bermuda	2012-01-18
+3573046	Scotts Hill	Scotts Hill		32.29722	-64.86556	P	PPL	BM		08				0		44	Atlantic/Bermuda	1995-08-16
+3573047	Scaur Fort	Scaur Fort	Fort Scaur,Scaur Fort	32.285	-64.87222	S	FT	BM	BM	08				0		39	Atlantic/Bermuda	2012-01-18
+3573048	The Scaur	The Scaur		32.27972	-64.8775	H	BAY	BM		08				0		5	Atlantic/Bermuda	1995-08-16
+3573049	Sapphire Bay	Sapphire Bay		32.26583	-64.79194	H	COVE	BM		11				0		8	Atlantic/Bermuda	1995-08-16
+3573050	Sandys Parish	Sandys Parish	Sandys,Somerset	32.29345	-64.86828	A	ADM1	BM		08				7723		14	Atlantic/Bermuda	2007-01-09
+3573051	Sandy Hole	Sandy Hole		32.34556	-64.73194	H	COVE	BM		02				0		1	Atlantic/Bermuda	1995-08-16
+3573052	Sam’s Point	Sam's Point		32.36028	-64.66833	T	PT	BM		07				0		1	Atlantic/Bermuda	1995-08-16
+3573053	Sam Hall’s Bay	Sam Hall's Bay		32.32472	-64.70389	H	BGHT	BM		02				0		10	Atlantic/Bermuda	1995-08-16
+3573054	Saltus Island	Saltus Island	Saltus Island	32.29083	-64.80056	T	ISL	BM		05				0		8	Atlantic/Bermuda	2012-01-18
+3573055	Salt Kettle Bay	Salt Kettle Bay		32.28194	-64.79444	H	BAY	BM		04				0		3	Atlantic/Bermuda	1995-08-16
+3573056	Salt Kettle	Salt Kettle		32.28451	-64.79318	T	PT	BM		04				0		0	Atlantic/Bermuda	2014-04-07
+3573057	Saint George’s Parish	Saint George's Parish	Saint George's,Saint George's Parish,Saint Georgeʼs,Saint George’s,Saint George’s Parish	32.3726	-64.69437	A	ADM1	BM		07				0		13	Atlantic/Bermuda	2014-01-19
+3573058	Saint George’s Island	Saint George's Island	Saint George's Island,Saint George’s Island	32.38472	-64.67778	T	ISL	BM		07				0		26	Atlantic/Bermuda	2012-02-02
+3573059	Saint George’s Harbour	Saint George's Harbour	Saint George's Harbour,Saint Georges Harbor,Saint George’s Harbour	32.37556	-64.67889	H	HBR	BM		07				0		1	Atlantic/Bermuda	2012-01-18
+3573060	Saint George’s Channel	Saint George's Channel		32.37345	-64.66068	H	CHN	BM		07				0		1	Atlantic/Bermuda	2018-02-21
+3573061	Saint George	Saint George	Saint George,Saint George's,Saint George's Town,Saint Georges,Saint George’s,Saint George’s Town,Sankta Georgo,Sent Dzordzas,Sent Džordžas,Sent-Dzhordzh,seinteujojiseu,sheng qiao zhi si,snt gwrgs,snt jwrj  brmwda,Сент-Джордж,סנט גורגס,سنت جورج، برمودا,سینٹ جارج، برمودا,სენტ-ჯორჯესი,セント・ジョージ,圣乔治斯,세인트조지스	32.38167	-64.67806	P	PPL	BM		06				1896		16	Atlantic/Bermuda	2012-01-18
+3573062	Saint George	Saint George	Saint George	32.38417	-64.67639	A	ADM1	BM		06				1743		26	Atlantic/Bermuda	2018-06-07
+3573063	Saint David’s Island	Saint David's Island	Saint David's Island,Saint David’s Island	32.36278	-64.66111	T	ISL	BM		07				0		14	Atlantic/Bermuda	2012-01-18
+3573064	Saint David’s Head	Saint David's Head	Saint David Head,Saint David's Head,Saint David’s Head	32.36947	-64.64838	T	PT	BM		07				0		10	Atlantic/Bermuda	2017-07-12
+3573065	Saint Catherine Point	Saint Catherine Point	Saint Catherine Point,Saint Catherine's Point,Saint Catherine’s Point	32.39095	-64.67422	T	PT	BM	BM	06				0		5	Atlantic/Bermuda	2017-07-12
+3573066	Fort Saint Catherine	Fort Saint Catherine		32.39068	-64.67452	S	FT	BM		06				0		5	Atlantic/Bermuda	2017-07-12
+3573067	Ruth’s Point	Ruth's Point		32.35986	-64.65206	T	PT	BM		07				0		1	Atlantic/Bermuda	2019-11-20
+3573068	Ruth’s Bay	Ruth's Bay		32.36139	-64.65306	H	BAY	BM		07				0		11	Atlantic/Bermuda	1995-08-16
+3573069	Rushy Island	Rushy Island	Rushy Island	32.3375	-64.67389	T	ISL	BM		07				0		3	Atlantic/Bermuda	2012-01-18
+3573070	Rose Hill	Rose Hill		32.38167	-64.68111	T	HLL	BM		06				0		35	Atlantic/Bermuda	1995-08-16
+3573071	Rogue’s Island	Rogue's Island	Rogue Island,Rogue's Island,Rogue’s Island	32.36444	-64.70889	T	ISL	BM		07				0		-1	Atlantic/Bermuda	2012-01-18
+3573072	Rocky Bay	Rocky Bay		32.29778	-64.74583	H	BAY	BM		01				0		5	Atlantic/Bermuda	1995-08-16
+3573073	Robinson Bay	Robinson Bay		32.31	-64.76472	H	COVE	BM		01				0		8	Atlantic/Bermuda	1995-08-16
+3573074	Robert’s Point	Robert's Point		32.37056	-64.67306	T	PT	BM		07				0		5	Atlantic/Bermuda	1995-08-16
+3573075	Robert’s Hill	Robert's Hill		32.36944	-64.67444	T	HLL	BM		07				0		28	Atlantic/Bermuda	1995-08-16
+3573076	Riddell’s Bay	Riddell's Bay	Riddell's Bay,Riddell’s Bay,Riddles Bay	32.26194	-64.82722	H	BAY	BM		11				0		3	Atlantic/Bermuda	2012-01-18
+3573077	Richardson’s Bay	Richardson's Bay		32.36972	-64.69833	H	COVE	BM		07				0		7	Atlantic/Bermuda	1995-08-16
+3573078	Red Hole	Red Hole		32.36667	-64.63333	H	COVE	BM		07				0		-9999	Atlantic/Bermuda	1993-12-22
+3573079	Red Hole	Red Hole		32.29611	-64.86083	H	COVE	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573080	Red Hole	Red Hole		32.29028	-64.77611	H	BAY	BM		04				0		3	Atlantic/Bermuda	1995-08-16
+3573081	Red Hole	Red Hole	Red Bay,Red Hole	32.37	-64.64972	H	BAY	BM	BM	07				0		6	Atlantic/Bermuda	2012-01-18
+3573082	The Quintons	The Quintons		32.31333	-64.85417	T	RKS	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3573083	Prudden’s Bay	Prudden's Bay	Prudden Bay,Prudden's Bay,Prudden’s Bay	32.28389	-64.79222	H	COVE	BM		04				0		6	Atlantic/Bermuda	2012-01-18
+3573084	Fort Prospect	Fort Prospect	Fort Prospect,Prospect Camp	32.29917	-64.76556	S	FT	BM	BM	01				0		63	Atlantic/Bermuda	2012-01-18
+3573085	Ports Island	Ports Island	Ports Island	32.28306	-64.82111	T	ISL	BM		11				0		15	Atlantic/Bermuda	2012-01-18
+3573086	Plaice’s Point	Plaice's Point	Plaice Point,Plaice's Point,Plaice’s Point	32.30417	-64.81806	T	PT	BM		05				0		-9999	Atlantic/Bermuda	2012-01-18
+3573087	Plaice’s Point	Plaice's Point		32.29667	-64.85944	T	PT	BM		08				0		0	Atlantic/Bermuda	1995-08-16
+3573088	Pitt’s Bay	Pitt's Bay		32.29111	-64.79528	H	COVE	BM		05				0		6	Atlantic/Bermuda	1995-08-16
+3573089	Pilchard Bay	Pilchard Bay		32.2775	-64.8825	H	BAY	BM		08				0		5	Atlantic/Bermuda	1995-08-16
+3573090	Pigeon Rocks	Pigeon Rocks	Pidgeon Rocks,Pigeon Rocks	32.34833	-64.73139	T	RKS	BM	BM	02				0		1	Atlantic/Bermuda	2012-01-18
+3573091	Phillipps Cove	Phillipps Cove	Philips Cove,Phillipps Cove,Phillips Cove	32.3075	-64.81139	H	COVE	BM	BM	05				0		7	Atlantic/Bermuda	2012-01-18
+3573092	Peter Tucker’s Bay	Peter Tucker's Bay		32.30444	-64.81694	H	COVE	BM		05				0		10	Atlantic/Bermuda	1995-08-16
+3573093	Perot’s Island	Perot's Island	Crumb-brush Island,Perot Island,Perot's Island,Perot’s Island	32.26028	-64.83139	T	ISL	BM		10				0		8	Atlantic/Bermuda	2012-01-18
+3573094	Pendle Hill	Pendle Hill		32.37	-64.70028	T	HLL	BM		07				0		16	Atlantic/Bermuda	1995-08-16
+3573095	Pembroke Parish	Pembroke Parish	Pembroke,Pembroke Parish,Spanish Point	32.29944	-64.79278	A	ADM1	BM		05				10249		8	Atlantic/Bermuda	2012-01-16
+3573096	Pear Rock	Pear Rock		32.34855	-64.65073	T	RK	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20
+3573097	Pearman Hill	Pearman Hill		32.33722	-64.73306	T	HLL	BM		02				0		25	Atlantic/Bermuda	1995-08-16
+3573098	Pearl Island	Pearl Island		32.29176	-64.83725	T	RK	BM		11				0		-9999	Atlantic/Bermuda	2014-04-07
+3573099	Paynter’s Hill	Paynter's Hill	Paynter's Hill,Paynters Hill,Paynter’s Hill	32.3375	-64.70222	T	HLL	BM		07				0		51	Atlantic/Bermuda	2012-01-18
+3573100	Patton’s Point	Patton's Point		32.3225	-64.72194	T	PT	BM		09				0		11	Atlantic/Bermuda	1995-08-16
+3573101	Partridge Island	Partridge Island	Partridge Island	32.29806	-64.80944	T	ISL	BM		05				0		3	Atlantic/Bermuda	2012-01-18
+3573102	Parson’s Bay	Parson's Bay		32.31444	-64.84278	H	COVE	BM		08				0		7	Atlantic/Bermuda	1995-08-16
+3573103	Paget Parish	Paget Parish	Crow Lane,Paget,Paget Parish	32.27833	-64.78167	A	ADM1	BM		04				5179		46	Atlantic/Bermuda	2012-01-16
+3573104	Paget Marsh	Paget Marsh		32.285	-64.77694	H	MRSH	BM		04				0		7	Atlantic/Bermuda	1995-08-16
+3573105	Paget Island	Paget Island	Paget Island	32.37528	-64.66056	T	ISL	BM		07				0		16	Atlantic/Bermuda	2012-05-05
+3573106	Ordnance Island	Ordnance Island	Ordinance Island,Ordnance Island	32.38	-64.67667	T	ISL	BM	BM	07				0		0	Atlantic/Bermuda	2014-01-19
+3573107	Old Shoal	Old Shoal		32.32861	-64.72083	H	SHOL	BM		09				0		0	Atlantic/Bermuda	1995-08-16
+3573108	Charles’ Fort	Charles' Fort	Charles Island,Charles' Fort,Charles’ Fort,Old Castle	32.33333	-64.66667	T	ISL	BM		07				0		-9999	Atlantic/Bermuda	2012-01-18
+3573109	North’s Point	North's Point	North Point,North's Point,North’s Point	32.31278	-64.72194	T	PT	BM		09				0		7	Atlantic/Bermuda	2012-01-18
+3573110	North Shore Village	North Shore Village		32.30639	-64.77361	P	PPL	BM		01				0		18	Atlantic/Bermuda	1995-08-16
+3573111	Nonsuch Island	Nonsuch Island	Nonsuch Island	32.34778	-64.66333	T	ISL	BM		07				0		13	Atlantic/Bermuda	2012-01-18
+3573112	Nonsuch Bay	Nonsuch Bay	Nonsuch Bay	32.34611	-64.66389	H	BAY	BM		07				0		-9999	Atlantic/Bermuda	2019-02-21
+3573113	Nelson Bay	Nelson Bay		32.3075	-64.81667	H	SD	BM		05				0		5	Atlantic/Bermuda	1995-08-16
+3573114	Nelly Island	Nelly Island	Nelly Island	32.28417	-64.82472	T	ISL	BM		11				0		-9999	Atlantic/Bermuda	2012-01-18
+3573115	Nearon’s Cut	Nearon's Cut		32.37806	-64.69417	H	COVE	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3573116	The Narrows	The Narrows	St. George's Narrows	32.38621	-64.65984	H	CHNM	BM		07				0		-9999	Atlantic/Bermuda	2019-11-19
+3573117	The Narrows	The Narrows		32.37	-64.665	H	CHN	BM		07				0		9	Atlantic/Bermuda	1995-08-16
+3573118	My Lord’s Bay	My Lord's Bay		32.33861	-64.72917	H	BAY	BM		02				0		10	Atlantic/Bermuda	1995-08-16
+3573119	Murray’s Anchorage	Murray's Anchorage		32.38482	-64.6996	H	ANCH	BM		07				0		-9999	Atlantic/Bermuda	2014-04-07
+3573120	Mullet Bay	Mullet Bay		32.375	-64.69306	H	BAY	BM		07				0		2	Atlantic/Bermuda	1995-08-16
+3573121	Mount Pleasant	Mount Pleasant		32.27417	-64.78361	P	PPL	BM		04				0		37	Atlantic/Bermuda	1995-08-16
+3573122	Mount Hill	Mount Hill	Mount Hill	32.36406	-64.65193	T	HLL	BM	BM	07				0		1	Atlantic/Bermuda	2018-02-02
+3573123	Mosquito Hill	Mosquito Hill		32.31694	-64.73194	T	HLL	BM		09				0		63	Atlantic/Bermuda	1995-08-16
+3573124	Morgan’s Island	Morgan's Island	Morgan's Island,Morgan’s Island	32.2875	-64.87778	T	ISL	BM		08				0		10	Atlantic/Bermuda	2012-01-18
+3573125	Moresby’s Plain	Moresby's Plain		32.32333	-64.83944	T	PLN	BM		08				0		7	Atlantic/Bermuda	1995-08-16
+3573126	Monkey Hole	Monkey Hole		32.26222	-64.86472	H	COVE	BM		10				0		13	Atlantic/Bermuda	1995-08-16
+3573127	Mills Breaker Ledge	Mills Breaker Ledge		32.4	-64.61667	H	RF	BM		07				0		-9999	Atlantic/Bermuda	1993-12-22
+3573128	Millhouse Bay	Millhouse Bay		32.34167	-64.71083	H	COVE	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3573129	Mill Creek	Mill Creek	Mangrove Creek,Mill Creek	32.30139	-64.80583	H	INLT	BM	BM	05				0		5	Atlantic/Bermuda	2012-01-18
+3573130	Methelin Bay	Methelin Bay		32.3	-64.87806	H	COVE	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3573131	Melrose	Melrose		32.36845	-64.67739	P	PPL	BM		07				0		27	Atlantic/Bermuda	2014-01-19
+3573132	McGall’s Hill	McGall's Hill		32.31056	-64.72917	T	HLL	BM		09				0		39	Atlantic/Bermuda	1995-08-16
+3573133	McGall’s Bay	McGall's Bay		32.30833	-64.72972	H	COVE	BM		09				0		11	Atlantic/Bermuda	1995-08-16
+3573134	Marshall’s Island	Marshall's Island	Marshall Island,Marshall's Island,Marshall’s Island	32.28333	-64.80972	T	ISL	BM		11				0		13	Atlantic/Bermuda	2012-01-18
+3573135	Margaret’s Bay	Margaret's Bay		32.29611	-64.87611	H	COVE	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3573136	Mangrove Lake	Mangrove Lake	Mangrove Lake	32.32528	-64.70917	H	LK	BM		00				0		6	Atlantic/Bermuda	2012-01-18
+3573137	Mangrove Bay	Mangrove Bay		32.30611	-64.86444	H	BAY	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573138	Major’s Bay	Major's Bay		32.33333	-64.73583	H	BAY	BM		02				0		11	Atlantic/Bermuda	1995-08-16
+3573139	Lusher Hill	Lusher Hill		32.26417	-64.80639	T	HLL	BM		11				0		47	Atlantic/Bermuda	1995-08-16
+3573140	Loyal Hill	Loyal Hill		32.31194	-64.75111	T	HLL	BM		01				0		19	Atlantic/Bermuda	1995-08-16
+3573141	Long Rock	Long Rock		32.35722	-64.65528	T	ISL	BM		07				0		-1	Atlantic/Bermuda	1995-08-16
+3573142	Long Point	Long Point		32.29694	-64.85778	T	PT	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3573143	Long Island	Long Island		32.36222	-64.67583	T	ISL	BM		07				0		6	Atlantic/Bermuda	1995-08-16
+3573144	Long Island	Long Island		32.28611	-64.82	T	ISL	BM		11				0		11	Atlantic/Bermuda	1995-08-16
+3573145	Long Bird Island	Long Bird Island	Long Bird Island	32.36528	-64.69667	T	ISL	BM		07				0		4	Atlantic/Bermuda	2012-01-18
+3573146	Long Bay	Long Bay		32.35056	-64.65528	H	BAY	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3573147	Long Bay	Long Bay		32.30472	-64.87444	H	BAY	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573148	Lodge Point	Lodge Point		32.31278	-64.84194	T	PT	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573149	Lobster Flat	Lobster Flat		32.26194	-64.89222	H	RF	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3573150	Little Watford Bridge	Little Watford Bridge		32.30774	-64.85553	S	BDG	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3573151	Little Turtle Bay	Little Turtle Bay		32.27194	-64.81278	H	COVE	BM		11				0		11	Atlantic/Bermuda	1995-08-16
+3573152	Little Sound	Little Sound	Little Sound,Port Royal Bay	32.26222	-64.84667	H	BAY	BM	BM	10				0		-9999	Atlantic/Bermuda	2012-01-18
+3573153	Little Scaur	Little Scaur		32.35611	-64.65556	H	CHNM	BM		07				0		3	Atlantic/Bermuda	1995-08-16
+3573154	Little Head	Little Head		32.37144	-64.64905	T	PT	BM		08				0		-9999	Atlantic/Bermuda	2019-11-20
+3573155	Lambda Island	Lambda Island	Lambda Island	32.28912	-64.83086	T	ISL	BM		11				0		5	Atlantic/Bermuda	2014-04-07
+3573156	Knight’s Hole	Knight's Hole		32.29361	-64.86417	H	COVE	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573157	Knapton Hill	Knapton Hill		32.31667	-64.72333	T	HLL	BM		09				0		62	Atlantic/Bermuda	1995-08-16
+3573158	King’s Point	King's Point		32.30972	-64.86528	T	PT	BM		08				0		8	Atlantic/Bermuda	1995-08-16
+3573159	King’s Point	King's Point		32.26972	-64.84806	T	PT	BM		10				0		7	Atlantic/Bermuda	1995-08-16
+3573160	King Charles Hole	King Charles Hole		32.29806	-64.87639	H	COVE	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3573161	L.F. Wade International Airport	L.F. Wade International Airport	Aeroport international L.F. Wade,Aéroport international L.F. Wade,BDA,Bermuda International Airport,Kindley Field,L.F. Wade International Airport,TXKF,bai mu da guo ji ji chang,bamyuda guo ji kong gang,frwdgah byn‌almlly al.af. wyd,فرودگاه بین‌المللی ال.اف. وید,バミューダ国際空港,百慕達國際機場	32.36404	-64.6787	S	AIRP	BM		07				0	3	4	Atlantic/Bermuda	2014-01-19
+3573162	John Smith’s Bay	John Smith's Bay	Newton Bay	32.31905	-64.71249	H	COVE	BM		09				0		1	Atlantic/Bermuda	2019-11-20
+3573163	Jobson’s Point	Jobson's Point		32.28917	-64.87667	T	PT	BM		08				0		3	Atlantic/Bermuda	1995-08-16
+3573164	Jobson’s Cove	Jobson's Cove	Jobson Cove,Jobson's Cove,Jobson’s Cove	32.25556	-64.8125	H	COVE	BM		11				0		9	Atlantic/Bermuda	2012-01-18
+3573165	Jew’s Bay	Jew's Bay	Jew's Bay,Jew’s Bay,Perinchief's Bay,Perinchief’s Bay	32.2575	-64.83306	H	BAY	BM		10				0		4	Atlantic/Bermuda	2012-01-18
+3573166	Jennings Bay	Jennings Bay		32.25722	-64.86361	H	COVE	BM		10				0		11	Atlantic/Bermuda	1995-08-16
+3573167	Jenkin’s Boiler Channel	Jenkin's Boiler Channel	Boiler Channel,Jenkin's Boiler Channel,Jenkin’s Boiler Channel	32.36667	-64.63333	H	CHN	BM		07				0		-9999	Atlantic/Bermuda	2012-01-18
+3573168	Jeffrey’s Hole	Jeffrey's Hole		32.30972	-64.72583	H	COVE	BM		09				0		9	Atlantic/Bermuda	1995-08-16
+3573169	Ireland Island South	Ireland Island South		32.31556	-64.84472	T	ISLX	BM		08				0		14	Atlantic/Bermuda	1995-08-16
+3573170	Ireland Island North	Ireland Island North	Ireland Island North	32.325	-64.83611	T	ISLX	BM		08				0		14	Atlantic/Bermuda	2012-02-02
+3573171	Ireland Island Freeport	Ireland Island Freeport	Bermuda Freeport,Freeport,Ireland Island Freeport	32.32167	-64.835	L	PRT	BM	BM	08				0		-9999	Atlantic/Bermuda	2012-01-18
+3573172	Ireland Island	Ireland Island		32.31995	-64.842	T	ISL	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3573173	Spectacle Island	Spectacle Island	Hunt Island,Hunts Island,Spectacle Island	32.25861	-64.83472	T	ISL	BM	BM	10				0		6	Atlantic/Bermuda	2012-01-18
+3573174	Hungry Bay	Hungry Bay		32.28889	-64.76056	H	COVE	BM		04				0		10	Atlantic/Bermuda	1995-08-16
+3573175	Howard Bay	Howard Bay		32.33667	-64.67583	H	BAY	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3573176	Horseshoe Island	Horseshoe Island	Horseshoe Island	32.37722	-64.66472	T	ISL	BM		07				0		6	Atlantic/Bermuda	2012-01-18
+3573177	Horseshoe Bay	Horseshoe Bay		32.23333	-64.81667	H	BAY	BM		10				0		-9999	Atlantic/Bermuda	1993-12-22
+3573178	Holly Hill	Holly Hill		32.3175	-64.74111	T	HLL	BM		09				0		48	Atlantic/Bermuda	1995-08-16
+3573179	Hogfish Cut	Hogfish Cut		32.25	-64.87278	H	CHN	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3573180	Hogfish Bay	Hogfish Bay		32.30912	-64.8144	H	COVE	BM		05				0		-9999	Atlantic/Bermuda	2014-04-07
+3573181	Hog Bay	Hog Bay		32.27111	-64.88	P	PPL	BM		08				0		36	Atlantic/Bermuda	1995-08-16
+3573182	Hinson’s Island	Hinson's Island	Godet Island,Hinson Island,Hinson's Island,Hinson’s Island	32.2825	-64.80278	T	ISL	BM		04				0		20	Atlantic/Bermuda	2012-01-18
+3573183	Hinson Hall	Hinson Hall		32.31361	-64.74361	P	PPL	BM		09				0		42	Atlantic/Bermuda	1995-08-16
+3573184	Hinson’s Bay	Hinson's Bay	Hinson Bay,Hinson's Bay,Hinson’s Bay	32.30722	-64.77611	H	COVE	BM		05				0		8	Atlantic/Bermuda	2012-01-18
+3573185	Hill View	Hill View		32.26944	-64.80889	P	PPL	BM		11				0		35	Atlantic/Bermuda	1995-08-16
+3573186	High Point	High Point		32.24806	-64.85556	T	PT	BM		10				0		25	Atlantic/Bermuda	1995-08-16
+3573187	Higgs’ Island	Higgs' Island	Higgs' Island,Higgs’ Island	32.37722	-64.66333	T	ISL	BM		07				0		16	Atlantic/Bermuda	2012-01-18
+3573188	Higgs’ Bay	Higgs' Bay		32.37028	-64.67806	H	COVE	BM		07				0		8	Atlantic/Bermuda	1995-08-16
+3573189	Henry’s Hill	Henry's Hill		32.35056	-64.71861	T	HLL	BM		02				0		37	Atlantic/Bermuda	1995-08-16
+3573190	Hen Island	Hen Island	Hen Island,Saint Michaels Island	32.37583	-64.67167	T	ISL	BM	BM	07				0		10	Atlantic/Bermuda	2012-01-18
+3573191	Head of the Lane	Head of the Lane		32.28861	-64.81528	H	CHNM	BM		11				0		-9999	Atlantic/Bermuda	1995-08-16
+3573192	Hawkins Island	Hawkins Island	Elizabeth Island,Hawkins Island	32.28611	-64.82861	T	ISL	BM	BM	11				0		23	Atlantic/Bermuda	2012-01-18
+3573193	Harrington Sound	Harrington Sound	Harrington Sound	32.33056	-64.72194	H	BAY	BM		00				0		0	Atlantic/Bermuda	2012-01-18
+3573194	Harman’s Bay	Harman's Bay		32.29306	-64.86778	H	COVE	BM		08				0		13	Atlantic/Bermuda	1995-08-16
+3573195	Hamilton	Hamilton	Bailey's Bay,Bailey’s Bay,Hamilton,Hamilton Parish	32.34222	-64.72833	A	ADM1	BM		02				5584		39	Atlantic/Bermuda	2016-11-25
+3573196	Hamilton Harbour	Hamilton Harbour	Crow Lane Harbor,Crow Lane Harbour,Hamilton Harbour	32.28806	-64.79111	H	HBR	BM	BM	03				0		-9999	Atlantic/Bermuda	2012-01-18
+3573197	Hamilton	Hamilton	BDA,Chamilton,Gamil'tan,Gamil'ton,Hamilton,Hamilton pa Bermuda,Hamilton på Bermuda,Hamiltonas,Hamiltono,Khamilton,Khamiltun,amiltan,ha mi er dun,haemilteon,hamiruton,hamyltwn,hemiltana,hmyltwn,Χάμιλτον,Гамильтон,Гамільтан,Гамільтон,Хамилтон,Хамилтън,המילטון,هاميلتون,همیلتون,ہیملٹن,हॅमिल्टन,ஆமில்டன்,แฮมิลตัน,ჰამილტონი,ハミルトン,哈密尔顿,해밀턴	32.2949	-64.78303	P	PPLC	BM		03				902		22	Atlantic/Bermuda	2019-09-05
+3573198	Hamilton City	Hamilton City	Hamilton,Hamilton city	32.29326	-64.78063	A	ADM1	BM		03				1010		14	Atlantic/Bermuda	2019-11-02
+3573199	Hall’s Island	Hall's Island	Hall Island,Hall's Island,Hall’s Island	32.33917	-64.71306	T	ISL	BM		02				0		0	Atlantic/Bermuda	2012-01-18
+3573200	Grey’s Bridge	Grey's Bridge		32.3124	-64.85009	S	BDG	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3573201	Green’s Hill	Green's Hill		32.25306	-64.86861	T	HLL	BM		10				0		11	Atlantic/Bermuda	1995-08-16
+3573202	Green Rock	Green Rock		32.34444	-64.66139	T	RK	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3573203	Green Flat	Green Flat		32.33667	-64.86389	H	SHOL	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3573204	Green Bay	Green Bay		32.32667	-64.73861	H	COVE	BM		09				0		12	Atlantic/Bermuda	1995-08-16
+3573205	Green Bay	Green Bay		32.30139	-64.81417	H	BAY	BM		05				0		1	Atlantic/Bermuda	1995-08-16
+3573206	Great Sound	Great Sound	Great Sound	32.29361	-64.83667	H	BAY	BM		08				0		-9999	Atlantic/Bermuda	2012-02-02
+3573207	Great Scaur	Great Scaur		32.35861	-64.65333	H	CHNM	BM		07				0		1	Atlantic/Bermuda	1995-08-16
+3573208	Great Head	Great Head		32.36747	-64.64737	T	PT	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20
+3573209	Great Bay	Great Bay		32.36833	-64.65417	H	BAY	BM		07				0		8	Atlantic/Bermuda	1995-08-16
+3573210	Grazbury’s Island	Grazbury's Island	Grasbury's Island,Grasbury’s Island,Grazbury's Island,Grazbury’s Island	32.35472	-64.65639	T	ISL	BM		07				0		0	Atlantic/Bermuda	2012-01-18
+3573211	Gravelly Bay	Gravelly Bay		32.3175	-64.71389	H	COVE	BM		09				0		7	Atlantic/Bermuda	1995-08-16
+3573212	Grassy Bay	Grassy Bay	Bermuda Harbour	32.32253	-64.82075	H	BAY	BM		08				0		-9999	Atlantic/Bermuda	2018-02-02
+3573213	Grape Bay	Grape Bay		32.28111	-64.76833	H	BGHT	BM		04				0		10	Atlantic/Bermuda	1995-08-16
+3573214	Granaway Deep	Granaway Deep		32.27806	-64.81	U	BSNU	BM		11				0		-9999	Atlantic/Bermuda	1995-08-16
+3573215	Grace Island	Grace Island	Grace Island	32.27333	-64.835	T	ISL	BM		10				0		8	Atlantic/Bermuda	2012-05-05
+3573216	Governor’s Island	Governor's Island	Governor's Island,Governor’s Island	32.37188	-64.65761	T	ISL	BM		07				0		6	Atlantic/Bermuda	2017-07-12
+3573217	Goose Island	Goose Island		32.29722	-64.80972	T	RK	BM		05				0		-9999	Atlantic/Bermuda	1995-08-16
+3573218	Godet’s Passage	Godet's Passage		32.27972	-64.80083	H	CHNM	BM		11				0		5	Atlantic/Bermuda	1995-08-16
+3573219	Goat Islands	Goat Islands		32.35472	-64.66389	T	ISLS	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3573220	Glebe Hill	Glebe Hill	Glebe Hill,The Glebe	32.26722	-64.86722	T	HLL	BM	BM	10				0		38	Atlantic/Bermuda	2012-01-18
+3573221	Gilbert Hill	Gilbert Hill		32.31083	-64.73972	T	HLL	BM		09				0		53	Atlantic/Bermuda	1995-08-16
+3573222	Gibb’s Point	Gibb's Point		32.28111	-64.87861	T	PT	BM		08				0		10	Atlantic/Bermuda	1995-08-16
+3573223	Gibb’s Hill	Gibb's Hill		32.2525	-64.83472	T	HLL	BM		10				0		64	Atlantic/Bermuda	1995-08-16
+3573224	Gibbons Bay	Gibbons Bay		32.32194	-64.74444	H	BAY	BM		09				0		1	Atlantic/Bermuda	1995-08-16
+3573225	Gibbet Island	Gibbet Island	Gallows Island,Gibbet Island,Gibbet Islet	32.32306	-64.74417	T	ISL	BM	BM	09				0		3	Atlantic/Bermuda	2012-01-18
+3573226	George’s Bay	George's Bay		32.27083	-64.86472	H	COVE	BM		10				0		9	Atlantic/Bermuda	1995-08-16
+3573227	Fort George	Fort George		32.38028	-64.68278	S	FT	BM		06				0		45	Atlantic/Bermuda	1995-08-16
+3573228	Gates’ Fort	Gates' Fort		32.37917	-64.66333	S	FT	BM		07				0		7	Atlantic/Bermuda	1995-08-16
+3573229	Gates’ Bay	Gates' Bay		32.37944	-64.66333	H	COVE	BM		07				0		7	Atlantic/Bermuda	1995-08-16
+3573230	Gamma Island	Gamma Island	Gamma Island	32.28111	-64.82639	T	ISL	BM		11				0		0	Atlantic/Bermuda	2012-01-18
+3573231	Frith’s Point	Frith's Point	Frith Point,Frith's Point,Frith’s Point	32.28418	-64.79154	T	PT	BM		04				0		3	Atlantic/Bermuda	2014-04-07
+3573232	Frank’s Bay	Frank's Bay		32.25389	-64.85694	H	COVE	BM		10				0		1	Atlantic/Bermuda	1995-08-16
+3573233	Fox’s Hill	Fox's Hill		32.36528	-64.65556	T	HLL	BM		07				0		29	Atlantic/Bermuda	1995-08-16
+3573234	Fowles’s Point	Fowles's Point	Fowle's Point,Fowles's Point,Fowles’s Point,Fowle’s Point	32.28111	-64.86972	T	PT	BM		08				0		14	Atlantic/Bermuda	2012-01-18
+3573235	Fort Hill Bay	Fort Hill Bay		32.34822	-64.65447	H	BAY	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20
+3573236	Flora Point	Flora Point		32.30833	-64.87028	T	PT	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573237	Flatt’s Inlet	Flatt's Inlet	Flatt's Inlet,Flatt’s Inlet	32.32333	-64.7425	H	INLT	BM		09				0		0	Atlantic/Bermuda	2012-05-05
+3573238	Five Fathom Hole	Five Fathom Hole		32.38333	-64.63333	H	ANCH	BM		07				0		-9999	Atlantic/Bermuda	1993-12-22
+3573239	Ferry Reach	Ferry Reach		32.36694	-64.70167	H	CHN	BM		07				0		1	Atlantic/Bermuda	1995-08-16
+3573240	Ferry Point	Ferry Point		32.36194	-64.71639	T	PT	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3573241	Evans Bay	Evans Bay		32.25972	-64.86528	H	COVE	BM		10				0		1	Atlantic/Bermuda	1995-08-16
+3573242	Emily’s Bay	Emily's Bay		32.37	-64.67167	H	BAY	BM		07				0		3	Atlantic/Bermuda	1995-08-16
+3573243	Ely’s Harbour	Ely's Harbour		32.28306	-64.88056	H	BAY	BM		08				0		0	Atlantic/Bermuda	1995-08-16
+3573244	Elbow Bay	Elbow Bay	Elbow Bay,Middleton Bay	32.27194	-64.77694	H	BGHT	BM	BM	04				0		1	Atlantic/Bermuda	2012-01-18
+3573245	East Whale Bay	East Whale Bay		32.25	-64.82528	H	COVE	BM		10				0		4	Atlantic/Bermuda	1995-08-16
+3573246	Bluck’s Island	Bluck's Island	Bluck's Island,Bluck’s Island,Denslows Island,Dyer Island	32.28611	-64.81028	T	ISL	BM		11				0		9	Atlantic/Bermuda	2012-01-18
+3573247	Ducking Stool	Ducking Stool		32.30639	-64.78361	T	PT	BM		05				0		1	Atlantic/Bermuda	1995-08-16
+3573248	Dolly’s Bay	Dolly's Bay		32.36639	-64.665	H	BAY	BM		07				0		6	Atlantic/Bermuda	1995-08-16
+3573249	Doe’s Bay	Doe's Bay	Doe Bay,Doe's Bay,Doe’s Bay	32.29167	-64.75583	H	COVE	BM		01				0		9	Atlantic/Bermuda	2012-01-18
+3573250	Doctor’s Island	Doctor's Island	Doctor's Island,Doctor’s Island	32.28556	-64.7975	T	ISL	BM		04				0		8	Atlantic/Bermuda	2012-01-18
+3573251	Devonshire Parish	Devonshire Parish	Brackish Pond,Devonshire,Devonshire Parish	32.30278	-64.75583	A	ADM1	BM	BM	01				0		21	Atlantic/Bermuda	2012-01-16
+3573252	Devonshire Marsh	Devonshire Marsh		32.30861	-64.75444	H	MRSH	BM		01				0		5	Atlantic/Bermuda	1995-08-16
+3573253	Devonshire Bay	Devonshire Bay		32.29972	-64.745	H	COVE	BM		01				0		6	Atlantic/Bermuda	1995-08-16
+3573254	The Devil’s Hole	The Devil's Hole	Devil's Hole,Devil’s Hole,The Devil's Hole,The Devil’s Hole	32.32167	-64.71722	H	BAY	BM		09				0		0	Atlantic/Bermuda	2012-01-18
+3573255	Devils Flats	Devils Flats		32.41667	-64.83333	H	SHOL	BM		08				0		-9999	Atlantic/Bermuda	1993-12-22
+3573256	Delta Island	Delta Island	Delta Island	32.28083	-64.82444	T	ISL	BM		11				0		5	Atlantic/Bermuda	2012-01-18
+3573257	Deep Bay	Deep Bay		32.30611	-64.80333	H	COVE	BM		05				0		25	Atlantic/Bermuda	1995-08-16
+3573258	Davis’ Hole	Davis' Hole		32.37889	-64.69222	H	COVE	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3573259	Darrell’s Island	Darrell's Island	Darrell Island,Darrell's Island,Darrell’s Island	32.275	-64.82111	T	ISL	BM		11				0		10	Atlantic/Bermuda	2012-01-18
+3573260	Daniel’s Island	Daniel's Island	Daniel Island,Daniel's Island,Daniel’s Island	32.30556	-64.88278	T	ISL	BM		08				0		12	Atlantic/Bermuda	2012-01-18
+3573261	Daniel’s Head	Daniel's Head		32.305	-64.88056	T	PEN	BM		08				0		8	Atlantic/Bermuda	1995-08-16
+3573262	Fort Cunningham	Fort Cunningham		32.37449	-64.65888	S	FT	BM		07				0		18	Atlantic/Bermuda	2017-07-12
+3573263	Cross Island	Cross Island	Cross Island,Magazine Island	32.31932	-64.83704	T	ISL	BM	BM	08				0		-9999	Atlantic/Bermuda	2018-02-21
+3573264	Cross Bay	Cross Bay		32.24861	-64.83083	H	COVE	BM		10				0		6	Atlantic/Bermuda	1995-08-16
+3573265	Crawl Point	Crawl Point		32.34333	-64.7375	T	PT	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3573266	Crawl Hill	Crawl Hill		32.34333	-64.73389	T	HLL	BM		02				0		28	Atlantic/Bermuda	1995-08-16
+3573267	Crawl Flats	Crawl Flats		32.34667	-64.74056	H	SHOL	BM		02				0		-9999	Atlantic/Bermuda	1995-08-16
+3573268	The Crawl	The Crawl		32.34083	-64.73861	H	BAY	BM		02				0		1	Atlantic/Bermuda	1995-08-16
+3573269	Cox’s Point	Cox's Point		32.31	-64.76389	T	PT	BM		01				0		0	Atlantic/Bermuda	1995-08-16
+3573270	Cox’s Bay	Cox's Bay		32.29639	-64.74972	H	COVE	BM		01				0		10	Atlantic/Bermuda	1995-08-16
+3573271	Cow Ground Flat	Cow Ground Flat		32.31861	-64.8725	H	SHOL	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3573272	Cove Point	Cove Point		32.36292	-64.64969	T	PT	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20
+3573273	Coot Pond	Coot Pond		32.3891	-64.67722	H	COVE	BM		06				0		4	Atlantic/Bermuda	2017-07-12
+3573274	Cooper’s Island	Cooper's Island	Cooper Island,Cooper's Island,Cooper’s Island	32.35361	-64.66	T	ISL	BM		07				0		11	Atlantic/Bermuda	2012-01-18
+3573275	Conyers’ Bay	Conyers' Bay		32.26917	-64.88167	H	BAY	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573276	Convict Bay	Convict Bay		32.38056	-64.67417	H	BAY	BM		06				0		4	Atlantic/Bermuda	1995-08-16
+3573277	Coney Island	Coney Island	Coney Island	32.35889	-64.71556	T	ISL	BM		07				0		8	Atlantic/Bermuda	2012-05-05
+3573278	Commonland Point	Commonland Point		32.33028	-64.73639	T	PT	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3573279	Commissioner’s Point	Commissioner's Point	Commissioner's Point,Commissioner’s Point,Ireland Point	32.33008	-64.83226	T	PT	BM		08				0		-9999	Atlantic/Bermuda	2018-02-02
+3573280	Cock Rocks	Cock Rocks		32.345	-64.66694	T	RKS	BM		07				0		1	Atlantic/Bermuda	1995-08-16
+3573281	Cockburn’s Cut	Cockburn's Cut	Cockburn Cut,Cockburn's Cut,Cockburn’s Cut	32.32043	-64.84139	H	CHN	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3573282	Cobbler’s Island	Cobbler's Island	Cobbler's Island,Cobbler’s Island	32.30834	-64.81902	T	ISL	BM		05				0		-9999	Atlantic/Bermuda	2018-02-13
+3573283	Clearwater Beach	Clearwater Beach	Clearwater Beach	32.35556	-64.66	T	BCH	BM		07				0		7	Atlantic/Bermuda	2018-12-05
+3573284	Clarence Cove	Clarence Cove		32.30639	-64.80528	H	COVE	BM		05				0		13	Atlantic/Bermuda	1995-08-16
+3573285	Church Bay	Church Bay		32.29417	-64.87611	H	COVE	BM		08				0		8	Atlantic/Bermuda	1995-08-16
+3573286	Church Bay	Church Bay		32.34389	-64.71833	H	BAY	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3573287	Church Bay	Church Bay		32.24861	-64.84778	H	COVE	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3573288	Christian Bay	Christian Bay		32.24806	-64.84	H	COVE	BM		10				0		0	Atlantic/Bermuda	1995-08-16
+3573289	Chelston	Chelston		32.28361	-64.77056	P	PPL	BM		04				0		34	Atlantic/Bermuda	1995-08-16
+3573290	Charles’ Fort	Charles' Fort		32.33833	-64.67167	S	FT	BM		07				0		7	Atlantic/Bermuda	1995-08-16
+3573291	Chaplin Bay	Chaplin Bay	Chaplain Bay,Chaplin Bay	32.25361	-64.81583	H	COVE	BM	BM	10				0		-9999	Atlantic/Bermuda	2012-01-18
+3573292	The Camber	The Camber	The Camber,The Chamber	32.3256	-64.83311	H	HBR	BM	BM	08				0		5	Atlantic/Bermuda	2014-04-07
+3573293	Chaddock Bar	Chaddock Bar		32.23333	-64.9	H	RF	BM		10				0		-9999	Atlantic/Bermuda	1993-12-22
+3573294	Cedar Hill	Cedar Hill		32.25167	-64.86361	T	HLL	BM		10				0		32	Atlantic/Bermuda	1995-08-16
+3573295	Cavello Bay	Cavello Bay		32.29722	-64.85972	H	COVE	BM		08				0		8	Atlantic/Bermuda	1995-08-16
+3573296	Cave Island	Cave Island	Cave Island	32.36389	-64.68806	T	ISL	BM		07				0		3	Atlantic/Bermuda	2012-01-18
+3573297	The Causeway	The Causeway	Causeway,The Causeway	32.35556	-64.70806	R	CSWY	BM	BM	07				0		-1	Atlantic/Bermuda	2012-01-18
+3573298	Cathedral Rocks	Cathedral Rocks		32.28056	-64.88	T	RKS	BM		08				0		0	Atlantic/Bermuda	1995-08-16
+3573299	Cataract Hill	Cataract Hill		32.27722	-64.78167	T	HLL	BM		04				0		52	Atlantic/Bermuda	1995-08-16
+3573300	Castle Roads	Castle Roads	Castle Roads	32.34056	-64.66972	H	CHN	BM		07				0		-9999	Atlantic/Bermuda	2019-02-21
+3573301	Castle Point	Castle Point		32.33889	-64.675	T	PT	BM		07				0		0	Atlantic/Bermuda	1995-08-16
+3573302	Castle Island	Castle Island	Castle Island,Castle Islet	32.34076	-64.67199	T	ISL	BM	BM	07				0		-9999	Atlantic/Bermuda	2019-11-19
+3573303	Castle Harbour	Castle Harbour	Castle Harbor,Castle Harbour	32.34861	-64.68917	H	HBR	BM	BM	07				0		-9999	Atlantic/Bermuda	2012-01-18
+3573304	Cashew City	Cashew City		32.37028	-64.65444	P	PPL	BM		07				0		11	Atlantic/Bermuda	1995-08-16
+3573305	Canton Point	Canton Point		32.31833	-64.71333	T	PT	BM		09				0		6	Atlantic/Bermuda	1995-08-16
+3573306	Canton Bay	Canton Bay		32.32084	-64.71034	H	COVE	BM		09				0		1	Atlantic/Bermuda	2019-11-20
+3573307	Camden	Camden		32.29417	-64.76056	P	PPL	BM		04				0		26	Atlantic/Bermuda	2010-12-28
+3573308	Cambridge Beaches	Cambridge Beaches	Cambridge Beaches	32.30833	-64.86806	T	BCH	BM		08				0		16	Atlantic/Bermuda	2018-12-05
+3573309	Callaghan Bay	Callaghan Bay		32.29278	-64.87583	H	COVE	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3573310	Cable Bay	Cable Bay		32.33444	-64.68833	H	COVE	BM		07				0		0	Atlantic/Bermuda	1995-08-16
+3573311	Burt’s Island	Burt's Island		32.37028	-64.67194	T	ISL	BM		07				0		3	Atlantic/Bermuda	1995-08-16
+3573312	Burton Bay	Burton Bay		32.3	-64.8	H	BAY	BM		05				0		7	Atlantic/Bermuda	1993-12-22
+3573313	Burt’s Island	Burt's Island	Burt Island,Burt's Island,Burt’s Island	32.27528	-64.82556	T	ISL	BM		11				0		9	Atlantic/Bermuda	2012-01-18
+3573314	Burrows Hill	Burrows Hill		32.36056	-64.66833	T	HLL	BM		07				0		5	Atlantic/Bermuda	1995-08-16
+3573315	Burgess Point	Burgess Point		32.365	-64.71472	T	PT	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3573316	Burgess Point	Burgess Point	Burgess Point,Burgiss point	32.26639	-64.83139	T	PT	BM	BM	10				0		1	Atlantic/Bermuda	2012-01-18
+3573317	Burchall Cove	Burchall Cove		32.33694	-64.74	H	COVE	BM		02				0		4	Atlantic/Bermuda	1995-08-16
+3573318	Buildings Bay	Buildings Bay		32.38111	-64.66556	H	BAY	BM		07				0		9	Atlantic/Bermuda	1995-08-16
+3573319	Buck Island	Buck Island		32.25694	-64.85889	T	ISL	BM		10				0		8	Atlantic/Bermuda	1995-08-16
+3573320	Brown’s Bay	Brown's Bay		32.2725	-64.88306	H	BAY	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573321	Brooks Island	Brooks Island	Brooks Island	32.37139	-64.67528	T	ISL	BM		07				0		8	Atlantic/Bermuda	2012-01-18
+3573322	Bremen Cut	Bremen Cut		32.37083	-64.6575	H	CHNM	BM		07				0		4	Atlantic/Bermuda	1995-08-16
+3573323	Brangman’s Fort	Brangman's Fort	Brangman's Fort,Brangman’s Fort,Southampton Fort	32.34222	-64.66778	S	FT	BM		07				0		5	Atlantic/Bermuda	2012-01-18
+3573324	Brackish Pond Flats	Brackish Pond Flats		32.32639	-64.80472	H	SHOL	BM		00				0		-9999	Atlantic/Bermuda	1995-08-16
+3573325	Bowen’s Point	Bowen's Point	Bowen Point,Bowen's Point,Bowen’s Point	32.33306	-64.74222	T	PT	BM		02				0		-9999	Atlantic/Bermuda	2012-01-18
+3573326	Bostock Hill	Bostock Hill		32.28472	-64.78111	T	HLL	BM		04				0		48	Atlantic/Bermuda	1995-08-16
+3573327	Boss’s Cove	Boss's Cove		32.30167	-64.81	H	COVE	BM		05				0		4	Atlantic/Bermuda	1995-08-16
+3573328	Bond Bay	Bond Bay		32.29194	-64.77639	H	BAY	BM		04				0		4	Atlantic/Bermuda	1995-08-16
+3573329	Boiling Hole	Boiling Hole		32.28389	-64.87056	H	COVE	BM		08				0		10	Atlantic/Bermuda	1995-08-16
+3573330	Boaz Island	Boaz Island	Boaz Island	32.30861	-64.85306	T	ISL	BM		08				0		10	Atlantic/Bermuda	2012-02-02
+3573331	Boat Bay	Boat Bay	Boat Bay,Boats Bay,Hunt's Bay,Hunt’s Bay	32.24778	-64.83722	H	COVE	BM	BM	10				0		-9999	Atlantic/Bermuda	2012-01-18
+3573332	Blue Hole	Blue Hole		32.35028	-64.70972	H	COVE	BM		07				0		11	Atlantic/Bermuda	1995-08-16
+3573333	Bluck Point	Bluck Point		32.29917	-64.81444	T	PT	BM		05				0		0	Atlantic/Bermuda	1995-08-16
+3573334	Black Rock	Black Rock		32.35575	-64.64661	T	RK	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20
+3573335	Black Bay	Black Bay		32.31444	-64.84917	H	BAY	BM		08				0		1	Atlantic/Bermuda	1995-08-16
+3573336	Black Bay	Black Bay		32.25583	-64.84	H	BAY	BM		10				0		0	Atlantic/Bermuda	1995-08-16
+3573337	Bird Island	Bird Island		32.29639	-64.80944	T	ISL	BM		05				0		4	Atlantic/Bermuda	1995-08-16
+3573338	Bethell’s Island	Bethell's Island	Bethell's Island,Bethell’s Island	32.285	-64.88	T	ISL	BM		08				0		10	Atlantic/Bermuda	2012-01-18
+3573339	Bethaven	Bethaven		32.28333	-64.75	P	PPL	BM		01				0		-9999	Atlantic/Bermuda	1993-12-22
+3573340	Beta Island	Beta Island	Beta Island	32.28167	-64.82806	T	ISL	BM		11				0		-9999	Atlantic/Bermuda	2012-01-18
+3573341	Naval Air Station Bermuda	Naval Air Station Bermuda	NAS Bermuda,NWU,Naval Air Station Bermuda	32.36556	-64.68028	S	AIRB	BM		07				0		6	Atlantic/Bermuda	2014-01-19
+3573342	Bermuda Islands	Bermuda Islands	Barmudas,Bermoothes,Bermuda,Bermuda Islands,Bermudas,Bermudy,Bermúda,Isle of Devils,Isles of Devils,Somers Islands,Sommer Islands,Summer Islands,Summer Isles,Summers Islands,Бермуды	32.30444	-64.75167	T	ISLS	BM	BM	00				0		25	Atlantic/Bermuda	2012-01-18
+3573343	Main Island	Main Island	Bermuda Island,Great Bermuda,Hamilton Island,Long Island,Main Island,The Main	32.30222	-64.75944	T	ISL	BM	BM	00				0		20	Atlantic/Bermuda	2012-01-18
+3573344	Bermuda Great Reef	Bermuda Great Reef		32.33333	-64.83333	H	RF	BM		08				0		-9999	Atlantic/Bermuda	1993-12-22
+3573345	Bermuda	Bermuda	BDA,Barmuda,Beirmiuda,Beirmiúda,Bemuda,Beremuda,Beremûda,Berimuda,Bermid,Bermioda,Bermoudes,Bermud adalari,Bermud adaları,Bermud utrauzary,Bermuda,Bermuda nutome,Bermuda orollari,Bermuda utraulary,Bermudaa,Bermudaeyjar,Bermudalar,Bermudas,Bermudda,Bermude,Bermudes,Bermudi,Bermudo,Bermudoj,Bermuds'ki ostrovi,Bermudski ostrovi,Bermudskia astravy,Bermudskie Ostrova,Bermudskie o-va,Bermudu salas,Bermudy,Bermudyan kgziner,Bermuuda,Bermwda,Bermúda,Bermúdaeyjar,Bhemuda,Bèrmude,Bèrmudes,Bɛmuda,Bẹ̀rmúdà,IBhemuda,Insulele Bermude,Les Bermudes,Ny Bermioodee,Orileede Bemuda,Orílẹ́ède Bémúdà,Pemuta,Pēmuta,bai mu da,bamyuda,bamyuda zhu dao,baramuda,barmayuda,barmuda,barmyuda,beomyuda,bermuda,bexr miw da,brmwda,brmwdh,bەrmwwda,i-Bermuda,jzr brmwda,permuta,Βερμούδες,Бермуд утрауҙары,Бермуда,Бермуда гӀайренаш,Бермуда утраулары,Бермудалар,Бермуди,Бермудски острови,Бермудские Острова,Бермудские о-ва,Бермудскія астравы,Бермудські острови,Бермуды,Բերմուդյան կղզիներ,ברמודה,برمودا,بېرمۇدا,بەرموودا,جزر برمودا,ބާމިއުޑާ,बरमूडा,बर्मुडा,बर्म्युडा,বারমুডা,ਬਰਮੂਡਾ,બર્મુડા,ବରମୁଡା,ବର୍ମୁଡା,பெர்முடா,బర్మయుడా,బెర్ముడా,ಬರ್ಮುಡಾ,ബര്‍മുഡ,ബെർമുഡ,බර්මියුඩා,เบอร์มิวดา,ເບມວດາ,ເບີມິວດາ,བར་མ་ཌ།,བར་མུ་ཌ།,ဘာမူဒါ,ბერმუდა,ბერმუდაშ კოკეფი,ბერმუდის კუნძულები,ቤርሙዳ,バミューダ,バミューダ諸島,百慕大,百慕達,버뮤다	32.33022	-64.74003	A	PCLD	BM		00				65365		8	Atlantic/Bermuda	2017-11-05
+3573346	Bay Island	Bay Island		32.35028	-64.72611	T	ISL	BM		02				0		2	Atlantic/Bermuda	1995-08-16
+3573347	Banjo Island	Banjo Island	Banjo Island,Bartram Island	32.37583	-64.69361	T	ISL	BM	BM	07				0		5	Atlantic/Bermuda	2012-01-18
+3573348	Barker’s Hill	Barker's Hill		32.30722	-64.76139	T	HLL	BM		01				0		35	Atlantic/Bermuda	1995-08-16
+3573349	Bailey’s Bay	Bailey's Bay		32.34944	-64.72444	H	BAY	BM		02				0		1	Atlantic/Bermuda	1995-08-16
+3573350	Bailey’s Bay Flats	Bailey's Bay Flats	Bailey Bay Flats,Bailey's Bay Flats,Bailey’s Bay Flats	32.37028	-64.74083	H	SHOL	BM		02				0		-9999	Atlantic/Bermuda	2012-01-18
+3573351	Annie’s Bay	Annie's Bay	Annie's Bay,Annie’s Bay	32.35917	-64.65833	H	BAY	BM		07				0		1	Atlantic/Bermuda	2012-05-05
+3573352	Alpha Island	Alpha Island	Alpha Island	32.28435	-64.83182	T	ISL	BM		11				0		-9999	Atlantic/Bermuda	2014-04-07
+3573353	Albuoy’s Point	Albuoy's Point	Albuoy Point,Albuoy's Point,Albuoy’s Point	32.29056	-64.78694	T	PT	BM		03				0		9	Atlantic/Bermuda	2012-01-18
+3573354	Fort Albert	Fort Albert		32.38667	-64.67333	S	FT	BM		06				0		36	Atlantic/Bermuda	1995-08-16
+3573355	Albuoy’s Point	Albuoy's Point	Albanys Point,Albuoy's Point,Albuoy’s Point	32.31472	-64.71583	T	PT	BM		09				0		8	Atlantic/Bermuda	2012-01-18
+3573356	Agar’s Island	Agar's Island		32.29361	-64.80972	T	ISL	BM		05				0		7	Atlantic/Bermuda	1995-08-16
+3573357	Achilles Bay	Achilles Bay		32.39054	-64.67572	H	COVE	BM		06				0		1	Atlantic/Bermuda	2017-07-12
+3573358	Abbot’s Hill	Abbot's Hill		32.34139	-64.72389	T	HLL	BM		02				0		45	Atlantic/Bermuda	1995-08-16
+3573359	Abbot’s Cliff	Abbot's Cliff		32.34056	-64.72361	T	CLF	BM		02				0		22	Atlantic/Bermuda	1995-08-16
+3740306	Waller’s Bay	Waller's Bay		32.33611	-64.68028	H	BAY	BM		07				0		0	Atlantic/Bermuda	1995-08-16
+3740309	Sea Venture Channel	Sea Venture Channel		32.39278	-64.65472	H	CHN	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3740310	Tobacco Rock	Tobacco Rock		32.39167	-64.67722	T	RK	BM		06				0		-9999	Atlantic/Bermuda	1995-08-16
+3740311	Three Hill Shoals	Three Hill Shoals		32.41667	-64.73333	H	SHOL	BM		07				0		-9999	Atlantic/Bermuda	1995-03-09
+3740312	North Channel	North Channel		32.4	-64.74306	H	CHNM	BM		00				0		-9999	Atlantic/Bermuda	1995-08-16
+3740313	Southwest Breaker	Southwest Breaker		32.23333	-64.85	H	RF	BM		01				0		-9999	Atlantic/Bermuda	1995-03-09
+3740314	South Channel	South Channel		32.35361	-64.75139	H	CHN	BM		00				0		-9999	Atlantic/Bermuda	1995-08-16
+3740315	Abbot’s Cliff	Abbot's Cliff		32.33333	-64.73333	T	CLF	BM		02				0		0	Atlantic/Bermuda	1995-03-09
+3740382	North Basin	North Basin		32.32417	-64.83389	H	DCK	BM		08				0		0	Atlantic/Bermuda	2014-10-01
+3740383	South Basin	South Basin		32.32125	-64.83618	H	DCK	BM		08				0		-9999	Atlantic/Bermuda	2017-07-16
+3740384	King’s Wharf	King's Wharf		32.32409	-64.83261	S	QUAY	BM		08				0		-9999	Atlantic/Bermuda	2018-02-02
+3740385	Casemates Prison	Casemates Prison	Casemate Prison,Casemates Prison	32.32486	-64.83624	S	PRN	BM	BM	08				0		-9999	Atlantic/Bermuda	2018-02-21
+3740386	H.M.S. Malabar	H.M.S. Malabar		32.32083	-64.84111	S	BLDG	BM		08				0		11	Atlantic/Bermuda	1995-08-16
+3740387	Devil’s Hole	Devil's Hole		32.32528	-64.83778	H	COVE	BM		08				0		8	Atlantic/Bermuda	1995-08-16
+3740388	Devil’s Kitchen	Devil's Kitchen		32.32278	-64.84028	H	COVE	BM		08				0		4	Atlantic/Bermuda	1995-08-16
+3740389	The Cut Bridge	The Cut Bridge		32.32045	-64.84151	S	BDG	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3740390	Moresby’s Island	Moresby's Island	Moresby's Island,Moresby’s Island	32.31801	-64.84158	T	ISL	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3740393	The Lagoon	The Lagoon		32.31389	-64.84528	H	LGN	BM		08				0		11	Atlantic/Bermuda	1995-08-16
+3740394	Regatta Island	Regatta Island	Regatta Island	32.31222	-64.84361	T	ISL	BM		08				0		6	Atlantic/Bermuda	2012-01-19
+3740395	Crawl Island	Crawl Island	Crawl Island	32.31167	-64.84528	T	ISL	BM		08				0		1	Atlantic/Bermuda	2012-01-19
+3740396	Hospital Island	Hospital Island	Hospital Island	32.31222	-64.84611	T	ISL	BM		08				0		7	Atlantic/Bermuda	2012-01-19
+3740397	Grey Rock	Grey Rock	Grey's Island	32.31303	-64.85065	T	RK	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3740398	Malabar Island	Malabar Island	Malabar Island	32.31188	-64.85205	T	ISL	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3740399	Camber	Camber		32.30757	-64.85505	H	STRT	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3740400	Ferry Point	Ferry Point		32.30429	-64.85929	T	PT	BM		08				0		1	Atlantic/Bermuda	2018-02-21
+3740401	Current Island	Current Island	Current Island	32.30609	-64.85789	T	ISL	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+3740402	One Tree Island	One Tree Island	One Tree Island	32.30917	-64.86361	T	ISL	BM		08				0		-9999	Atlantic/Bermuda	2012-01-19
+3740403	Outer Island	Outer Island	Outer Island	32.31222	-64.86194	T	ISL	BM		08				0		6	Atlantic/Bermuda	2012-01-19
+3740404	Middle Island	Middle Island	Middle Island	32.31167	-64.86306	T	ISL	BM		08				0		5	Atlantic/Bermuda	2012-01-19
+3740405	Inner Island	Inner Island	Inner Island	32.31056	-64.86417	T	ISL	BM		08				0		7	Atlantic/Bermuda	2012-01-19
+3740406	Daniel’s Island Flat	Daniel's Island Flat		32.31583	-64.89889	H	RF	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3740407	Church Snapper Ground	Church Snapper Ground		32.30167	-64.90806	H	SHOL	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3740408	Heydon’s Bay	Heydon's Bay		32.28722	-64.87583	H	BAY	BM		08				0		0	Atlantic/Bermuda	1995-08-16
+3740409	Palm Island	Palm Island	Palm Island	32.28643	-64.87896	T	ISL	BM		08				0		1	Atlantic/Bermuda	2016-02-27
+3740410	Great Harbour’s Mouth	Great Harbour's Mouth		32.28444	-64.88111	H	INLT	BM		08				0		0	Atlantic/Bermuda	1995-08-16
+3740411	Little Harbour’s Mouth	Little Harbour's Mouth		32.28889	-64.87722	H	INLT	BM		08				0		-9999	Atlantic/Bermuda	1995-08-16
+3740412	Scaur Hill	Scaur Hill		32.28694	-64.8725	T	HLL	BM		08				0	13	40	Atlantic/Bermuda	2007-02-18
+3740512	Saint David’s Battery	Saint David's Battery		32.36806	-64.64944	S	FT	BM		07				0		25	Atlantic/Bermuda	1995-08-16
+3740513	Stocks Point	Stocks Point		32.37139	-64.68611	T	PT	BM		07				0		2	Atlantic/Bermuda	1995-08-16
+3740514	Crystal Caves	Crystal Caves		32.35	-64.71333	S	CAVE	BM		02				0		32	Atlantic/Bermuda	1995-08-16
+3740515	Rabbit Island	Rabbit Island	Rabbit Island	32.3325	-64.73028	T	ISL	BM		02				0		0	Atlantic/Bermuda	2012-01-19
+3740516	Crow Island	Crow Island	Crow Island	32.33417	-64.72556	T	ISL	BM		02				0		0	Atlantic/Bermuda	2012-01-19
+3740517	Leamington Caves	Leamington Caves	Leamington Caves	32.34278	-64.70861	S	CAVE	BM		02				0		23	Atlantic/Bermuda	2018-12-05
+3740518	Pembroke Marsh	Pembroke Marsh		32.30194	-64.78056	H	MRSH	BM		05				0		7	Atlantic/Bermuda	1995-08-16
+3740519	Fort Hamilton	Fort Hamilton		32.29472	-64.7775	S	FT	BM		05				0		40	Atlantic/Bermuda	1995-08-16
+3740520	Dunscombe Rocks	Dunscombe Rocks		32.30528	-64.79333	T	RKS	BM		05				0		18	Atlantic/Bermuda	1995-08-16
+3740521	Foot of the Lane	Foot of the Lane	Foot of Crow Lane,Foot of the Lane	32.29306	-64.77361	H	BAY	BM	BM	05				0		12	Atlantic/Bermuda	2012-01-19
+3740522	Pembroke Marsh	Pembroke Marsh		32.29889	-64.80028	H	MRSH	BM		05				0		6	Atlantic/Bermuda	1995-08-16
+3740523	Spanish Rock	Spanish Rock		32.31056	-64.72472	T	RK	BM		09				0		14	Atlantic/Bermuda	1995-08-16
+3740524	Harrington Hundreds	Harrington Hundreds		32.31861	-64.72889	P	PPL	BM		09				0		44	Atlantic/Bermuda	1995-08-16
+3740525	Marley Beach	Marley Beach		32.26472	-64.795	T	BCH	BM		11				0		19	Atlantic/Bermuda	1995-08-16
+3740526	Mermaid Beach	Mermaid Beach	Mermaid Beach	32.26111	-64.8025	T	BCH	BM		11				0		7	Atlantic/Bermuda	2018-12-05
+3740527	Horseshoe Bay	Horseshoe Bay		32.27083	-64.85639	H	HBR	BM		10				0		8	Atlantic/Bermuda	1995-08-16
+3740528	Navy Channel	Navy Channel		32.26944	-64.84139	H	CHNM	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3740529	Church Bay Anchorage	Church Bay Anchorage		32.23667	-64.85278	H	ANCH	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3740530	Little Crumb Island	Little Crumb Island		32.25861	-64.83278	T	RK	BM		11				0		7	Atlantic/Bermuda	1995-08-16
+3740531	Riddell’s Island	Riddell's Island	Riddell's Island,Riddell’s Island	32.26167	-64.82917	T	ISL	BM		10				0		7	Atlantic/Bermuda	2012-01-19
+3740532	Haggis Island	Haggis Island		32.26056	-64.8275	T	RK	BM		10				0		4	Atlantic/Bermuda	1995-08-16
+3740533	Iota Island	Iota Island	Iota Island	32.28472	-64.82333	T	ISL	BM		11				0		8	Atlantic/Bermuda	2012-01-19
+3740534	Epsilon Island	Epsilon Island	Epsilon Island	32.28083	-64.82278	T	ISL	BM		11				0		6	Atlantic/Bermuda	2012-01-19
+3740535	Rickett’s Island	Rickett's Island	Rickett's Island,Rickett’s Island	32.27588	-64.82881	T	ISL	BM		11				0		-9999	Atlantic/Bermuda	2014-04-07
+3740536	Omega Rocks	Omega Rocks		32.28954	-64.83311	T	RKS	BM		11				0		-9999	Atlantic/Bermuda	2014-04-07
+3740537	Kappa Island	Kappa Island		32.28583	-64.82306	T	RK	BM		11				0		4	Atlantic/Bermuda	1995-08-16
+3740538	Eta Island	Eta Island	Eta Island	32.28444	-64.81917	T	ISL	BM		11				0		12	Atlantic/Bermuda	2012-01-19
+3740539	Theta Island	Theta Island	Theta Island	32.28556	-64.81639	T	ISL	BM		11				0		12	Atlantic/Bermuda	2012-01-19
+3740540	Fern Island	Fern Island	Fern Island	32.28333	-64.81639	T	ISL	BM		11				0		-9999	Atlantic/Bermuda	2012-01-19
+3740541	No Name Island	No Name Island	No Name Island	32.28361	-64.81472	T	ISL	BM		11				0		2	Atlantic/Bermuda	2012-01-19
+3740542	Irresistible Island	Irresistible Island	Irresistible Island	32.28194	-64.81306	T	ISL	BM		11				0		-9999	Atlantic/Bermuda	2012-01-19
+3740543	Watling Island	Watling Island	Watling Island	32.285	-64.80806	T	ISL	BM		11				0		6	Atlantic/Bermuda	2012-01-19
+3740544	Burnt Island	Burnt Island	Burnt Island	32.28414	-64.79561	T	ISL	BM		11				0		-9999	Atlantic/Bermuda	2014-04-07
+3740545	Reid Island	Reid Island		32.28611	-64.79917	T	RK	BM		11				0		-9999	Atlantic/Bermuda	1995-08-16
+3740546	Kappa Rock	Kappa Rock		32.28694	-64.82583	T	RK	BM		11				0		0	Atlantic/Bermuda	1995-08-16
+3740547	Agassiz Island	Agassiz Island		32.28944	-64.81444	T	RK	BM		11				0		-9999	Atlantic/Bermuda	1995-08-16
+3740548	Verrill Island	Verrill Island	Verrill Island	32.28972	-64.81361	T	ISL	BM		11				0		7	Atlantic/Bermuda	2012-01-19
+3740549	Beebe Island	Beebe Island		32.29	-64.8125	T	RK	BM		11				0		8	Atlantic/Bermuda	1995-08-16
+3740550	One Rock Passage	One Rock Passage		32.29028	-64.8125	H	CHN	BM		11				0		8	Atlantic/Bermuda	1995-08-16
+3740551	Lefroy Island	Lefroy Island	Lefroy Island	32.29083	-64.81194	T	ISL	BM		11				0		5	Atlantic/Bermuda	2012-01-19
+3740552	Mowbray Island	Mowbray Island		32.29222	-64.81167	T	RK	BM		05				0		2	Atlantic/Bermuda	1995-08-16
+3740553	Mark Rock	Mark Rock		32.29333	-64.81083	T	RK	BM		05				0		2	Atlantic/Bermuda	1995-08-16
+3745079	Alexandra’s Battery	Alexandra's Battery	Alexandra Battery,Alexandra's Battery,Alexandra’s Battery	32.38028	-64.66472	S	FT	BM		07				0		11	Atlantic/Bermuda	2012-01-19
+3745080	Windsor Beach	Windsor Beach	Windsor Beach	32.33444	-64.68167	T	BCH	BM		07				0		0	Atlantic/Bermuda	2018-12-05
+3745081	Castle Cut	Castle Cut		32.33972	-64.67389	H	CHN	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3745082	Cock Rock Cut	Cock Rock Cut		32.34528	-64.66694	H	CHN	BM		07				0		1	Atlantic/Bermuda	1995-08-16
+3745083	Nonsuch Cut	Nonsuch Cut		32.34583	-64.66611	H	CHN	BM		07				0		1	Atlantic/Bermuda	1995-08-16
+3745084	Idol Island	Idol Island	Idol Island	32.34528	-64.66139	T	ISL	BM		07				0		2	Atlantic/Bermuda	2012-01-19
+3745085	Nonsuch Scaur	Nonsuch Scaur		32.34833	-64.66056	H	CHN	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3745086	Tom’s Rocks	Tom's Rocks		32.34139	-64.66889	T	RKS	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3745087	Horn Rock	Horn Rock		32.34306	-64.66639	T	RK	BM		07				0		1	Atlantic/Bermuda	1995-08-16
+3745088	Split Rock	Split Rock		32.34667	-64.66056	T	RK	BM		07				0		2	Atlantic/Bermuda	1995-08-16
+3745089	Soldier Bay	Soldier Bay		32.34696	-64.65352	H	COVE	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20
+3745090	Soldier Point	Soldier Point		32.34626	-64.65295	T	PT	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20
+3745091	Gurnet Head	Gurnet Head		32.34639	-64.65333	T	PT	BM		07				0		4	Atlantic/Bermuda	1995-08-16
+3745093	Neptunus Rock	Neptunus Rock		32.34598	-64.65318	T	RK	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20
+3745094	Bird Rock	Bird Rock		32.33743	-64.67003	T	RK	BM		07				0		-9999	Atlantic/Bermuda	2019-11-19
+3745095	Inner Pear Rocks	Inner Pear Rocks		32.35047	-64.65265	T	RKS	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20
+3745096	Turtle Bay	Turtle Bay		32.35167	-64.65611	H	COVE	BM		07				0		0	Atlantic/Bermuda	1995-08-16
+3745097	Rocky Hole	Rocky Hole		32.35306	-64.65611	H	COVE	BM		07				0		6	Atlantic/Bermuda	1995-08-16
+3745098	The Cove	The Cove		32.3625	-64.65028	H	COVE	BM		07				0		13	Atlantic/Bermuda	1997-07-07
+3745102	Great Oswego Island	Great Oswego Island	Great Oswego Island	32.36667	-64.66167	T	ISL	BM		07				0		6	Atlantic/Bermuda	2012-01-19
+3745103	Little Oswego Island	Little Oswego Island	Little Oswego Island	32.3675	-64.66083	T	ISL	BM		07				0		5	Atlantic/Bermuda	2012-01-19
+3745104	Vaughan’s Bay	Vaughan's Bay		32.36972	-64.65667	H	COVE	BM		07				0		0	Atlantic/Bermuda	1995-08-16
+3745105	Bremen Island	Bremen Island		32.37076	-64.65713	T	RK	BM		07				0		4	Atlantic/Bermuda	2017-07-12
+3745106	Smallpox Bay	Smallpox Bay		32.37028	-64.66	H	COVE	BM		07				0		0	Atlantic/Bermuda	1995-08-16
+3745107	Cocoa Bay	Cocoa Bay		32.36528	-64.66083	H	COVE	BM		07				0		8	Atlantic/Bermuda	1995-08-16
+3745108	Jacob’s Point	Jacob's Point		32.37	-64.67	T	PT	BM		07				0		0	Atlantic/Bermuda	1995-08-16
+3745109	Post Office Bar	Post Office Bar		32.37167	-64.67389	H	RF	BM		07				0		10	Atlantic/Bermuda	1995-08-16
+3745110	Peggy’s Island	Peggy's Island	Peggy's Island,Peggy’s Island	32.37501	-64.67078	T	ISL	BM		07				0		1	Atlantic/Bermuda	2014-10-08
+3745111	Johnson’s Bay	Johnson's Bay		32.37694	-64.68667	H	COVE	BM		07				0		5	Atlantic/Bermuda	1995-08-16
+3745112	Whalers Islands	Whalers Islands		32.37361	-64.66556	T	ISLS	BM		07				0		10	Atlantic/Bermuda	1995-08-16
+3745584	Fairyland Creek	Fairyland Creek		32.29667	-64.80361	H	INLT	BM		05				0		4	Atlantic/Bermuda	1995-08-16
+3745585	Mill Point	Mill Point		32.30056	-64.80944	T	PT	BM		05				0		6	Atlantic/Bermuda	1995-08-16
+3745586	Mouse Island	Mouse Island	Mouse Island	32.30111	-64.80972	T	ISL	BM		05				0		0	Atlantic/Bermuda	2012-01-19
+3745587	Cat Island	Cat Island	Cat Island	32.29944	-64.81	T	ISL	BM		05				0		-9999	Atlantic/Bermuda	2012-01-19
+3745588	Stipple Island	Stipple Island		32.29611	-64.80611	T	RK	BM		05				0		8	Atlantic/Bermuda	1995-08-16
+3745589	Goat Island	Goat Island		32.29611	-64.80722	T	ISL	BM		05				0		5	Atlantic/Bermuda	1995-08-16
+3745590	Soncy Bay	Soncy Bay		32.2925	-64.79972	H	COVE	BM		05				0		4	Atlantic/Bermuda	1995-08-16
+3745591	Cockle Point	Cockle Point		32.29083	-64.79611	T	PT	BM		05				0		6	Atlantic/Bermuda	1995-08-16
+3745592	Blue Hole	Blue Hole		32.285	-64.78361	H	COVE	BM		04				0		16	Atlantic/Bermuda	1995-08-16
+3745593	Butterfield Rock	Butterfield Rock		32.28819	-64.80238	T	RK	BM		04				0		-9999	Atlantic/Bermuda	2014-04-07
+3745594	World’s End Island	World's End Island		32.28891	-64.80377	T	RK	BM		04				0		-9999	Atlantic/Bermuda	2014-04-07
+3745595	Godet’s Island	Godet's Island		32.27972	-64.80167	T	RK	BM		11				0		4	Atlantic/Bermuda	1995-08-16
+3745596	Godet’s Rocks	Godet's Rocks		32.27972	-64.79972	T	RKS	BM		11				0		6	Atlantic/Bermuda	1995-08-16
+3745597	Pitt’s Deep	Pitt's Deep		32.28667	-64.80417	U	BSNU	BM		04				0		-9999	Atlantic/Bermuda	1995-08-16
+3745598	Bartlett’s Bay	Bartlett's Bay		32.25639	-64.83806	H	COVE	BM		10				0		4	Atlantic/Bermuda	1995-08-16
+3745599	Bartlett’s Islands	Bartlett's Islands		32.25667	-64.83722	T	ISLS	BM		10				0		6	Atlantic/Bermuda	1995-08-16
+3745600	Evans Pond	Evans Pond		32.26056	-64.86722	H	PND	BM		10				0		14	Atlantic/Bermuda	1995-08-16
+3745601	Sinky Bay	Sinky Bay		32.24833	-64.83417	H	COVE	BM		10				0		8	Atlantic/Bermuda	1995-08-16
+3745602	Yawning Rock	Yawning Rock		32.24667	-64.83639	T	RK	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3745603	Boat Rock	Boat Rock		32.24694	-64.83722	T	RK	BM		10				0		-9999	Atlantic/Bermuda	1995-08-16
+3745604	Great Whale Point	Great Whale Point		32.24778	-64.83111	T	PT	BM		10				0		4	Atlantic/Bermuda	1995-08-16
+3745605	Cross Rocks	Cross Rocks		32.24889	-64.82722	T	RKS	BM		10				0		3	Atlantic/Bermuda	1995-08-16
+3745606	Fish Hook Island	Fish Hook Island		32.24917	-64.82611	T	RK	BM		10				0		6	Atlantic/Bermuda	1995-08-16
+3745607	Ned’s Hole	Ned's Hole		32.24972	-64.82444	H	COVE	BM		10				0		6	Atlantic/Bermuda	1995-08-16
+3745608	Port Royal Cove	Port Royal Cove		32.25028	-64.82361	H	COVE	BM		10				0		6	Atlantic/Bermuda	1995-08-16
+3745609	Peel Rock	Peel Rock		32.25194	-64.81972	T	RK	BM		10				0		1	Atlantic/Bermuda	1995-08-16
+3745610	Peel Rock Cove	Peel Rock Cove		32.25222	-64.81944	H	COVE	BM		10				0		7	Atlantic/Bermuda	1995-08-16
+3745611	Butts Beach	Butts Beach	Butts Beach	32.2525	-64.81917	T	BCH	BM		10				0		7	Atlantic/Bermuda	2018-12-05
+3745612	Middle Beach	Middle Beach		32.25278	-64.81861	T	BCH	BM		10				0		7	Atlantic/Bermuda	1995-08-16
+3745613	Water Rocks	Water Rocks		32.25306	-64.81833	T	RKS	BM		10				0		9	Atlantic/Bermuda	1995-08-16
+3745614	Water Rocks Beach	Water Rocks Beach	Water Rocks Beach	32.25333	-64.81778	T	BCH	BM		10				0		6	Atlantic/Bermuda	2018-12-05
+3745615	Angle Beach	Angle Beach	Angle Beach	32.25333	-64.8175	T	BCH	BM		10				0		6	Atlantic/Bermuda	2018-12-05
+3745616	Hidden Beach	Hidden Beach		32.25361	-64.81694	T	BCH	BM		10				0		0	Atlantic/Bermuda	1995-08-16
+3745617	Elephant Head	Elephant Head		32.25472	-64.81417	T	PT	BM		11				0		8	Atlantic/Bermuda	1995-08-16
+3745618	Jobson’s Point	Jobson's Point		32.25583	-64.81222	T	PT	BM		11				0		9	Atlantic/Bermuda	1995-08-16
+3745619	Vicker’s Bay	Vicker's Bay		32.29361	-64.75333	H	BAY	BM		01				0		5	Atlantic/Bermuda	1995-08-16
+3745620	Captain Williams’s Bay	Captain Williams's Bay		32.3025	-64.74056	H	BAY	BM		09				0		0	Atlantic/Bermuda	1995-08-16
+3745621	Bayliss’s Bay	Bayliss's Bay		32.31361	-64.72111	H	BAY	BM		09				0		0	Atlantic/Bermuda	1995-08-16
+3745622	Turtle Island	Turtle Island	Turtle Island	32.3225	-64.71583	T	ISL	BM		09				0		10	Atlantic/Bermuda	2012-01-19
+3745623	East Point	East Point		32.325	-64.73944	T	PT	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3745624	Tern Rock	Tern Rock		32.3325	-64.72889	T	RK	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3745625	Collin’s Island	Collin's Island		32.33389	-64.73361	T	RK	BM		02				0		6	Atlantic/Bermuda	1995-08-16
+3745626	Redshank Islands	Redshank Islands		32.32722	-64.73722	T	RK	BM		02				0		10	Atlantic/Bermuda	1995-08-16
+3745627	Devil Head	Devil Head		32.34111	-64.72167	T	PT	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3745628	Cockroach Rock	Cockroach Rock		32.34	-64.72472	T	RK	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3745629	Meeting House Bay	Meeting House Bay		32.34472	-64.71361	H	BAY	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3745630	Dingle Island	Dingle Island		32.34417	-64.71361	T	RK	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3745631	Dingle Point	Dingle Point		32.34417	-64.71306	T	PT	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3745632	White Shoal	White Shoal		32.33917	-64.71528	H	SHOL	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3745633	Gill Licker Shoal	Gill Licker Shoal		32.335	-64.71639	H	SHOL	BM		02				0		0	Atlantic/Bermuda	1995-08-16
+3745634	Smith’s Island Bay	Smith's Island Bay	Smith's Harbour,Smith's Island Bay,Smith’s Harbour,Smith’s Island Bay	32.37333	-64.66861	H	BAY	BM		07				0		7	Atlantic/Bermuda	2012-01-19
+3745635	Powder Hole	Powder Hole		32.37528	-64.67389	U	HOLU	BM		07				0		-9999	Atlantic/Bermuda	1995-08-16
+3745636	Little Rogue’s Island	Little Rogue's Island		32.36556	-64.70778	T	RK	BM		07				0		10	Atlantic/Bermuda	1995-08-16
+3745637	Soldier Bay	Soldier Bay		32.36389	-64.71139	H	COVE	BM		07				0		6	Atlantic/Bermuda	1995-08-16
+3745638	Bridge Bay	Bridge Bay		32.35806	-64.71667	H	COVE	BM		07				0		2	Atlantic/Bermuda	1995-08-16
+3745639	Devonshire Dock	Devonshire Dock		32.30778	-64.77222	H	DCK	BM		01				0		11	Atlantic/Bermuda	1995-08-16
+3745640	Dockyard Point	Dockyard Point		32.30611	-64.78361	T	PT	BM		05				0		13	Atlantic/Bermuda	1995-08-16
+3745642	Mount Island	Mount Island	Mount Island	32.3075	-64.81333	T	ISL	BM		05				0		1	Atlantic/Bermuda	2012-01-19
+3745643	Beek Rock	Beek Rock		32.3075	-64.81417	T	RK	BM		05				0		1	Atlantic/Bermuda	1995-08-16
+3745644	Tilley Island	Tilley Island		32.30778	-64.81583	T	RK	BM		05				0		4	Atlantic/Bermuda	1995-08-16
+3745645	Cobbler’s Cut	Cobbler's Cut		32.30778	-64.81722	H	CHN	BM		05				0		5	Atlantic/Bermuda	1995-08-16
+3745646	Lapstone	Lapstone		32.30876	-64.82033	T	RK	BM		05				0		-9999	Atlantic/Bermuda	2018-02-13
+6467358	The Fairmont Hamilton Princess	The Fairmont Hamilton Princess		32.3023	-64.7974	S	HTL	BM		05				0		38	Atlantic/Bermuda	2007-04-13
+6467989	The Fairmont Southampton Hotel	The Fairmont Southampton Hotel		32.2564	-64.8428	S	HTL	BM		10				0		1	Atlantic/Bermuda	2007-04-13
+6470909	Elbow Beach	Elbow Beach		32.2821	-64.7768	S	HTL	BM						0		11	Atlantic/Bermuda	2007-04-13
+6472151	Grotto Bay Beach Hotel	Grotto Bay Beach Hotel		32.3527	-64.7173	S	HTL	BM		02				0		16	Atlantic/Bermuda	2007-04-13
+6481044	Munro Beach Cottages	MUNRO BEACH COTTAGES		32.1228	-64.7908	S	HTL	BM		10				0		-9999	Atlantic/Bermuda	2007-04-12
+6482360	Aunt Nea's Inn At Hillcrest	Aunt Nea's Inn At Hillcrest		32.38304	-64.68462	S	HTL	BM		06				0		13	Atlantic/Bermuda	2014-01-19
+6497149	Coco Reef Bermuda	Coco Reef Bermuda		32.2904	-64.7703	S	HTL	BM						0		29	Atlantic/Bermuda	2007-04-14
+6497203	Cambridge Beaches Resort	Cambridge Beaches Resort		32.304	-64.8776	S	HTL	BM		08				0		14	Atlantic/Bermuda	2007-04-14
+6497978	9 Beaches	9 Beaches		32.3065	-64.8783	S	HTL	BM		08				0		-9999	Atlantic/Bermuda	2007-04-14
+6500921	Grape Bay Beach Hotel	Grape Bay Beach Hotel		32.2867	-64.7714	S	HTL	BM						0		31	Atlantic/Bermuda	2007-04-14
+6502891	Surf Side Beach Club	Surf Side Beach Club		32.2702	-64.8017	S	HTL	BM						0		14	Atlantic/Bermuda	2007-04-14
+6503418	Ariel Sands Beach Club	Ariel Sands Beach Club		32.3014	-64.7541	S	HTL	BM						0		35	Atlantic/Bermuda	2007-04-14
+6503461	Wharf Executive Suites	Wharf Executive Suites		32.1228	-64.7908	S	HTL	BM		10				0		-9999	Atlantic/Bermuda	2007-04-14
+6503525	Harmony Club Bermuda	Harmony Club Bermuda		32.2894	-64.7822	S	HTL	BM		03				0		1	Atlantic/Bermuda	2014-01-19
+6505128	Rosemont Apartments	ROSEMONT APARTMENTS		32.3333	-64.75	S	HTL	BM		01				0		-9999	Atlantic/Bermuda	2007-04-12
+6509318	Horizons And Cottages	HORIZONS AND COTTAGES		31.7679	-64.4837	S	HTL	BM		10				0		-9999	Atlantic/Bermuda	2007-04-13
+6510092	Pink Beach Club	PINK BEACH CLUB		32.1228	-64.7908	S	HTL	BM		10				0		-9999	Atlantic/Bermuda	2007-04-13
+6512245	Clear View Suites And Cottages	CLEAR VIEW SUITES AND COTTAGES		32.1228	-64.7908	S	HTL	BM		10				0		-9999	Atlantic/Bermuda	2007-04-13
+6514669	Harmony Club	HARMONY CLUB		32.12	-64.2724	S	HTL	BM		07				0		-9999	Atlantic/Bermuda	2007-04-12
+6526488	Waterloo House	WATERLOO HOUSE		32.2833	-64.7833	S	HTL	BM		04				0		49	Atlantic/Bermuda	2007-04-14
+6529756	Fourways Inn And Cottages	FOURWAYS INN AND COTTAGES		32.1228	-64.7908	S	HTL	BM		10				0		-9999	Atlantic/Bermuda	2007-04-14
+6530977	Pompano Beach Club	POMPANO BEACH CLUB		32.1228	-64.7908	S	HTL	BM		10				0		-9999	Atlantic/Bermuda	2007-04-14
+6532790	Sandpiper Apartments	SANDPIPER APARTMENTS		32.1228	-64.7908	S	HTL	BM		10				0		-9999	Atlantic/Bermuda	2007-04-14
+6940885	Darrell's Wharf Ferry Stop	Darrell's Wharf Ferry Stop		32.28096	-64.79591	P	PPLX	BM		04				0		8	Atlantic/Bermuda	2013-01-30
+6940886	Cobbs Hill Road	Cobbs Hill Road		32.28	-64.79448	R	RD	BM						0		20	Atlantic/Bermuda	2009-04-18
+6940887	Warwick Academy	Warwick Academy		32.27624	-64.79397	S	SCH	BM						0		27	Atlantic/Bermuda	2009-04-18
+6940888	Upper Crust	Upper Crust		32.27616	-64.79255	S	BLDG	BM						0		38	Atlantic/Bermuda	2009-04-18
+8533871	Pembroke Parish	Pembroke Parish	Pembroke,Pembroke Parish	32.30019	-64.79204	P	PPLL	BM		05				0		8	Atlantic/Bermuda	2013-06-05
+8741174	Hogfish Beacon	Hogfish Beacon		32.3107	-64.82275	S	BCN	BM		05				0		-9999	Atlantic/Bermuda	2018-02-13
+9609562	Bermuda Aquarium, Museum, and Zoo	Bermuda Aquarium, Museum, and Zoo		32.32377	-64.73664	S	MUS	BM						0		13	Atlantic/Bermuda	2014-09-21
+10105927	Rosedon Hotel	Rosedon Hotel		32.29185	-64.79177	S	HTL	BM						0		12	Atlantic/Bermuda	2015-02-19
+10106635	Surfside Beach Club	Surfside Beach Club		32.26849	-64.7871	S	HTL	BM						0		32	Atlantic/Bermuda	2015-02-19
+10106637	Newstead Belmont Hills Golf Resort & Spa	Newstead Belmont Hills Golf Resort & Spa		32.27543	-64.80112	S	HTL	BM						0		29	Atlantic/Bermuda	2015-02-19
+10107866	Rosewood Tuckers Point	Rosewood Tuckers Point		32.33938	-64.70006	S	HTL	BM						0		32	Atlantic/Bermuda	2015-02-20
+10121214	Coco Reef Resort Bermuda	Coco Reef Resort Bermuda		32.27611	-64.7744	S	HTL	BM						0		18	Atlantic/Bermuda	2015-02-26
+10124943	The Reefs Hotel And Spa	The Reefs Hotel And Spa		32.249	-64.83933	S	HTL	BM						0		29	Atlantic/Bermuda	2015-03-04
+10229691	Clearview Suites & Villas	Clearview Suites & Villas		32.3419	-64.7372	S	HTL	BM						0		1	Atlantic/Bermuda	2015-04-21
+10229692	Rosewood Tucker'S Point	Rosewood Tucker'S Point		32.3394	-64.70004	S	HTL	BM						0		32	Atlantic/Bermuda	2015-04-21
+10252690	Cambridge Beaches Resort and Spa	Cambridge Beaches Resort and Spa		32.30859	-64.8682	S	HTL	BM						0		16	Atlantic/Bermuda	2015-05-08
+10252692	Dawkins Manor Hotel	Dawkins Manor Hotel		32.2794	-64.77477	S	HTL	BM						0		21	Atlantic/Bermuda	2015-05-08
+10252721	Royal Palms Hotel	Royal Palms Hotel		32.29518	-64.79291	S	HTL	BM						0		14	Atlantic/Bermuda	2015-05-08
+10300411	Bermuda Railway Museum	Bermuda Railway Museum		32.32574	-64.74255	S	MUS	BM						0		14	Atlantic/Bermuda	2015-06-03
+10300412	Shelly Bay Beach	Shelly Bay Beach		32.33291	-64.73915	T	BCH	BM						0		0	Atlantic/Bermuda	2015-06-03
+10300413	Shelly Bay Park	Shelly Bay Park		32.3348	-64.73947	L	PRK	BM						0		7	Atlantic/Bermuda	2015-06-03
+10300414	Abbots Cliff Park	Abbots Cliff Park		32.34448	-64.72777	S	PRKGT	BM						0		32	Atlantic/Bermuda	2015-06-03
+10300415	Elbow Beach	Elbow Beach		32.27276	-64.77655	T	BCH	BM						0		1	Atlantic/Bermuda	2015-06-03
+10300416	Pink Beach	Pink Beach		32.32257	-64.70842	T	BCH	BM						0		5	Atlantic/Bermuda	2015-06-03
+10300417	Sinky Bay Beach	Sinky Bay Beach		32.24887	-64.83314	T	BCH	BM						0		14	Atlantic/Bermuda	2015-06-03
+10300418	Cross Bay Beach	Cross Bay Beach		32.24902	-64.83106	T	BCH	BM						0		17	Atlantic/Bermuda	2015-06-03
+10300419	Surf Side Beach	Surf Side Beach		32.26717	-64.78873	T	BCH	BM						0		22	Atlantic/Bermuda	2015-06-03
+10300420	Palm Grove Garden	Palm Grove Garden		32.30023	-64.74856	S	GDN	BM						0		16	Atlantic/Bermuda	2015-06-03
+10300421	Arboretum	Arboretum		32.29819	-64.76683	L	PRK	BM						0		49	Atlantic/Bermuda	2015-06-03
+10300422	Bermuda National Stadium	Bermuda National Stadium		32.30056	-64.76982	S	STDM	BM						0		41	Atlantic/Bermuda	2015-06-03
+10300423	Historical Society Museum	Historical Society Museum		32.29273	-64.78631	S	MUS	BM						0		15	Atlantic/Bermuda	2015-06-03
+10300424	Hamilton City Hall & Arts Centre	Hamilton City Hall & Arts Centre		32.29415	-64.78315	S	MUS	BM						0		27	Atlantic/Bermuda	2015-06-03
+10300425	Bermuda National Gallery	Bermuda National Gallery		32.29445	-64.78529	S	MUS	BM						0		19	Atlantic/Bermuda	2015-06-03
+11054831	Cross Bay	Cross Bay		32.25346	-64.83882	P	PPL	BM		10				135		67	Atlantic/Bermuda	2017-09-12
+11054833	Stovel Bay	Stovel Bay		32.30587	-64.81429	P	PPL	BM		05				411		8	Atlantic/Bermuda	2016-02-04
+11376972	Motor Sports Park	Motor Sports Park		32.35847	-64.66247	L	AMUS	BM						0		1	Atlantic/Bermuda	2016-12-06
+11376973	The Mid Ocean Club	The Mid Ocean Club		32.33101	-64.69363	S	RECG	BM						0		20	Atlantic/Bermuda	2016-12-06
+11376974	Belmont Hills Golf Club	Belmont Hills Golf Club		32.27402	-64.79932	S	RECG	BM						0		21	Atlantic/Bermuda	2016-12-06
+11376975	Port Royal Golf Course	Port Royal Golf Course		32.26166	-64.87375	S	RECG	BM						0		44	Atlantic/Bermuda	2016-12-06
+11376976	The Turtle Hill Golf Club	The Turtle Hill Golf Club		32.25313	-64.82869	S	RECG	BM						0		54	Atlantic/Bermuda	2016-12-06
+11609118	Saint David's Lighthouse	Saint David's Lighthouse		32.36403	-64.65169	S	LTHSE	BM		07				0		45	Atlantic/Bermuda	2017-07-12
+11810619	North Breakwater	North Breakwater		32.32429	-64.83274	S	BRKW	BM		08				0		-9999	Atlantic/Bermuda	2019-11-19
+11810620	South Breakwater	South Breakwater		32.31997	-64.83484	S	BRKW	BM		08				0		-9999	Atlantic/Bermuda	2019-11-19
+11810621	Stag Rocks Beacon	Stag Rocks Beacon		32.31401	-64.82972	S	BCN	BM		05				0		-9999	Atlantic/Bermuda	2018-02-02
+11810623	North Breakwater Light	North Breakwater Light		32.32236	-64.83428	S	LTHSE	BM		08				0		-9999	Atlantic/Bermuda	2018-02-02
+11810624	Royal Navy Dockyard (historical)	Royal Navy Dockyard (historical)		32.32503	-64.83467	S	DCKY	BM		08				0		-9999	Atlantic/Bermuda	2018-02-13
+11818959	Gibb's Hill Lighthouse	Gibb's Hill Lighthouse	Gibbs Hill Light	32.25283	-64.83478	S	LTHSE	BM		10				0		1	Atlantic/Bermuda	2018-02-13
+11818960	Naval Dockyard Clock Tower	Naval Dockyard Clock Tower		32.32506	-64.83501	S	TOWR	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+11820563	North Rock Light	North Rock Light		32.47568	-64.76979	S	LTHSE	BM		07				0		-9999	Atlantic/Bermuda	2018-02-20
+11820564	North Rock	North Rock		32.47551	-64.76906	T	RK	BM		07				0		-9999	Atlantic/Bermuda	2018-02-20
+11820566	Great Breaker Ledge Flat	Great Breaker Ledge Flat		32.47984	-64.74179	H	BNK	BM						0		-9999	Atlantic/Bermuda	2018-02-20
+11820567	Northeast Breakers	Northeast Breakers		32.48157	-64.69346	H	BNK	BM						0		-9999	Atlantic/Bermuda	2018-02-20
+11820568	Northeast Beacon	Northeast Beacon		32.47847	-64.68219	S	LTHSE	BM						0		-9999	Atlantic/Bermuda	2018-02-20
+11820569	Leghorn Rock	Leghorn Rock		32.47035	-64.80519	T	RK	BM						0		-9999	Atlantic/Bermuda	2018-02-20
+11820570	Hog Breaker	Hog Breaker		32.46312	-64.83049	T	RK	BM						0		-9999	Atlantic/Bermuda	2018-02-20
+11820571	Snapper Rocks	Snapper Rocks		32.45745	-64.7711	H	SHOL	BM						0		-9999	Atlantic/Bermuda	2018-02-20
+11820572	Ledge Flats	Ledge Flats		32.41303	-64.86888	H	BNK	BM		08				0		-9999	Atlantic/Bermuda	2018-02-20
+11820573	Eastern Blue Cut Light	Eastern Blue Cut Light		32.39981	-64.87798	S	LTHSE	BM		08				0		-9999	Atlantic/Bermuda	2018-02-20
+11820574	Pilchard Dicks	Pilchard Dicks		32.36776	-64.91477	H	RF	BM						0		-9999	Atlantic/Bermuda	2018-02-20
+11820575	Chub Cut	Chub Cut		32.33883	-64.93073	H	CHNM	BM						0		-9999	Atlantic/Bermuda	2018-02-20
+11820576	Western Blue Cut	Western Blue Cut		32.3606	-64.91261	H	CHNM	BM						0		-9999	Atlantic/Bermuda	2018-02-20
+11820577	Eastern Blue Cut	Eastern Blue Cut		32.39169	-64.89254	H	CHNM	BM		08				0		-9999	Atlantic/Bermuda	2018-02-20
+11820726	Somerset Narrows	Somerset Narrows		32.3049	-64.85796	H	NRWS	BM		08				0		-9999	Atlantic/Bermuda	2018-02-21
+11820756	Outer Fairway Buoy (historical)	Outer Fairway Buoy (historical)		32.37944	-64.64896	S	BCN	BM		07				0		-9999	Atlantic/Bermuda	2018-02-21
+12104448	Dockyard Chapel (historical)	Dockyard Chapel (historical)		32.32779	-64.83432	S	CH	BM		08				0		-9999	Atlantic/Bermuda	2019-11-19
+12104475	Charles Island	Charles Island		32.33865	-64.67115	T	ISL	BM		02				0		-9999	Atlantic/Bermuda	2019-11-19
+12104490	Jumping Rock	Jumping Rock		32.34627	-64.6495	H	RF	BM		07				0		-9999	Atlantic/Bermuda	2019-11-20

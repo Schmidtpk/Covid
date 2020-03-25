@@ -1,0 +1,1084 @@
+3373406	Yorkshire	Yorkshire		13.10274	-59.51206	P	PPL	BB		01				0		79	America/Barbados	2016-10-28
+3373407	Wotton	Wotton		13.07584	-59.54571	P	PPL	BB		01				0		52	America/Barbados	2016-10-28
+3373408	Worthing	Worthing		13.07496	-59.58358	P	PPL	BB		01				0		10	America/Barbados	2011-03-17
+3373409	Workhall	Workhall	Workhall	13.12571	-59.45603	P	PPL	BB		10				0		41	America/Barbados	2016-10-29
+3373410	Woodbourne	Woodbourne	Woodbourne	13.10356	-59.48989	P	PPL	BB		10				0		31	America/Barbados	2016-10-28
+3373411	Woman’s Bay	Woman's Bay		13.04967	-59.51011	H	BAY	BB		01				0		1	America/Barbados	2016-03-09
+3373412	Windy Ridge	Windy Ridge		13.17934	-59.46644	P	PPLL	BB		05				0		10	America/Barbados	2016-10-28
+3373413	Windy Hill	Windy Hill		13.24618	-59.55621	P	PPL	BB		02				0		12	America/Barbados	2016-10-28
+3373414	Windsor Station	Windsor Station		13.11802	-59.52121	S	RSTN	BB		00				0		52	America/Barbados	2016-10-28
+3373415	Windsor	Windsor		13.11743	-59.52264	P	PPL	BB		00				0		52	America/Barbados	2015-08-29
+3373416	Wilson Hill	Wilson Hill		13.18113	-59.52933	P	PPL	BB		05				0		253	America/Barbados	2016-10-28
+3373417	Wildey	Wildey	Wildey	13.09385	-59.5834	P	PPL	BB		08				0		76	America/Barbados	2016-10-28
+3373418	Wilcox	Wilcox		13.06731	-59.51182	P	PPL	BB		01				0		41	America/Barbados	2016-03-09
+3373419	White Hill	White Hill	White Hill	13.21373	-59.58111	P	PPL	BB		02				0		266	America/Barbados	2016-10-28
+3373420	Whitehaven	Whitehaven		13.16741	-59.45234	P	PPL	BB		10				0		39	America/Barbados	2016-10-28
+3373421	White Hall	White Hall		13.25173	-59.62263	P	PPLL	BB		09				0		105	America/Barbados	2016-10-28
+3373422	Weymouth	Weymouth		13.10031	-59.60906	P	PPLX	BB		08				0		7	America/Barbados	2016-10-28
+3373423	Weston	Weston		13.215	-59.63864	P	PPL	BB		04				0		26	America/Barbados	2016-10-28
+3373424	Westmoreland	Westmoreland		13.21672	-59.62021	P	PPL	BB		04				0		126	America/Barbados	2016-10-28
+3373425	Well Road	Well Road		13.30754	-59.5847	P	PPL	BB		07				0		20	America/Barbados	2016-10-28
+3373426	Wellhouse	Wellhouse		13.13808	-59.43534	P	PPL	BB		10				0		33	America/Barbados	2016-10-29
+3373427	Welchtown	Welchtown	Welch Town	13.26829	-59.59682	P	PPL	BB		09				0		213	America/Barbados	2016-10-28
+3373429	Welch Town	Welch Town		13.18279	-59.48612	P	PPL	BB		05				0		143	America/Barbados	2016-10-28
+3373430	Welchman Hall	Welchman Hall		13.18676	-59.57663	P	PPLA	BB		11				0		291	America/Barbados	2016-10-28
+3373431	Welches	Welches		13.068	-59.55223	P	PPL	BB		01				0		10	America/Barbados	2018-03-08
+3373432	Waverley Cot	Waverley Cot		13.13043	-59.53723	P	PPL	BB		03				0		120	America/Barbados	2016-10-28
+3373433	Watts Village	Watts Village		13.10943	-59.53401	P	PPL	BB		03				0		66	America/Barbados	2016-10-28
+3373434	Waterford	Waterford		13.11497	-59.59302	P	PPL	BB		08				0		42	America/Barbados	2016-10-28
+3373435	Warrens	Warrens	Warrens	13.14537	-59.60592	P	PPL	BB		08				0		86	America/Barbados	2016-10-28
+3373436	Warners	Warners		13.08208	-59.57247	P	PPL	BB		01				0		55	America/Barbados	2016-10-28
+3373437	Warleigh	Warleigh		13.24759	-59.62804	P	PPL	BB		09				0		79	America/Barbados	2016-10-28
+3373438	Wanstead	Wanstead		13.13979	-59.62782	P	PPL	BB		08				0		103	America/Barbados	2016-10-28
+3373439	Walronds	Walronds		13.09478	-59.49202	P	PPL	BB		01				0		64	America/Barbados	2016-10-28
+3373440	Walkes Spring	Walkes Spring	Walkes Spring,francia	13.17832	-59.56873	P	PPL	BB		11				0		240	America/Barbados	2016-10-28
+3373441	Walkers Terrace	Walkers Terrace		13.13754	-59.56009	P	PPL	BB		03				0		126	America/Barbados	2016-10-28
+3373442	Walker’s Savannah	Walker's Savannah		13.25845	-59.56418	L	LCTY	BB		02				0		22	America/Barbados	2016-10-28
+3373443	Walkers Beach	Walkers Beach		13.25707	-59.55755	T	BCH	BB		02				0		1	America/Barbados	2016-10-28
+3373444	Wakefield Tenantry	Wakefield Tenantry		13.16921	-59.52702	P	PPL	BB		05				0		234	America/Barbados	2016-10-28
+3373445	Wakefield	Wakefield	Haynes Field,Wakefield	13.17669	-59.52371	P	PPL	BB	BB	05				0		220	America/Barbados	2016-10-28
+3373446	Vineyard	Vineyard		13.14737	-59.46454	P	PPL	BB		10				0		71	America/Barbados	2016-10-29
+3373447	Verdun	Verdun	Cheshire,Verdun	13.18056	-59.50491	P	PPL	BB	BB	05				0		242	America/Barbados	2016-10-28
+3373448	Venture	Venture		13.18774	-59.52575	P	PPL	BB		05				0		254	America/Barbados	2018-03-08
+3373449	Vauxhall	Vauxhall		13.08146	-59.56418	P	PPL	BB		01				0		60	America/Barbados	2016-10-28
+3373450	Vaucluse Factory	Vaucluse Factory		13.17254	-59.59489	P	PPL	BB		11				0		222	America/Barbados	2016-10-28
+3373451	Valley	Valley		13.1305	-59.56726	P	PPL	BB		03				0		69	America/Barbados	2016-10-28
+3373452	Upper Salmonds	Upper Salmonds		13.31559	-59.59414	P	PPL	BB		07				0		21	America/Barbados	2016-10-28
+3373453	Upper Parks	Upper Parks		13.20648	-59.55785	P	PPL	BB		06				0		256	America/Barbados	2016-10-28
+3373454	Upper Carlton	Upper Carlton		13.2229	-59.62347	P	PPL	BB		04				0		122	America/Barbados	2016-10-28
+3373455	Union Hall	Union Hall		13.11932	-59.44424	P	PPL	BB		10				0		23	America/Barbados	2016-10-29
+3373456	Union	Union		13.13687	-59.5406	P	PPL	BB		03				0		144	America/Barbados	2016-10-28
+3373457	Two Mile Hill	Two Mile Hill	Two Mile Hill	13.1045	-59.58534	P	PPL	BB		08				0		65	America/Barbados	2016-10-28
+3373458	Turnpike	Turnpike		13.12309	-59.54319	P	PPL	BB		03				0		70	America/Barbados	2016-10-28
+3373459	Turners Hall	Turners Hall		13.2249	-59.58809	P	PPL	BB		02				0		220	America/Barbados	2016-10-28
+3373460	Trents	Trents		13.29862	-59.62715	P	PPL	BB		07				0		65	America/Barbados	2016-10-28
+3373461	Trents	Trents		13.1928	-59.63202	P	PPL	BB		04				0		50	America/Barbados	2016-10-28
+3373462	Trader Bank	Trader Bank		13.05	-59.65	H	BNK	BB		00				0		-9999	America/Barbados	1993-12-22
+3373463	Touce’s Point	Touce's Point		13.33377	-59.62111	T	PT	BB		07				0		-9999	America/Barbados	2016-10-28
+3373464	Top Rock	Top Rock		13.07212	-59.56805	P	PPL	BB		01				0		24	America/Barbados	2016-10-28
+3373465	Todds	Todds		13.16098	-59.52041	P	PPL	BB		05				0		201	America/Barbados	2016-10-28
+3373466	Three Houses Station	Three Houses Station		13.15747	-59.45727	S	RSTN	BB		00				0		48	America/Barbados	2016-10-29
+3373467	Three Houses	Three Houses		13.15793	-59.45648	S	EST	BB		10				0		46	America/Barbados	2016-10-28
+3373468	Three Boys’ Rock	Three Boys' Rock		13.21053	-59.5102	T	RK	BB		05				0		1	America/Barbados	2016-10-28
+3373469	Thornbury Hill	Thornbury Hill		13.06919	-59.5295	P	PPL	BB		01				0		52	America/Barbados	2016-03-09
+3373470	Thicket	Thicket		13.15588	-59.46425	P	PPL	BB		10				0		89	America/Barbados	2016-10-29
+3373471	The Whim	The Whim		13.25226	-59.62954	P	PPL	BB		09				0		68	America/Barbados	2016-10-28
+3373472	The Savannah	The Savannah		13.26413	-59.56916	L	LCTY	BB		02				0		16	America/Barbados	2016-10-28
+3373473	The Risk	The Risk		13.29203	-59.57729	P	PPL	BB		09				0		96	America/Barbados	2016-10-28
+3373474	The Potteries	The Potteries		13.23489	-59.55319	L	LCTY	BB		02				0		126	America/Barbados	2016-10-28
+3373475	The Glebe	The Glebe		13.13235	-59.56444	P	PPL	BB		03				0		81	America/Barbados	2016-10-28
+3373476	The Garden	The Garden		13.20627	-59.63786	P	PPL	BB		04				0		23	America/Barbados	2016-10-28
+3373477	Crane	Crane	The Crane	13.10487	-59.44861	P	PPLA	BB		10				935		24	America/Barbados	2018-03-08
+3373478	The Baltic	The Baltic		13.28805	-59.58346	P	PPL	BB		09				0		141	America/Barbados	2016-10-28
+3373479	Tent Bay	Tent Bay		13.20166	-59.51152	P	PPL	BB		06				0		128	America/Barbados	2016-10-28
+3373480	Pico Teneriffe	Pico Teneriffe		13.27917	-59.57341	T	HLL	BB		09				0		109	America/Barbados	2016-10-28
+3373481	Taylor Bay	Taylor Bay		13.32309	-59.63847	H	COVE	BB		07				0		31	America/Barbados	2016-10-28
+3373482	Sweet Bottom	Sweet Bottom	Sweet Bottom,Sweet Vale	13.16687	-59.54755	P	PPL	BB	BB	03				0		219	America/Barbados	2016-10-28
+3373483	Swanns	Swanns		13.23679	-59.5924	P	PPL	BB		02				0		112	America/Barbados	2016-10-28
+3373484	Sutherland Road	Sutherland Road		13.28057	-59.64688	P	PPL	BB		07				0		38	America/Barbados	2016-10-28
+3373485	Surinam	Surinam		13.19675	-59.54689	P	PPL	BB		06				0		308	America/Barbados	2016-10-28
+3373486	Supers	Supers		13.16637	-59.46318	P	PPL	BB		10				0		87	America/Barbados	2016-10-29
+3373487	Sunset Crest	Sunset Crest		13.17852	-59.63814	P	PPL	BB		04				0		8	America/Barbados	2016-10-28
+3373488	Sunbury Station	Sunbury Station		13.12542	-59.48249	S	RSTN	BB		10				0		53	America/Barbados	2016-10-28
+3373489	Sunbury	Sunbury	Sunbury	13.1259	-59.48298	P	PPL	BB		10				0		52	America/Barbados	2016-10-28
+3373490	Summervale	Summervale		13.14435	-59.47944	P	PPL	BB		10				0		113	America/Barbados	2016-10-29
+3373491	Sugar Hill	Sugar Hill		13.19351	-59.55737	P	PPL	BB		06				0		313	America/Barbados	2018-07-04
+3373492	Sturges	Sturges		13.19142	-59.57334	P	PPL	BB		06				0		312	America/Barbados	2016-10-28
+3373493	Stroud Point	Stroud Point	Bargie Point,Stroud Point	13.32879	-59.63386	T	PT	BB	BB	07				0		1	America/Barbados	2016-10-28
+3373494	Stroude Land	Stroude Land		13.11822	-59.45266	P	PPL	BB		10				0		32	America/Barbados	2016-10-29
+3373495	Stroud Bay	Stroud Bay		13.31864	-59.64224	H	BGHT	BB		07				0		1	America/Barbados	2016-10-28
+3373496	St. Patricks	St. Patricks		13.09896	-59.49749	P	PPL	BB		01				0		47	America/Barbados	2016-10-28
+3373497	Stewart Hill	Stewart Hill		13.16176	-59.47959	P	PPL	BB		05				0		188	America/Barbados	2016-10-28
+3373498	Stepney	Stepney		13.11258	-59.55403	P	PPL	BB		03				0		74	America/Barbados	2016-10-28
+3373499	Station Hill	Station Hill		13.11018	-59.60366	P	PPLX	BB		08				0		25	America/Barbados	2016-10-28
+3373500	Spring Head	Spring Head		13.22764	-59.60139	P	PPL	BB		07				0		269	America/Barbados	2016-10-28
+3373501	Spring Hall	Spring Hall		13.31012	-59.61137	P	PPL	BB		07				0		58	America/Barbados	2016-10-28
+3373502	Springfield	Springfield		13.21699	-59.54135	P	PPL	BB		06				0		184	America/Barbados	2016-10-28
+3373503	The Spout	The Spout		13.32767	-59.59977	T	PT	BB		07				0		6	America/Barbados	2016-10-28
+3373504	Spencers	Spencers		13.08617	-59.4782	P	PPL	BB		01				0		59	America/Barbados	2016-10-28
+3373505	Speightstown	Speightstown	Speightstown,Spreightstown	13.25072	-59.64396	P	PPLA	BB		09				3634		9	America/Barbados	2016-10-28
+3373506	South Point Lighthouse	South Point Lighthouse	South Point Lighthouse	13.04712	-59.52942	S	LTHSE	BB		01				0		21	America/Barbados	2016-03-09
+3373507	South Point	South Point		13.04516	-59.52695	T	PT	BB		01				0		6	America/Barbados	2016-03-09
+3373508	South District	South District		13.10911	-59.54811	P	PPL	BB		03				0		95	America/Barbados	2016-10-28
+3373509	Small Town	Small Town		13.17251	-59.50137	P	PPL	BB		05				0		197	America/Barbados	2016-10-28
+3373510	Small Hope	Small Hope		13.18219	-59.5056	P	PPL	BB		05				0		237	America/Barbados	2016-10-28
+3373511	Skeete's Bay	Skeete's Bay		13.16936	-59.44741	H	BAY	BB		05				0		1	America/Barbados	2016-10-28
+3373512	Skeenes Hill	Skeenes Hill		13.10406	-59.52796	P	PPL	BB		01				0		93	America/Barbados	2016-10-28
+3373513	Six Men’s Bay	Six Men's Bay	Six Men's Bay,Six Men’s Bay	13.26259	-59.64503	H	BAY	BB		09				0		1	America/Barbados	2016-10-28
+3373514	Six Mens	Six Mens		13.26788	-59.64313	P	PPL	BB		09				0		10	America/Barbados	2018-03-08
+3373515	Six Cross Roads	Six Cross Roads		13.11772	-59.477	P	PPL	BB		01				0		34	America/Barbados	2016-10-28
+3373516	Sion Hill	Sion Hill		13.22685	-59.6192	P	PPL	BB		09				0		165	America/Barbados	2016-10-28
+3373517	Sion Hill	Sion Hill		13.10188	-59.50569	P	PPL	BB		01				0		67	America/Barbados	2016-10-28
+3373518	Silver Sands	Silver Sands		13.04827	-59.51869	P	PPL	BB		01				0		12	America/Barbados	2016-03-09
+3373519	Silver Hill	Silver Hill		13.0757	-59.54986	P	PPLX	BB		01				0		59	America/Barbados	2018-07-04
+3373520	Shrewsbury Chapel	Shrewsbury Chapel		13.13686	-59.4354	S	CH	BB		10				0		35	America/Barbados	2016-10-29
+3373521	Shorey	Shorey		13.26221	-59.57191	P	PPL	BB		02				0		21	America/Barbados	2016-10-28
+3373522	Shop Hill	Shop Hill		13.16392	-59.60096	P	PPL	BB		11				0		203	America/Barbados	2016-10-28
+3373523	Sherbourne	Sherbourne		13.1815	-59.52101	P	PPL	BB		05				0		230	America/Barbados	2018-03-08
+3373524	Sheraton Park	Sheraton Park		13.08333	-59.56215	P	PPLX	BB		01				0		87	America/Barbados	2018-07-04
+3373525	Shark’s Hole	Shark's Hole		13.12055	-59.43254	T	PT	BB		10				0		6	America/Barbados	2016-10-29
+3373526	The Shallows	The Shallows		12.96667	-59.46667	H	BNK	BB		00				0		-9999	America/Barbados	1993-12-22
+3373527	Selah School	Selah School		13.31404	-59.6349	S	SCH	BB		07				0		44	America/Barbados	2016-10-28
+3373528	Sedge Pond	Sedge Pond		13.24264	-59.5951	P	PPL	BB		09				0		147	America/Barbados	2016-10-28
+3373529	Seaview	Seaview		13.32211	-59.6008	P	PPL	BB		07				0		17	America/Barbados	2016-10-28
+3373530	Seaview	Seaview		13.18553	-59.62027	P	PPL	BB		04				0		108	America/Barbados	2016-10-28
+3373531	Seaview	Seaview		13.06504	-59.49854	P	PPL	BB		01				0		17	America/Barbados	2016-03-09
+3373532	Searles	Searles		13.09486	-59.50783	P	PPL	BB		01				0		82	America/Barbados	2016-10-28
+3373533	Searles	Searles	Seales,Searles	13.08995	-59.50137	P	PPL	BB	BB	01				0		78	America/Barbados	2016-10-28
+3373534	Sealy Hill	Sealy Hill		13.15747	-59.44121	P	PPL	BB		10				0		38	America/Barbados	2016-10-28
+3373535	Sealy Hall	Sealy Hall		13.1718	-59.47558	P	PPL	BB		05				0		134	America/Barbados	2016-10-28
+3373536	Scotland District	Scotland District		13.21851	-59.6316	L	RGN	BB		01				0		74	America/Barbados	2016-10-28
+3373537	Scarborough	Scarborough	Scarboro,Scarborough	13.06234	-59.53948	P	PPL	BB	BB	01				0		10	America/Barbados	2018-03-08
+3373538	Sayes Court	Sayes Court		13.05611	-59.52659	P	PPL	BB		01				0		14	America/Barbados	2016-03-09
+3373539	Satellite Earth Station	Satellite Earth Station		13.1898	-59.48723	S	STNS	BB		05				0		54	America/Barbados	2016-10-28
+3373540	Sargeant	Sargeant		13.0847	-59.57059	P	PPL	BB		01				0		65	America/Barbados	2016-10-28
+3373541	Sandy Lane Bay	Sandy Lane Bay		13.17391	-59.63857	H	BAY	BB		04				0		8	America/Barbados	2016-10-28
+3373542	Sandy Lane	Sandy Lane		13.17577	-59.6345	P	PPL	BB		04				0		19	America/Barbados	2016-10-28
+3373543	Sandy Hill Point	Sandy Hill Point		13.33269	-59.60807	T	PT	BB		07				0		7	America/Barbados	2016-10-28
+3373544	Sandford	Sandford		13.13704	-59.45454	P	PPL	BB		10				0		48	America/Barbados	2016-10-29
+3373545	Sam Lords Castle	Sam Lords Castle	Lords Castle,Sam Lords Castle	13.12542	-59.4319	P	PPL	BB	BB	10				0		18	America/Barbados	2016-10-29
+3373546	The Salt Lakes	The Salt Lakes		13.32626	-59.60459	H	LKN	BB		07				0		20	America/Barbados	2016-10-28
+3373547	Salters	Salters		13.12355	-59.57281	P	PPL	BB		03				0		47	America/Barbados	2016-10-28
+3373548	Salt Cave Point	Salt Cave Point		13.08332	-59.46322	T	PT	BB		10				0		6	America/Barbados	2016-10-28
+3373549	Salt Cave	Salt Cave		13.08303	-59.46419	H	COVE	BB		10				0		3	America/Barbados	2016-10-28
+3373550	Salmond	Salmond		13.32594	-59.6328	P	PPL	BB		07				0		31	America/Barbados	2016-10-28
+3373551	Saint Thomas	Saint Thomas	Agios Thomas,Parroquia de Saint Thomas,Saint Thomas,Saint Thomas prestegjeld,Sankta Tomaso,Sent Tomas,sheng tuo ma si qu,Άγιος Θωμάς,Сент Томас,聖托馬斯區	13.17932	-59.58787	A	ADM1	BB		11				11850		230	America/Barbados	2016-10-28
+3373552	Saint Swithins Church	Saint Swithins Church		13.31819	-59.62347	S	CH	BB		07				0		47	America/Barbados	2016-10-28
+3373553	Saint Philip	Saint Philip	Agios Filippos,Parroquia de Saint Philip,Saint Philip,Saint Philip prestegjeld,Sankta Filipo,Sent-Filip,Sentfilipa pagasts,seinteupillib gyogu,sheng fei li pu qu,snt fylyp  barbadws,Άγιος Φίλιππος,Сент-Філіп,سنت فیلیپ، باربادوس,سینٹ فلپ، بارباڈوس,聖菲利普區,세인트필립 교구	13.1339	-59.46402	A	ADM1	BB		10				20944		54	America/Barbados	2016-10-29
+3373554	Saint Peter	Saint Peter	Agios Petros,Parroquia de Saint Peter,Saint Peter,Saint Peter prestegjeld,Saint Peters,Sankta Petro,Sent-Piter,seinteupiteo gyogu,sheng bi de jiao qu,snt pytr  barbadws,Άγιος Πέτρος,Сент-Пітер,سنت پیتر، باربادوس,سینٹ پیٹر، بارباڈوس,聖彼得教區,세인트피터 교구	13.26096	-59.61585	A	ADM1	BB		09				11544		141	America/Barbados	2016-10-28
+3373555	Saint Nicholas Abbey	Saint Nicholas Abbey		13.27773	-59.58961	S	HSE	BB		09				0		205	America/Barbados	2016-10-28
+3373556	Saint Nicholas	Saint Nicholas	Nicholas Abbey,Saint Nicholas	13.27801	-59.58939	P	PPL	BB	BB	09				0		202	America/Barbados	2016-10-28
+3373557	Saint Michael	Saint Michael	Agios Michail,Parroquia de Saint Michael,Saint Michael,Saint Michael prestegjeld,Sankta Mikaelo,abrshyt sant maykl,seinteumaikeul gyogu,sheng mai ke er qu,snt maykl  barbadws,Άγιος Μιχαήλ,أبرشية سانت مايكل,سنت مایکل، باربادوس,سینٹ مائیکل، بارباڈوس,セント・マイケル,聖邁克爾區,세인트마이클 교구	13.12633	-59.59817	A	ADM1	BB		08				99609		51	America/Barbados	2016-10-28
+3373558	Saint Mathias	Saint Mathias		13.07702	-59.60286	P	PPL	BB		01				0		12	America/Barbados	2016-10-28
+3373559	Saint Martins	Saint Martins		13.09494	-59.47054	P	PPL	BB		10				0		57	America/Barbados	2018-03-08
+3373560	Saint Marks	Saint Marks		13.17957	-59.46035	P	PPL	BB		05				0		53	America/Barbados	2016-10-28
+3373561	Saint Margaret’s Church	Saint Margaret's Church		13.19967	-59.50161	S	CH	BB		05				0		46	America/Barbados	2016-10-28
+3373562	Saint Margarets	Saint Margarets		13.20076	-59.50354	P	PPL	BB		05				0		48	America/Barbados	2016-10-28
+3373563	Saint Lucy’s School	Saint Lucy's School		13.29728	-59.62504	S	SCH	BB		07				0		75	America/Barbados	2016-10-28
+3373564	Saint Lucy District Hospital	Saint Lucy District Hospital		13.32311	-59.60221	S	HSP	BB		07				0		16	America/Barbados	2016-10-28
+3373565	Saint Lucy	Saint Lucy	Agia Loukia,Parroquia de Saint Lucy,Saint Lucy,Saint Lucy prestegjeld,Sankta Lucio,Sent-Ljusi,seinteulusi gyogu,sheng lu xi jiao qu,snt lwsy  barbadws,Αγία Λουκία,Сент-Люсі,سنت لوسی، باربادوس,سینٹ لوسی، بارباڈوس,聖露西教區,세인트루시 교구	13.30728	-59.61937	A	ADM1	BB		07				9706		66	America/Barbados	2016-10-28
+3373566	Saint Lawrence	Saint Lawrence		13.07066	-59.57922	P	PPL	BB		01				0		6	America/Barbados	2018-03-08
+3373567	Saint Judes	Saint Judes		13.15683	-59.53645	P	PPL	BB		03				0		225	America/Barbados	2016-10-28
+3373568	Saint Joseph	Saint Joseph	Agios Iosif,Parroquia de Saint Joseph,Saint Joseph,Saint Joseph prestegjeld,Sankta Jozefo,Sent DZozef,seinteujojipeu gyogu,sheng yue se fu qu,snt jwzf  barbadws,Άγιος Ιωσήφ,Сент Џозеф,سنت جوزف، باربادوس,سینٹ جوزف، بارباڈوس,聖約瑟夫區,세인트조지프 교구	13.2056	-59.54418	A	ADM1	BB		06				7764		160	America/Barbados	2016-10-28
+3373569	Saint John	Saint John	Agios Ioannis,Parroquia de Saint John,Saint John,Saint John prestegjeld,Sankta Johano,Sent DZon,seinteujon gyogu,sheng yue han jiao qu,snt jan  barbadws,Άγιος Ιωάννης,Сент Џон,سنت جان، باربادوس,سینٹ جان، بارباڈوس,聖約翰教區,세인트존 교구	13.17581	-59.50303	A	ADM1	BB		05				10421		210	America/Barbados	2016-10-28
+3373570	Saint James	Saint James	Agios Iakovos,Parroquia de Saint James,Saint James,Saint James prestegjeld,Sankta Jakobo,seinteujeimseu gyogu,sheng zhan mu si jiao qu,snt jymz  barbadws,Άγιος Ιάκωβος,سنت جیمز، باربادوس,سینٹ جیمز، بارباڈوس,聖詹姆斯教區,세인트제임스 교구	13.21183	-59.61956	A	ADM1	BB		04				21454		130	America/Barbados	2016-10-28
+3373571	Saint Georges Valley	Saint Georges Valley		13.12709	-59.55161	T	VAL	BB		03				0		82	America/Barbados	2016-10-28
+3373572	Saint George	Saint George	Agios Georgios,Parroquia de Saint George,Saint George,Saint George prestegjeld,Sankta Georgo,Sent DZordz,sheng qiao zhi jiao qu,Άγιος Γεώργιος,Сент Џорџ,聖喬治教區	13.13933	-59.54345	A	ADM1	BB		03				19530		151	America/Barbados	2016-10-28
+3373573	Saint Elizabeths	Saint Elizabeths		13.20648	-59.52581	P	PPL	BB		06				0		140	America/Barbados	2016-10-28
+3373574	Saint Davids	Saint Davids		13.09499	-59.56122	P	PPL	BB		01				0		118	America/Barbados	2016-10-28
+3373575	Saint Clement Vicarage	Saint Clement Vicarage		13.31307	-59.59423	S	HSE	BB		07				0		28	America/Barbados	2016-10-28
+3373576	Saint Clements Schools	Saint Clements Schools		13.3084	-59.5946	S	SCH	BB		07				0		35	America/Barbados	2016-10-28
+3373577	Saint Clements Church	Saint Clements Church		13.30625	-59.59137	S	CH	BB		07				0		32	America/Barbados	2016-10-28
+3373578	Saint Andrews Station	Saint Andrews Station	Saint Andrew,Saint Andrews Station	13.24588	-59.56266	S	RSTN	BB	BB	02				0		12	America/Barbados	2016-10-28
+3373579	Saint Andrews	Saint Andrews		13.246	-59.56332	P	PPL	BB		02				0		14	America/Barbados	2016-10-28
+3373580	Saint Andrew	Saint Andrew	Agios Andreas,Saint Andrew,Saint Andrew prestegjeld,Saint Andrews,Sankta Andreo,seinteuaendeulu gyogu,sheng an de lu qu,snt andrw  barbadws,Άγιος Ανδρέας,سنت آندرو، باربادوس,سینٹ اینڈریو، بارباڈوس,聖安德魯區,세인트앤드루 교구	13.23986	-59.5783	A	ADM1	BB		02				6436		43	America/Barbados	2016-10-28
+3373581	Ruby	Ruby		13.12558	-59.44289	P	PPL	BB		10				0		27	America/Barbados	2016-10-29
+3373582	Rowans	Rowans		13.1367	-59.56836	P	PPL	BB		03				0		98	America/Barbados	2016-10-28
+3373583	Round Rock	Round Rock		13.27541	-59.56375	T	RK	BB		02				0		-9999	America/Barbados	2016-10-28
+3373584	Round Rock	Round Rock		13.05042	-59.51378	P	PPL	BB		01				0		13	America/Barbados	2016-03-09
+3373585	Rouen Station	Rouen Station		13.10876	-59.58608	S	RSTN	BB		08				0		44	America/Barbados	2016-10-28
+3373586	Rouen	Rouen		13.10964	-59.5866	P	PPL	BB		08				0		44	America/Barbados	2016-10-28
+3373587	Rose Hill	Rose Hill		13.27137	-59.62062	P	PPL	BB		09				0		80	America/Barbados	2016-10-28
+3373588	Rocky Bay	Rocky Bay		13.32789	-59.60173	H	COVE	BB		07				0		8	America/Barbados	2016-10-28
+3373589	Rockley Beach	Rockley Beach		13.07355	-59.58925	T	BCH	BB		01				0		4	America/Barbados	2016-10-28
+3373590	Rockley	Rockley		13.07471	-59.58869	P	PPL	BB		01				0		8	America/Barbados	2011-03-17
+3373591	Rock Hall	Rock Hall		13.29915	-59.60508	P	PPL	BB		07				0		110	America/Barbados	2016-10-28
+3373592	Rock Hall	Rock Hall		13.23786	-59.59965	P	PPL	BB		09				0		257	America/Barbados	2018-03-08
+3373593	Rock Hall	Rock Hall		13.18741	-59.60397	P	PPL	BB		11				0		176	America/Barbados	2016-10-28
+3373594	Rock Hall	Rock Hall		13.0842	-59.46998	L	LCTY	BB		10				0		51	America/Barbados	2016-10-28
+3373595	Rockfield	Rockfield		13.31095	-59.58903	P	PPL	BB		07				0		16	America/Barbados	2016-10-28
+3373596	Rock Dundo	Rock Dundo		13.23009	-59.62473	P	PPL	BB		04				0		118	America/Barbados	2016-10-28
+3373597	Rock Dundo	Rock Dundo		13.13078	-59.60866	P	PPL	BB		08				0		69	America/Barbados	2016-10-28
+3373598	Robinsons	Robinsons		13.12805	-59.44427	P	PPL	BB		10				0		31	America/Barbados	2016-10-29
+3373599	Roaches	Roaches		13.33238	-59.62044	L	LCTY	BB		07				0		31	America/Barbados	2016-10-28
+3373600	Roach	Roach		13.15795	-59.56558	P	PPL	BB		03				0		184	America/Barbados	2016-10-28
+3373601	River Bay	River Bay		13.3217	-59.59477	H	BAY	BB		07				0		2	America/Barbados	2016-10-28
+3373602	River	River		13.14224	-59.43953	P	PPL	BB		10				0		33	America/Barbados	2016-10-29
+3373603	Rices	Rices		13.10391	-59.45482	P	PPL	BB		10				0		32	America/Barbados	2016-10-29
+3373604	Retreat	Retreat		13.32922	-59.61677	P	PPL	BB		07				0		32	America/Barbados	2016-10-28
+3373605	Retreat	Retreat		13.2652	-59.63334	P	PPL	BB		09				0		50	America/Barbados	2016-10-28
+3373606	Retreat	Retreat		13.15553	-59.54764	P	PPL	BB		03				0		234	America/Barbados	2015-08-29
+3373607	Rendezvous	Rendezvous		13.07773	-59.57889	P	PPL	BB		01				0		17	America/Barbados	2016-10-28
+3373608	Regency Park	Regency Park		13.08857	-59.57469	P	PPL	BB		01				0		69	America/Barbados	2016-10-28
+3373609	Reeds Hill	Reeds Hill		13.15724	-59.6172	P	PPL	BB		04				0		126	America/Barbados	2016-10-28
+3373610	Redmans	Redmans		13.15914	-59.61205	P	PPL	BB		11				0		149	America/Barbados	2016-10-28
+3373611	Redland	Redland		13.17506	-59.54002	P	PPL	BB		06				0		233	America/Barbados	2016-10-28
+3373612	Read’s Bay	Read's Bay		13.21572	-59.64201	H	BAY	BB		04				0		1	America/Barbados	2016-10-28
+3373613	Ragged Point	Ragged Point	Ragged Point	13.16548	-59.43172	T	PT	BB		10				0		6	America/Barbados	2016-10-28
+3373614	Providence	Providence		13.07785	-59.51993	P	PPL	BB		01				0		86	America/Barbados	2016-03-09
+3373615	Proutes	Proutes		13.16332	-59.5771	P	PPL	BB		11				0		148	America/Barbados	2016-10-28
+3373616	Prospect	Prospect		13.25987	-59.59789	P	PPL	BB		09				0		237	America/Barbados	2016-10-28
+3373617	Prospect	Prospect		13.14303	-59.63539	P	PPL	BB		08				0		36	America/Barbados	2016-10-28
+3373618	Prior Park	Prior Park		13.1544	-59.61862	P	PPL	BB		04				0		124	America/Barbados	2016-10-28
+3373619	Prerogative	Prerogative		13.15335	-59.53393	P	PPL	BB		03				0		198	America/Barbados	2016-10-28
+3373620	Portland	Portland		13.27272	-59.60368	P	PPL	BB		09				0		172	America/Barbados	2016-10-28
+3373621	Porters	Porters		13.20235	-59.63946	P	PPL	BB		04				0		16	America/Barbados	2016-10-28
+3373622	Poreys Spring	Poreys Spring		13.19282	-59.59682	P	PPL	BB		11				0		235	America/Barbados	2016-10-28
+3373623	Pool	Pool		13.17189	-59.51745	P	PPL	BB		05				0		218	America/Barbados	2016-10-28
+3373624	Plumtree	Plumtree		13.20372	-59.60534	P	PPL	BB		10				0		218	America/Barbados	2016-10-28
+3373625	Pinelands	Pinelands		13.09338	-59.59291	P	PPL	BB		08				0		64	America/Barbados	2016-10-28
+3373626	Pine Housing Estate	Pine Housing Estate	Pine,Pine Housing Estate	13.09762	-59.59688	P	PPL	BB	BB	08				0		48	America/Barbados	2016-10-28
+3373627	Pilgrim Road	Pilgrim Road		13.07923	-59.51217	P	PPL	BB		01				0		85	America/Barbados	2016-03-09
+3373628	Pilgrim Place	Pilgrim Place		13.07475	-59.51873	P	PPL	BB		01				0		74	America/Barbados	2016-03-09
+3373629	Pie Corner	Pie Corner		13.30539	-59.58665	P	PPL	BB		07				0		25	America/Barbados	2016-10-28
+3373630	Pickerings	Pickerings		13.29686	-59.61541	P	PPL	BB		07				0		104	America/Barbados	2016-10-28
+3373631	Pennyhole Rock	Pennyhole Rock		13.08061	-59.46877	T	RK	BB		10				0		9	America/Barbados	2016-10-28
+3373632	Pelican Island (historical)	Pelican Island (historical)	Pelican Island,Pelican Islet	13.10066	-59.62849	T	ISL	BB		08				0		1	America/Barbados	2019-03-22
+3373633	Pegwell	Pegwell		13.06313	-59.53337	P	PPL	BB		01				0		21	America/Barbados	2016-03-09
+3373634	Paynes Bay	Paynes Bay	Paynes Bay	13.16618	-59.63814	H	BAY	BB		08				0		5	America/Barbados	2016-10-28
+3373635	Paul’s Point	Paul's Point		13.30041	-59.57403	T	PT	BB		07				0		9	America/Barbados	2016-10-28
+3373636	Parish Land	Parish Land		13.07325	-59.51702	P	PPL	BB		01				0		56	America/Barbados	2016-03-09
+3373637	Paragon	Paragon		13.0724	-59.48982	P	PPLH	BB		01				0		48	America/Barbados	2016-10-28
+3373638	Palmetto Bay	Palmetto Bay		13.13947	-59.42245	H	COVE	BB		10				0		-9999	America/Barbados	2016-10-29
+3373639	Palmers	Palmers		13.1694	-59.47833	P	PPL	BB		05				0		186	America/Barbados	2016-10-28
+3373640	Padmore	Padmore		13.13398	-59.47779	P	PPL	BB		10				0		76	America/Barbados	2016-10-29
+3373641	Packers	Packers		13.09848	-59.50408	P	PPL	BB		01				0		74	America/Barbados	2016-10-28
+3373642	Oxnards	Oxnards		13.14788	-59.63067	P	PPL	BB		08				0		80	America/Barbados	2016-10-28
+3373643	Oxford	Oxford		13.28377	-59.61203	P	PPL	BB		09				0		134	America/Barbados	2016-10-28
+3373644	Oxford	Oxford		13.29057	-59.5986	L	LCTY	BB		00				0		136	America/Barbados	2016-10-28
+3373645	Oughtersons	Oughtersons		13.14485	-59.46856	P	PPL	BB		10				0		77	America/Barbados	2016-10-29
+3373646	Orange Hill	Orange Hill		13.25131	-59.60482	P	PPLL	BB		09				0		227	America/Barbados	2016-10-28
+3373647	Orange Hill	Orange Hill		13.207	-59.60562	P	PPL	BB		04				0		217	America/Barbados	2016-10-28
+3373648	Oliver’s Cave	Oliver's Cave		13.09404	-59.45263	H	COVE	BB		10				0		13	America/Barbados	2016-10-28
+3373649	Old Post Office	Old Post Office		13.15457	-59.55782	P	PPL	BB		03				0		213	America/Barbados	2016-10-28
+3373650	Oldbury	Oldbury		13.09558	-59.47377	P	PPL	BB		10				0		57	America/Barbados	2016-10-28
+3373651	Oistins Bay	Oistins Bay	Oistin Bay,Oistins Bay	13.06263	-59.54856	H	BAY	BB	BB	01				0		1	America/Barbados	2016-10-28
+3373652	Oistins	Oistins	Oistin's Town,Oistins,Oistin’s Town	13.07067	-59.54637	P	PPLA	BB		01				2285		37	America/Barbados	2016-10-28
+3373653	Ocean City	Ocean City		13.09245	-59.45704	P	PPL	BB		10				0		37	America/Barbados	2016-10-28
+3373654	North Point	North Point		13.33507	-59.61308	T	PT	BB		07				0		-9999	America/Barbados	2016-10-28
+3373655	Norse’s Bay	Norse's Bay		13.31233	-59.64739	H	BAY	BB		07				0		17	America/Barbados	2016-10-28
+3373656	Newton Terrace	Newton Terrace		13.07758	-59.53144	P	PPL	BB		01				0		69	America/Barbados	2016-10-28
+3373657	New Orleans	New Orleans		13.10583	-59.62095	P	PPLX	BB		08				0		8	America/Barbados	2016-10-28
+3373658	New Fall Cliff	New Fall Cliff		13.08885	-59.45779	T	CLF	BB		10				0		17	America/Barbados	2016-10-28
+3373659	Newcastle	Newcastle		13.19152	-59.49532	P	PPL	BB		05				0		116	America/Barbados	2016-10-28
+3373660	Newcastle	Newcastle		13.19088	-59.4956	S	HSE	BB		05				0		127	America/Barbados	2016-10-28
+3373661	Newbury	Newbury		13.14785	-59.55651	P	PPL	BB		03				0		206	America/Barbados	2016-10-28
+3373662	Nesfield	Nesfield		13.2932	-59.62579	P	PPL	BB		07				0		71	America/Barbados	2016-10-28
+3373663	Neils	Neils		13.12159	-59.57858	P	PPL	BB		08				0		47	America/Barbados	2016-10-28
+3373664	Needham's Point	Needham's Point	Needham Point	13.0786	-59.61288	T	PT	BB	BB	08				0		6	America/Barbados	2018-02-07
+3373665	Navy Gardens	Navy Gardens		13.07844	-59.59525	P	PPL	BB		01				0		20	America/Barbados	2016-10-28
+3373666	Nan’s Bay	Nan's Bay		13.31319	-59.58557	H	COVE	BB		07				0		5	America/Barbados	2016-10-28
+3373667	Mullins Bay	Mullins Bay		13.23426	-59.64321	H	BAY	BB		09				0		1	America/Barbados	2016-10-28
+3373668	Mullins	Mullins		13.23579	-59.64289	P	PPL	BB		09				0		9	America/Barbados	2016-10-28
+3373669	Mount Wilton	Mount Wilton		13.18906	-59.56597	P	PPL	BB		11				0		305	America/Barbados	2016-10-28
+3373670	Mount View	Mount View		13.30334	-59.60167	P	PPL	BB		07				0		109	America/Barbados	2016-10-28
+3373671	Mount Stepney	Mount Stepney		13.27773	-59.58319	P	PPL	BB		09				0		242	America/Barbados	2016-10-28
+3373672	Mount Standfast	Mount Standfast		13.20284	-59.63397	P	PPL	BB		04				0		48	America/Barbados	2016-10-28
+3373673	Mount Royer	Mount Royer		13.30749	-59.62147	P	PPLL	BB		07				0		65	America/Barbados	2016-10-28
+3373674	Mount Pleasant	Mount Pleasant		13.29959	-59.61343	P	PPL	BB		07				0		90	America/Barbados	2016-10-28
+3373675	Mount Pleasant	Mount Pleasant		13.15929	-59.47513	P	PPL	BB		10				0		178	America/Barbados	2016-10-28
+3373676	Mount Gay	Mount Gay		13.29147	-59.60695	P	PPL	BB		07				0		135	America/Barbados	2016-10-28
+3373677	Mount Friendship	Mount Friendship		13.10243	-59.57777	P	PPL	BB		08				0		88	America/Barbados	2016-10-28
+3373678	Mount Brevitor	Mount Brevitor		13.26572	-59.6169	P	PPL	BB		09				0		132	America/Barbados	2016-10-28
+3373679	Mount	Mount		13.13793	-59.53091	P	PPL	BB		03				0		171	America/Barbados	2016-10-28
+3373680	Mother’s Day Bay	Mother's Day Bay		13.30093	-59.65031	H	COVE	BB		07				0		13	America/Barbados	2016-10-28
+3373681	Morgan Lewis Beach	Morgan Lewis Beach		13.26936	-59.56429	T	BCH	BB		02				0		5	America/Barbados	2016-10-28
+3373682	Morgan Lewis	Morgan Lewis		13.2691	-59.57489	P	PPL	BB		09				0		79	America/Barbados	2016-10-28
+3373683	Moores	Moores		13.16725	-59.50642	P	PPL	BB		05				0		187	America/Barbados	2016-10-28
+3373684	Moore Hill	Moore Hill		13.2767	-59.59455	P	PPL	BB		09				0		190	America/Barbados	2016-10-28
+3373685	Moonshine Hall	Moonshine Hall		13.14743	-59.56505	P	PPL	BB		03				0		173	America/Barbados	2016-10-28
+3373686	Montrose	Montrose		13.0739	-59.54817	P	PPL	BB		01				0		47	America/Barbados	2016-10-28
+3373687	Molyneux	Molyneux		13.17815	-59.62812	P	PPL	BB		04				0		60	America/Barbados	2016-10-28
+3373688	Mount Misery	Mount Misery		13.19746	-59.58727	T	MT	BB		11				0		324	America/Barbados	2016-10-28
+3373689	Mile and a Quarter	Mile and a Quarter		13.26597	-59.62207	P	PPL	BB		09				0		85	America/Barbados	2018-03-08
+3373690	Middle Bay	Middle Bay		13.32742	-59.60062	H	COVE	BB		07				0		1	America/Barbados	2016-10-28
+3373691	Merricks	Merricks		13.1441	-59.43264	P	PPL	BB		10				0		39	America/Barbados	2015-08-29
+3373692	Melvin Hill	Melvin Hill		13.20429	-59.55897	P	PPL	BB		06				0		305	America/Barbados	2016-10-28
+3373693	Melverton	Melverton		13.13162	-59.5239	P	PPL	BB		03				0		121	America/Barbados	2016-10-28
+3373694	Maynards	Maynards		13.26509	-59.63686	P	PPL	BB		09				0		41	America/Barbados	2016-10-28
+3373695	Maycock’s Bay	Maycock's Bay	Maycock's Bay,Maycocks Bay,Maycock’s Bay	13.29295	-59.65031	H	BAY	BB		07				0		1	America/Barbados	2016-10-28
+3373696	Maycock	Maycock		13.28942	-59.64226	P	PPL	BB		07				0		52	America/Barbados	2016-10-28
+3373697	Maxwell Hill	Maxwell Hill	Maxwell,Maxwell Hill	13.07287	-59.55976	P	PPL	BB	BB	01				0		26	America/Barbados	2016-10-28
+3373698	Maxwell Coast	Maxwell Coast		13.06711	-59.55709	P	PPLX	BB		01				0		22	America/Barbados	2018-07-04
+3373699	Maxwell Coast	Maxwell Coast	Maxwell Coast	13.06667	-59.55	T	BCH	BB		01				0		10	America/Barbados	2018-12-05
+3373700	Maxwell	Maxwell	Maxwell	13.07186	-59.55441	P	PPLX	BB		01				0		22	America/Barbados	2018-12-05
+3373701	Massiah Street	Massiah Street	Massiah Street,Rosegate	13.16217	-59.48399	P	PPL	BB	BB	05				0		192	America/Barbados	2016-10-28
+3373702	Martins Bay	Martins Bay		13.19629	-59.49487	P	PPL	BB		05				0		23	America/Barbados	2016-10-28
+3373703	Marley Vale	Marley Vale		13.16246	-59.44171	P	PPL	BB		10				0		31	America/Barbados	2016-10-28
+3373704	Market Hill	Market Hill		13.15932	-59.55903	P	PPL	BB		03				0		215	America/Barbados	2016-10-28
+3373705	Marine Gardens	Marine Gardens		13.07581	-59.59307	P	PPL	BB		01				0		11	America/Barbados	2016-10-28
+3373706	Marchfield	Marchfield	Marchfield	13.11839	-59.48187	P	PPL	BB		10				0		39	America/Barbados	2016-10-29
+3373707	Mapp Hill	Mapp Hill		13.10606	-59.57581	P	PPL	BB		08				0		71	America/Barbados	2016-10-28
+3373708	Mangrove	Mangrove		13.23646	-59.61617	P	PPL	BB		02				0		187	America/Barbados	2016-10-28
+3373709	Mangrove	Mangrove		13.09969	-59.47211	P	PPL	BB		10				0		48	America/Barbados	2016-10-28
+3373710	Malvern	Malvern		13.19411	-59.52599	P	PPL	BB		06				0		278	America/Barbados	2016-10-28
+3373711	Lynches	Lynches		13.33281	-59.60756	T	PT	BB		07				0		5	America/Barbados	2016-10-28
+3373712	Luke Hill	Luke Hill		13.28157	-59.61729	P	PPLL	BB		07				0		113	America/Barbados	2016-10-28
+3373713	Lucas Street	Lucas Street		13.13106	-59.45659	P	PPL	BB		10				0		44	America/Barbados	2016-10-29
+3373714	Lowthers	Lowthers		13.09398	-59.49799	P	PPL	BB		01				0		76	America/Barbados	2016-10-28
+3373715	Lowland	Lowland		13.30996	-59.59665	P	PPL	BB		07				0		33	America/Barbados	2016-10-28
+3373716	Lowland	Lowland	Lowland,Lowlands	13.0877	-59.52177	P	PPL	BB		01				0		90	America/Barbados	2018-07-04
+3373717	Lower Greys	Lower Greys		13.11051	-59.52633	P	PPL	BB		01				0		55	America/Barbados	2016-10-28
+3373718	Lower Estate	Lower Estate		13.1334	-59.57982	P	PPL	BB		03				0		72	America/Barbados	2016-10-28
+3373719	Lower Carlton	Lower Carlton		13.22211	-59.64089	P	PPL	BB		04				0		15	America/Barbados	2016-10-28
+3373720	Lower Burneys	Lower Burneys		13.10272	-59.57306	P	PPL	BB		08				0		85	America/Barbados	2016-10-28
+3373721	Long Pond	Long Pond		13.25143	-59.5559	H	INLT	BB		02				0		1	America/Barbados	2016-10-28
+3373722	Long Bay	Long Bay		13.12646	-59.42857	H	BGHT	BB		10				0		1	America/Barbados	2016-10-29
+3373723	Long Bay	Long Bay		13.06297	-59.49513	H	BAY	BB		01				0		1	America/Barbados	2016-10-28
+3373724	Lodge Road	Lodge Road		13.07795	-59.53612	P	PPL	BB		01				0		63	America/Barbados	2016-10-28
+3373725	Locust Hall	Locust Hall		13.15019	-59.57409	P	PPL	BB		03				0		143	America/Barbados	2016-10-28
+3373726	Littlegood Harbour	Littlegood Harbour		13.2696	-59.64562	H	HBR	BB		09				0		12	America/Barbados	2016-10-28
+3373727	Little Bay	Little Bay		13.3109	-59.58068	H	COVE	BB		07				0		5	America/Barbados	2016-10-28
+3373728	Little Bay	Little Bay		13.04689	-59.51695	H	COVE	BB		01				0		1	America/Barbados	2016-03-09
+3373729	Little Battaleys	Little Battaleys		13.23976	-59.64181	P	PPL	BB		09				0		12	America/Barbados	2016-10-28
+3373730	Litchfield	Litchfield		13.25315	-59.6383	P	PPL	BB		09				0		21	America/Barbados	2016-10-28
+3373731	Lion Castle Tenantry	Lion Castle Tenantry		13.18364	-59.58455	P	PPL	BB		11				0		262	America/Barbados	2016-10-28
+3373732	Lion	Lion		13.13996	-59.55772	P	PPL	BB		03				0		150	America/Barbados	2016-10-28
+3373733	Less Beholden	Less Beholden		13.23061	-59.5471	P	PPLL	BB		02				0		100	America/Barbados	2016-10-28
+3373734	Lemon Arbour	Lemon Arbour		13.16907	-59.52915	P	PPL	BB		05				0		239	America/Barbados	2016-10-28
+3373735	Lears	Lears		13.14288	-59.59366	P	PPL	BB		11				0		86	America/Barbados	2016-10-28
+3373736	Lead Vale	Lead Vale		13.08548	-59.5109	P	PPL	BB		01				0		88	America/Barbados	2016-10-28
+3373737	Lazaretto	Lazaretto		13.13711	-59.63549	P	PPL	BB		04				0		19	America/Barbados	2016-10-28
+3373738	Laycock Bay	Laycock Bay		13.31175	-59.58386	H	COVE	BB		07				0		9	America/Barbados	2016-10-28
+3373739	Lascelles	Lascelles		13.18562	-59.63451	P	PPL	BB		04				0		12	America/Barbados	2016-10-28
+3373740	The Landlock	The Landlock		13.30477	-59.57688	H	COVE	BB		07				0		1	America/Barbados	2016-10-28
+3373741	Lancaster	Lancaster		13.20317	-59.61905	P	PPL	BB		04				0		129	America/Barbados	2016-10-28
+3373742	Lamberts	Lamberts	Lamberts	13.29608	-59.59283	P	PPL	BB		07				0		117	America/Barbados	2016-10-28
+3373743	Lambert Point	Lambert Point		13.32658	-59.63689	T	PT	BB		07				0		12	America/Barbados	2016-10-28
+3373744	Lakes Beach	Lakes Beach		13.23909	-59.54523	T	BCH	BB		02				0		1	America/Barbados	2015-09-06
+3373745	Lakes	Lakes		13.24105	-59.55787	P	PPL	BB		02				0		28	America/Barbados	2016-10-28
+3373746	Ladder Bay	Ladder Bay		13.32615	-59.59836	H	BAY	BB		07				0		-9999	America/Barbados	2016-10-28
+3373747	Kitridge Point	Kitridge Point	Kitridge Point,Kittridge Point	13.15002	-59.42038	T	PT	BB	BB	10				0		4	America/Barbados	2016-10-29
+3373748	Kitridge Bay	Kitridge Bay		13.15228	-59.42129	H	BAY	BB		10				0		1	America/Barbados	2016-10-29
+3373749	Kirtons	Kirtons		13.10487	-59.46548	P	PPL	BB		10				0		37	America/Barbados	2016-10-29
+3373750	Kingsland	Kingsland		13.0791	-59.5492	P	PPL	BB		01				0		64	America/Barbados	2016-10-28
+3373751	King’s Bay	King's Bay		13.31396	-59.58657	H	COVE	BB		07				0		5	America/Barbados	2016-10-28
+3373752	Kent	Kent		13.09313	-59.56723	P	PPL	BB		01				0		111	America/Barbados	2016-10-28
+3373753	Kendal Point	Kendal Point		13.05017	-59.53498	T	PT	BB		01				0		12	America/Barbados	2016-03-09
+3373754	Kendal Hill	Kendal Hill		13.07597	-59.5586	P	PPLX	BB		01				0		49	America/Barbados	2018-07-04
+3373755	Kendal Factory	Kendal Factory		13.15515	-59.50899	P	PPL	BB		05				0		171	America/Barbados	2016-10-28
+3373756	Kendal	Kendal		13.14673	-59.49994	P	PPL	BB		05				0		158	America/Barbados	2018-03-08
+3373757	Kelzer Hill	Kelzer Hill		13.05847	-59.53766	P	PPL	BB		01				0		10	America/Barbados	2016-03-09
+3373758	Josey Hill	Josey Hill		13.30329	-59.59833	P	PPL	BB		07				0		115	America/Barbados	2016-10-28
+3373759	Jordans Cowpen	Jordans Cowpen		13.33377	-59.61869	H	COVE	BB		07				0		-9999	America/Barbados	2016-10-28
+3373760	Jordans	Jordans	Jordan,Jordans	13.13996	-59.54944	P	PPL	BB	BB	03				0		158	America/Barbados	2016-10-28
+3373761	Jones Bay	Jones Bay		13.31866	-59.59141	H	COVE	BB		07				0		12	America/Barbados	2016-10-28
+3373762	Joes River	Joes River		13.20828	-59.53418	P	PPL	BB		06				0		134	America/Barbados	2016-10-28
+3373763	Jezreel	Jezreel		13.13037	-59.45116	P	PPL	BB		10				0		38	America/Barbados	2016-10-29
+3373764	Jerusalem Agricultural Station	Jerusalem Agricultural Station		13.26772	-59.6283	S	AGRF	BB		09				0		65	America/Barbados	2016-10-28
+3373765	Jericho	Jericho		13.16244	-59.5592	P	PPL	BB		03				0		215	America/Barbados	2016-10-28
+3373766	Jemmotts	Jemmotts		13.30416	-59.60515	P	PPL	BB		07				0		87	America/Barbados	2016-10-28
+3373767	Jamestown Park	Jamestown Park		13.1882	-59.63513	P	PPL	BB		04				0		7	America/Barbados	2016-10-28
+3373768	Jackson	Jackson		13.1446	-59.59856	P	PPL	BB		08				0		94	America/Barbados	2016-10-28
+3373769	Jackmans	Jackmans		13.13521	-59.59257	P	PPL	BB		08				0		75	America/Barbados	2016-10-28
+3373770	Industry Hall	Industry Hall		13.15784	-59.43303	P	PPL	BB		10				0		31	America/Barbados	2015-08-29
+3373771	Indian River	Indian River	Indian River	13.11025	-59.62677	H	STM	BB		08				0		1	America/Barbados	2016-10-28
+3373772	Indian Ground	Indian Ground		13.25184	-59.5983	P	PPL	BB		02				0		249	America/Barbados	2016-10-28
+3373773	Inch Marlowe Swamp	Inch Marlowe Swamp		13.05822	-59.50324	H	SWMP	BB		01				0		10	America/Barbados	2016-03-09
+3373774	Inch Marlowe Point	Inch Marlowe Point		13.05241	-59.50436	T	PT	BB		01				0		5	America/Barbados	2016-03-09
+3373775	Inch Marlowe	Inch Marlowe		13.05619	-59.50607	P	PPL	BB		01				0		15	America/Barbados	2016-03-09
+3373776	Husbands	Husbands		13.29491	-59.64669	P	PPL	BB		07				0		39	America/Barbados	2016-10-28
+3373777	Husbands	Husbands		13.14864	-59.62302	P	PPL	BB		04				0		114	America/Barbados	2016-10-28
+3373778	Hoytes	Hoytes		13.23673	-59.57489	P	PPL	BB		02				0		85	America/Barbados	2016-10-28
+3373779	Hoytes	Hoytes		13.16373	-59.62127	P	PPL	BB		04				0		106	America/Barbados	2016-10-28
+3373780	Howells	Howells		13.10732	-59.58939	P	PPL	BB		08				0		44	America/Barbados	2016-10-28
+3373781	Hothersal Turning	Hothersal Turning		13.13106	-59.59268	P	PPL	BB		01				0		60	America/Barbados	2016-10-28
+3373782	Hothersal	Hothersal		13.19616	-59.51397	P	PPL	BB		05				0		263	America/Barbados	2016-10-28
+3373783	Horse Shoe Bay	Horse Shoe Bay		13.3349	-59.61381	H	COVE	BB		07				0		-9999	America/Barbados	2016-10-28
+3373784	Horse Hill	Horse Hill		13.19808	-59.53671	T	HLL	BB		06				0		329	America/Barbados	2016-10-28
+3373785	The Horse	The Horse		13.10549	-59.44415	T	PT	BB		10				0		7	America/Barbados	2016-10-28
+3373786	Hopewell	Hopewell	Hopewell	13.17481	-59.5824	P	PPL	BB		11				0		197	America/Barbados	2016-10-28
+3373787	Hopewell	Hopewell	Hopewell	13.05774	-59.5183	P	PPL	BB		01				0		16	America/Barbados	2016-03-09
+3373788	Hopeland	Hopeland		13.10553	-59.4517	P	PPL	BB		10				0		25	America/Barbados	2016-10-29
+3373789	Hope	Hope		13.32043	-59.6038	P	PPL	BB		07				0		24	America/Barbados	2016-10-28
+3373790	Holetown	Holetown	Holetown,The Hole	13.18672	-59.63808	P	PPLA	BB		04				1350		-1	America/Barbados	2012-01-16
+3373791	Holders	Holders		13.16474	-59.62924	P	PPL	BB		04				0		63	America/Barbados	2016-10-28
+3373792	Hillcrest	Hillcrest		13.2106	-59.51486	P	PPL	BB		06				0		24	America/Barbados	2016-10-28
+3373793	Mount Hillaby	Mount Hillaby		13.21083	-59.5822	T	MT	BB		02				0	340	328	America/Barbados	2016-10-28
+3373794	Hillaby	Hillaby	Hillaby,Mount Hillaby	13.21288	-59.58838	P	PPL	BB		02				519		302	America/Barbados	2018-03-08
+3373795	The Hill	The Hill		13.2308	-59.59675	T	HLL	BB		02				0		247	America/Barbados	2016-10-28
+3373796	Highland	Highland		13.1074	-59.4867	P	PPL	BB		10				0		40	America/Barbados	2016-10-28
+3373797	Highgate	Highgate	Highgate,Highgate House	13.09005	-59.59541	P	PPL	BB	BB	08				0		51	America/Barbados	2016-10-28
+3373798	Heywoods Beach	Heywoods Beach		13.257	-59.64423	T	BCH	BB		09				0		1	America/Barbados	2016-10-28
+3373799	Heywoods	Heywoods	Heywoods,Heywoods Village	13.25725	-59.64176	P	PPL	BB	BB	09				0		8	America/Barbados	2016-10-28
+3373800	Henrys	Henrys		13.09469	-59.61116	P	PPLX	BB		08				0		10	America/Barbados	2016-10-28
+3373801	Henley	Henley		13.15532	-59.51371	P	PPL	BB		05				0		171	America/Barbados	2016-10-28
+3373802	Heddings	Heddings		13.10238	-59.46262	P	PPL	BB		10				0		39	America/Barbados	2016-10-29
+3373803	Haynesville	Haynesville		13.15726	-59.62462	P	PPL	BB		04				0		94	America/Barbados	2016-10-28
+3373804	Haymans Factory	Haymans Factory		13.24243	-59.6285	P	PPL	BB		09				0		82	America/Barbados	2016-10-28
+3373805	Hastings	Hastings		13.07513	-59.59688	P	PPL	BB		01				0		9	America/Barbados	2008-01-10
+3373806	Harrow	Harrow		13.13112	-59.47335	P	PPL	BB		10				0		65	America/Barbados	2016-10-29
+3373807	Harrisons	Harrisons		13.30459	-59.64892	P	PPL	BB		07				0		36	America/Barbados	2016-10-28
+3373808	Harrison Reefs	Harrison Reefs		13.30792	-59.65544	H	RF	BB		00				0		1	America/Barbados	2016-10-28
+3373809	Harrison Point	Harrison Point		13.30577	-59.65089	T	PT	BB		07				0		1	America/Barbados	2019-11-19
+3373810	Harrismith	Harrismith		13.13413	-59.43101	P	PPL	BB		10				0		23	America/Barbados	2016-10-29
+3373811	Harris	Harris		13.3106	-59.61763	P	PPL	BB		07				0		50	America/Barbados	2016-10-28
+3373812	Hanson	Hanson		13.10466	-59.56517	L	LCTY	BB		03				0		108	America/Barbados	2016-10-28
+3373813	Hannays Tenantry	Hannays Tenantry		13.11221	-59.51082	P	PPL	BB		01				0		40	America/Barbados	2016-10-28
+3373814	Hannays	Hannays		13.30114	-59.63074	P	PPL	BB		07				0		51	America/Barbados	2016-10-28
+3373815	Hannays	Hannays		13.10834	-59.5077	P	PPL	BB		01				0		42	America/Barbados	2016-10-28
+3373816	Hangman’s Bay	Hangman's Bay		13.28802	-59.64991	H	BAY	BB		07				0		11	America/Barbados	2016-10-28
+3373817	Halton	Halton		13.13442	-59.50677	P	PPL	BB		10				0		102	America/Barbados	2016-10-28
+3373818	Half Acre	Half Acre		13.29725	-59.61793	P	PPLL	BB		07				0		80	America/Barbados	2016-10-28
+3373819	Haggatt Hall	Haggatt Hall		13.11012	-59.57405	P	PPL	BB		08				0		56	America/Barbados	2016-10-28
+3373820	Hackletons Cliff	Hackletons Cliff	Hacklestons Cliff,Hackletons Cliff	13.20126	-59.52423	T	CLF	BB	BB	06				0		279	America/Barbados	2016-10-28
+3373821	Gun Hill	Gun Hill		13.14341	-59.55752	T	HLL	BB		03				0		200	America/Barbados	2016-10-28
+3373822	Guinea	Guinea		13.1596	-59.49225	P	PPL	BB		10				0		171	America/Barbados	2016-10-28
+3373823	Grove’s Agricultural Station	Grove's Agricultural Station	Grove's Agricultural Station,Groves,Grove’s Agricultural Station	13.15927	-59.55272	S	AGRF	BB		03				0		239	America/Barbados	2016-10-28
+3373824	Greshie Bay	Greshie Bay		13.30422	-59.65078	H	COVE	BB		07				0		1	America/Barbados	2016-10-28
+3373825	Gregg Farm	Gregg Farm		13.2172	-59.5874	P	PPL	BB		02				0		296	America/Barbados	2016-10-28
+3373826	Greenwich	Greenwich		13.19771	-59.62207	P	PPL	BB		04				0		110	America/Barbados	2016-10-28
+3373827	Greens	Greens		13.14762	-59.52412	P	PPL	BB		05				0		175	America/Barbados	2016-10-28
+3373828	Greenpond	Greenpond	Green Pond	13.26693	-59.56347	H	COVE	BB		02				0		1	America/Barbados	2016-10-28
+3373829	Green Point	Green Point		13.32248	-59.63915	T	PT	BB		07				0		31	America/Barbados	2016-10-28
+3373830	Green Point	Green Point		13.08681	-59.45928	T	PT	BB		10				0		26	America/Barbados	2016-10-28
+3373831	Greenland	Greenland	Greenland,ghrynland,غرينلاند	13.25808	-59.57763	P	PPLA	BB		02				623		32	America/Barbados	2019-03-31
+3373832	Greenidge	Greenidge		13.31872	-59.62426	P	PPL	BB		07				0		44	America/Barbados	2016-10-28
+3373833	Green Hill	Green Hill		13.13892	-59.60659	P	PPL	BB		08				0		84	America/Barbados	2016-10-28
+3373834	Green Garden	Green Garden		13.04792	-59.525	P	PPL	BB		01				0		20	America/Barbados	2016-03-09
+3373835	Great Head	Great Head		13.30875	-59.6495	T	PT	BB		07				0		32	America/Barbados	2016-10-28
+3373836	Grazettes	Grazettes		13.12827	-59.61239	P	PPL	BB		08				0		51	America/Barbados	2016-10-28
+3373837	Graveyard	Graveyard	Grave Yard	13.29631	-59.58196	P	PPL	BB		07				0		86	America/Barbados	2018-03-08
+3373838	Grape Hall	Grape Hall		13.32155	-59.63328	P	PPL	BB		07				0		39	America/Barbados	2016-10-28
+3373839	Grantley Adams International Airport	Grantley Adams International Airport	Aeroport international Grantley-Adams,Aeroporto Internacional Grantley Adams,Aeroporto di Bridgetown - Grantley Adams,Aeropuerto Internacional Grantley Adams,Aéroport international Grantley-Adams,BGI,Bandar Udara Internasional Grantley Adams,Flughafen Bridgetown Grantley Adams,Grantley Adams Airport,Grantley Adams nemzetkoezi repueloter,Grantley Adams nemzetközi repülőtér,Grantley Adams tarptautinis oro uostas,Internacia Flughaveno Grantley Adams,Port lotniczy Grantley Adams,San bay quoc te Grantley Adams,Seawell Airport,Seawell International Airport,Sân bay quốc tế Grantley Adams,TBPB,ge lan te li·ya dang si guo ji ji chang,Фурудгоҳи бин‌алмилалӣ гронтли одмз,فرودگاه بین‌المللی گرانتلی ادمز,グラントレー・アダムス国際空港,格蘭特利·亞當斯國際機場	13.0746	-59.49246	S	AIRP	BB	BB	01				0	51	55	America/Barbados	2007-01-03
+3373840	Granny’s Bay	Granny's Bay		13.32189	-59.63939	H	COVE	BB		07				0		31	America/Barbados	2016-10-28
+3373841	Grand View	Grand View		13.16374	-59.60546	L	LCTY	BB		11				0		194	America/Barbados	2016-10-28
+3373842	Graeme Hall Swamp	Graeme Hall Swamp		13.07315	-59.57738	H	SWMP	BB		01				0		10	America/Barbados	2016-10-28
+3373843	Graeme Hall	Graeme Hall	Graeme Hall,Groeme Hall	13.07388	-59.56761	P	PPL	BB	BB	01				0		25	America/Barbados	2016-10-28
+3373844	Gouldings Green	Gouldings Green		13.33064	-59.6289	T	PT	BB		07				0		29	America/Barbados	2016-10-28
+3373845	Goodland	Goodland		13.05381	-59.52281	P	PPL	BB		01				0		20	America/Barbados	2016-03-09
+3373846	Good Intent	Good Intent		13.13285	-59.54506	P	PPL	BB		03				0		117	America/Barbados	2016-10-28
+3373847	Golden Ridge	Golden Ridge		13.16226	-59.54554	P	PPL	BB		03				0		276	America/Barbados	2016-10-28
+3373848	Golden Grove	Golden Grove	Golden Grove,Lewis Vale	13.15513	-59.4487	P	PPL	BB	BB	10				0		43	America/Barbados	2016-10-29
+3373849	Godings Bay	Godings Bay		13.24333	-59.64469	H	BAY	BB		09				0		1	America/Barbados	2016-10-28
+3373850	Goat House Bay	Goat House Bay		13.31722	-59.58974	H	COVE	BB		07				0		8	America/Barbados	2016-10-28
+3373851	Glebe Land	Glebe Land		13.1821	-59.49625	P	PPL	BB		05				0		241	America/Barbados	2016-10-28
+3373852	Mount Gilboa	Mount Gilboa		13.29383	-59.61997	T	HLL	BB		07				0		79	America/Barbados	2016-10-28
+3373853	Gibbons Boggs	Gibbons Boggs		13.06476	-59.52714	P	PPL	BB		01				0		47	America/Barbados	2016-03-09
+3373854	Gibbons	Gibbons		13.06723	-59.51921	P	PPLL	BB		01				0		41	America/Barbados	2016-03-09
+3373855	Gibbons	Gibbons		13.06393	-59.5288	S	EST	BB		01				0		42	America/Barbados	2016-10-28
+3373856	Gibbes Bay	Gibbes Bay	Gibbs Bay	13.22816	-59.64322	H	BAY	BB		09				0		1	America/Barbados	2016-10-28
+3373857	Gibbs	Gibbs	Gibbes,Gibbs	13.2281	-59.64199	P	PPL	BB	BB	09				0		16	America/Barbados	2016-10-28
+3373858	Gent’s Bay	Gent's Bay		13.33223	-59.62366	H	COVE	BB		07				0		28	America/Barbados	2016-10-28
+3373859	Gemswick	Gemswick		13.08759	-59.47065	P	PPL	BB		10				0		56	America/Barbados	2016-10-28
+3373860	Gay’s Cove	Gay's Cove		13.29782	-59.57585	H	COVE	BB		07				0		38	America/Barbados	2016-10-28
+3373861	Gays	Gays		13.28353	-59.58517	P	PPL	BB		09				0		205	America/Barbados	2016-10-28
+3373862	Garrison	Garrison		13.08156	-59.60661	P	PPL	BB		08				0		14	America/Barbados	2016-10-28
+3373863	Gall Hill	Gall Hill		13.06921	-59.545	P	PPL	BB		01				0		34	America/Barbados	2016-10-28
+3373864	Fustic	Fustic		13.27921	-59.64415	P	PPL	BB		07				0		45	America/Barbados	2016-10-28
+3373865	Fryer’s Well Point	Fryer's Well Point		13.28153	-59.64927	T	PT	BB		07				0		14	America/Barbados	2016-10-28
+3373866	Fruitful Hill	Fruitful Hill		13.21317	-59.56135	P	PPL	BB		06				0		178	America/Barbados	2016-10-28
+3373867	Frizers	Frizers	Frazers,Frizers	13.20868	-59.54337	P	PPL	BB	BB	06				0		138	America/Barbados	2016-10-28
+3373868	Friendship Terrace	Friendship Terrace		13.13888	-59.6035	P	PPL	BB		08				0		85	America/Barbados	2016-10-28
+3373869	Friendship	Friendship		13.31077	-59.62987	P	PPL	BB		07				0		49	America/Barbados	2016-10-28
+3373870	Freshwater Bay	Freshwater Bay	Freshwater Bay	13.13062	-59.63572	H	BAY	BB		08				0		1	America/Barbados	2016-10-28
+3373871	Frere Pilgrim	Frere Pilgrim		13.10282	-59.54358	P	PPL	BB		01				0		107	America/Barbados	2016-10-28
+3373872	French	French		13.26254	-59.60639	P	PPL	BB		09				0		192	America/Barbados	2016-10-28
+3373873	Free Hill	Free Hill		13.30576	-59.59922	P	PPL	BB		07				0		99	America/Barbados	2016-10-28
+3373874	Free Hill	Free Hill		13.14593	-59.55034	P	PPL	BB		03				0		212	America/Barbados	2016-10-28
+3373875	Four Winds	Four Winds		13.23106	-59.64214	P	PPL	BB		09				0		12	America/Barbados	2016-10-28
+3373876	Four Roads	Four Roads		13.11068	-59.47226	P	PPL	BB		10				0		32	America/Barbados	2018-03-08
+3373877	Four Cross Roads	Four Cross Roads		13.17018	-59.52186	P	PPLA	BB		05				0		220	America/Barbados	2016-10-28
+3373878	Foul Bay	Foul Bay		13.09618	-59.45538	P	PPL	BB		10				0		38	America/Barbados	2016-10-28
+3373879	Foul Bay	Foul Bay	Foul Bay	13.10002	-59.44904	H	BAY	BB		10				0		1	America/Barbados	2016-10-29
+3373880	Fosters	Fosters		13.29456	-59.63312	P	PPL	BB		07				0		51	America/Barbados	2016-10-28
+3373881	Foster Hall	Foster Hall		13.20725	-59.51425	P	PPL	BB		06				0		71	America/Barbados	2016-10-28
+3373882	Foster Hall	Foster Hall		13.13372	-59.57344	P	PPL	BB		03				0		74	America/Barbados	2016-10-28
+3373883	Fortescue	Fortescue		13.17308	-59.45904	P	PPLL	BB		10				0		52	America/Barbados	2016-10-28
+3373884	Folkestone Park	Folkestone Park		13.18177	-59.62942	P	PPL	BB		04				0		57	America/Barbados	2016-10-28
+3373885	Flat Rock	Flat Rock		13.14568	-59.57255	P	PPL	BB		03				0		123	America/Barbados	2016-10-28
+3373886	Flatfield	Flatfield		13.32795	-59.61162	P	PPL	BB		07				0		23	America/Barbados	2016-10-28
+3373887	Fitts	Fitts		13.1467	-59.63803	P	PPL	BB		04				0		9	America/Barbados	2016-10-28
+3373888	Fisher Pond	Fisher Pond		13.17034	-59.55937	P	PPL	BB		11				0		217	America/Barbados	2016-10-28
+3373889	Farm Road	Farm Road		13.24947	-59.63952	P	PPL	BB		09				0		20	America/Barbados	2016-10-28
+3373890	Farmers	Farmers		13.20677	-59.59177	P	PPL	BB		11				0		278	America/Barbados	2016-10-28
+3373891	Farley Hill	Farley Hill		13.26204	-59.59602	T	HLL	BB		02				0		245	America/Barbados	2016-10-28
+3373892	Fairy Valley Rock	Fairy Valley Rock		13.06602	-59.50543	P	PPL	BB		01				0		20	America/Barbados	2016-03-09
+3373893	Fairy Valley	Fairy Valley		13.07676	-59.51036	P	PPL	BB		01				0		73	America/Barbados	2016-03-09
+3373894	Fair View	Fair View		13.15164	-59.54223	P	PPL	BB		03				0		221	America/Barbados	2016-10-28
+3373895	Fairview	Fairview		13.09537	-59.50282	P	PPL	BB		01				0		82	America/Barbados	2016-10-28
+3373896	Fairfield	Fairfield		13.12657	-59.6159	P	PPLX	BB		08				0		47	America/Barbados	2016-10-28
+3373897	Fairfield	Fairfield		13.29431	-59.62188	P	PPL	BB		07				0		79	America/Barbados	2016-10-28
+3373898	Exchange	Exchange		13.15488	-59.58745	P	PPL	BB		04				0		120	America/Barbados	2016-10-28
+3373899	Enterprise	Enterprise		13.05584	-59.53137	P	PPL	BB		01				0		16	America/Barbados	2016-10-28
+3373900	Endeavour	Endeavour		13.20654	-59.60227	P	PPL	BB		04				0		241	America/Barbados	2016-10-28
+3373901	Endeavour	Endeavour		13.17794	-59.5907	P	PPL	BB		11				0		242	America/Barbados	2016-10-28
+3373902	Ellis Castle	Ellis Castle		13.28454	-59.59216	P	PPL	BB		09				0		196	America/Barbados	2016-10-28
+3373903	Ellesmere	Ellesmere		13.15615	-59.52386	P	PPL	BB		03				0		185	America/Barbados	2016-10-28
+3373904	Ellerton	Ellerton		13.13085	-59.54105	P	PPL	BB		03				0		115	America/Barbados	2016-10-28
+3373905	Elizabeth Park	Elizabeth Park		13.09056	-59.56993	P	PPL	BB		01				0		88	America/Barbados	2016-10-28
+3373906	Edge Hill	Edge Hill		13.15979	-59.60475	P	PPL	BB		04				0		171	America/Barbados	2016-10-28
+3373907	Edgecumbe	Edgecumbe		13.12386	-59.51104	P	PPL	BB		00				0		72	America/Barbados	2016-10-28
+3373908	Edey	Edey		13.099	-59.54023	P	PPL	BB		01				0		114	America/Barbados	2016-10-28
+3373909	Eden Lodge	Eden Lodge		13.13797	-59.61089	P	PPL	BB		08				0		96	America/Barbados	2016-10-28
+3373910	Ebworth	Ebworth		13.27057	-59.61847	P	PPLL	BB		09				0		111	America/Barbados	2016-10-28
+3373911	Ebenezer	Ebenezer		13.12961	-59.50249	P	PPL	BB		10				0		74	America/Barbados	2016-10-28
+3373912	Easy Hall	Easy Hall		13.19185	-59.53329	P	PPL	BB		06				0		297	America/Barbados	2016-10-28
+3373913	East Point Lighthouse	East Point Lighthouse		13.16368	-59.43293	S	LTHSE	BB		10				0		42	America/Barbados	2016-10-29
+3373914	East Lynne	East Lynne		13.12938	-59.54483	P	PPL	BB		01				0		105	America/Barbados	2016-10-28
+3373915	Eastbourne	Eastbourne		13.12276	-59.43413	P	PPL	BB		10				0		13	America/Barbados	2016-10-29
+3373916	Ealing Park	Ealing Park		13.05644	-59.51272	P	PPL	BB		01				0		20	America/Barbados	2016-03-09
+3373917	Ealing Grove	Ealing Grove		13.0605	-59.51517	P	PPL	BB		01				0		19	America/Barbados	2016-03-09
+3373918	Durham	Durham		13.30452	-59.61021	P	PPL	BB		07				0		77	America/Barbados	2016-10-28
+3373919	Durants	Durants		13.15787	-59.63104	P	PPL	BB		04				0		57	America/Barbados	2016-10-28
+3373920	Durants	Durants	Durant,Durants	13.07018	-59.53706	P	PPL	BB	BB	01				0		45	America/Barbados	2016-10-28
+3373921	Dunscombe	Dunscombe		13.19888	-59.59422	P	PPL	BB		11				0		256	America/Barbados	2016-10-28
+3373922	Dukes	Dukes		13.18221	-59.59628	P	PPL	BB		11				0		248	America/Barbados	2016-10-28
+3373923	Drax Hill Green	Drax Hill Green		13.15052	-59.52909	P	PPL	BB		03				0		193	America/Barbados	2016-10-28
+3373924	Draxhall Woods	Draxhall Woods		13.13241	-59.51513	P	PPL	BB		03				0		104	America/Barbados	2016-10-28
+3373925	Drax Hall Jump	Drax Hall Jump		13.13674	-59.51378	P	PPL	BB		03				0		140	America/Barbados	2016-10-28
+3373926	Drax Hall Hope	Drax Hall Hope		13.14565	-59.5361	P	PPL	BB		03				0		189	America/Barbados	2016-10-28
+3373927	Drax Hall	Drax Hall		13.14433	-59.52111	P	PPL	BB		03				0		172	America/Barbados	2016-10-28
+3373928	Dover	Dover		13.06731	-59.5688	P	PPL	BB		01				0		9	America/Barbados	2016-10-28
+3373929	Diamond Valley	Diamond Valley		13.11276	-59.44856	P	PPL	BB		10				0		21	America/Barbados	2016-10-28
+3373930	Diamond Corner	Diamond Corner		13.27718	-59.59932	P	PPL	BB		09				0		156	America/Barbados	2018-03-08
+3373931	Deebles Point	Deebles Point		13.1631	-59.42855	T	PT	BB		10				0		1	America/Barbados	2016-10-29
+3373932	Deacons	Deacons		13.11507	-59.6236	P	PPLX	BB		08				0		11	America/Barbados	2016-10-28
+3373933	Date Tree Hill	Date Tree Hill		13.29228	-59.58214	P	PPL	BB		07				0		95	America/Barbados	2016-10-28
+3373934	Dash Valley	Dash Valley		13.11077	-59.56519	P	PPL	BB		03				0		70	America/Barbados	2016-10-28
+3373935	Cummings	Cummings		13.32355	-59.59562	H	COVE	BB		07				0		8	America/Barbados	2016-10-28
+3373936	Culpepper Island	Culpepper Island	Culpepper Island	13.16583	-59.44343	T	ISL	BB		10				0		2	America/Barbados	2016-10-28
+3373937	Cuckold Point	Cuckold Point	Cuckold Point,Cuckolds Point	13.30657	-59.57651	T	PT	BB	BB	07				0		9	America/Barbados	2016-10-28
+3373938	Creek Bay	Creek Bay		13.32959	-59.60404	H	COVE	BB		07				0		1	America/Barbados	2016-10-28
+3373939	Crane Hotel	Crane Hotel	Crane Hotel,Crane View,The Crane	13.10567	-59.44519	S	RSRT	BB	BB	10				0		18	America/Barbados	2016-10-28
+3373940	Crane Beach	Crane Beach		13.10659	-59.4438	T	BCH	BB		10				0		12	America/Barbados	2016-10-28
+3373941	Crane Bay	Crane Bay		13.10595	-59.44319	H	COVE	BB		10				0		1	America/Barbados	2016-10-29
+3373942	Crab Hill	Crab Hill		13.3196	-59.63831	P	PPL	BB		07				727		36	America/Barbados	2018-03-08
+3373943	Cowpen Rock	Cowpen Rock		13.32529	-59.63983	T	RK	BB		07				0		1	America/Barbados	2016-10-28
+3373944	Coverly	Coverly		13.08142	-59.50453	P	PPL	BB		01				0		76	America/Barbados	2016-10-28
+3373945	Cove	Cove		13.30275	-59.57739	P	PPLL	BB		07				0		19	America/Barbados	2016-10-28
+3373946	Cotton House Bay	Cotton House Bay		13.05302	-59.53598	H	BAY	BB		01				0		1	America/Barbados	2016-03-09
+3373947	Cottage Vale	Cottage Vale		13.1373	-59.49483	P	PPL	BB		10				0		95	America/Barbados	2016-10-28
+3373948	Cottage	Cottage		13.29523	-59.60514	P	PPLL	BB		07				0		128	America/Barbados	2016-10-28
+3373949	Cottage	Cottage		13.15205	-59.55308	P	PPL	BB		03				0		217	America/Barbados	2016-10-28
+3373950	Corben’s Bay	Corben's Bay		13.30193	-59.57476	H	COVE	BB		07				0		6	America/Barbados	2016-10-28
+3373951	Cookram Rock	Cookram Rock		13.29365	-59.65082	T	RK	BB		07				0		1	America/Barbados	2016-10-28
+3373952	Content	Content		13.31296	-59.63635	P	PPL	BB		07				0		46	America/Barbados	2016-10-28
+3373953	Constitution River	Constitution River	Carenage,Constitution River	13.09538	-59.61814	H	STM	BB		08				0		1	America/Barbados	2019-11-19
+3373954	Constant	Constant		13.12165	-59.55856	P	PPL	BB		03				0		60	America/Barbados	2018-03-08
+3373955	Conset Point	Conset Point		13.18351	-59.45849	T	PT	BB		05				0		13	America/Barbados	2016-10-28
+3373956	Conset Bay	Conset Bay	Conset Bay,Consets Bay	13.18212	-59.4662	H	BAY	BB	BB	05				0		34	America/Barbados	2016-10-28
+3373957	Connell Town	Connell Town		13.32676	-59.61544	P	PPL	BB		07				0		35	America/Barbados	2016-10-28
+3373958	Congor Rocks	Congor Rocks		13.19747	-59.48768	T	RKS	BB		05				0		1	America/Barbados	2016-10-28
+3373959	Congo Road	Congo Road		13.12504	-59.46794	P	PPL	BB		10				0		48	America/Barbados	2016-10-29
+3373960	Congor Bay	Congor Bay		13.19261	-59.48421	H	BAY	BB		05				0		1	America/Barbados	2016-10-28
+3373961	Collins	Collins		13.29049	-59.58345	P	PPL	BB		09				0		118	America/Barbados	2016-10-28
+3373962	Colleton	Colleton		13.27595	-59.63885	P	PPL	BB		09				0		43	America/Barbados	2016-10-28
+3373963	Colleton	Colleton		13.1769	-59.47981	P	PPL	BB		05				0		150	America/Barbados	2016-10-28
+3373964	College Savannah	College Savannah		13.17661	-59.45588	P	PPL	BB		05				0		40	America/Barbados	2016-10-28
+3373965	Coles Pasture	Coles Pasture		13.15277	-59.42818	P	PPLL	BB		10				0		35	America/Barbados	2016-10-29
+3373966	Coles Cave	Coles Cave		13.18223	-59.57491	P	PPL	BB		05				0		257	America/Barbados	2016-10-28
+3373967	Coffee Gully	Coffee Gully		13.18555	-59.54728	P	PPL	BB		06				0		289	America/Barbados	2018-07-04
+3373968	Codrington College	Codrington College	Codrington,Codrington College	13.17161	-59.47734	P	PPL	BB	BB	05				0		179	America/Barbados	2016-10-28
+3373969	Codrington	Codrington		13.12544	-59.60686	P	PPL	BB		08				0		62	America/Barbados	2016-10-28
+3373970	Coconut Hall	Coconut Hall		13.32031	-59.60029	P	PPL	BB		07				0		22	America/Barbados	2016-10-28
+3373971	Cobbler’s Rock	Cobbler's Rock		13.10093	-59.44546	T	RK	BB		10				0		1	America/Barbados	2016-10-28
+3373972	Cobblers Reef	Cobblers Reef		13.13254	-59.41428	H	RF	BB		10				0		-9999	America/Barbados	2016-10-29
+3373973	Coach Hill	Coach Hill		13.18037	-59.48206	P	PPL	BB		05				0		140	America/Barbados	2016-10-28
+3373974	Cluff’s Bay	Cluff's Bay		13.33096	-59.62722	H	COVE	BB		07				0		29	America/Barbados	2016-10-28
+3373975	Cluffs	Cluffs		13.32618	-59.62596	P	PPL	BB		07				0		41	America/Barbados	2016-10-28
+3373976	Clifton Hill	Clifton Hill		13.18304	-59.56487	P	PPL	BB		11				0		277	America/Barbados	2016-10-28
+3373977	Clifton Hall	Clifton Hall		13.18889	-59.50255	P	PPL	BB		05				0		223	America/Barbados	2016-10-28
+3373978	Cliff Cottage	Cliff Cottage		13.18133	-59.48934	P	PPL	BB		05				0		215	America/Barbados	2016-10-28
+3373979	Cliff	Cliff		13.15624	-59.49762	P	PPL	BB		05				0		162	America/Barbados	2016-10-28
+3373980	Clermont	Clermont		13.14491	-59.61829	P	PPL	BB		00				0		123	America/Barbados	2016-10-28
+3373981	Cleland	Cleland		13.26061	-59.59315	P	PPL	BB		02				0		190	America/Barbados	2016-10-28
+3373982	Clapham	Clapham		13.08809	-59.58394	P	PPL	BB		01				0		76	America/Barbados	2016-10-28
+3373983	Church Village	Church Village	Church Village	13.13768	-59.48904	P	PPL	BB		10				0		91	America/Barbados	2016-10-28
+3373984	Church View	Church View		13.18753	-59.49878	P	PPL	BB		05				0		197	America/Barbados	2016-10-28
+3373985	Church Hill	Church Hill		13.28994	-59.61911	P	PPL	BB		07				0		101	America/Barbados	2016-10-28
+3373986	Christie	Christie		13.16882	-59.60524	P	PPL	BB		11				0		201	America/Barbados	2016-10-28
+3373987	Christ Church Ridge	Christ Church Ridge		13.081	-59.53335	T	RDGE	BB		01				0		80	America/Barbados	2016-10-28
+3373988	Christ Church	Christ Church	Christ Church,Christ Church prestegjeld,Christchurch,Kariah Christ Church,Kraist Tserts,Kraistcercas pagasts,Kraistčērčas pagasts,Krajst-Cherch,Krista Kirko,Kristaus baznycios parapija,Kristaus bažnyčios parapija,Parroquia de Christ Church,ji du cheng jiao qu,keulaiseuteucheochi gyogu,krayst chrch  barbadws,Κράιστ Τσερτς,Крайст-Черч,کرائسٹ چرچ، بارباڈوس,کرایست چرچ، باربادوس,基督城教區,크라이스트처치 교구	13.08734	-59.52418	A	ADM1	BB		01				48119		102	America/Barbados	2016-10-28
+3373989	The Choyce	The Choyce		13.28401	-59.56843	T	CAPE	BB		02				0		7	America/Barbados	2016-10-28
+3373990	Chimborazo	Chimborazo		13.19938	-59.55658	P	PPL	BB		06				0		330	America/Barbados	2018-03-08
+3373991	Cherry Tree Hill	Cherry Tree Hill		13.27409	-59.58474	T	HLL	BB		09				0		241	America/Barbados	2016-10-28
+3373992	Cherry Grove	Cherry Grove		13.16539	-59.51648	P	PPL	BB		05				0		198	America/Barbados	2018-03-08
+3373993	Checker Hall	Checker Hall		13.28445	-59.64223	P	PPLA	BB		07				0		52	America/Barbados	2018-03-08
+3373994	Cheapside	Cheapside		13.0986	-59.62114	P	PPLX	BB		08				0		10	America/Barbados	2016-10-28
+3373995	The Chase	The Chase		13.27457	-59.56669	T	BCH	BB		02				0		3	America/Barbados	2016-10-28
+3373996	Charnocks	Charnocks		13.08493	-59.49469	P	PPL	BB		01				0		73	America/Barbados	2016-10-28
+3373997	Chapman	Chapman		13.19884	-59.57388	P	PPL	BB		11				0		256	America/Barbados	2016-10-28
+3373998	Chandler Bay	Chandler Bay		13.3126	-59.58445	H	COVE	BB		07				0		7	America/Barbados	2016-10-28
+3373999	Chancery Lane Swamp	Chancery Lane Swamp		13.06334	-59.5	H	SWMP	BB		01				0		5	America/Barbados	2008-01-11
+3374000	Chancery Lane	Chancery Lane		13.05966	-59.50796	P	PPL	BB		01				0		21	America/Barbados	2016-03-09
+3374001	Chance Hall	Chance Hall		13.30988	-59.60352	P	PPL	BB		07				0		43	America/Barbados	2016-10-28
+3374002	Chalky Mount	Chalky Mount	Chalky Mount	13.23234	-59.55502	T	HLL	BB		02				0		141	America/Barbados	2016-10-28
+3374003	The Chair	The Chair		13.15541	-59.42184	T	PT	BB		10				0		8	America/Barbados	2016-10-29
+3374004	Cave Hill	Cave Hill		13.29968	-59.58443	P	PPL	BB		07				0		68	America/Barbados	2018-03-08
+3374005	Cave Hill	Cave Hill		13.13434	-59.62191	P	PPL	BB		08				0		89	America/Barbados	2018-03-08
+3374006	Cave Bay	Cave Bay	Cave Bay	13.13377	-59.42574	H	BAY	BB		10				0		4	America/Barbados	2016-10-29
+3374007	Cattlewash	Cattlewash		13.2205	-59.53203	P	PPL	BB		06				0		5	America/Barbados	2016-10-28
+3374008	Castle Grant	Castle Grant		13.19386	-59.55186	P	PPL	BB		06				0		332	America/Barbados	2018-03-08
+3374009	Castle	Castle		13.28441	-59.59712	P	PPL	BB		09				0		156	America/Barbados	2016-10-28
+3374010	Carter	Carter		13.18344	-59.50281	P	PPL	BB		05				0		247	America/Barbados	2016-10-28
+3374011	Carrington	Carrington		13.19541	-59.57633	P	PPL	BB		11				0		309	America/Barbados	2016-10-28
+3374012	Carrington	Carrington		13.11781	-59.49766	P	PPL	BB		10				0		43	America/Barbados	2018-03-08
+3374013	Carlton	Carlton		13.22015	-59.63536	P	PPL	BB		04				0		55	America/Barbados	2016-10-28
+3374014	Carlisle Bay	Carlisle Bay	Bridgetown Harbor,Carlisle Bay	13.08787	-59.61475	H	BAY	BB		08				0		1	America/Barbados	2019-03-22
+3374015	Careenage	Careenage		13.09532	-59.62013	T	PT	BB		08				0		1	America/Barbados	2016-10-28
+3374016	Cane Wood	Cane Wood		13.14755	-59.59345	P	PPL	BB		08				0		94	America/Barbados	2016-10-28
+3374017	Cane Vale	Cane Vale		13.06932	-59.55036	P	PPL	BB		01				0		30	America/Barbados	2018-03-08
+3374018	Canefield	Canefield		13.19589	-59.58469	P	PPL	BB		06				0		313	America/Barbados	2016-10-28
+3374019	Campaign Castle	Campaign Castle		13.12198	-59.51635	P	PPL	BB		03				0		69	America/Barbados	2016-10-28
+3374020	Cambridge	Cambridge		13.22791	-59.54667	S	EST	BB		06				0		107	America/Barbados	2016-10-28
+3374021	Callendar	Callendar		13.07145	-59.52753	P	PPL	BB		01				0		60	America/Barbados	2016-03-09
+3374022	The Cabben	The Cabben	Breakfast Point,The Cabben	13.33426	-59.61993	T	PT	BB	BB	07				0		14	America/Barbados	2016-10-28
+3374023	Bushy Park Station	Bushy Park Station		13.13838	-59.47201	S	RSTN	BB		10				0		81	America/Barbados	2016-10-29
+3374024	Bushy Park	Bushy Park	Bushy Park	13.13766	-59.47113	P	PPL	BB		10				0		77	America/Barbados	2016-10-29
+3374025	Bulkely Factory	Bulkely Factory		13.12115	-59.54942	P	PPL	BB		03				0		59	America/Barbados	2016-10-28
+3374026	Bulkeley Station	Bulkeley Station	Bulkeley Factory Station,Bulkeley Station	13.12082	-59.54874	S	RSTN	BB	BB	03				0		59	America/Barbados	2016-10-28
+3374027	Buckden House	Buckden House		13.19654	-59.53729	P	PPL	BB		06				0		329	America/Barbados	2016-10-28
+3374028	Bruce Vale River	Bruce Vale River	Bruce Vale River	13.24909	-59.55813	H	STM	BB		02				0		4	America/Barbados	2016-10-28
+3374029	Bruce Vale	Bruce Vale	Bruce,Bruce Vale	13.22578	-59.56542	P	PPL	BB	BB	02				0		44	America/Barbados	2016-10-28
+3374030	Brome Field	Brome Field		13.29775	-59.64435	P	PPL	BB		07				0		45	America/Barbados	2016-10-28
+3374031	Brittons Hill	Brittons Hill		13.08759	-59.59778	P	PPL	BB		08				0		43	America/Barbados	2016-10-28
+3374032	Brighton	Brighton		13.12213	-59.62557	P	PPLX	BB		08				0		18	America/Barbados	2016-10-28
+3374033	Brighton	Brighton		13.12278	-59.52736	P	PPL	BB		03				0		80	America/Barbados	2016-10-28
+3374034	Briggs	Briggs		13.10579	-59.53914	P	PPL	BB		01				0		83	America/Barbados	2016-10-28
+3374035	Bridgetown Harbour	Bridgetown Harbour	Bridgetown Harbour,New Deep Water Harbour	13.10435	-59.63107	H	HBR	BB	BB	08				0		1	America/Barbados	2016-10-28
+3374036	Bridgetown	Bridgetown	BGI,Bridgetown,Bridzhtaun,Bridztaun,Bridztaunas,Bridžtaunas,The Bridge Town,beulijitaun,brydj tawn,bu li qi dun,burijjitaun,Бриджтаун,Бриџтаун,ברידג'טאון,بريدج تاون,ብርጅታውን,ブリッジタウン,布里奇敦,브리지타운	13.10732	-59.62021	P	PPLC	BB		08				98511		10	America/Barbados	2016-10-28
+3374037	Bridgefield	Bridgefield		13.15842	-59.59007	P	PPL	BB		11				0		128	America/Barbados	2016-10-28
+3374038	Brereton	Brereton	Brereton	13.12233	-59.50112	P	PPL	BB		10				0		59	America/Barbados	2016-10-28
+3374039	Breedy’s	Breedy's	Breedy's,Breedy’s	13.25538	-59.58422	P	PPL	BB		02				0		46	America/Barbados	2016-10-28
+3374040	Branchbury	Branchbury	Branchbury	13.18784	-59.54933	P	PPL	BB		06				0		289	America/Barbados	2018-07-04
+3374041	Bowmanston	Bowmanston		13.16652	-59.51189	P	PPL	BB		05				0		189	America/Barbados	2018-03-08
+3374042	Bow Bells Reef	Bow Bells Reef		13.03899	-59.53148	H	RF	BB		01				0		1	America/Barbados	2016-03-09
+3374043	Bourbon	Bourbon		13.28921	-59.6343	P	PPL	BB		07				0		52	America/Barbados	2016-10-28
+3374044	Bottom Bay	Bottom Bay	Bottom Bay	13.13622	-59.42437	H	BAY	BB		10				0		-9999	America/Barbados	2016-10-29
+3374045	Boscobelle	Boscobelle		13.28775	-59.57918	P	PPL	BB		09				0		141	America/Barbados	2018-03-08
+3374046	Bonwell	Bonwell		13.18446	-59.53809	P	PPL	BB		06				0		270	America/Barbados	2016-10-28
+3374047	Boiling Spring	Boiling Spring		13.22087	-59.60008	H	SPNG	BB		02				0		263	America/Barbados	2016-10-28
+3374048	Boarded Hall	Boarded Hall		13.10594	-59.53307	P	PPL	BB		01				0		87	America/Barbados	2016-10-28
+3374049	Blue Waters	Blue Waters		13.08	-59.59071	P	PPL	BB		01				0		23	America/Barbados	2018-03-08
+3374050	Blowers	Blowers		13.19117	-59.61557	P	PPL	BB		11				0		127	America/Barbados	2016-10-28
+3374051	Bloomsbury	Bloomsbury		13.19564	-59.56884	P	PPL	BB		11				0		315	America/Barbados	2016-10-28
+3374052	Blades Hill	Blades Hill	Blades Hill	13.16238	-59.4602	P	PPL	BB		10				0		74	America/Barbados	2016-10-28
+3374053	Blades	Blades		13.10985	-59.46831	P	PPL	BB		10				0		31	America/Barbados	2018-03-08
+3374054	Blacksage Alley	Blacksage Alley		13.30324	-59.58776	P	PPL	BB		07				0		33	America/Barbados	2016-10-28
+3374055	Black Rock	Black Rock		13.12562	-59.62559	P	PPL	BB		08				0		27	America/Barbados	2016-10-28
+3374056	Blackmans	Blackmans		13.18501	-59.54519	P	PPL	BB		06				623		279	America/Barbados	2016-10-28
+3374057	Black Bird Rock	Black Bird Rock		13.2979	-59.64997	T	RK	BB		07				0		35	America/Barbados	2016-10-28
+3374058	Black Bess	Black Bess		13.24335	-59.6177	S	EST	BB		09				0		177	America/Barbados	2016-10-28
+3374059	Bissex	Bissex		13.22066	-59.54762	P	PPL	BB		06				0		209	America/Barbados	2018-03-08
+3374060	Bishops	Bishops		13.31688	-59.59729	P	PPL	BB		07				0		25	America/Barbados	2016-10-28
+3374061	Bibbys Lane	Bibbys Lane		13.15141	-59.58873	P	PPL	BB		08				0		111	America/Barbados	2016-10-28
+3374062	Bentleys	Bentleys	Bentleys	13.12013	-59.50678	P	PPL	BB		10				0		53	America/Barbados	2016-10-28
+3374063	Benthams	Benthams		13.28736	-59.62574	P	PPL	BB		07				0		67	America/Barbados	2016-10-28
+3374064	Benny Hall	Benny Hall		13.26829	-59.60123	P	PPLL	BB		09				0		194	America/Barbados	2016-10-28
+3374065	Bennetts	Bennetts		13.17397	-59.61403	P	PPL	BB		11				0		132	America/Barbados	2016-10-28
+3374066	Benab	Benab		13.23515	-59.54331	P	PPLL	BB		02				0		14	America/Barbados	2016-10-28
+3374067	Below Rock	Below Rock		13.05862	-59.53081	P	PPL	BB		01				0		19	America/Barbados	2016-03-09
+3374068	Belmont	Belmont		13.09999	-59.60384	P	PPLX	BB		08				0		13	America/Barbados	2016-10-28
+3374069	Bell Point	Bell Point		13.1751	-59.44896	T	PT	BB		05				0		13	America/Barbados	2016-10-28
+3374070	Belleplaine	Belleplaine	Belleplaine	13.24721	-59.5653	P	PPL	BB		02				0		18	America/Barbados	2016-10-28
+3374071	Belle Hill	Belle Hill		13.2417	-59.56976	T	HLL	BB		02				0		114	America/Barbados	2016-10-28
+3374072	Belle	Belle		13.11687	-59.58849	P	PPL	BB		08				0		39	America/Barbados	2016-10-28
+3374073	Belair	Belair		13.155	-59.56424	P	PPL	BB		03				0		182	America/Barbados	2016-10-28
+3374074	Bel Air	Bel Air	Bel Air	13.11697	-59.4402	P	PPL	BB		10				0		16	America/Barbados	2016-10-29
+3374075	Beachy Head	Beachy Head		13.11185	-59.44059	T	PT	BB		10				0		10	America/Barbados	2016-10-28
+3374076	Bayville	Bayville		13.08449	-59.60602	P	PPLX	BB		08				0		10	America/Barbados	2010-02-01
+3374077	Bayleys	Bayleys	Bayley,Bayleys	13.15213	-59.44563	P	PPL	BB	BB	10				0		39	America/Barbados	2016-10-29
+3374078	Bayfield	Bayfield	Bayfield	13.16478	-59.45243	P	PPL	BB		10				0		39	America/Barbados	2016-10-28
+3374079	Baxters	Baxters	Baxters	13.22144	-59.56916	P	PPL	BB		02				0		100	America/Barbados	2016-10-28
+3374080	Batts Rock Bay	Batts Rock Bay		13.13786	-59.63863	H	BAY	BB		08				0		1	America/Barbados	2016-10-28
+3374081	Bath Station	Bath Station		13.18365	-59.48143	S	RSTN	BB		05				0		84	America/Barbados	2016-10-28
+3374082	Bathsheba Station	Bathsheba Station		13.21028	-59.52872	S	RSTN	BB		06				0		108	America/Barbados	2016-10-28
+3374083	Bathsheba	Bathsheba	Bathsheba	13.21133	-59.52596	P	PPLA	BB		06				1765		69	America/Barbados	2016-10-28
+3374084	Barbados	Barbados	Baabados,Baarbadoos,Babadosi,Bac-ba-got,Barabada,Barabadosi,Barabâda,Barbada,Barbadas,Barbade,Barbadeaen,Barbadeän,Barbadhos,Barbadi,Barbado,Barbadoes,Barbadoos,Barbados,Barbados nutome,Barbadosa,Barbadosas,Barbadosi,Barbadosin Orn,Barbadot,Barbaduosos,Barbadus,Barbady,Barbadós,Barbata,Barbaus,Barbàdos,Barbâda,Barbåde,Barebade,Barubadosi,Barɛbadɛ,Bhabhadosi,Bác-ba-đốt,Bárbádọ̀s,Colony of Barbados,Hashkʼaan Bikéyah,IBhadosi,Lababad,Mparmpantos,Orileede Babadosi,Orílẹ́ède Bábádósì,Papeitosi,Pāpeitosi,ba ba duo si,babados,babeidoseu,barabadasa,barabados,barabadosa,barbados,barbadosa,barbadosi,barbadws,barbedos,barbydws,barubadosu,brbadws,brbdws,i-Barbados,parpatocu,parpatos,prathes barbedos,Μπαρμπάντος,Барбадас,Барбадос,Барбадосин Орн,Բարբադոս,ברבדוס,باربادوس,باربادۆس,بارباڈوس,باربيدوس,بربادوس,ބާބަޑޮސް,बारबाडोस,बार्बाडोस,বারবাদোস,বার্বাডোস,ਬਾਰਬਾਡੋਸ,બાર્બાડોસ,ବାରବାଡସ,ବାରବାଡୋସ୍,பார்படோசு,பார்படோஸ்,బార్బడోస్,ಬಾರ್ಬಡೋಸ್,ബാര്‍ബഡോസ്,ബർബാഡോസ്,බාර්බඩෝස්,บาร์เบโดส,ประเทศบาร์เบโดส,ບາບາຄັອດ,བར་བ་ཌོ་སི།,བཱརྦ་ཌོས྄།,ბარბადოსი,ባርቤዶስ,បារបាដូស,バルバドス,巴巴多斯,바베이도스	13.16453	-59.55165	A	PCLI	BB		00				285653		222	America/Barbados	2016-10-28
+3374085	Barbados	Barbados	Barbados	13.16457	-59.55208	T	ISL	BB						279254		222	America/Barbados	2019-04-12
+3374086	Bannatyne	Bannatyne		13.08631	-59.54779	P	PPL	BB		01				0		90	America/Barbados	2018-03-08
+3374087	Bank Hall	Bank Hall		13.11031	-59.61107	P	PPLX	BB		08				0		16	America/Barbados	2016-10-28
+3374088	Bakers	Bakers		13.23754	-59.62325	P	PPL	BB		09				0		122	America/Barbados	2016-10-28
+3374089	Bairds	Bairds		13.14882	-59.53865	P	PPL	BB		03				0		192	America/Barbados	2016-10-28
+3374090	Bagatelle	Bagatelle		13.165	-59.61469	P	PPL	BB		11				0		132	America/Barbados	2016-10-28
+3374091	Babbs	Babbs		13.28714	-59.63899	P	PPL	BB		07				0		58	America/Barbados	2016-10-28
+3374092	Atlantic Shores	Atlantic Shores		13.04917	-59.53281	P	PPL	BB		01				0		15	America/Barbados	2018-03-08
+3374093	Ashton Hall	Ashton Hall		13.25956	-59.63304	P	PPL	BB		09				0		50	America/Barbados	2016-10-28
+3374094	Ashford	Ashford		13.16691	-59.5017	S	EST	BB		05				0		191	America/Barbados	2016-10-28
+3374095	Ashbury	Ashbury		13.16608	-59.5403	P	PPL	BB		05				0		270	America/Barbados	2016-10-28
+3374096	Arthurs Seat	Arthurs Seat		13.1527	-59.60391	P	PPL	BB		11				0		126	America/Barbados	2016-10-28
+3374097	Arch Hall	Arch Hall		13.17962	-59.61611	P	PPL	BB		11				0		118	America/Barbados	2016-10-28
+3374098	Archer’s Bay	Archer's Bay		13.32954	-59.63134	H	BAY	BB		07				0		29	America/Barbados	2016-10-28
+3374099	Archers	Archers	Archer,Archers	13.31832	-59.6396	P	PPL	BB	BB	07				0		36	America/Barbados	2016-10-28
+3374100	Applewhaites	Applewhaites		13.15546	-59.5771	P	PPL	BB		11				0		140	America/Barbados	2016-10-28
+3374101	Appleby	Appleby		13.15454	-59.63616	P	PPL	BB		04				0		20	America/Barbados	2016-10-28
+3374102	Apes Hill	Apes Hill		13.21588	-59.59746	P	PPL	BB		04				0		271	America/Barbados	2016-10-28
+3374103	Antilles Flat	Antilles Flat		13.32026	-59.59291	H	FLTT	BB		07				0		5	America/Barbados	2016-10-28
+3374104	Animal Flower Cave	Animal Flower Cave	Animal Flower Cave,Cove	13.33426	-59.61315	P	PPL	BB	BB	07				0		14	America/Barbados	2018-03-08
+3374105	Animal Flower Bay	Animal Flower Bay		13.33431	-59.61229	H	BAY	BB		07				0		8	America/Barbados	2016-10-28
+3374106	Ananias Point	Ananias Point		13.04647	-59.51855	T	PT	BB		01				0		10	America/Barbados	2016-03-09
+3374107	All Saints Church	All Saints Church		13.26947	-59.61232	S	CH	BB		09				0		143	America/Barbados	2016-10-28
+3374108	Allmans	Allmans		13.28242	-59.63802	P	PPLL	BB		07				0		60	America/Barbados	2016-10-28
+3374109	Alleynes Bay	Alleynes Bay		13.20567	-59.64158	H	BAY	BB		04				0		28	America/Barbados	2016-10-28
+3374110	Alleynedale	Alleynedale		13.28385	-59.62109	P	PPL	BB		00				0		81	America/Barbados	2016-10-28
+3374111	Allen View	Allen View		13.18664	-59.57418	P	PPL	BB		11				0		278	America/Barbados	2016-10-28
+3374112	Alexandra	Alexandra		13.29299	-59.60158	P	PPL	BB		07				0		127	America/Barbados	2016-10-28
+3374113	Airy Hill	Airy Hill		13.18652	-59.5557	P	PPL	BB		06				0		276	America/Barbados	2018-07-04
+3374114	Abbott’s Bay	Abbott's Bay		13.33049	-59.60571	H	COVE	BB		07				0		1	America/Barbados	2016-10-28
+6300886	Bridgetown Heliport	Bridgetown Heliport	TBPO	13.09577	-59.61865	S	AIRH	BB		08				0	50	1	America/Barbados	2018-02-07
+6464783	Cobblers Cove Hotel	Cobblers Cove Hotel		13.2376	-59.639	S	HTL	BB						0		29	America/Barbados	2007-04-13
+6465468	Mango Bay Club - All Inclusive	Mango Bay Club - All Inclusive		13.189	-59.6343	S	HTL	BB						0		14	America/Barbados	2007-04-13
+6465533	Blue Horizon Hotel	Blue Horizon Hotel		13.081	-59.5779	S	HTL	BB						0		44	America/Barbados	2007-04-13
+6465665	Time Out At The Gap	Time Out At The Gap		13.0655	-59.5602	S	HTL	BB		01				0		10	America/Barbados	2007-04-13
+6465731	The Savannah	The Savannah		13.0782	-59.5713	S	HTL	BB						0		40	America/Barbados	2007-04-13
+6466200	Turtle Beach Resort All Inclusive	Turtle Beach Resort All Inclusive		13.0655	-59.5533	S	HTL	BB		01				0		6	America/Barbados	2007-04-13
+6466804	Crystal Cove Hotel All Inclusive	Crystal Cove Hotel All Inclusive		13.1277	-59.6258	S	HTL	BB						0		32	America/Barbados	2007-04-13
+6466990	Colony Club Hotel	Colony Club Hotel		13.2293	-59.639	S	HTL	BB						0		23	America/Barbados	2007-04-13
+6468243	Tamarind Cove Hotel	Tamarind Cove Hotel		13.2019	-59.638	S	HTL	BB						0		17	America/Barbados	2007-04-13
+6468509	Sandy Bay Beach Club All Inclusive	Sandy Bay Beach Club All Inclusive		13.0702	-59.5794	S	HTL	BB		01				0		7	America/Barbados	2007-04-13
+6469089	Accra Beach Hotel	ACCRA BEACH HOTEL		13.0667	-59.5616	S	HTL	BB		01				0		12	America/Barbados	2007-04-13
+6469565	Southern Palms Beach Club	Southern Palms Beach Club		13.0746	-59.5657	S	HTL	BB						0		27	America/Barbados	2007-04-13
+6469858	Treasure Beach Hotel	Treasure Beach Hotel		13.1524	-59.6305	S	HTL	BB						0		69	America/Barbados	2007-04-13
+6470109	Almond Beach Village - All Inclusive	Almond Beach Village - All Inclusive		13.25672	-59.64327	S	HTL	BB						0		8	America/Barbados	2016-10-28
+6470127	The Fairmont Royal Pavilion Hotel	The Fairmont Royal Pavilion Hotel		13.2303	-59.638	S	HTL	BB						0		21	America/Barbados	2007-04-13
+6471276	Barbados Beach Club	Barbados Beach Club		13.0685	-59.5725	S	HTL	BB		01				0		8	America/Barbados	2007-04-13
+6471678	Settlers Beach Villa Hotel	Settlers Beach Villa Hotel		13.1927	-59.6362	S	HTL	BB						0		9	America/Barbados	2007-04-13
+6471743	Almond Beach Club & Spa All Inclusive	Almond Beach Club & Spa All Inclusive		13.1717	-59.6343	S	HTL	BB						0		17	America/Barbados	2007-04-13
+6471842	Bougainvillea Beach Resort	Bougainvillea Beach Resort		13.06617	-59.56033	S	HTL	BB						0		10	America/Barbados	2016-04-29
+6472789	Discovery Bay by Rex Resorts	Discovery Bay by Rex Resorts		13.2092	-59.6352	S	HTL	BB						0		48	America/Barbados	2007-04-13
+6490639	South Gap Hotel	South Gap Hotel		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-15
+6491360	Golden Sands Hotel	Golden Sands Hotel		13.0666	-59.5666	S	HTL	BB		01				0		8	America/Barbados	2007-04-15
+6491404	Butterfly Beach Hotel	Butterfly Beach Hotel		13.0666	-59.5537	S	HTL	BB		01				0		10	America/Barbados	2007-04-15
+6491530	Barbados Beach Club Family Resort	Barbados Beach Club Family Resort		13.0661	-59.56	S	HTL	BB		01				0		10	America/Barbados	2007-04-15
+6492080	Chateau Blanc Apartments on Sea	Chateau Blanc Apartments on Sea		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-15
+6493726	Monteray Apartment Hotel	Monteray Apartment Hotel		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-14
+6493825	Silverpoint Villa Hotel	Silverpoint Villa Hotel		13.05027	-59.51292	S	HTL	BB		01				0		12	America/Barbados	2016-10-28
+6495006	Nautilus Beach Apartments	Nautilus Beach Apartments		13.10019	-59.61638	S	HTL	BB						0		10	America/Barbados	2015-07-16
+6497736	Sea Breeze Beach Resort	Sea Breeze Beach Resort		15.77378	80.3749	S	HTL	BB		01				0		6	America/Barbados	2016-05-23
+6498323	Allamanda Beach Hotel	Allamanda Beach Hotel		13.0737	-59.5657	S	HTL	BB		01				0		24	America/Barbados	2007-04-14
+6498440	Barbados Hilton	Barbados Hilton		13.07873	-59.6113	S	HTL	BB		08				0		5	America/Barbados	2010-02-01
+6500060	Tropical Escape All Inclusive	Tropical Escape All Inclusive		13.1607	-59.6343	S	HTL	BB						0		26	America/Barbados	2007-04-14
+6500287	Coconut Court Beach Hotel	Coconut Court Beach Hotel		13.0902	-59.6033	S	HTL	BB						0		15	America/Barbados	2007-04-14
+6501853	Little Arches Barbados	Little Arches Barbados		13.0626	-59.5395	S	HTL	BB						0		10	America/Barbados	2007-04-14
+6502453	Silver Point Hotel	Silver Point Hotel		13.0535	-59.5205	S	HTL	BB						0		21	America/Barbados	2007-04-14
+6503274	Amaryllis Beach Resort	Amaryllis Beach Resort		13.07745	-59.60556	S	HTL	BB						0		11	America/Barbados	2016-10-28
+6504759	The House	The House		13.1991	-59.639	S	HTL	BB						0		10	America/Barbados	2007-04-14
+6505124	Sunswept Beach Hotel	SUNSWEPT BEACH HOTEL		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-13
+6506721	Angler Apartments	ANGLER APARTMENTS		13.1516	-59.6259	S	HTL	BB						0		100	America/Barbados	2007-04-13
+6507366	Kings Beach Hotel	KINGS BEACH HOTEL		13.2431	-59.6396	S	HTL	BB						0		19	America/Barbados	2007-04-13
+6507673	Divi Heritage	DIVI HERITAGE		13.1516	-59.6259	S	HTL	BB						0		100	America/Barbados	2007-04-13
+6509395	Coral Reef Club	CORAL REEF CLUB		13.1908	-59.6341	S	HTL	BB						0		12	America/Barbados	2007-04-13
+6509528	Silver Rock	SILVER ROCK		13.0667	-59.5616	S	HTL	BB		01				0		12	America/Barbados	2007-04-13
+6509754	The Fairmont Glitter Bay	THE FAIRMONT GLITTER BAY		13.0643	-59.566	S	HTL	BB		01				0		1	America/Barbados	2007-04-13
+6510468	Sunset Crest Resort	SUNSET CREST RESORT		13.1516	-59.6259	S	HTL	BB						0		100	America/Barbados	2007-04-13
+6512386	Sandy Lane Hotel	SANDY LANE HOTEL		13.1516	-59.6259	S	HTL	BB						0		100	America/Barbados	2007-04-13
+6512507	Rainbow Beach Hotel	RAINBOW BEACH HOTEL		13.0667	-59.5616	S	HTL	BB		01				0		12	America/Barbados	2007-04-13
+6519986	Meridian Inn	MERIDIAN INN		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-15
+6520876	Port St Charles	PORT ST CHARLES		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-15
+6526132	Amaryllis Beach Resort	AMARYLLIS BEACH RESORT		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-14
+6526176	Yellow Bird Hotel	YELLOW BIRD HOTEL		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-14
+6526371	Allamanda Beach Hotel	ALLAMANDA BEACH HOTEL		13.07388	-59.59309	S	HTL	BB		01				0		7	America/Barbados	2016-10-28
+6526578	Legend Garden Condos	LEGEND GARDEN CONDOS		13.2166	-59.6333	S	HTL	BB						0		63	America/Barbados	2007-04-14
+6526845	Waters Meet  Beach Apt	WATERS MEET  BEACH APT		13.0699	-59.58016	S	HTL	BB		01				0		9	America/Barbados	2016-10-28
+6527288	The Sandpiper	THE SANDPIPER		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-14
+6528527	Silver Sands Resort	SILVER SANDS RESORT		13.1674	-59.5552	S	HTL	BB						0		227	America/Barbados	2007-04-14
+6528801	The Crane Resort	THE CRANE RESORT		13.0667	-59.5616	S	HTL	BB		01				0		12	America/Barbados	2007-04-14
+6529818	Island Inn Hotel	ISLAND INN HOTEL		13.0667	-59.5616	S	HTL	BB		01				0		12	America/Barbados	2007-04-14
+6941782	Saint Lawrence Gap	Saint Lawrence Gap	The Gap	13.0679	-59.57517	P	PPL	BB						0		6	America/Barbados	2016-10-28
+7117030	Queen Elisabeth Hospital	Queen Elisabeth Hospital		13.09507	-59.60684	S	HSP	BB						0		13	America/Barbados	2010-01-19
+7287815	Saint Lawrence Gap	Saint Lawrence Gap		13.0661	-59.56564	R	RD	BB						0	1	7	America/Barbados	2010-04-08
+7287816	Dover Beach	Dover Beach		13.0666	-59.56957	T	BCH	BB		01				0	6	7	America/Barbados	2016-10-28
+8354481	Mahogany Bay	Mahogany Bay		13.15979	-59.63764	H	BAY	BB						0		4	America/Barbados	2016-10-28
+8643376	Worthing Beach	Worthing Beach		13.07118	-59.58305	T	BCH	BB		01				0		5	America/Barbados	2013-11-23
+9239026	Hackletons	Hackletons		13.19965	-59.52517	P	PPL	BB		06				0		300	America/Barbados	2016-10-28
+9342420	Andromeda Botanical Gardens	Andromeda Botanical Gardens		13.20803	-59.51706	S	GDN	BB		06				0		71	America/Barbados	2014-08-14
+9342438	Bathsheba park	Bathsheba park		13.21237	-59.51865	L	PRK	BB		06				0		9	America/Barbados	2014-08-14
+9342506	Tent Bay	Tent Bay		13.21275	-59.51109	H	BAY	BB		06				0		1	America/Barbados	2014-08-14
+9963354	Sugar Cane Club	Sugar Cane Club		13.263	-59.63593	S	HTL	BB						0		42	America/Barbados	2015-01-19
+9963355	South Beach Hotel	South Beach Hotel		13.07527	-59.58896	S	HTL	BB						0		8	America/Barbados	2016-04-29
+9963356	Courtyard Bridgetown	Courtyard Bridgetown		13.07658	-59.60132	S	HTL	BB						0		12	America/Barbados	2015-01-19
+9963357	Casuarina Beach Resort	Casuarina Beach Resort		13.06603	-59.56314	S	HTL	BB						0		13	America/Barbados	2015-01-19
+9963358	Ocean Spray Beach Apartments	Ocean Spray Beach Apartments		13.05263	-59.50702	S	HTL	BB						0		1	America/Barbados	2015-01-19
+9963360	Worthing Court	Worthing Court		13.0716	-59.58584	S	HTL	BB						0		9	America/Barbados	2015-01-19
+9963361	Rostrevor	Rostrevor		13.06709	-59.57339	S	HTL	BB						0		9	America/Barbados	2015-01-19
+9963362	Plum Tree Club	Plum Tree Club		13.07039	-59.57781	S	HTL	BB						0		7	America/Barbados	2015-01-19
+9963363	Sunbay Hotel	Sunbay Hotel		13.08259	-59.60948	S	HTL	BB						0		13	America/Barbados	2015-01-19
+9964647	Lighthouse Resort	Lighthouse Resort		13.04784	-59.52296	S	HTL	BB						0		14	America/Barbados	2015-01-20
+9969513	Waves Barbados	Waves Barbados		13.14227	-59.63749	S	HTL	BB						0		14	America/Barbados	2015-01-22
+9970876	Radisson Aquatica Resort Barbados	Radisson Aquatica Resort Barbados		13.08265	-59.60933	S	HTL	BB						0		13	America/Barbados	2015-01-23
+9971694	Beach View	Beach View		13.16549	-59.63744	S	HTL	BB						0		5	America/Barbados	2015-01-24
+9971722	South Gap Hotel Barbados	South Gap Hotel Barbados		13.06736	-59.57403	S	HTL	BB						0		9	America/Barbados	2015-01-24
+9971867	Halcyon Palm	Halcyon Palm		13.17861	-59.63771	S	HTL	BB						0		9	America/Barbados	2015-01-24
+10099015	All Seasons Resort Europa	All Seasons Resort Europa		13.18307	-59.63918	S	HTL	BB						0		3	America/Barbados	2015-02-13
+10099016	Pirates Inn	Pirates Inn		13.07585	-59.59564	S	HTL	BB						0		10	America/Barbados	2015-02-13
+10099017	Dover Beach Hotel	Dover Beach Hotel		13.064	-59.565	S	HTL	BB						0		8	America/Barbados	2015-02-13
+10104998	Discovery Bay All Inclusive	Discovery Bay All Inclusive		13.19248	-59.63997	S	HTL	BB						0		10	America/Barbados	2015-02-19
+10105643	The Soco Hotel	The Soco Hotel		13.07606	-59.59729	S	HTL	BB						0		12	America/Barbados	2015-02-19
+10105644	Sandals Barbados	Sandals Barbados		13.06988	-59.57633	S	HTL	BB						0		5	America/Barbados	2015-02-19
+10105645	Melrose Beach Apartment	Melrose Beach Apartment		13.07007	-59.57969	S	HTL	BB						0		9	America/Barbados	2015-02-19
+10105646	Infinity On The Beach	Infinity On The Beach		13.06729	-59.56997	S	HTL	BB						0		9	America/Barbados	2015-02-19
+10110156	Lantana Resort Barbados	Lantana Resort Barbados		13.21484	-59.63975	S	HTL	BB						0		14	America/Barbados	2015-02-22
+10110157	Ocean 15 Hotel	Ocean 15 Hotel		13.06744	-59.57246	S	HTL	BB						0		8	America/Barbados	2015-02-22
+10111901	Ocean Two Resort & Residences	Ocean Two Resort & Residences		13.06604	-59.56603	S	HTL	BB						0		7	America/Barbados	2016-05-23
+10112188	Couples Barbados	Couples Barbados		13.06507	-59.56285	S	HTL	BB						0		12	America/Barbados	2015-02-22
+10112189	Adulo Apartments	Adulo Apartments		13.07767	-59.5917	S	HTL	BB						0		15	America/Barbados	2015-02-22
+10113289	Bonanza Apartments	Bonanza Apartments		13.06744	-59.57092	S	HTL	BB						0		12	America/Barbados	2015-02-23
+10117812	Battaleys Mews Barbados	Battaleys Mews Barbados		13.2378	-59.63994	S	HTL	BB						0		23	America/Barbados	2015-02-25
+10120819	Little Good Harbour	Little Good Harbour		13.27148	-59.64578	S	HTL	BB						0		10	America/Barbados	2016-10-28
+10121323	Tropical Winds	Tropical Winds		13.09356	-59.61051	S	HTL	BB						0		8	America/Barbados	2015-02-26
+10121723	Rostrevor Apartment Hotel	Rostrevor Apartment Hotel		13.06749	-59.57321	S	HTL	BB						0		9	America/Barbados	2015-02-26
+10121881	Almond Casuarina Beach Resort	Almond Casuarina Beach Resort		13.067	-59.56973	S	HTL	BB						0		7	America/Barbados	2015-02-26
+10123230	Divi Southwinds Beach Resort	Divi Southwinds Beach Resort		13.06848	-59.57102	S	HTL	BB						0		10	America/Barbados	2015-02-27
+10170035	All Season Resort Europa	All Season Resort Europa		13.1775	-59.6356	S	HTL	BB						0		11	America/Barbados	2015-03-10
+10170036	The Club Barbados Resort And Spa	The Club Barbados Resort And Spa		13.17713	-59.6386	S	HTL	BB						0		8	America/Barbados	2015-03-10
+10170037	Divi Heritage Beach Resort	Divi Heritage Beach Resort		13.18175	-59.63846	S	HTL	BB						0		6	America/Barbados	2015-03-10
+10170038	Tropical Sunset	Tropical Sunset		13.18997	-59.63938	S	HTL	BB						0		9	America/Barbados	2015-03-10
+10170039	Mango Bay Beach Resort	Mango Bay Beach Resort		13.18731	-59.63794	S	HTL	BB						0		9	America/Barbados	2015-03-10
+10171402	Savannah Beach All Inclusive	Savannah Beach All Inclusive		13.07738	-59.60213	S	HTL	BB						0		12	America/Barbados	2015-03-12
+10171404	Pirate's Inn	Pirate's Inn		13.08561	-59.58075	S	HTL	BB						0		61	America/Barbados	2015-03-12
+10174497	Tamarid Cove	Tamarid Cove		13.16317	-59.63753	S	HTL	BB						0		10	America/Barbados	2015-03-27
+10174498	The Club Barbados Resort & Spa	The Club Barbados Resort & Spa		13.17757	-59.63799	S	HTL	BB						0		8	America/Barbados	2015-03-27
+10174499	Boungainvillea Beach Resort	Boungainvillea Beach Resort		13.0657	-59.56015	S	HTL	BB		01				0		10	America/Barbados	2016-04-19
+10175825	Couples Babados All Inclusive	Couples Babados All Inclusive		13.0676	-59.57306	S	HTL	BB						0		9	America/Barbados	2015-03-31
+10176103	Courtyard By Marriott Bridgetown	Courtyard By Marriott Bridgetown		13.07583	-59.59737	S	HTL	BB						0		12	America/Barbados	2015-03-31
+10176378	Travellers Palm	Travellers Palm		13.18241	-59.63883	S	HTL	BB						0		3	America/Barbados	2015-03-31
+10229721	Coral Sands Beach Resort	Coral Sands Beach Resort		13.07041	-59.58	S	HTL	BB						0		9	America/Barbados	2015-04-21
+10229722	Blue Orchids Beach Hotel	Blue Orchids Beach Hotel		13.07161	-59.5855	S	HTL	BB						0		9	America/Barbados	2015-04-21
+10229723	White Sands Beach Condos	White Sands Beach Condos		13.06582	-59.56591	S	HTL	BB						0		7	America/Barbados	2015-04-21
+10229724	Courtyard By Marriot Bridgetown	Courtyard By Marriot Bridgetown		13.07621	-59.60067	S	HTL	BB						0		13	America/Barbados	2015-04-21
+10229725	Coral Mist Beach Hotel	Coral Mist Beach Hotel		13.07179	-59.58539	S	HTL	BB						0		10	America/Barbados	2015-04-21
+10229726	The Crane Residential Resort	The Crane Residential Resort		13.10557	-59.44465	S	HTL	BB						0		18	America/Barbados	2015-04-21
+10229727	The Atlantis Hotel	The Atlantis Hotel		13.20978	-59.51474	S	HTL	BB						0		38	America/Barbados	2015-04-21
+10236553	Saint Peters Bay Luxury Resort And Residences	Saint Peters Bay Luxury Resort And Residences		13.23984	-59.64408	S	HTL	BB						0		9	America/Barbados	2015-04-27
+10238675	Sea U Guest House	Sea U Guest House		13.21078	-59.51546	S	HTL	BB						0		34	America/Barbados	2015-04-28
+10240181	Moonraker Beach Hotel	Moonraker Beach Hotel		13.04727	-59.52105	S	HTL	BB						0		13	America/Barbados	2015-04-29
+10248642	Royal Glitter Bay Villas	Royal Glitter Bay Villas		13.2023	-59.64047	S	HTL	BB						0		28	America/Barbados	2015-05-07
+10257096	Turtle Beach By Elegant Hotels All Suite All Inclusive	Turtle Beach By Elegant Hotels All Suite All Inclusive		13.06549	-59.56384	S	HTL	BB						0		11	America/Barbados	2015-05-08
+10257106	Sweetfield Manor Historic Inn And BandB	Sweetfield Manor Historic Inn And BandB		13.08587	-59.59734	S	HTL	BB						0		48	America/Barbados	2015-05-08
+10257166	Regent Apartments	Regent Apartments		13.18708	-59.63712	S	HTL	BB						0		5	America/Barbados	2015-05-08
+10257195	Barbados Beach Club All Inclusive Resort	Barbados Beach Club All Inclusive Resort		13.06553	-59.56352	S	HTL	BB						0		13	America/Barbados	2015-05-08
+10257215	Almond Beach Resort All Inclusive	Almond Beach Resort All Inclusive		13.25731	-59.64281	S	HTL	BB						0		9	America/Barbados	2015-05-08
+10282767	Tamarind By Elegant Hotels	Tamarind By Elegant Hotels		13.1633	-59.637	S	HTL	BB						0		9	America/Barbados	2015-05-21
+10283231	Port Ferdinand Luxury Resort	Port Ferdinand Luxury Resort		13.26589	-59.64135	S	HTL	BB						0		15	America/Barbados	2015-05-21
+10283467	Sugar Cane Club Hotel and Spa All Inclusive	Sugar Cane Club Hotel and Spa All Inclusive		13.26395	-59.63301	S	HTL	BB						0		47	America/Barbados	2015-05-21
+10288560	Wsb Villas	Wsb Villas		13.06582	-59.56591	S	HTL	BB						0		7	America/Barbados	2015-05-26
+10288561	Tropical Winds Apartment Hotel	Tropical Winds Apartment Hotel		13.12668	-59.43612	S	HTL	BB						0		23	America/Barbados	2015-05-26
+10288563	Rockley Resort	Rockley Resort		13.0747	-59.58368	S	HTL	BB						0		10	America/Barbados	2015-05-26
+10288564	Residences In The Park	Residences In The Park		13.10991	-59.44329	S	HTL	BB						0		18	America/Barbados	2015-05-26
+10288568	Grand Barbados Resort	Grand Barbados Resort		13.09219	-59.61165	S	HTL	BB						0		8	America/Barbados	2015-05-26
+10288570	Escape At The Gap	Escape At The Gap		13.06433	-59.56578	S	HTL	BB						0		1	America/Barbados	2015-05-26
+10339185	Hotel The Jewel Dunn’S River Beach Resort and Spa	Hotel The Jewel Dunn'S River Beach Resort and Spa		13.1769	-59.63873	S	HTL	BB						0		9	America/Barbados	2015-06-11
+10340007	The Crane Resort and Residences	The Crane Resort and Residences		13.11772	-59.4397	S	HTL	BB						0		17	America/Barbados	2015-06-12
+10343725	Waves Beach Resort and Spa	Waves Beach Resort and Spa		13.23372	-59.64236	S	HTL	BB						0		1	America/Barbados	2015-06-16
+10629985	Apple Hall	Apple Hall		13.14234	-59.42908	P	PPL	BB		10				0		31	America/Barbados	2016-10-29
+10629986	Gun Hill	Gun Hill		13.14301	-59.5571	P	PPL	BB		03				0		200	America/Barbados	2015-08-29
+10630459	Chalky Mount	Chalky Mount		13.23159	-59.55448	P	PPL	BB		02				0		136	America/Barbados	2015-09-06
+11154435	Deanes	Deanes		13.21546	-59.61295	P	PPL	BB						0		193	America/Barbados	2016-10-28
+11281611	Martins Bay	Martins Bay		13.1988	-59.49365	H	BAY	BB						0		37	America/Barbados	2016-10-28
+11281614	Cummins Hole	Cummins Hole		13.17288	-59.44953	H	COVE	BB						0		1	America/Barbados	2016-10-28
+11609888	Sir Garfield Sobers Gymnasium Ltd.	Sir Garfield Sobers Gymnasium Ltd.		13.09156	-59.57508	S	BLDG	BB		01				0		82	America/Barbados	2017-07-13
+11669892	Villabound Inc.	Villabound Inc.		13.14278	-59.63618	S	RHSE	BB		04				0		30	America/Barbados	2017-09-05
+11812033	Needhams Point Lighthouse	Needhams Point Lighthouse		13.07862	-59.61097	S	LTHSE	BB						0		6	America/Barbados	2018-02-07
+11812034	Saint Patrick's Roman Catholic Cathedral	Saint Patrick's Roman Catholic Cathedral		13.09186	-59.60899	S	CH	BB		08				0		7	America/Barbados	2018-02-07
+11812035	Mole Light (historical)	Mole Light (historical)		13.09524	-59.61777	S	BCN	BB		08				0		1	America/Barbados	2018-02-07
+11893894	Chamberlain Bridge	Chamberlain Bridge	Chamberlain Bridge	13.09606	-59.61408	S	BDG	BB		08				0		7	America/Barbados	2018-12-07
+11893895	Charles Duncan O’Neale Bridge	Charles Duncan O'Neale Bridge		13.09616	-59.6129	S	BDG	BB		08				0		7	America/Barbados	2018-07-06
+11893896	Queens Park	Queens Park		13.09922	-59.60837	L	PRK	BB		08				0		7	America/Barbados	2018-07-06
+11893897	Saint Michael’s Cathedral	Saint Michael's Cathedral		13.09783	-59.61242	S	CH	BB		08				0		7	America/Barbados	2018-07-06
+11893898	Fishing Harbour	Fishing Harbour		13.09571	-59.61987	H	HBR	BB		08				0		1	America/Barbados	2018-07-06
+11893899	Saint Mary’s Church	Saint Mary's Church		13.09856	-59.61877	S	CH	BB		08				0		1	America/Barbados	2018-07-06
+11893900	Cat’s Castle	Cat's Castle		13.0999	-59.61771	P	PPLX	BB		08				0		1	America/Barbados	2018-07-06
+11893901	Fort Willoughby	Fort Willoughby		13.09523	-59.61758	S	RUIN	BB		08				0		1	America/Barbados	2018-07-06
+11893902	Harrison’s College	Harrison's College		13.09991	-59.61062	S	SCHC	BB		08				0		7	America/Barbados	2018-07-06
+11893903	Garden Land	Garden Land		13.10477	-59.61013	P	PPLX	BB		08				0		15	America/Barbados	2018-07-06
+11893904	Whitepark	Whitepark		13.1053	-59.6145	P	PPLX	BB		08				0		15	America/Barbados	2018-07-06
+11893905	Saint Leonard’s Church	Saint Leonard's Church		13.10681	-59.61865	S	CH	BB		08				0		12	America/Barbados	2018-07-06
+11893906	Kensington Oval	Kensington Oval	Kensington Oval	13.10502	-59.62255	S	ATHF	BB		08				0		12	America/Barbados	2019-02-23
+11893907	Harbour Industrial Park	Harbour Industrial Park		13.10385	-59.62658	L	INDS	BB		08				0		1	America/Barbados	2018-07-06
+11893908	Pelican Village	Pelican Village		13.09816	-59.62279	S	MALL	BB		08				0		1	America/Barbados	2018-07-06
+11893909	Fontabelle	Fontabelle		13.10226	-59.62349	P	PPLX	BB		08				0		12	America/Barbados	2018-07-06
+11893910	Empire Club Grounds	Empire Club Grounds		13.1077	-59.61062	S	ATHF	BB		08				0		15	America/Barbados	2018-07-06
+11893911	Saint Paul’s Church	Saint Paul's Church		13.08994	-59.60779	S	CH	BB		08				0		19	America/Barbados	2018-07-06
+11893912	Saint Michaels School	Saint Michaels School		13.09699	-59.60462	S	SCH	BB		08				0		23	America/Barbados	2018-07-06
+11893913	Providence Chapel	Providence Chapel		13.0741	-59.52308	S	CH	BB		01				0		51	America/Barbados	2018-07-06
+11893914	Newton	Newton		13.08129	-59.53662	P	PPLX	BB		01				0		62	America/Barbados	2018-07-06
+11893915	Balls	Balls		13.08036	-59.52618	P	PPL	BB		01				0		80	America/Barbados	2018-07-06
+11893916	Small Ridge	Small Ridge		13.09592	-59.54192	S	EST	BB		01				0		100	America/Barbados	2018-07-06
+11893917	Staple Grove	Staple Grove		13.09814	-59.54769	P	PPL	BB		01				0		100	America/Barbados	2018-07-06
+11893918	Searles Factory	Searles Factory		13.09021	-59.50758	S	MFG	BB		01				0		89	America/Barbados	2018-07-06
+11893919	Hopefield	Hopefield		13.09321	-59.48243	S	EST	BB		10				0		54	America/Barbados	2018-07-06
+11893920	Four Square Factory	Four Square Factory		13.10538	-59.48271	S	MFG	BB		10				0		33	America/Barbados	2018-07-06
+11893921	Hampton	Hampton		13.11646	-59.49124	S	EST	BB		10				0		31	America/Barbados	2018-07-06
+11893922	Frenchs	Frenchs		13.1273	-59.51853	S	EST	BB		03				0		90	America/Barbados	2018-07-06
+11893923	Saint Lukes Church	Saint Lukes Church		13.12853	-59.52734	S	CH	BB		03				0		107	America/Barbados	2018-07-06
+11893924	Buttals	Buttals		13.12351	-59.5306	S	EST	BB		03				0		64	America/Barbados	2018-07-06
+11893925	Carmichael	Carmichael		13.11867	-59.5424	S	EST	BB		03				0		61	America/Barbados	2018-07-06
+11893926	Saint George’s Church	Saint George's Church		13.13054	-59.56396	S	CH	BB		03				0		78	America/Barbados	2018-07-06
+11893927	Saint George’s Secondary School	Saint George's Secondary School		13.1269	-59.56358	S	SCH	BB		03				0		78	America/Barbados	2018-07-06
+11893928	Charles Rowe Bridge	Charles Rowe Bridge		13.12956	-59.56931	P	PPL	BB		03				0		55	America/Barbados	2018-07-06
+11893929	The Valley	The Valley		13.12314	-59.56833	S	EST	BB		03				0		54	America/Barbados	2018-07-06
+11893930	Thorpes Cottage	Thorpes Cottage		13.13959	-59.56619	P	PPL	BB		03				0		119	America/Barbados	2018-07-06
+11893931	Mayfield	Mayfield		13.14208	-59.56878	P	PPL	BB		03				0		133	America/Barbados	2018-07-06
+11893932	Francia	Francia		13.14313	-59.56294	S	EST	BB		03				0		169	America/Barbados	2018-07-06
+11893933	Bournes	Bournes		13.14567	-59.57931	P	PPL	BB		08				0		111	America/Barbados	2018-07-06
+11893934	Dayrells	Dayrells		13.14105	-59.58212	P	PPL	BB		08				0		86	America/Barbados	2018-07-06
+11893935	Strong Hope	Strong Hope		13.16916	-59.57048	S	EST	BB		11				0		190	America/Barbados	2018-07-06
+11893936	Hopewell House	Hopewell House		13.16856	-59.5824	S	EST	BB		11				0		172	America/Barbados	2018-07-06
+11893937	Selmans	Selmans		13.16415	-59.56169	S	EST	BB		11				0		206	America/Barbados	2018-07-06
+11893938	Uplands Factory	Uplands Factory		13.16559	-59.5301	S	MFG	BB		03				0		214	America/Barbados	2018-07-06
+11893939	Andrews Factory	Andrews Factory		13.17541	-59.54951	S	MFG	BB		06				0		262	America/Barbados	2018-07-06
+11893940	Parris Hill	Parris Hill		13.17811	-59.54857	P	PPL	BB		06				0		262	America/Barbados	2018-07-06
+11893941	Saint Ann’s Church	Saint Ann's Church		13.17886	-59.55068	S	CH	BB		06				0		242	America/Barbados	2018-07-06
+11893942	Bushy Park	Bushy Park		13.18238	-59.55766	S	FRM	BB		06				0		242	America/Barbados	2018-07-06
+11893943	Clifton	Clifton		13.17598	-59.5645	S	EST	BB		11				0		225	America/Barbados	2018-07-06
+11893944	Pleasant Vale	Pleasant Vale		13.18094	-59.56386	S	EST	BB		11				0		225	America/Barbados	2018-07-06
+11893945	Jack in the Box Gully	Jack in the Box Gully		13.1768	-59.57752	H	RVN	BB		11				0		214	America/Barbados	2018-07-06
+11893946	Ayshford	Ayshford		13.17966	-59.57967	P	PPL	BB		11				0		214	America/Barbados	2018-07-06
+11893947	Bright Hall	Bright Hall		13.32472	-59.6188	S	EST	BB		07				0		36	America/Barbados	2018-07-06
+11893948	Long Rock	Long Rock		13.32071	-59.64001	T	RK	BB		07				0		31	America/Barbados	2018-07-06
+11893949	Spring Garden	Spring Garden		13.31525	-59.60234	P	PPL	BB		07				0		29	America/Barbados	2018-07-06
+11893950	Harrison Point Lighthouse	Harrison Point Lighthouse	Harrison Point Lighthouse	13.30813	-59.64907	S	LTHSE	BB		07				0		36	America/Barbados	2019-02-23
+11893951	Saint Lucy Rectory	Saint Lucy Rectory		13.29049	-59.62351	S	HSE	BB		07				0		94	America/Barbados	2018-07-06
+11893952	Friendly Hall	Friendly Hall		13.29955	-59.64773	S	EST	BB		07				0		35	America/Barbados	2018-07-06
+11893953	Fryer’s Well Bay	Fryer's Well Bay		13.27903	-59.64891	H	BAY	BB		07				0		34	America/Barbados	2018-07-06
+11893954	Smitons Bay	Smitons Bay		13.27466	-59.64775	H	BAY	BB		07				0		1	America/Barbados	2018-07-06
+11893955	Half Moon Fort	Half Moon Fort		13.27788	-59.64733	S	FT	BB		07				0		34	America/Barbados	2018-07-06
+11893956	Clinketts	Clinketts		13.27561	-59.64556	P	PPL	BB		07				0		34	America/Barbados	2018-07-06
+11893957	Pleasant Hall	Pleasant Hall		13.27273	-59.6084	S	EST	BB		09				0		140	America/Barbados	2018-07-06
+11893958	Farrs	Farrs		13.27484	-59.62315	S	EST	BB		09				0		92	America/Barbados	2018-07-06
+11893959	Grenade Hall	Grenade Hall		13.26789	-59.59282	S	STNF	BB		02				0		214	America/Barbados	2018-07-06
+11893960	Farley Hill Park	Farley Hill Park		13.2637	-59.59446	L	RESN	BB		02				0		231	America/Barbados	2018-07-06
+11893961	Barbados Wildlife Reserve	Barbados Wildlife Reserve	Barbados Wildlife Reserve	13.26639	-59.59009	L	RESN	BB		02				0		142	America/Barbados	2019-02-23
+11893962	Coot’s Pond	Coot's Pond		13.26054	-59.58849	H	PND	BB		02				0		142	America/Barbados	2018-07-06
+11893963	Saint Andrew’s Church	Saint Andrew's Church		13.25257	-59.56817	S	CH	BB		02				0		57	America/Barbados	2018-07-06
+11893964	Alleyne School	Alleyne School		13.24724	-59.56266	S	SCH	BB		02				0		16	America/Barbados	2018-07-06
+11893965	Burnt House	Burnt House		13.25284	-59.58814	L	LCTY	BB		02				0		73	America/Barbados	2018-07-06
+11893966	Bleak House	Bleak House		13.25472	-59.59638	S	EST	BB		02				0		226	America/Barbados	2018-07-06
+11893967	Richmond Hill	Richmond Hill		13.24893	-59.6195	S	EST	BB		09				0		140	America/Barbados	2018-07-06
+11893968	The Rock	The Rock		13.25197	-59.6195	P	PPL	BB		09				0		142	America/Barbados	2018-07-06
+11893970	Saint Peter’s Rectory	Saint Peter's Rectory		13.25017	-59.6366	S	HSE	BB		09				0		29	America/Barbados	2018-07-06
+11893971	Saint Peter’s Church	Saint Peter's Church		13.25109	-59.6436	S	CH	BB		09				0		1	America/Barbados	2018-07-06
+11893972	Alexandra School	Alexandra School		13.24712	-59.64224	S	SCH	BB		09				0		1	America/Barbados	2018-07-06
+11893973	Saint Alban’s Church	Saint Alban's Church		13.21937	-59.64184	S	CH	BB		04				0		1	America/Barbados	2018-07-06
+11893974	Battaleys	Battaleys		13.24431	-59.63605	S	EST	BB		09				0		38	America/Barbados	2018-07-06
+11893975	Four Hills	Four Hills		13.247	-59.60625	S	EST	BB		09				0		237	America/Barbados	2018-07-06
+11893976	Roebuck	Roebuck		13.2479	-59.59912	P	PPL	BB		09				0		157	America/Barbados	2018-07-06
+11893977	Rock Hall	Rock Hall		13.24036	-59.60672	S	EST	BB		09				0		241	America/Barbados	2018-07-06
+11893978	The Hill	The Hill		13.24606	-59.5885	S	EST	BB		02				0		70	America/Barbados	2018-07-06
+11893979	Bawdens	Bawdens		13.24399	-59.58605	P	PPL	BB		02				0		70	America/Barbados	2018-07-06
+11893980	Walkers	Walkers		13.24491	-59.57592	P	PPL	BB		02				0		30	America/Barbados	2018-07-06
+11893981	Bawden and River	Bawden and River		13.24479	-59.58102	P	PPL	BB		02				0		30	America/Barbados	2018-07-06
+11893982	Barclays Park	Barclays Park		13.23494	-59.54304	L	PRK	BB		02				0		1	America/Barbados	2018-07-06
+11893983	Seniors	Seniors		13.22273	-59.55739	S	EST	BB		06				0		155	America/Barbados	2018-07-06
+11893984	Saint Sylvans	Saint Sylvans		13.22292	-59.56611	P	PPL	BB		02				0		101	America/Barbados	2018-07-06
+11893986	Saint Simons	Saint Simons		13.23316	-59.5754	P	PPL	BB		02				0		162	America/Barbados	2018-07-06
+11893987	Cheltenham	Cheltenham		13.22989	-59.57799	P	PPL	BB		02				0		162	America/Barbados	2018-07-06
+11893988	Haggatts	Haggatts		13.2286	-59.56452	P	PPL	BB		02				0		39	America/Barbados	2018-07-06
+11893989	Mount All	Mount All		13.22124	-59.57531	P	PPL	BB		02				0		143	America/Barbados	2018-07-06
+11893990	Turners Hall Woods	Turners Hall Woods		13.22566	-59.57974	V	FRST	BB		02				0		162	America/Barbados	2018-07-06
+11893991	Taitts	Taitts		13.22459	-59.61088	S	EST	BB		04				0		196	America/Barbados	2018-07-06
+11893992	Saint Alban’s Vicarage	Saint Alban's Vicarage		13.2197	-59.63572	S	HSE	BB		04				0		35	America/Barbados	2018-07-06
+11893993	Porters Factory	Porters Factory		13.1973	-59.63556	S	MFG	BB		04				0		19	America/Barbados	2018-07-06
+11893994	Saint James Church	Saint James Church		13.19083	-59.63845	S	CH	BB		04				0		9	America/Barbados	2018-07-06
+11893995	Saint James Mixed School	Saint James Mixed School		13.19051	-59.63526	S	SCH	BB		04				0		9	America/Barbados	2018-07-06
+11893996	Ridgeway	Ridgeway		13.18654	-59.61561	S	EST	BB		04				0		117	America/Barbados	2018-07-06
+11893997	Saint Thomas Church	Saint Thomas Church		13.18582	-59.61271	S	CH	BB		11				0		117	America/Barbados	2018-07-06
+11893998	Content	Content		13.18345	-59.60502	P	PPL	BB		11				0		181	America/Barbados	2018-07-06
+11893999	Mangrove Pond	Mangrove Pond		13.17914	-59.60697	L	LCTY	BB		11				0		196	America/Barbados	2018-07-06
+11894000	Saint James’ Cemetery	Saint James' Cemetery		13.18253	-59.63407	S	CMTY	BB		04				0		13	America/Barbados	2018-07-06
+11894001	Saint James’ Rectory	Saint James' Rectory		13.17803	-59.63814	S	HSE	BB		04				0		13	America/Barbados	2018-07-06
+11894002	Sandy Lane Golf Course	Sandy Lane Golf Course		13.17089	-59.63366	S	RECG	BB		04				0		8	America/Barbados	2018-07-06
+11894003	Saint John the Baptist Church	Saint John the Baptist Church		13.16043	-59.62425	S	CH	BB		04				0		113	America/Barbados	2018-07-06
+11894004	Thorpes	Thorpes		13.15709	-59.62664	P	PPL	BB		04				0		79	America/Barbados	2018-07-06
+11894005	Halls	Halls		13.1533	-59.62302	P	PPL	BB		04				0		108	America/Barbados	2018-07-06
+11894008	Glendale	Glendale		13.16497	-59.59135	P	PPL	BB		11				0		129	America/Barbados	2018-07-06
+11894009	Rugby	Rugby		13.1617	-59.58991	P	PPL	BB		11				0		129	America/Barbados	2018-07-06
+11894010	Harrisons Cave	Harrisons Cave		13.18484	-59.5743	S	CAVE	BB		11				0		271	America/Barbados	2018-07-06
+11894011	Holy Innocents	Holy Innocents		13.18247	-59.58126	S	CH	BB		11				0		214	America/Barbados	2018-07-06
+11894012	Grantley Adams Memorial School	Grantley Adams Memorial School		13.18829	-59.54234	S	SCH	BB		06				0		289	America/Barbados	2018-07-06
+11894013	Claybury	Claybury		13.17794	-59.5347	S	EST	BB		06				0		225	America/Barbados	2018-07-06
+11894014	Bowmanston Pumping Station	Bowmanston Pumping Station		13.16968	-59.50608	S	PMPW	BB		05				0		184	America/Barbados	2018-07-06
+11894015	Spooners	Spooners		13.17261	-59.51842	P	PPL	BB		05				0		217	America/Barbados	2018-07-06
+11894016	Roebuck Street	Roebuck Street		13.17265	-59.50555	P	PPL	BB		05				0		184	America/Barbados	2018-07-06
+11894017	Gall Hill	Gall Hill		13.18149	-59.50127	P	PPL	BB		05				0		222	America/Barbados	2018-07-06
+11894018	Eastmont	Eastmont		13.17871	-59.5019	S	EST	BB		05				0		222	America/Barbados	2018-07-06
+11894019	Pothouse	Pothouse		13.18312	-59.49571	P	PPL	BB		05				0		221	America/Barbados	2018-07-06
+11894020	Saint John’s Church	Saint John's Church		13.18495	-59.49788	S	CH	BB		05				0		143	America/Barbados	2018-07-06
+11894021	Quintyne	Quintyne		13.1861	-59.49149	P	PPL	BB		05				0		70	America/Barbados	2018-07-06
+11894022	Clifton Hall	Clifton Hall		13.18873	-59.5066	S	EST	BB		05				0		232	America/Barbados	2018-07-06
+11894023	Mount Tabor Church	Mount Tabor Church		13.18185	-59.52372	S	CH	BB		05				0		215	America/Barbados	2018-07-06
+11894024	Villa Nova	Villa Nova		13.18138	-59.52706	S	HSE	BB		05				0		219	America/Barbados	2018-07-06
+11894025	Easy Hall House	Easy Hall House		13.19202	-59.53284	S	HSE	BB		06				0		288	America/Barbados	2018-07-06
+11894026	Cotton Tower Signal Station	Cotton Tower Signal Station		13.19743	-59.53872	S	TOWR	BB		06				0		309	America/Barbados	2018-07-06
+11894027	Saint Joseph’s Church	Saint Joseph's Church		13.20145	-59.53914	S	CH	BB		06				0		216	America/Barbados	2018-07-06
+11894028	Horse Hill	Horse Hill		13.19896	-59.54076	P	PPL	BB		06				0		309	America/Barbados	2018-07-06
+11894029	Workmans	Workmans		13.14123	-59.54919	P	PPL	BB		03				0		137	America/Barbados	2018-07-06
+11894030	Hilbury	Hilbury		13.13953	-59.55335	P	PPL	BB		03				0		131	America/Barbados	2018-07-06
+11894031	Chapel	Chapel		13.13404	-59.49092	P	PPL	BB		10				0		87	America/Barbados	2018-07-06
+11894032	Saint Philip’s Church	Saint Philip's Church		13.13695	-59.48864	S	CH	BB		10				0		87	America/Barbados	2018-07-06
+11894033	Byde Mill	Byde Mill		13.13455	-59.50658	S	ML	BB		03				0		110	America/Barbados	2018-07-06
+11894036	Holy Trinity Church	Holy Trinity Church		13.13188	-59.45195	S	CH	BB		10				0		35	America/Barbados	2018-07-06
+11894037	Saint Philip District Hospital	Saint Philip District Hospital		13.13097	-59.45114	S	HSP	BB		10				0		35	America/Barbados	2018-07-06
+11894038	Gaskin	Gaskin		13.14174	-59.46764	P	PPL	BB		10				0		78	America/Barbados	2018-07-06
+11894039	Mapps	Mapps		13.14232	-59.45122	P	PPL	BB		10				0		44	America/Barbados	2018-07-06
+11894040	Saint Catherine’s Church	Saint Catherine's Church		13.15717	-59.44113	S	CH	BB		10				0		28	America/Barbados	2018-07-06
+11894526	Long Bay	Long Bay		13.12315	-59.43841	P	PPL	BB		10				0		2	America/Barbados	2018-07-06
+11894527	Beulah Chapel	Beulah Chapel		13.12161	-59.45621	S	CH	BB		10				0		23	America/Barbados	2018-07-06
+11894528	Sterling	Sterling		13.1165	-59.46058	S	EST	BB		10				0		21	America/Barbados	2018-07-06
+11894529	Upton	Upton		13.09464	-59.57968	P	PPLX	BB		08				0		90	America/Barbados	2018-07-06
+11894537	Belfield	Belfield		13.12389	-59.61876	P	PPLX	BB		08				0		19	America/Barbados	2018-07-06
+11894538	Whitehall	Whitehall		13.12996	-59.61592	P	PPLX	BB		08				0		60	America/Barbados	2018-07-06
+11894539	Bush Hall	Bush Hall		13.12218	-59.60933	P	PPLX	BB		08				0		30	America/Barbados	2018-07-06
+11894540	National Stadium	National Stadium		13.12024	-59.60466	S	STDM	BB		08				0		46	America/Barbados	2018-07-06
+11894541	Spring Garden	Spring Garden		13.12757	-59.62894	P	PPLX	BB		08				0		22	America/Barbados	2018-07-06
+11894542	West India Rum Refinery	West India Rum Refinery		13.12456	-59.63158	S	MFG	BB		08				0		3	America/Barbados	2018-07-06
+11894543	Lodge Hill	Lodge Hill		13.13564	-59.61311	P	PPLX	BB		08				0		88	America/Barbados	2018-07-06
+11894544	University of the West Indies	University of the West Indies		13.13376	-59.63006	S	SCHC	BB		08				0		86	America/Barbados	2018-07-06
+11894555	Welches	Welches		13.15359	-59.61356	P	PPL	BB		04				0		130	America/Barbados	2018-07-06
+11894556	Sharon Chapel	Sharon Chapel		13.15104	-59.60029	S	CH	BB		11				0		128	America/Barbados	2018-07-06
+11894558	Cane Garden	Cane Garden		13.1541	-59.59425	S	EST	BB		11				0		112	America/Barbados	2018-07-06
+11894559	Saint Augustine Church	Saint Augustine Church		13.15677	-59.55996	S	CH	BB		03				0		197	America/Barbados	2018-07-06
+11894560	Woodland	Woodland		13.15105	-59.51897	S	EST	BB		03				0		168	America/Barbados	2018-07-06
+11894561	Moncrieffe	Moncrieffe		13.15415	-59.48608	S	EST	BB		10				0		157	America/Barbados	2018-07-06
+11894562	Bascombe	Bascombe		13.16456	-59.47642	S	EST	BB		05				0		176	America/Barbados	2018-07-06
+11894563	Palmers	Palmers		13.16609	-59.47073	S	EST	BB		05				0		109	America/Barbados	2018-07-06
+11894564	Lodge School	Lodge School		13.16701	-59.48819	S	SCH	BB		05				0		205	America/Barbados	2018-07-06
+11894565	Sargeant Street	Sargeant Street		13.1761	-59.47879	P	PPL	BB		05				0		124	America/Barbados	2018-07-06
+11894566	Codrington College	Codrington College	Codrington College	13.1752	-59.47556	S	SCHC	BB		05				0		124	America/Barbados	2019-02-23
+11894567	Codrington High School	Codrington High School		13.17142	-59.4778	S	SCH	BB		05				0		159	America/Barbados	2018-07-06
+11894568	Saint Marks Church	Saint Marks Church		13.17561	-59.46269	S	CH	BB		05				0		34	America/Barbados	2018-07-06
+11894569	Bath	Bath		13.18578	-59.47429	P	PPL	BB		05				0		1	America/Barbados	2018-07-06
+11894570	Joe’s River	Joe's River		13.21722	-59.52708	H	STM	BB		06				0		1	America/Barbados	2018-07-06
+11894571	Bissex Hill	Bissex Hill		13.21667	-59.55076	T	HLL	BB		06				0		155	America/Barbados	2018-07-06
+11894572	Cane Garden	Cane Garden		13.21694	-59.5595	P	PPL	BB		06				0		101	America/Barbados	2018-07-06
+11894573	Boarded Hall	Boarded Hall		13.21445	-59.56748	P	PPL	BB		06				0		115	America/Barbados	2018-07-06
+11894574	Mose Bottom	Mose Bottom		13.21439	-59.58697	P	PPL	BB		02				0		297	America/Barbados	2018-07-06
+11894575	Friendship	Friendship		13.21471	-59.57223	S	EST	BB		02				0		115	America/Barbados	2018-07-06
+11894576	Saint Saviours Church	Saint Saviours Church		13.21643	-59.57006	S	CH	BB		02				0		115	America/Barbados	2018-07-06
+11894577	Spring Vale	Spring Vale		13.20479	-59.57538	P	PPL	BB		02				0		179	America/Barbados	2018-07-06
+11894579	Blunts	Blunts		13.20394	-59.58394	P	PPL	BB		11				0		267	America/Barbados	2018-07-06
+11894580	Highclere	Highclere		13.20584	-59.58334	P	PPL	BB		11				0		267	America/Barbados	2018-07-06
+11894581	Hope	Hope		13.20416	-59.61286	S	EST	BB		04				0		169	America/Barbados	2018-07-06
+11894582	Saint Silas Chapel	Saint Silas Chapel		13.21587	-59.61503	S	CH	BB		04				0		184	America/Barbados	2018-07-06
+11894583	Mellowes	Mellowes		13.20656	-59.54896	P	PPL	BB		06				0		184	America/Barbados	2018-07-06
+11894584	Lammings	Lammings		13.19103	-59.55895	S	EST	BB		11				0		289	America/Barbados	2018-07-06
+11894585	Braggs Hill	Braggs Hill		13.19236	-59.55556	P	PPL	BB		06				0		313	America/Barbados	2018-07-06
+11894586	Saint Joseph’s School	Saint Joseph's School		13.19533	-59.54195	S	SCH	BB		06				0		321	America/Barbados	2018-07-06
+11894587	Haynes Hill	Haynes Hill		13.17499	-59.48458	S	EST	BB		05				0		205	America/Barbados	2018-07-06
+11894588	Society	Society		13.16852	-59.48578	S	EST	BB		05				0		205	America/Barbados	2018-07-06
+11894589	Phinneys	Phinneys		13.14275	-59.43432	P	PPL	BB		10				0		25	America/Barbados	2018-07-06
+11894590	Fairfield	Fairfield		13.13774	-59.45985	S	EST	BB		10				0		50	America/Barbados	2018-07-06
+11894591	Pollards	Pollards		13.14929	-59.46865	S	EST	BB		10				0		78	America/Barbados	2018-07-06
+11894592	Gun Hill Tower	Gun Hill Tower		13.14314	-59.55758	S	HSTS	BB		03				0		190	America/Barbados	2018-07-06
+11894593	Saint Helens	Saint Helens		13.15287	-59.56607	P	PPL	BB		03				0		197	America/Barbados	2018-07-06
+11894594	Saint Matthews Church	Saint Matthews Church		13.13332	-59.5934	S	CH	BB		08				0		57	America/Barbados	2018-07-06
+11894595	Kew	Kew		13.11652	-59.61143	P	PPLX	BB		08				0		21	America/Barbados	2018-07-06
+11894596	Carrington	Carrington		13.10385	-59.60381	P	PPLX	BB		08				0		19	America/Barbados	2018-07-06
+11894597	Combermere School	Combermere School		13.11656	-59.60213	S	SCH	BB		08				0		25	America/Barbados	2018-07-06
+11894598	Belle Pumping Station	Belle Pumping Station		13.11491	-59.5935	S	PMPW	BB		08				0		22	America/Barbados	2018-07-06
+11894599	Friendship	Friendship		13.13212	-59.59698	S	EST	BB		08				0		57	America/Barbados	2018-07-06
+11894600	Ivy	Ivy		13.1048	-59.5937	P	PPLX	BB		08				0		45	America/Barbados	2018-07-06
+11894601	Egerton	Egerton		13.1036	-59.55418	S	EST	BB		01				0		98	America/Barbados	2018-07-06
+11894605	Saint Barnabas Church	Saint Barnabas Church		13.10274	-59.58105	S	CH	BB		08				0		66	America/Barbados	2018-07-06
+11894606	Bartletts	Bartletts		13.08642	-59.57751	P	PPLX	BB		01				0		59	America/Barbados	2018-07-06
+11894608	Rockley Golf Course	Rockley Golf Course		13.07909	-59.58507	S	RECG	BB		01				0		23	America/Barbados	2018-07-06
+11894609	Belleville	Belleville		13.09885	-59.60226	P	PPLX	BB		08				0		23	America/Barbados	2018-07-06
+11894611	Christ Church	Christ Church		13.06525	-59.53828	S	CH	BB		01				0		16	America/Barbados	2018-07-06
+11894612	Saint Lawrence Church	Saint Lawrence Church		13.06776	-59.57512	S	CH	BB		01				0		5	America/Barbados	2018-07-06
+11894632	The Home Agricultural Station	The Home Agricultural Station		13.10976	-59.45496	S	AGRF	BB		10				0		22	America/Barbados	2018-07-06
+11894652	Harmony Hall	Harmony Hall		13.10483	-59.60663	P	PPLX	BB		08				0		19	America/Barbados	2018-07-06
+12035692	Barbados Museum & Historical Society	Barbados Museum & Historical Society		13.08344	-59.60208	S	MUS	BB		01				0		19	America/Barbados	2019-03-17
+12035693	Mallalieu Motor Collection	Mallalieu Motor Collection		13.07619	-59.60043	S	MUS	BB		01				0		16	America/Barbados	2019-03-17
+12035694	Apes Hill Club	Apes Hill Club		13.21607	-59.60886	S	RECG	BB		04				0		184	America/Barbados	2019-03-17
+12035695	Barbados Golf Club	Barbados Golf Club		13.07354	-59.52758	S	RECG	BB		01				0		53	America/Barbados	2019-03-17
+12035696	Caribbean Wax Museum	Caribbean Wax Museum		13.0972	-59.61507	S	MUS	BB		08				0		7	America/Barbados	2019-03-17
+12035697	Exchange Museum	Exchange Museum		13.09809	-59.61311	S	MUS	BB		08				0		7	America/Barbados	2019-03-17
+12035698	The Empire Theatre	The Empire Theatre		13.0947	-59.61259	S	THTR	BB		08				0		7	America/Barbados	2019-03-17
+12035699	Lord Nelson Statue	Lord Nelson Statue		13.09683	-59.61436	S	MNMT	BB		08				0		7	America/Barbados	2019-03-17
+12035700	Princess Alice Bus Terminal	Princess Alice Bus Terminal		13.09784	-59.62174	S	BUSTN	BB		08				0		1	America/Barbados	2019-03-17
+12035701	Bushy Park Barbados	Bushy Park Barbados		13.13824	-59.46696	S	RECR	BB		10				0		64	America/Barbados	2019-03-17
+12035702	Sunbury Plantation House	Sunbury Plantation House		13.19412	-59.54313	S	PAL	BB		06				0		321	America/Barbados	2019-03-17
+12035703	Frank Collymore Hall	Frank Collymore Hall		13.09904	-59.61231	S	THTR	BB		08				0		7	America/Barbados	2019-03-17
+12035704	Fairchild Street Bus Terminal	Fairchild Street Bus Terminal		13.09629	-59.61222	S	BUSTN	BB		08				0		7	America/Barbados	2019-03-17
+12035998	Engineers Wharf (historical)	Engineers Wharf (historical)	Ordnance Wharf	13.08301	-59.61009	S	PIER	BB		01				0		6	America/Barbados	2019-03-25

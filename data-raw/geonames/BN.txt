@@ -1,0 +1,943 @@
+1636682	Malay Archipelago	Malay Archipelago	Arquipelago Malaio,Arquipélago Malaio,Asiatic Archipelago,East Indian Archipelago,East Indies,Eastern Archipelago,Indian Archipelago,Indonesia,Kapuluang Malay,Kepulauan Melayu,Malasia,Malay Archipelago,Malaysia	0	120	T	ISLS	BN		00				0		515	Asia/Makassar	2020-03-07
+1751270	Pelong Rocks	Pelong Rocks		5.07863	115.05288	T	RKS	BN	MY					0		-9999	Asia/Brunei	2016-03-09
+1820055	Sungai Yul	Sungai Yul		4.65	114.48333	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820056	Sungai Yu	Sungai Yu		4.9	115.11667	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820057	Sungai Yau	Sungai Yau		4.85	114.78333	H	STM	BN		00				0		32	Asia/Brunei	1993-12-21
+1820059	Sungai Wasan	Sungai Wasan		4.76667	114.8	H	STM	BN		00				0		9	Asia/Brunei	1993-12-21
+1820060	Sungai Wasai	Sungai Wasai		4.85	114.95	H	STM	BN		00				0		94	Asia/Brunei	1993-12-21
+1820061	Bukit Usong	Bukit Usong		4.5	114.53333	T	HLL	BN		00				0		24	Asia/Brunei	1993-12-21
+1820062	Sungai Urup	Sungai Urup		4.76667	114.6	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820064	Sungai Ukong	Sungai Ukong		4.7	114.56667	H	STM	BN		00				0		30	Asia/Brunei	1993-12-21
+1820065	Sungai Ugong	Sungai Ugong		4.93333	114.83333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820066	Bukit Udal	Bukit Udal		4.71667	114.65	T	HLL	BN		00				0		12	Asia/Brunei	1993-12-21
+1820067	Sungai Tutong Merah	Sungai Tutong Merah		4.38333	114.8	H	STM	BN		00				0		94	Asia/Brunei	1993-12-21
+1820068	Tutong	Tutong	Daerah Tutong,Tutong,Tutong District	4.63333	114.71667	A	ADM1	BN		04				41426		105	Asia/Brunei	2019-04-09
+1820069	Sungai Tutong	Sungai Tutong	Batang Tutong,Sungai Tutong,Sungi Tutong	4.76667	114.6	H	STM	BN	BN	00				0		13	Asia/Brunei	2012-01-18
+1820070	Kuala Tutong	Kuala Tutong		4.76667	114.6	H	STMM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820071	Tutong	Tutong	Pekan Tutong,Tutong	4.80278	114.64917	P	PPLA	BN		04				19151		1	Asia/Brunei	2019-04-10
+1820072	Bukit Tunjang Pipit	Bukit Tunjang Pipit	Bukit Tunjang Pepit,Bukit Tunjang Pipit	4.31667	114.63333	T	HLL	BN	BN	00				0		24	Asia/Brunei	2012-01-18
+1820073	Sungai Tungku	Sungai Tungku	Sungai Tangku,Sungai Tungku	4.93333	114.88333	H	STM	BN	BN	00				0		38	Asia/Brunei	2012-01-18
+1820074	Sungai Tungkadeh	Sungai Tungkadeh	Sungai Tangkodeh,Sungai Tungkadeh	4.9	114.93333	H	STM	BN	BN	00				0		8	Asia/Brunei	2012-01-18
+1820075	Sungai Tunggulian Kechil	Sungai Tunggulian Kechil	Sungai Supodian Kechil,Sungai Tunggulian Kechil	4.7	114.5	H	STM	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820076	Sungai Tunggulian Besar	Sungai Tunggulian Besar	Sungai Supodian Besar,Sungai Tunggulian Besar	4.68333	114.46667	H	STM	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820077	Bukit Tunggulian	Bukit Tunggulian	Bukit Tunggulian,Bukit Tungulian	4.7	114.51667	T	HLL	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820078	Sungai Tumasek	Sungai Tumasek		4.86667	114.91667	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820079	Sungai Tudal	Sungai Tudal		4.45	114.78333	H	STM	BN		00				0		52	Asia/Brunei	1993-12-21
+1820080	Sungai Tuan	Sungai Tuan		4.7	114.51667	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820081	Sungai Tropong	Sungai Tropong		4.2	114.66667	H	STM	BN		00				0		50	Asia/Brunei	1993-12-21
+1820082	Sungai Tingap	Sungai Tingap		4.86667	114.98333	H	STM	BN		00				0		11	Asia/Brunei	1993-12-21
+1820083	Sungai Tiga	Sungai Tiga		4.58333	114.13333	H	STM	BN		00				0		22	Asia/Brunei	1993-12-21
+1820084	Sungai Tidan	Sungai Tidan		4.4	114.65	H	STM	BN		00				0		19	Asia/Brunei	1993-12-21
+1820085	Sungai Tian Payau	Sungai Tian Payau		4.86667	115.18333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820086	Sungai Tian	Sungai Tian		4.68333	114.5	H	STM	BN		00				0		8	Asia/Brunei	1993-12-21
+1820087	Sungai Tetamu	Sungai Tetamu		4.8	114.68333	H	CRKT	BN		00				0		16	Asia/Brunei	1993-12-21
+1820088	Tanjong Teritip	Tanjong Teritip		4.96667	115.03333	T	PT	BN		00				0		7	Asia/Brunei	1993-12-21
+1820089	Sungai Teritip	Sungai Teritip		4.86667	114.8	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820090	Sungai Teraja	Sungai Teraja		4.36667	114.36667	H	STM	BN		00				0		41	Asia/Brunei	1993-12-21
+1820091	Bukit Teraja	Bukit Teraja	Bukit Teraja,Mount Scott	4.3	114.43333	T	HLL	BN	BN	00				0		294	Asia/Brunei	2012-01-18
+1820092	Sungai Tepiku	Sungai Tepiku		4.71667	114.55	H	STM	BN		00				0		19	Asia/Brunei	1993-12-21
+1820093	Sungai Tepangan	Sungai Tepangan	Sungai Tapangan,Sungai Tepangan	4.55	114.48333	H	STM	BN	BN	00				0		11	Asia/Brunei	2012-01-18
+1820094	Sungai Tepam	Sungai Tepam	Sungai Tepam,Sungei Tepan	4.78333	114.68333	H	STM	BN	BN	00				0		18	Asia/Brunei	2012-01-18
+1820095	Sungai Tenuyong	Sungai Tenuyong		4.7	115.15	H	STM	BN		00				0		39	Asia/Brunei	1993-12-21
+1820096	Sungai Tengah	Sungai Tengah	Sungai Tengah	4.96667	114.86667	H	STM	BN		00				0		20	Asia/Brunei	2012-01-18
+1820098	Sungai Tendureh Damit	Sungai Tendureh Damit	Sungai Tendureh Damit,Sungai Tendureh Kechil	4.93333	114.8	H	STM	BN	BN	00				0		2	Asia/Brunei	2012-01-18
+1820099	Sungai Tendureh Besar	Sungai Tendureh Besar		4.93333	114.81667	H	STM	BN		00				0		26	Asia/Brunei	1993-12-21
+1820100	Tempuan Ugas	Tempuan Ugas	Kampong Ugar,Tempuan Ugar,Tempuan Ugas	4.76667	114.58333	P	PPL	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820101	Sungai Tempinak	Sungai Tempinak		4.28333	114.63333	H	STM	BN		00				0		28	Asia/Brunei	1993-12-21
+1820102	Bukit Tempayan Pisang	Bukit Tempayan Pisang	Bukit Pisang,Bukit Tempayan Pisang,Pisang Hill	5.00968	115.04848	T	HLL	BN	BN	02				0		121	Asia/Brunei	2017-09-12
+1820103	Sungai Temiang	Sungai Temiang		4.88333	114.73333	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820104	Sungai Temerok	Sungai Temerok		4.76667	114.78333	H	STM	BN		00				0		54	Asia/Brunei	1993-12-21
+1820105	Sungai Temburong Machang	Sungai Temburong Machang		4.53333	115.2	H	STM	BN		00				0		205	Asia/Brunei	1993-12-21
+1820106	Temburong	Temburong	Daerah Temburong,Temburong,Temburong District	4.58333	115.16667	A	ADM1	BN		03				10908		121	Asia/Brunei	2019-04-09
+1820107	Sungai Temburong	Sungai Temburong	Sungai Temburong,Sungei Tamburong,Sungi Tamburong,Temboeroeng River	4.8	115.05	H	STM	BN	BN	00				0		21	Asia/Brunei	2012-01-18
+1820108	Sungai Tembunan	Sungai Tembunan		4.86667	114.8	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820109	Sungai Tembailek	Sungai Tembailek		4.98333	114.9	H	STM	BN		00				0		25	Asia/Brunei	1993-12-21
+1820110	Sungai Tembailek	Sungai Tembailek	Sungai Tambailik,Sungai Tembailek,Sungai Tembailik	4.9	114.76667	H	STM	BN	BN	00				0		23	Asia/Brunei	2012-01-18
+1820111	Sungai Temawai	Sungai Temawai	Sungai Temawai,Sungei Tamawa	4.38333	115.28333	H	STM	BN	BN	00				0		581	Asia/Brunei	2012-01-18
+1820112	Bukit Temanik	Bukit Temanik		4.86667	114.75	T	HLL	BN		00				0		69	Asia/Brunei	1993-12-21
+1820113	Temada	Temada		4.55	115.06667	P	PPL	BN		00				0		30	Asia/Brunei	1993-12-21
+1820114	Bukit Telugong	Bukit Telugong		4.63333	115.11667	T	HLL	BN		00				0		52	Asia/Brunei	1993-12-21
+1820115	Sungai Telisai	Sungai Telisai	Sungai Telisai,Sungai Telusai	4.96667	114.86667	H	STM	BN	BN	00				0		20	Asia/Brunei	2012-01-18
+1820116	Sungai Telisai	Sungai Telisai		4.75	114.58333	H	STM	BN		00				0		6	Asia/Brunei	1993-12-21
+1820117	Bukit Telingan	Bukit Telingan		4.36667	114.46667	T	HLL	BN		00				0		128	Asia/Brunei	1993-12-21
+1820118	Sungai Telamba	Sungai Telamba	Sungai Talamba,Sungai Telamba	4.75	114.58333	H	STM	BN	BN	00				0		6	Asia/Brunei	2012-01-18
+1820119	Sungai Telaga Tiga	Sungai Telaga Tiga		4.9	114.93333	H	STM	BN		00				0		8	Asia/Brunei	1993-12-21
+1820120	Sungai Tekuyong	Sungai Tekuyong	Sungai Tekoyong,Sungai Tekuyong	4.9	114.95	H	STM	BN	BN	00				0		80	Asia/Brunei	2012-01-18
+1820121	Sungai Tebabang	Sungai Tebabang		4.96667	114.93333	H	STM	BN		00				0		19	Asia/Brunei	1993-12-21
+1820122	Sungai Tasek	Sungai Tasek		4.9	114.93333	H	STM	BN		00				0		8	Asia/Brunei	1993-12-21
+1820123	Sungai Taring	Sungai Taring	Sungai Taring,Sungei Tarin	4.93333	114.91667	H	STM	BN	BN	00				0		9	Asia/Brunei	2012-01-18
+1820124	Sungai Taring	Sungai Taring		4.65	114.41667	H	STM	BN		00				0		9	Asia/Brunei	1993-12-21
+1820125	Sungai Tarap	Sungai Tarap	Sungai Tarap,Sungai Tarrap,Sungei Terap	4.53333	114.53333	H	STM	BN	BN	00				0		20	Asia/Brunei	2012-01-18
+1820126	Sungai Taong	Sungai Taong		4.4	114.63333	H	STM	BN		00				0		25	Asia/Brunei	1993-12-21
+1820127	Sungai Tanjong Pasir	Sungai Tanjong Pasir		4.91667	114.88333	H	STM	BN		00				0		51	Asia/Brunei	1993-12-21
+1820128	Sungai Tanjong Pampang	Sungai Tanjong Pampang		4.93333	114.93333	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820129	Sungai Tanjong Maya	Sungai Tanjong Maya		4.75	114.65	H	STM	BN		00				0		29	Asia/Brunei	1993-12-21
+1820130	Pulau Tanjong Maya	Pulau Tanjong Maya	Pulau Tanjong Maya	4.76667	114.66667	T	ISL	BN		00				0		10	Asia/Brunei	2018-12-05
+1820131	Sungai Tangur	Sungai Tangur	Sungai Tangur,Sungei Tangar	4.9	114.76667	H	STM	BN	BN	00				0		23	Asia/Brunei	2012-01-18
+1820132	Tangki Ayer	Tangki Ayer		4.91667	114.93333	P	PPL	BN		00				0		21	Asia/Brunei	1993-12-21
+1820133	Sungai Tanah Panggal	Sungai Tanah Panggal		4.7	115.03333	H	STM	BN		00				0		18	Asia/Brunei	1993-12-21
+1820134	Tanjong Tanah Palang	Tanjong Tanah Palang		4.76667	114.6	T	PT	BN		00				0		13	Asia/Brunei	1993-12-21
+1820135	Aur Tanah	Aur Tanah	Arur Tanab,Aur Tanah	4.68333	115.21667	H	STM	BN	BN	00				0		54	Asia/Brunei	2012-01-18
+1820136	Sungai Tamunok	Sungai Tamunok		4.4	114.65	H	STM	BN		00				0		19	Asia/Brunei	1993-12-21
+1820137	Sungai Tampuan Nyatoi	Sungai Tampuan Nyatoi	Sungai Tampuan Nyatoi,Sungei Tumpuan Nyatoi	4.45	114.56667	H	STM	BN	BN	00				0		21	Asia/Brunei	2012-01-18
+1820138	Sungai Tampoi	Sungai Tampoi	Sungai Tampoi,Sungai Tampui	4.9	114.85	H	STM	BN	BN	00				0		11	Asia/Brunei	2012-01-18
+1820139	Sungai Taman Lasong	Sungai Taman Lasong		4.7	115.15	H	STM	BN		00				0		39	Asia/Brunei	1993-12-21
+1820140	Sungai Tali	Sungai Tali		4.65	114.4	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820141	Bang Tajok	Bang Tajok	Bang Tajok,Sungei Bong Tadiu	4.46667	114.55	H	STM	BN	BN	00				0		26	Asia/Brunei	2012-01-18
+1820142	Sungai Tajau	Sungai Tajau		4.78333	114.81667	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820143	Bang Tagas	Bang Tagas		4.73333	114.66667	H	STM	BN		00				0		11	Asia/Brunei	1993-12-21
+1820144	Lubok Tagal	Lubok Tagal		4.85	114.88333	H	POOL	BN		00				0		8	Asia/Brunei	1993-12-21
+1820145	Bukit Tabor Bintang	Bukit Tabor Bintang	Bukit Tabor Bintang,Bukit Tabur Bintang	5	114.95	T	HLL	BN	BN	00				0		49	Asia/Brunei	2012-01-18
+1820146	Sungai Suragam	Sungai Suragam		4.93333	114.88333	H	STM	BN		00				0		38	Asia/Brunei	1993-12-21
+1820147	Sungai Supon	Sungai Supon		4.5	114.76667	H	STM	BN		00				0		41	Asia/Brunei	1993-12-21
+1820148	Bukit Supon	Bukit Supon		4.5	114.75	T	HLL	BN		00				0		43	Asia/Brunei	1993-12-21
+1820149	Sungai Supit	Sungai Supit		4.85	114.73333	H	STM	BN		00				0		65	Asia/Brunei	1993-12-21
+1820151	Sungai Sunda	Sungai Sunda		4.88333	114.9	H	STM	BN		00				0		23	Asia/Brunei	1993-12-21
+1820152	Sungai Sunan	Sungai Sunan		4.7	114.55	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820153	Sungai Sumpakan	Sungai Sumpakan		4.93333	114.83333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820154	Sungai Sumor	Sungai Sumor		4.86667	114.95	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820155	Sungai Sumbiling	Sungai Sumbiling	Sungai Sumbiling,Sungei Sembiling	4.9	114.93333	H	STM	BN	BN	00				0		8	Asia/Brunei	2012-01-18
+1820156	Sungai Sukin	Sungai Sukin		4.95	114.83333	H	STM	BN		00				0		18	Asia/Brunei	1993-12-21
+1820157	Sukang Hilir	Sukang Hilir		4.4	114.6	P	PPL	BN		00				0		43	Asia/Brunei	1993-12-21
+1820158	Lubok Sukang	Lubok Sukang		4.41667	114.6	H	POOL	BN		00				0		50	Asia/Brunei	1993-12-21
+1820159	Sukang	Sukang	Sukang	4.31667	114.61667	P	PPL	BN		01				0		27	Asia/Brunei	2014-10-06
+1820160	Sungai Subok	Sungai Subok		4.7	115.06667	H	STM	BN		00				0		166	Asia/Brunei	1993-12-21
+1820162	Bukit Stapok	Bukit Stapok		4.81667	114.91667	T	HLL	BN		00				0		9	Asia/Brunei	1993-12-21
+1820164	South Bar Bank	South Bar Bank		4.93333	115.03333	H	SHOL	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820165	Sungai Soga	Sungai Soga		4.16667	114.7	H	STM	BN		00				0		40	Asia/Brunei	1993-12-21
+1820166	Tanjong Sipusu	Tanjong Sipusu		4.9	115.05	T	PT	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820167	Sungai Sipan	Sungai Sipan		4.25	114.55	H	STM	BN		00				0		48	Asia/Brunei	1993-12-21
+1820168	Sungai Sipal	Sungai Sipal		4.75	115.2	H	STM	BN		00				0		43	Asia/Brunei	1993-12-21
+1820169	Sungai Sinupoi Besar	Sungai Sinupoi Besar		4.68333	115.18333	H	STM	BN		00				0		26	Asia/Brunei	1993-12-21
+1820170	Sungai Sinukoh	Sungai Sinukoh	Sungai Sinuko,Sungai Sinukoh,Sungei Senukoh	4.75	115.2	H	STM	BN	BN	00				0		43	Asia/Brunei	2012-01-18
+1820171	Sungai Singap	Sungai Singap		4.53333	114.55	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820172	Bukit Singap	Bukit Singap	Bukit Ingap,Bukit Singap	4.86667	114.76667	T	HLL	BN	BN	00				0		64	Asia/Brunei	2012-01-18
+1820173	Sungai Sinaut	Sungai Sinaut		4.81667	114.75	H	STM	BN		00				0		24	Asia/Brunei	1993-12-21
+1820174	Bukit Sinaut	Bukit Sinaut		4.81667	114.75	T	HLL	BN		00				0		24	Asia/Brunei	1993-12-21
+1820175	Sungai Sinarubai	Sungai Sinarubai	Sungai Silirubai,Sungai Sinarubai	4.83333	114.86667	H	STM	BN	BN	00				0		6	Asia/Brunei	2012-01-18
+1820176	Sungai Simud	Sungai Simud		4.73333	114.73333	H	STM	BN		00				0		12	Asia/Brunei	1993-12-21
+1820177	Pulau Silama	Pulau Silama	Pulau Salamat,Pulau Selamok,Pulau Silama	4.88333	115.05	T	ISL	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820178	Sungai Sigoho	Sungai Sigoho	Sungai Sigoho,Sungei Sibatu	4.96667	114.86667	H	STM	BN	BN	00				0		20	Asia/Brunei	2012-01-18
+1820179	Sungai Sibut	Sungai Sibut		4.61667	115.1	H	STM	BN		00				0		29	Asia/Brunei	1993-12-21
+1820180	Pulau Sibungor	Pulau Sibungor	Pulau Sebungor,Pulau Sibungor	4.86667	114.95	T	ISL	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820181	Bukit Sibundang	Bukit Sibundang		4.83333	114.7	T	HLL	BN		00				0		19	Asia/Brunei	1993-12-21
+1820182	Sungai Sibuke	Sungai Sibuke		4.75	115.18333	H	STM	BN		00				0		72	Asia/Brunei	1993-12-21
+1820183	Pulau Siarau	Pulau Siarau	Pulau Siarau,Siarau Island	4.8	115.03333	T	ISL	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820184	Sungai Serusup	Sungai Serusup		4.93333	114.93333	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820185	Sungai Seria	Sungai Seria	Sungai Seria,Sungei Seran	4.61667	114.3	H	STM	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820186	Sungai Seria	Sungai Seria		4.56667	114.73333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820187	Seria	Seria	Seria,Serija,seria,sex reiy,Сериа,Серия,เซอเรีย,セリア	4.60637	114.32476	P	PPL	BN		01				30097		6	Asia/Brunei	2013-06-09
+1820188	Tanjong Serasa	Tanjong Serasa		5	115.06667	T	PT	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820189	Sungai Semburu	Sungai Semburu	Sungai Samburo,Sungai Semburu	4.43333	114.38333	H	STM	BN	BN	00				0		12	Asia/Brunei	2012-01-18
+1820190	Sungai Sembatu	Sungai Sembatu		4.7	114.6	H	STM	BN		00				0		96	Asia/Brunei	1993-12-21
+1820191	Sungai Sembatang	Sungai Sembatang		4.8	114.7	H	STM	BN		00				0		18	Asia/Brunei	1993-12-21
+1820192	Sungai Sembatang	Sungai Sembatang		4.7	115.13333	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820193	Tanjong Semasta	Tanjong Semasta		4.91667	115.01667	T	PT	BN		00				0		37	Asia/Brunei	1993-12-21
+1820194	Sungai Semabat	Sungai Semabat		4.58333	115.06667	H	STM	BN		00				0		24	Asia/Brunei	1993-12-21
+1820195	Selirong Forest Reserve	Selirong Forest Reserve		4.88333	115.13333	V	FRST	BN		00				0		19	Asia/Brunei	1993-12-21
+1820196	Tanjong Selirong	Tanjong Selirong	Tanjong Salirong,Tanjong Selirong	4.88333	115.1	T	PT	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820197	Sungai Selirong	Sungai Selirong		4.88333	115.1	H	CRKT	BN		00				0		1	Asia/Brunei	1993-12-21
+1820198	Bukit Selila	Bukit Selila		4.9	114.96667	T	HLL	BN		00				0		57	Asia/Brunei	1993-12-21
+1820199	Bukit Selayun	Bukit Selayun		4.98333	114.93333	T	HLL	BN		00				0		38	Asia/Brunei	1993-12-21
+1820200	Pulau Selawat	Pulau Selawat		4.76667	114.6	T	ISL	BN		00				0		13	Asia/Brunei	1993-12-21
+1820201	Sungai Selapan	Sungai Selapan		4.68333	115.2	H	STM	BN		00				0		23	Asia/Brunei	1993-12-21
+1820202	Sungai Selanjak	Sungai Selanjak	Sungai Selanjak,Sungei Silanjak	4.81667	115.05	H	CRKT	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820203	Sungai Selangan Batu	Sungai Selangan Batu		4.85	114.75	H	STM	BN		00				0		52	Asia/Brunei	1993-12-21
+1820204	Sungai Selangan	Sungai Selangan		4.65	115.1	H	STM	BN		00				0		8	Asia/Brunei	1993-12-21
+1820205	Sungai Seladan	Sungai Seladan		4.68333	114.56667	H	STM	BN		00				0		43	Asia/Brunei	1993-12-21
+1820206	Sungai Sekurop Besar	Sungai Sekurop Besar		4.53333	115.23333	H	STM	BN		00				0		239	Asia/Brunei	1993-12-21
+1820207	Pulau Sekurop	Pulau Sekurop	Pulau Sekurop	4.68333	115.18333	T	ISL	BN		00				0		26	Asia/Brunei	2018-12-05
+1820208	Tanjong Sekina	Tanjong Sekina		4.83333	114.98333	H	STMB	BN		00				0		14	Asia/Brunei	1993-12-21
+1820209	Sungai Segiran	Sungai Segiran		4.7	115.11667	H	STM	BN		00				0		88	Asia/Brunei	1993-12-21
+1820210	Sungai Sebunyak	Sungai Sebunyak	Sungai Sebanyak,Sungai Sebunyak	5	114.93333	H	STM	BN	BN	00				0		9	Asia/Brunei	2012-01-18
+1820211	Bukit Sebuara	Bukit Sebuara		4.85	114.91667	T	HLL	BN		00				0		21	Asia/Brunei	1993-12-21
+1820212	Sungai Sebatu	Sungai Sebatu	Sungai Sebatu,Sungei Sabatu	4.65	115.2	H	STM	BN	BN	00				0		97	Asia/Brunei	2012-01-18
+1820213	Sungai Sebabang	Sungai Sebabang		4.78333	114.73333	H	STMX	BN		00				0		13	Asia/Brunei	1993-12-21
+1820214	Sungai Sayas	Sungai Sayas		4.85	114.86667	H	STM	BN		00				0		6	Asia/Brunei	1993-12-21
+1820215	Sungai Sawak	Sungai Sawak		4.46667	115.1	H	STM	BN		00				0		155	Asia/Brunei	1993-12-21
+1820216	Sungai Saud	Sungai Saud		4.36667	114.6	H	STM	BN		00				0		29	Asia/Brunei	1993-12-21
+1820217	Sungai Satu	Sungai Satu		4.58333	114.15	H	STM	BN		00				0		4	Asia/Brunei	1993-12-21
+1820218	Bukit Sarang Halang	Bukit Sarang Halang		4.96667	114.88333	T	HLL	BN		00				0		35	Asia/Brunei	1993-12-21
+1820219	Tanjung Sapu	Tanjung Sapu	Sapo Point,Tanjong Sapo,Tanjung Sapu	5	115.11667	T	PT	BN	BN	00				0		4	Asia/Brunei	2012-01-18
+1820220	Sungai San Kiram	Sungai San Kiram		4.86667	114.91667	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820221	Sungai Sanggut	Sungai Sanggut		4.86667	114.81667	H	STM	BN		00				0		10	Asia/Brunei	1993-12-21
+1820222	Sungai Sangai Sangai	Sungai Sangai Sangai		4.86667	114.85	H	STM	BN		00				0		4	Asia/Brunei	1993-12-21
+1820223	Sungai Samat	Sungai Samat		4.66667	114.48333	H	STM	BN		00				0		29	Asia/Brunei	1993-12-21
+1820224	Sungai Salong	Sungai Salong		4.83333	115.06667	H	CRKT	BN		00				0		17	Asia/Brunei	1993-12-21
+1820225	Bukit Salibaya	Bukit Salibaya		4.86667	114.96667	T	HLL	BN		00				0		144	Asia/Brunei	1993-12-21
+1820226	Sungai Salar	Sungai Salar		5	115.03333	H	STM	BN		00				0		12	Asia/Brunei	1993-12-21
+1820227	Sungai Salar	Sungai Salar	Sungai Belar,Sungai Salar	4.2	114.68333	H	STM	BN	BN	00				0		35	Asia/Brunei	2012-01-18
+1820228	Pulau Salar	Pulau Salar	Pulau Salar	4.98333	115.03333	T	ISL	BN		00				0		10	Asia/Brunei	2018-12-05
+1820229	Sungai Salang	Sungai Salang	Sungai Salang,Sungei Lawang	4.83333	115.05	H	CRKT	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820230	Sungai Sagut	Sungai Sagut		4.38333	114.65	H	STM	BN		00				0		31	Asia/Brunei	1993-12-21
+1820231	Batang Sagat	Batang Sagat		4.7	115.16667	H	STM	BN		00				0		107	Asia/Brunei	1993-12-21
+1820232	Bukit Sagan	Bukit Sagan	Bukit Sagan,Sagan A Bukit	4.8	115.23333	T	HLL	BN	BN	00				0		44	Asia/Brunei	2012-01-18
+1820233	Bukit Saeh	Bukit Saeh	Bukit Saeh,Bukit Say	4.85	114.91667	T	HLL	BN	BN	00				0		21	Asia/Brunei	2012-01-18
+1820234	Sungai Sablik	Sungai Sablik		4.83333	114.73333	H	STM	BN		00				0		41	Asia/Brunei	1993-12-21
+1820235	Sungai Ruradang	Sungai Ruradang		4.7	115.13333	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820236	Rumah Supon	Rumah Supon		4.48333	114.78333	P	PPL	BN		00				0		42	Asia/Brunei	1993-12-21
+1820237	Rumah Samawa	Rumah Samawa		4.23333	114.66667	P	PPL	BN		00				0		56	Asia/Brunei	1993-12-21
+1820238	Rumah Bawang Grang	Rumah Bawang Grang		4.21667	114.68333	P	PPL	BN		00				0		36	Asia/Brunei	1993-12-21
+1820239	Sungai Rujak	Sungai Rujak		4.2	114.56667	H	STM	BN		00				0		49	Asia/Brunei	1993-12-21
+1820240	Sungai Ropan	Sungai Ropan		4.7	115.15	H	STM	BN		00				0		39	Asia/Brunei	1993-12-21
+1820242	Sungai Resuar	Sungai Resuar	Sungai Resuar,Sungei Resuan	4.76667	115.2	H	STM	BN	BN	00				0		19	Asia/Brunei	2012-01-18
+1820243	Sungai Rempanga	Sungai Rempanga	Sungai Rempanga,Sungai Rempangar,Sungei Pempanga	4.8	114.75	H	STM	BN	BN	00				0		28	Asia/Brunei	2012-01-18
+1820244	Sungai Raya	Sungai Raya		4.8	115.05	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820245	Sungai Raya	Sungai Raya		4.9	115.13333	H	CRKT	BN		00				0		16	Asia/Brunei	1993-12-21
+1820246	Sungai Rawai	Sungai Rawai	Rauai River,Sungai Rawai	4.31667	114.61667	H	STM	BN	BN	00				0		27	Asia/Brunei	2012-01-18
+1820247	Sungai Rata	Sungai Rata		4.68333	115.2	H	STM	BN		00				0		23	Asia/Brunei	1993-12-21
+1820248	Sungai Rasau	Sungai Rasau		4.8	114.81667	H	STM	BN		00				0		11	Asia/Brunei	1993-12-21
+1820249	Rasau	Rasau	Rasau	4.55	114.21667	P	PPL	BN		00				0		26	Asia/Brunei	2012-01-18
+1820250	Pulau Ranggu	Pulau Ranggu	Pulau Ranggu	4.85	114.9	T	ISL	BN		00				0		7	Asia/Brunei	2018-12-05
+1820251	Sungai Randu	Sungai Randu		4.31667	114.66667	H	STM	BN		00				0		45	Asia/Brunei	1993-12-21
+1820252	Sungai Rampayoh	Sungai Rampayoh	Sungai Rampayoh,Sungei Rempayuh,Sungei Rumpayah	4.43333	114.4	H	STM	BN	BN	00				0		19	Asia/Brunei	2012-01-18
+1820253	Rampayoh	Rampayoh		4.38333	114.45	P	PPL	BN		00				0		23	Asia/Brunei	1993-12-21
+1820254	Sungai Ragu	Sungai Ragu		4.78333	114.7	H	STM	BN		00				0		4	Asia/Brunei	1993-12-21
+1820255	Sungai Putat	Sungai Putat		4.83333	114.98333	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820256	Sungai Putat	Sungai Putat	Sungai Putat,Sungai Putit	4.2	114.68333	H	STM	BN	BN	00				0		35	Asia/Brunei	2012-01-18
+1820257	Purau Purau	Purau Purau		4.38333	114.61667	P	PPL	BN		00				0		25	Asia/Brunei	1993-12-21
+1820258	Sungai Puput	Sungai Puput		4.65	114.5	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820259	Tanjong Punyit	Tanjong Punyit	Puniet,Tanjong Punyit	4.96667	114.85	T	CAPE	BN	BN	00				0		8	Asia/Brunei	2012-01-18
+1820260	Sungai Punyit	Sungai Punyit		4.96667	114.86667	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820261	Pulau Punyit	Pulau Punyit	Keti Island,Pulau Punyet,Pulau Punyit	4.98333	114.83333	T	ISL	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820262	Sungai Pungut	Sungai Pungut		4.86667	114.71667	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820263	Sungai Pulaie	Sungai Pulaie	Sungai Pulai,Sungai Pulaie	4.93333	114.93333	H	STM	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820264	Bang Puku	Bang Puku		4.73333	114.66667	H	STM	BN		00				0		11	Asia/Brunei	1993-12-21
+1820265	Tanjong Puan	Tanjong Puan		4.9	115.11667	T	PT	BN		00				0		15	Asia/Brunei	1993-12-21
+1820266	Sungai Premat	Sungai Premat		4.25	114.58333	H	STM	BN		00				0		46	Asia/Brunei	1993-12-21
+1820267	Bukit Posongan	Bukit Posongan	Bukit Busongan,Bukit Posongan	4.75	114.8	T	HLL	BN	BN	00				0		23	Asia/Brunei	2012-01-18
+1820268	Sungai Plandok	Sungai Plandok		4.3	114.36667	H	STM	BN		00				0		43	Asia/Brunei	1993-12-21
+1820269	Sungai Pirasong	Sungai Pirasong		4.83333	114.86667	H	STM	BN		00				0		6	Asia/Brunei	1993-12-21
+1820270	Sungai Pipit	Sungai Pipit		4.76667	114.71667	H	STM	BN		00				0		9	Asia/Brunei	1993-12-21
+1820271	Sungai Pilohong	Sungai Pilohong		4.86667	114.86667	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820272	Sungai Piasau-Piasau	Sungai Piasau-Piasau	Sungai Piasau-Piasau,Sungei Pisau Piasau	4.78333	115.1	H	CRKT	BN	BN	00				0		17	Asia/Brunei	2012-01-18
+1820273	Sungai Piabok	Sungai Piabok		4.71667	114.66667	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820274	Sungai Petogo	Sungai Petogo	Sungai Petogo,Sungai Petogok	4.9	114.75	H	STM	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820275	Sungai Petani	Sungai Petani		4.81667	114.65	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820276	Sungai Perupok	Sungai Perupok		4.71667	114.66667	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820277	Sungai Periding	Sungai Periding		4.71667	114.66667	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820278	Sungai Perayunan	Sungai Perayunan		4.91667	114.8	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820279	Peradayan Forest Reserve	Peradayan Forest Reserve		4.75	115.16667	V	FRST	BN		00				0		116	Asia/Brunei	1993-12-21
+1820280	Sungai Peradayan	Sungai Peradayan	Sungai Peradayan,Sungei Paradayan	4.75	115.15	H	STM	BN	BN	00				0		15	Asia/Brunei	2012-01-18
+1820281	Bukit Peradayan	Bukit Peradayan	Bukit Peradayan,Patoi	4.73333	115.16667	T	HLL	BN	BN	00				0		183	Asia/Brunei	2012-01-18
+1820282	Pulau Pepatan	Pulau Pepatan	Pulau Pepatan	4.91667	115.03333	T	ISL	BN		00				0		-9999	Asia/Brunei	2018-12-05
+1820283	Sungai Pepakan	Sungai Pepakan		4.73333	114.55	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820284	Sungai Penyuroh	Sungai Penyuroh		4.65	114.48333	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820285	Sungai Penyatang	Sungai Penyatang	Sungai Penyatang,Sungei Penyatangi	4.76667	114.58333	H	STM	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820286	Sungai Penipir Kechil	Sungai Penipir Kechil		4.18333	114.68333	H	STM	BN		00				0		51	Asia/Brunei	1993-12-21
+1820287	Sungai Penipir	Sungai Penipir	Peniper River,Sungai Penipir	4.16667	114.7	H	STM	BN	BN	00				0		40	Asia/Brunei	2012-01-18
+1820288	Sungai Peninjau	Sungai Peninjau		4.93333	114.83333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820289	Sungai Pengasing	Sungai Pengasing		4.81667	114.65	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820290	Sungai Pendaruan	Sungai Pendaruan	Sungai Deruan,Sungai Pendaruan	4.86667	114.71667	H	STM	BN	BN	00				0		14	Asia/Brunei	2012-01-18
+1820291	Sungai Penapar	Sungai Penapar		4.75	114.58333	H	CRKT	BN		00				0		6	Asia/Brunei	1993-12-21
+1820292	Sungai Penalan	Sungai Penalan		4.65	115.15	H	STM	BN		00				0		39	Asia/Brunei	1993-12-21
+1820293	Tanjong Pelumpong	Tanjong Pelumpong	Tanjong Pelompong,Tanjong Pelumpong,Tanjong Polompong	5.03952	115.09286	T	PT	BN	BN	00				0		5	Asia/Brunei	2017-09-12
+1820295	Sungai Peliher	Sungai Peliher		4.85	114.76667	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820296	Sungai Pejari	Sungai Pejari		4.48333	114.35	H	STM	BN		00				0		47	Asia/Brunei	1993-12-21
+1820297	Aur Payong	Aur Payong		4.66667	115.2	H	STM	BN		00				0		80	Asia/Brunei	1993-12-21
+1820298	Sungai Payau	Sungai Payau		4.1	114.61667	H	STM	BN		00				0		55	Asia/Brunei	1993-12-21
+1820299	Sungai Pauh	Sungai Pauh		4.96667	114.93333	H	STM	BN		00				0		19	Asia/Brunei	1993-12-21
+1820300	Sungai Pauau	Sungai Pauau	Sungai Pauau,Sungei Payau	4.35	114.68333	H	STM	BN	BN	00				0		51	Asia/Brunei	2012-01-18
+1820301	Bukit Patoi	Bukit Patoi		4.75	115.18333	T	HLL	BN		00				0		72	Asia/Brunei	1993-12-21
+1820302	Sungai Pat Nunok	Sungai Pat Nunok		4.73333	114.71667	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820303	Sungai Patam	Sungai Patam	Sungai Patam,Sungai Patan	4.33333	114.65	H	STM	BN	BN	00				0		19	Asia/Brunei	2012-01-18
+1820304	Batu Patam	Batu Patam	Batu Patam,Bukit Batu Batam,Bukit Batu Patam	4.06667	114.73333	T	PK	BN	BN	00				0		227	Asia/Brunei	2012-01-18
+1820305	Sungai Patah Jin	Sungai Patah Jin		4.88333	114.71667	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820306	Sungai Pasuang	Sungai Pasuang		4.38333	114.68333	H	STM	BN		00				0		38	Asia/Brunei	1993-12-21
+1820307	Sungai Parit	Sungai Parit		4.88083	114.93165	H	STMM	BN		00				0		11	Asia/Brunei	2014-08-21
+1820308	Sungai Paring	Sungai Paring		4.95	115.01667	H	STM	BN		00				0		82	Asia/Brunei	1993-12-21
+1820309	Sungai Paring	Sungai Paring		4.81667	114.96667	H	STM	BN		00				0		8	Asia/Brunei	1993-12-21
+1820310	Sungai Panta Layang	Sungai Panta Layang		4.85	114.9	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820311	Bukit Panjang	Bukit Panjang		4.85	114.81667	T	HLL	BN		00				0		57	Asia/Brunei	1993-12-21
+1820312	Sungai Pangkalan Turis	Sungai Pangkalan Turis	Sungai Pangkalan Turis,Sungai Pengkalan Turis	4.76667	114.71667	H	STM	BN	BN	00				0		9	Asia/Brunei	2012-01-18
+1820313	Pangkalan Siong	Pangkalan Siong	Pangkalan Siong,Pengkalan Siong	4.48333	114.55	P	PPL	BN	BN	00				0		15	Asia/Brunei	2012-01-18
+1820314	Sungai Pangkalan Pendayan	Sungai Pangkalan Pendayan	Sungai Pangkalan Pendayan,Sungei Pengkalan Pendayan	4.76667	114.7	H	STM	BN	BN	00				0		6	Asia/Brunei	2012-01-18
+1820315	Sungai Pangkalan Nanai	Sungai Pangkalan Nanai	Sungai Pangkalan Nanai,Sungai Pengkalan Nanai	4.75	114.71667	H	STM	BN	BN	00				0		22	Asia/Brunei	2012-01-18
+1820316	Sungai Pangkalan Kalan	Sungai Pangkalan Kalan		4.85	114.95	H	STM	BN		00				0		94	Asia/Brunei	1993-12-21
+1820317	Sungai Pangan	Sungai Pangan		4.66667	115.08333	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820318	Bang Pangan	Bang Pangan		4.65	114.63333	H	STM	BN		00				0		10	Asia/Brunei	1993-12-21
+1820319	Sungai Pandaruan Damit	Sungai Pandaruan Damit	Sungai Pandaruan Damit,Sungai Pendaruan Damit,Sungai Penderuan Damit	4.33333	114.36667	H	STM	BN	BN	00				0		24	Asia/Brunei	2012-01-18
+1820320	Sungai Pandaruan	Sungai Pandaruan	Sungai Pandaruan,Sungai Pendaruan,Sungei Panderuan,Sungei Penderuan	4.33333	114.36667	H	STM	BN	BN	00				0		24	Asia/Brunei	2012-01-18
+1820321	Sungai Pandan Besar	Sungai Pandan Besar		4.81667	114.86667	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820322	Sungai Pandan	Sungai Pandan		4.81667	114.86667	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820323	Sungai Pandan	Sungai Pandan		4.6	114.21667	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820325	Sungai Panau	Sungai Panau	Buan River,Sungai Panau,Sungei Buau	4.38333	114.63333	H	STM	BN	BN	00				0		36	Asia/Brunei	2012-01-18
+1820326	Sungai Panaga	Sungai Panaga	Sungai Panaga,Sungai Punaga	4.71667	114.51667	H	STM	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820327	Sungai Panaga	Sungai Panaga		4.6	114.26667	H	STM	BN		00				0		6	Asia/Brunei	1993-12-21
+1820328	Panaga	Panaga	Panaga	4.6	114.28333	P	PPL	BN		00				0		7	Asia/Brunei	2012-02-02
+1820329	Sungai Palu Palu	Sungai Palu Palu		4.86667	115.11667	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820330	Sungai Palu Damit	Sungai Palu Damit		4.85	114.68333	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820331	Sungai Palu Besar	Sungai Palu Besar		4.85	114.68333	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820332	Sungai Pali Regang	Sungai Pali Regang	Sungai Pali Ragang,Sungai Pali Regang,Sungai Pelir Regang	4.21667	114.75	H	STM	BN	BN	00				0		50	Asia/Brunei	2012-01-18
+1820333	Sungai Pali Bangun	Sungai Pali Bangun	Sungai Pali Bangngawong,Sungai Pali Bangun,Sungai Pelir Bangun,Sungai Pelir Bengun	4.21667	114.75	H	STM	BN	BN	00				0		50	Asia/Brunei	2012-01-18
+1820334	Sungai Palang	Sungai Palang		4.43333	114.66667	H	STM	BN		00				0		31	Asia/Brunei	1993-12-21
+1820335	Sungai Paku	Sungai Paku		4.71667	114.53333	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820336	Sungai Pahapaha	Sungai Pahapaha		4.88333	114.88333	H	STM	BN		00				0		40	Asia/Brunei	1993-12-21
+1820337	Sungai Pagang	Sungai Pagang		4.43333	114.6	H	STM	BN		00				0		19	Asia/Brunei	1993-12-21
+1820339	Arur Padi	Arur Padi		4.68333	115.21667	H	STM	BN		00				0		54	Asia/Brunei	1993-12-21
+1820340	Lubok Padayan	Lubok Padayan	Lubok Padayan,Lubok Padyan	4.81667	114.83333	H	POOL	BN	BN	00				0		12	Asia/Brunei	2012-01-18
+1820341	Sungai Padang	Sungai Padang		4.9	114.83333	H	STM	BN		00				0		55	Asia/Brunei	1993-12-21
+1820342	Sungai Padang	Sungai Padang		4.71667	114.53333	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820343	Sungai Padang	Sungai Padang		4.61667	114.65	H	STM	BN		00				0		18	Asia/Brunei	1993-12-21
+1820344	Sungai Nyatang	Sungai Nyatang		4.75	115.11667	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820345	Sungai Nyamuk Nying	Sungai Nyamuk Nying		4.4	114.8	H	STM	BN		00				0		109	Asia/Brunei	1993-12-21
+1820346	North Bar Bank	North Bar Bank		4.95	115.03333	H	SHOL	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820347	Bukit Nong Dangar	Bukit Nong Dangar	Bukit Nong Dangar,Dangar	4.66667	114.58333	T	HLL	BN	BN	00				0		61	Asia/Brunei	2012-01-18
+1820348	Lubok Nipah	Lubok Nipah		4.85	115.11667	H	POOL	BN		00				0		19	Asia/Brunei	1993-12-21
+1820349	Sungai Ngaua	Sungai Ngaua		4.31667	114.53333	H	STM	BN		00				0		56	Asia/Brunei	1993-12-21
+1820350	Sungai Nawak	Sungai Nawak		4.43333	114.66667	H	STM	BN		00				0		31	Asia/Brunei	1993-12-21
+1820351	Sungai Nansang	Sungai Nansang		4.46667	115.1	H	STM	BN		00				0		155	Asia/Brunei	1993-12-21
+1820352	Bang Nalud	Bang Nalud		4.66667	114.63333	H	STM	BN		00				0		22	Asia/Brunei	1993-12-21
+1820353	Sungai Nagalang Onat	Sungai Nagalang Onat		4.76667	115.11667	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820354	Sungai Nagalang Ering	Sungai Nagalang Ering	Sungai Nagalang Ering,Sungei Nagalang Putut	4.76667	115.11667	H	STM	BN	BN	00				0		13	Asia/Brunei	2012-01-18
+1820355	Sungai Nagalang	Sungai Nagalang		4.7	115.13333	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820357	Sungai Mumong	Sungai Mumong		4.6	114.25	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820358	Sungai Mulaut	Sungai Mulaut	Sungai Mulaut,Sungei Senkurong	4.86667	114.85	H	STM	BN	BN	00				0		4	Asia/Brunei	2012-01-18
+1820359	Muara Spit	Muara Spit		5.04174	115.11702	T	SPIT	BN		00				0		12	Asia/Brunei	2017-09-12
+1820360	Muara Harbour	Muara Harbour	Muara Harbour,Mura	5.03333	115.06667	H	HBR	BN	BN	00				0		9	Asia/Brunei	2012-01-18
+1820361	Pulau Muara Besar	Pulau Muara Besar	Great Island,Pulau Maara,Pulau Muara,Pulau Muara Besar	5.00374	115.10385	T	ISL	BN	BN	00				0		6	Asia/Brunei	2017-09-12
+1820362	Muara Bar	Muara Bar	Moeara Bar,Muara Bar	4.98333	115.08333	H	SHOL	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820363	Muara	Muara	Brooketon,Maura,Muara	5.02699	115.06913	P	PPL	BN	BN	00				0		6	Asia/Brunei	2017-09-12
+1820364	Sungai Motong	Sungai Motong		4.6	115.11667	H	STM	BN		00				0		38	Asia/Brunei	1993-12-21
+1820365	Sungai Metamba	Sungai Metamba		4.86667	114.86667	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820366	Sungai Merutop	Sungai Merutop		4.65	115.1	H	STM	BN		00				0		8	Asia/Brunei	1993-12-21
+1820367	Luagan Merimbun	Luagan Merimbun	Lake Meribun,Long Marimbun,Luagan Merimbun,Tasek Merimbun	4.6	114.66667	H	LK	BN	BN	00				0		35	Asia/Brunei	2012-01-18
+1820368	Sungai Merasak	Sungai Merasak		4.93333	114.83333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820369	Sungai Merangking	Sungai Merangking	Sungai Merangking,Sungai Meranking,Sungai Meranting	4.5	114.55	H	STM	BN	BN	00				0		18	Asia/Brunei	2012-01-18
+1820370	Sungai Merah	Sungai Merah		4.88333	114.8	H	STM	BN		00				0		24	Asia/Brunei	1993-12-21
+1820371	Sungai Merah	Sungai Merah		4.35	114.63333	H	STM	BN		00				0		27	Asia/Brunei	1993-12-21
+1820372	Sungai Meragang	Sungai Meragang		5.03333	115.03333	H	STM	BN		00				0		34	Asia/Brunei	1993-12-21
+1820373	Sungai Meragang	Sungai Meragang	Sungai Meragam,Sungai Meragang	4.93333	114.91667	H	STM	BN	BN	00				0		9	Asia/Brunei	2012-01-18
+1820374	Sungai Meragang	Sungai Meragang		4.76667	115.18333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820375	Sungai Meragang	Sungai Meragang		4.65	114.48333	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820376	Sungai Meradun	Sungai Meradun	Sungai Maradon,Sungai Meradun	4.85	114.86667	H	STM	BN	BN	00				0		6	Asia/Brunei	2012-01-18
+1820377	Sungai Menunggul	Sungai Menunggul	Manongul,Sungai Menunggul,Sungai Mungunul,Sungei Manunggul,Sungi Menonggul	4.9	115.01667	H	STM	BN	BN	00				0		14	Asia/Brunei	2012-01-18
+1820378	Sungai Menjalek	Sungai Menjalek		4.4	114.53333	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820380	Sungai Mendaram	Sungai Mendaram	Sungai Daram,Sungai Mendaram	4.86667	114.91667	H	STM	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820381	Sungai Mendaram	Sungai Mendaram	Sungai Mendaram,Sungei Medarram,Sungei Medarran	4.45	114.3	H	STM	BN	BN	00				0		28	Asia/Brunei	2012-01-18
+1820382	Sungai Mempanai	Sungai Mempanai		4.78333	114.8	H	STM	BN		00				0		26	Asia/Brunei	1993-12-21
+1820383	Bukit Melintang	Bukit Melintang	Bukit Melingtang,Bukit Melintang	4.83333	114.93333	T	HLL	BN	BN	00				0		87	Asia/Brunei	2012-01-18
+1820384	Sungai Melinok	Sungai Melinok	Sungai Melinok,Sungei Malino	4.55367	114.23172	H	STM	BN	BN	00				0		13	Asia/Brunei	2013-06-09
+1820385	Sungai Melimbai	Sungai Melimbai		4.86667	115.13333	H	CRKT	BN		00				0		26	Asia/Brunei	1993-12-21
+1820386	Melilas	Melilas	Melilas	4.23333	114.66667	P	PPL	BN		01				0		56	Asia/Brunei	2014-10-06
+1820388	Melabau Estate	Melabau Estate		4.91667	114.93333	S	EST	BN		00				0		21	Asia/Brunei	1993-12-21
+1820389	Sungai Melabau	Sungai Melabau		4.93333	114.93333	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820390	Sungai Mejawa	Sungai Mejawa		4.93333	114.83333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820391	Bukit Mejawa	Bukit Mejawa		4.93333	114.85	T	HLL	BN		00				0		22	Asia/Brunei	1993-12-21
+1820392	Sungai Medait	Sungai Medait	Sungai Medait,Sungai Medit	4.56667	114.71667	H	STM	BN	BN	00				0		31	Asia/Brunei	2012-01-18
+1820393	Sungai Mayliong	Sungai Mayliong		4.71667	115.18333	H	STM	BN		00				0		82	Asia/Brunei	1993-12-21
+1820394	Sungai Mayak	Sungai Mayak		4.28333	114.36667	H	STM	BN		00				0		36	Asia/Brunei	1993-12-21
+1820395	Tanjong Maya	Tanjong Maya		4.75	114.66667	T	PT	BN		00				0		9	Asia/Brunei	1993-12-21
+1820396	Sungai Mau	Sungai Mau		4.55	114.48333	H	STM	BN		00				0		11	Asia/Brunei	1993-12-21
+1820397	Sungai Matasan	Sungai Matasan	Sungai Matasan,Sungei Mat Hasan	4.75	114.75	H	STM	BN	BN	00				0		17	Asia/Brunei	2012-01-18
+1820398	Sungai Mataiang	Sungai Mataiang	Sungai Mataiang,Sungei Matayang	4.9	115.11667	H	CRKT	BN	BN	00				0		15	Asia/Brunei	2012-01-18
+1820399	Sungai Masin Buang	Sungai Masin Buang	Sungai Marin Buang,Sungai Masin Buang	4.61667	114.66667	H	STM	BN	BN	00				0		14	Asia/Brunei	2012-01-18
+1820400	Bukit Masin	Bukit Masin		4.83333	114.83333	T	HLL	BN		00				0		11	Asia/Brunei	1993-12-21
+1820401	Sungai Marantubu	Sungai Marantubu		4.76667	114.6	H	CRKT	BN		00				0		13	Asia/Brunei	1993-12-21
+1820402	Sungai Mantis	Sungai Mantis		4.9	114.76667	H	STM	BN		00				0		23	Asia/Brunei	1993-12-21
+1820403	Sungai Mantang	Sungai Mantang		4.7	114.55	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820404	Sungai Maniup	Sungai Maniup		4.65	115.05	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820405	Sungai Mani	Sungai Mani		4.56667	115.11667	H	STM	BN		00				0		106	Asia/Brunei	1993-12-21
+1820406	Sungai Mangsiang Damit	Sungai Mangsiang Damit	Sungai Mangsiang Damit,Sungai Mengsing Damit,Sungai Mensiang Damit	4.9	114.75	H	STM	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820407	Sungai Mangsiang Besar	Sungai Mangsiang Besar	Sungai Mangsiang Besar,Sungai Mansiang,Sungai Mensiang Besar,Sungei Mengsiang Besar	4.88333	114.75	H	STM	BN	BN	00				0		26	Asia/Brunei	2012-01-18
+1820408	Sungai Mangsalut	Sungai Mangsalut		5	114.96667	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820409	Sungai Mangsalut	Sungai Mangsalut	Sungai Mangsalut,Sungai Mengsurut	4.91667	114.93333	H	STM	BN	BN	00				0		21	Asia/Brunei	2012-01-18
+1820410	Sungai Manggis	Sungai Manggis		4.61667	114.46667	H	STM	BN		00				0		40	Asia/Brunei	1993-12-21
+1820411	Aur Mangan	Aur Mangan		4.65	115.21667	H	STM	BN		00				0		98	Asia/Brunei	1993-12-21
+1820412	Sungai Manadolar	Sungai Manadolar		4.25	114.66667	H	STM	BN		00				0		28	Asia/Brunei	1993-12-21
+1820413	Sungai Mali Luagan	Sungai Mali Luagan		4.65	114.48333	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820415	Sungai Malayan	Sungai Malayan	Sungai Malayan,Sungei Melayan	4.53333	114.51667	H	STM	BN	BN	00				0		21	Asia/Brunei	2012-01-18
+1820416	Sungai Majaan	Sungai Majaan	Sungai Majaan,Sungei Majoan	4.65	115.2	H	STM	BN	BN	00				0		97	Asia/Brunei	2012-01-18
+1820417	Bukit Lutut	Bukit Lutut		4.6	115.15	T	HLL	BN		00				0		149	Asia/Brunei	1993-12-21
+1820418	Sungai Lutong	Sungai Lutong		4.75	114.75	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820419	Sungai Lusi	Sungai Lusi		4.41667	114.43333	H	STM	BN		00				0		16	Asia/Brunei	1993-12-21
+1820420	Sungai Lunchur	Sungai Lunchur		4.65	114.5	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820421	Pulau Lumut Lunting	Pulau Lumut Lunting	Pulau Lumut Lunting	4.86667	114.95	T	ISL	BN		00				0		1	Asia/Brunei	2018-12-05
+1820422	Tanjong Lumut	Tanjong Lumut	Tanjong Lumut	4.96667	115.05	T	CAPE	BN		00				0		-9999	Asia/Brunei	2018-07-04
+1820423	Sungai Lumut	Sungai Lumut		4.65	114.43333	H	STM	BN		00				0		5	Asia/Brunei	1993-12-21
+1820424	Sungai Lumbi	Sungai Lumbi		4.81667	114.85	H	STM	BN		00				0		10	Asia/Brunei	1993-12-21
+1820425	Lumbi	Lumbi	Bukit Lumbi,Lumbi	4.83333	114.83333	T	PK	BN	BN	00				0		11	Asia/Brunei	2012-01-18
+1820426	Sungai Lumba Lumba	Sungai Lumba Lumba		4.88333	115.1	H	CRKT	BN		00				0		1	Asia/Brunei	1993-12-21
+1820427	Sungai Lumapas	Sungai Lumapas	Sungai Lumapas,Sungei Lamapas	4.85	114.9	H	STM	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820428	Bukit Lumadan	Bukit Lumadan		4.86667	114.91667	T	HLL	BN		00				0		7	Asia/Brunei	1993-12-21
+1820429	Sungai Lugu	Sungai Lugu		4.86667	114.8	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820430	Bukit Lugam	Bukit Lugam		4.91667	114.85	T	HLL	BN		00				0		25	Asia/Brunei	1993-12-21
+1820431	Sungai Lubok Abai	Sungai Lubok Abai		4.71667	114.75	H	STM	BN		00				0		25	Asia/Brunei	1993-12-21
+1820432	Sungai Luba	Sungai Luba	Sungai Loba,Sungai Luba	4.56667	114.61667	H	STM	BN	BN	00				0		38	Asia/Brunei	2012-01-18
+1820433	Pulau Luba	Pulau Luba	Pulau Luba	4.85	114.88333	T	ISL	BN		00				0		8	Asia/Brunei	2018-12-05
+1820434	Bukit Luang	Bukit Luang		4.95	114.93333	T	HLL	BN		00				0		18	Asia/Brunei	1993-12-21
+1820435	Aur Luang	Aur Luang		4.7	115.16667	H	STM	BN		00				0		107	Asia/Brunei	1993-12-21
+1820436	Sungai Lokasan Kechil	Sungai Lokasan Kechil		4.71667	115.16667	H	STM	BN		00				0		186	Asia/Brunei	1993-12-21
+1820437	Sungai Lokasan Besar	Sungai Lokasan Besar		4.71667	115.18333	H	STM	BN		00				0		82	Asia/Brunei	1993-12-21
+1820438	Sungai Linggang	Sungai Linggang		4.85	114.91667	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820439	Aur Limpaku	Aur Limpaku	Arur Lepaku,Aur Limpaku	4.65	115.23333	H	STM	BN	BN	00				0		288	Asia/Brunei	2012-01-18
+1820440	Sungai Limbaroh Belipat	Sungai Limbaroh Belipat		4.91667	114.88333	H	STM	BN		00				0		51	Asia/Brunei	1993-12-21
+1820441	Sungai Limau Manis	Sungai Limau Manis		4.8	114.83333	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820442	Sungai Limau	Sungai Limau		4.95	114.83333	H	STM	BN		00				0		18	Asia/Brunei	1993-12-21
+1820443	Sungai Limau	Sungai Limau		4.88333	114.9	H	STM	BN		00				0		23	Asia/Brunei	1993-12-21
+1820444	Sungai Lima	Sungai Lima		4.58333	114.1	H	STM	BN		00				0		3	Asia/Brunei	1993-12-21
+1820445	Pulau Lilipan	Pulau Lilipan	Pulau Lilipan,Pulau Lipan,Pulo Lelipan	4.88333	115.05	T	ISL	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820446	Sungai Lilas	Sungai Lilas		4.7	114.51667	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820447	Sungai Ligi	Sungai Ligi	Sungai Ligi,Sungei Bedik,Sungei Lig	4.58333	114.61667	H	STM	BN	BN	00				0		47	Asia/Brunei	2012-01-18
+1820448	Sungai Liang Kechil	Sungai Liang Kechil		4.66667	114.48333	H	STM	BN		00				0		29	Asia/Brunei	1993-12-21
+1820449	Sungai Liang	Sungai Liang		4.68333	114.48333	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820451	Sungai Lepong	Sungai Lepong		4.68333	115.2	H	STM	BN		00				0		23	Asia/Brunei	1993-12-21
+1820452	Sungai Lengkunis	Sungai Lengkunis		4.85	114.68333	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820453	Sungai Lengaban	Sungai Lengaban		4.56667	114.73333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820454	Sungai Lemeling Empat	Sungai Lemeling Empat	Sungai Lemeling Empat,Sungei Lemeling	4.7	115.18333	H	STM	BN	BN	00				0		91	Asia/Brunei	2012-01-18
+1820455	Sungai Legan	Sungai Legan		4.85	114.9	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820456	Tanjong Ledong	Tanjong Ledong	Ledong Point,Tanjong Ledong	5.0208	115.07771	T	PT	BN	BN	00				0		-9999	Asia/Brunei	2017-09-12
+1820457	Sungai Lebayas	Sungai Lebayas		4.71667	114.66667	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820458	Sungai Layong	Sungai Layong	Sungai Layong,Sungei Layang,Sungei Layoung	4.68333	114.66667	H	STM	BN	BN	00				0		8	Asia/Brunei	2012-01-18
+1820459	Sungai Lawang	Sungai Lawang	Sungai Lawang,Sungei Terap,Sungi Tarap	4.83333	115.06667	H	CRKT	BN	BN	00				0		17	Asia/Brunei	2012-01-18
+1820460	Bukit Lawan	Bukit Lawan		4.93333	114.96667	T	HLL	BN		00				0		50	Asia/Brunei	1993-12-21
+1820461	Sungai Lapitan	Sungai Lapitan		4.75	114.66667	H	STM	BN		00				0		9	Asia/Brunei	1993-12-21
+1820462	Sungai Langsat	Sungai Langsat	Sungai Langsat,Sungai Lansat	4.3	114.41667	H	STM	BN	BN	00				0		34	Asia/Brunei	2012-01-18
+1820463	Sungai Lamunin	Sungai Lamunin	Sungai Lamunin,Sungai Lemunin	4.7	114.7	H	STM	BN	BN	00				0		12	Asia/Brunei	2012-01-18
+1820464	Sungai Lalit	Sungai Lalit		4.66667	114.56667	H	STM	BN		00				0		52	Asia/Brunei	1993-12-21
+1820465	Sungai Lakop	Sungai Lakop		4.66667	115.2	H	STM	BN		00				0		80	Asia/Brunei	1993-12-21
+1820466	Sungai Lakiun	Sungai Lakiun		4.75	115.13333	H	STM	BN		00				0		19	Asia/Brunei	1993-12-21
+1820467	Sungai Lagongsai	Sungai Lagongsai		4.9	114.83333	H	STM	BN		00				0		55	Asia/Brunei	1993-12-21
+1820468	Ladan Hills Forest Reserve	Ladan Hills Forest Reserve		4.58333	114.75	V	FRST	BN		00				0		68	Asia/Brunei	1993-12-21
+1820470	Sungai Lacquan	Sungai Lacquan		4.7	115.15	H	STM	BN		00				0		39	Asia/Brunei	1993-12-21
+1820471	Labu Forest Reserve	Labu Forest Reserve		4.8	115.16667	V	FRST	BN		00				0		25	Asia/Brunei	1993-12-21
+1820472	Sungai Labu	Sungai Labu		4.78333	115.08333	H	STM	BN		00				0		16	Asia/Brunei	1993-12-21
+1820473	Labi Hills Forest Reserve	Labi Hills Forest Reserve		4.2	114.58333	V	FRST	BN		00				0		49	Asia/Brunei	1993-12-21
+1820474	Labi	Labi	Kampong Labi,Labi	4.38333	114.43333	P	PPL	BN	BN	01				0		28	Asia/Brunei	2014-10-06
+1820475	Aur Labai	Aur Labai		4.7	115.18333	H	STM	BN		00				0		91	Asia/Brunei	1993-12-21
+1820476	Sungai Kutop Temburong	Sungai Kutop Temburong		4.7	115.13333	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820477	Sungai Kutop	Sungai Kutop		4.68333	115.18333	H	STM	BN		00				0		26	Asia/Brunei	1993-12-21
+1820478	Sungai Kutang	Sungai Kutang		4.23333	114.66667	H	STM	BN		00				0		56	Asia/Brunei	1993-12-21
+1820479	Sungai Kutan	Sungai Kutan		4.7	114.63333	H	STM	BN		00				0		23	Asia/Brunei	1993-12-21
+1820480	Sungai Kusop	Sungai Kusop		4.66667	115.08333	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820481	Sungai Kurok	Sungai Kurok		4.61667	114.68333	H	STM	BN		00				0		12	Asia/Brunei	1993-12-21
+1820482	Sungai Kumpai	Sungai Kumpai		4.88333	114.83333	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820483	Kumbang Pasang	Kumbang Pasang	Kampong Kumbang Pasang,Kampung Kumbang Pasang	4.90484	114.93003	A	ADM3	BN		00		1820483		0		1	Asia/Brunei	2018-04-16
+1820484	Tanjong Kulat	Tanjong Kulat		4.85	115.1	T	PT	BN		00				0		1	Asia/Brunei	1993-12-21
+1820485	Sungai Kulapis	Sungai Kulapis		4.85	114.81667	H	STM	BN		00				0		57	Asia/Brunei	1993-12-21
+1820486	Sungai Kukub	Sungai Kukub	Sungai Kukub,Sungei Kakup,Sungei Kukop	4.38333	114.63333	H	STM	BN	BN	00				0		36	Asia/Brunei	2012-01-18
+1820487	Bukit Kukub	Bukit Kukub		4.7	114.61667	T	HLL	BN		00				0		39	Asia/Brunei	1993-12-21
+1820488	Bukit Kubur Jin	Bukit Kubur Jin	Bukit Karburdin,Bukit Kubur Jin	4.66667	114.7	T	HLL	BN	BN	00				0		38	Asia/Brunei	2012-01-18
+1820489	Bukit Kubu	Bukit Kubu		4.8	114.75	T	HLL	BN		00				0		28	Asia/Brunei	1993-12-21
+1820490	Tanjong Kuala Tutong	Tanjong Kuala Tutong		4.76667	114.6	T	PT	BN		00				0		13	Asia/Brunei	1993-12-21
+1820491	Kuala Belait	Kuala Belait	Belait,KUB,Kuala Belait,Kuala-Belajt,Kvala Belaitas,Kwala Belait,kuallabeullais,kuaraburaito,ma lai yi,Куала-Белайт,קואלה בלייט,クアラブライト,马来奕,쿠알라블라잇	4.58361	114.2312	P	PPLA	BN		01				31178		5	Asia/Brunei	2013-06-27
+1820492	Kuala Balai	Kuala Balai	Belait,Kampong Kuala Balai,Kuala Balai,Kwala Balai	4.45	114.31667	P	PPL	BN	BN	01				0		17	Asia/Brunei	2014-10-06
+1820493	Bukit Kota	Bukit Kota	Bukit Kota,Bukit Kuta	4.78333	114.81667	T	HLL	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820494	Sungai Kobok	Sungai Kobok		4.93333	114.83333	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820495	Sungai Kiulu	Sungai Kiulu		4.53333	114.75	H	STM	BN		00				0		30	Asia/Brunei	1993-12-21
+1820496	Sungai Kiudang	Sungai Kiudang	Sungai Kiudang,Sungai Kuidang,Sungai Kuidong	4.75	114.71667	H	STM	BN	BN	00				0		22	Asia/Brunei	2012-01-18
+1820497	Sungai Kitus	Sungai Kitus		4.85	114.9	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820498	Pulau Kitang	Pulau Kitang	Pulau Kitang,Pulo Kitana	4.88333	115.1	T	ISL	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820499	Tanjung Kindana	Tanjung Kindana		4.93333	115.01667	T	PT	BN		00				0		19	Asia/Brunei	1993-12-21
+1820500	Bukit Kindana	Bukit Kindana	Bukit Kidana,Bukit Kinandan,Bukit Kindana	4.91667	115.01667	T	HLL	BN	BN	00				0		37	Asia/Brunei	2012-01-18
+1820501	Aur Kilo	Aur Kilo		4.7	115.15	H	STM	BN		00				0		39	Asia/Brunei	1993-12-21
+1820502	Sungai Kilanas	Sungai Kilanas	Sungai Kelanas,Sungai Kilanas	4.86667	114.86667	H	STM	BN	BN	00				0		17	Asia/Brunei	2012-01-18
+1820503	Sungai Kibi	Sungai Kibi		4.76667	115.05	H	STM	BN		00				0		16	Asia/Brunei	1993-12-21
+1820504	Pulau Kibi	Pulau Kibi	Pulau Kibi	4.76667	115.03333	T	ISL	BN		00				0		14	Asia/Brunei	2018-12-05
+1820505	Sungai Kiarong	Sungai Kiarong		4.9	114.91667	H	STM	BN		00				0		11	Asia/Brunei	1993-12-21
+1820506	Sungai Kiaput	Sungai Kiaput		4.55	114.75	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820507	Sungai Kianggeh	Sungai Kianggeh	Sungai Kianggeh,Sungei Kianghi	4.88701	114.94472	H	STMM	BN		00				0		9	Asia/Brunei	2014-08-21
+1820508	Sungai Kiajong	Sungai Kiajong		4.91667	114.8	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820509	Tanjong Kerasik	Tanjong Kerasik	Tanjong Karasik,Tanjong Kerasik	4.85	115.1	T	PT	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820510	Kepala Berbunot	Kepala Berbunot		4.88333	115.03333	T	PT	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820511	Sungai Kenua	Sungai Kenua	Sungai Kenoa,Sungai Kenua,Sungai Menoa,Sungei Menua	4.61667	115.05	H	STM	BN	BN	00				0		26	Asia/Brunei	2012-01-18
+1820512	Sungai Kenipahan	Sungai Kenipahan	Sungai Kenapahan,Sungai Kenipahan	4.95	114.83333	H	STM	BN	BN	00				0		18	Asia/Brunei	2012-01-18
+1820513	Sungai Kenangan	Sungai Kenangan		4.56667	115.06667	H	STM	BN		00				0		26	Asia/Brunei	1993-12-21
+1820514	Sungai Keluyoh Kechil	Sungai Keluyoh Kechil	Sungai Keluyoh,Sungai Keluyoh Kechil	4.66667	114.5	H	STM	BN	BN	00				0		55	Asia/Brunei	2012-01-18
+1820515	Sungai Keluyoh Besar	Sungai Keluyoh Besar		4.65	114.48333	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820516	Sungai Kelukus	Sungai Kelukus	Sungai Kelukus,Sungai Kulukus	4.81667	114.76667	H	STM	BN	BN	00				0		37	Asia/Brunei	2012-01-18
+1820517	Sungai Kelugus	Sungai Kelugus		4.78333	114.75	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820518	Sungai Kelansat	Sungai Kelansat		4.61667	114.73333	H	STM	BN		00				0		26	Asia/Brunei	1993-12-21
+1820519	Bukit Kelangkong	Bukit Kelangkong	Bukit Kelangkang,Bukit Kelangkong,Bukit Kelinkong	4.85	114.86667	T	HLL	BN	BN	00				0		6	Asia/Brunei	2012-01-18
+1820520	Sungai Kelakas	Sungai Kelakas		4.81667	114.66667	H	STM	BN		00				0		36	Asia/Brunei	1993-12-21
+1820521	Arur Kelaban	Arur Kelaban		4.65	115.23333	H	STM	BN		00				0		288	Asia/Brunei	1993-12-21
+1820522	Sungai Keduan Tepaling	Sungai Keduan Tepaling		4.2	114.55	H	STM	BN		00				0		68	Asia/Brunei	1993-12-21
+1820523	Sungai Keduan	Sungai Keduan		4.28333	114.63333	H	STM	BN		00				0		28	Asia/Brunei	1993-12-21
+1820524	Sungai Kedayan	Sungai Kedayan		4.88519	114.93754	H	STMM	BN		00				0		5	Asia/Brunei	2014-08-21
+1820525	Sungai Kebun	Sungai Kebun		4.73333	114.73333	H	STM	BN		00				0		12	Asia/Brunei	1993-12-21
+1820526	Sungai Kebubok	Sungai Kebubok		4.51667	114.76667	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820527	Sungai Keboluan	Sungai Keboluan		4.63333	114.7	H	STM	BN		00				0		20	Asia/Brunei	1993-12-21
+1820528	Bukit Kebia	Bukit Kebia		4.76667	114.73333	T	HLL	BN		00				0		36	Asia/Brunei	1993-12-21
+1820529	Bukit Kayu Arang	Bukit Kayu Arang		4.96667	114.9	T	HLL	BN		00				0		33	Asia/Brunei	1993-12-21
+1820530	Sungai Kayal	Sungai Kayal		4.8	114.81667	H	STM	BN		00				0		11	Asia/Brunei	1993-12-21
+1820531	Sungai Kawang	Sungai Kawang		4.7	115.13333	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820532	Sungai Karut	Sungai Karut		4.66667	114.45	H	STM	BN		00				0		4	Asia/Brunei	1993-12-21
+1820533	Sungai Karop	Sungai Karop		4.68333	115.18333	H	STM	BN		00				0		26	Asia/Brunei	1993-12-21
+1820534	Sungai Kareta	Sungai Kareta		4.6	114.71667	H	STM	BN		00				0		25	Asia/Brunei	1993-12-21
+1820535	Sungai Kangkan	Sungai Kangkan		4.18333	114.7	H	STM	BN		00				0		45	Asia/Brunei	1993-12-21
+1820536	Sungai Kang	Sungai Kang		4.66667	114.46667	H	STM	BN		00				0		8	Asia/Brunei	1993-12-21
+1820537	Kampong Wasan	Kampong Wasan		4.76667	114.78333	P	PPL	BN		00				0		54	Asia/Brunei	1993-12-21
+1820538	Kampong Ukong	Kampong Ukong	Kampong Ukong,Ukong	4.66667	114.63333	P	PPL	BN	BN	04				0		22	Asia/Brunei	2014-10-06
+1820539	Kampong Tunggulian	Kampong Tunggulian	Kampong Supodian,Kampong Tunggulian	4.68333	114.5	P	PPL	BN	BN	00				0		8	Asia/Brunei	2012-01-18
+1820540	Kampong Tunah Jambu	Kampong Tunah Jambu		4.98333	114.98333	P	PPL	BN		00				0		17	Asia/Brunei	1993-12-21
+1820541	Kampong Tulang	Kampong Tulang		4.88333	114.83333	P	PPL	BN		00				0		14	Asia/Brunei	1993-12-21
+1820542	Kampong Timbunan	Kampong Timbunan		4.95	114.96667	P	PPL	BN		00				0		33	Asia/Brunei	1993-12-21
+1820543	Kampong Timahu	Kampong Timahu		4.86667	114.81667	P	PPL	BN		00				0		10	Asia/Brunei	1993-12-21
+1820544	Kampong Terap Bau	Kampong Terap Bau		4.86667	114.93333	P	PPL	BN		00				0		15	Asia/Brunei	1993-12-21
+1820545	Kampong Telisai	Kampong Telisai	Kampong Telisai,Kampung Telisai	4.73558	114.56324	P	PPL	BN		04				0		1	Asia/Brunei	2017-12-26
+1820546	Telamba	Telamba	Kampong Telamba,Kampung Telamba	4.72964	114.56675	P	PPL	BN		00				0		1	Asia/Brunei	2019-09-27
+1820547	Kampong Telaga Baka	Kampong Telaga Baka	Kampong Telaga Baka,Kampong Telaga Beka	4.81667	114.68333	P	PPL	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820548	Kampong Tanjong Santul	Kampong Tanjong Santul		4.68333	114.66667	P	PPL	BN		00				0		8	Asia/Brunei	1993-12-21
+1820549	Kampong Tanjong Nangka	Kampong Tanjong Nangka		4.88333	114.81667	P	PPL	BN		00				0		45	Asia/Brunei	1993-12-21
+1820550	Kampong Tanjong Menungan	Kampong Tanjong Menungan	Kampong Tanjong Menugan,Kampong Tanjong Menungan	4.83333	114.71667	P	PPL	BN	BN	00				0		19	Asia/Brunei	2012-01-18
+1820551	Kampong Tanjong Maya	Kampong Tanjong Maya	Kampong Penulud,Kampong Tanjong Maya,Penulud	4.75	114.66667	P	PPL	BN	BN	04				0		9	Asia/Brunei	2014-10-06
+1820552	Kampong Tanjong Durian	Kampong Tanjong Durian		4.81667	114.75	P	PPL	BN		00				0		24	Asia/Brunei	1993-12-21
+1820553	Kampong Tanjong Berapan	Kampong Tanjong Berapan		4.81667	114.66667	P	PPL	BN		00				0		36	Asia/Brunei	1993-12-21
+1820554	Kampong Tanjong	Kampong Tanjong		4.88333	114.83333	P	PPL	BN		00				0		14	Asia/Brunei	1993-12-21
+1820555	Tanah Burok	Tanah Burok	Kampong Tanah Burok,Kampung Tanah Burok	4.82752	114.67734	A	ADM3	BN		04		1820555		0		1	Asia/Brunei	2018-04-05
+1820556	Kampong Sungai Liang Kechil	Kampong Sungai Liang Kechil		4.66667	114.48333	P	PPL	BN		00				0		29	Asia/Brunei	1993-12-21
+1820557	Sungai Liang	Sungai Liang	Kampong Sungai Liang,Kampung Sungai Liang	4.67747	114.49587	P	PPL	BN		01				0		5	Asia/Brunei	2019-09-27
+1820558	Kampong Sungai Lampai	Kampong Sungai Lampai		4.88333	114.95	P	PPL	BN		00				0		0	Asia/Brunei	1993-12-21
+1820559	Kampong Sungai Kelugus	Kampong Sungai Kelugus		4.83333	114.91667	P	PPL	BN		00				0		13	Asia/Brunei	1993-12-21
+1820560	Sungai Hanching	Sungai Hanching	Kampong Sungai Hanching,Kampung Sungai Hanching	4.96806	114.97753	P	PPL	BN		02	11821303			0		1	Asia/Brunei	2018-08-03
+1820561	Kampong Sungai Burong	Kampong Sungai Burong		4.71667	114.71667	P	PPL	BN		00				0		10	Asia/Brunei	1993-12-21
+1820562	Kampong Sungai Bubus	Kampong Sungai Bubus		5.01667	115.1	P	PPL	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820563	Kampong Sungai Besar	Kampong Sungai Besar		4.93333	115.01667	P	PPL	BN		00				0		19	Asia/Brunei	1993-12-21
+1820564	Jalan Sungai Asam	Jalan Sungai Asam		4.87156	114.93698	P	PPL	BN		00				0		20	Asia/Brunei	2014-08-21
+1820565	Kampong Sumbiling	Kampong Sumbiling		4.58333	115.11667	P	PPL	BN		00				0		32	Asia/Brunei	1993-12-21
+1820566	Subok	Subok	Kampong Subok,Kampung Subok	4.89311	114.96588	P	PPL	BN		02	11821306			0		1	Asia/Brunei	2019-09-27
+1820567	Kampong Sinonuk	Kampong Sinonuk		4.63333	114.66667	P	PPL	BN		00				0		18	Asia/Brunei	1993-12-21
+1820568	Kampong Sinaut	Kampong Sinaut		4.81667	114.75	P	PPL	BN		00				0		24	Asia/Brunei	1993-12-21
+1820569	Sinarubai	Sinarubai	Kampong Sinarubai,Kampung Sinarubai	4.83797	114.87473	P	PPL	BN		00				0		1	Asia/Brunei	2019-09-27
+1820570	Kampong Sibut	Kampong Sibut		4.61667	115.1	P	PPL	BN		00				0		29	Asia/Brunei	1993-12-21
+1820571	Kampong Sibakit	Kampong Sibakit		4.73333	114.66667	P	PPL	BN		00				0		11	Asia/Brunei	1993-12-21
+1820572	Kampong Serusup	Kampong Serusup		4.95	114.93333	P	PPL	BN		00				0		18	Asia/Brunei	1993-12-21
+1820573	Kampong Serdang	Kampong Serdang	Kampong Berdang,Kampong Serdang	4.9	114.98333	P	PPL	BN	BN	00				0		104	Asia/Brunei	2012-01-18
+1820574	Serasa	Serasa	Kampong Serasa,Kampung Serasa,Serasa	5.01761	115.05798	P	PPL	BN		02				0		1	Asia/Brunei	2019-09-27
+1820575	Kampong Sengkurong	Kampong Sengkurong	Kampong Sengkurong,Sangkurong,Sengkurong	4.88333	114.83333	P	PPL	BN	BN	00				0		14	Asia/Brunei	2019-09-27
+1820576	Kampong Semabat	Kampong Semabat		4.56667	115.06667	P	PPL	BN		00				0		26	Asia/Brunei	1993-12-21
+1820577	Kampong Selayun	Kampong Selayun	Kampong Selayan,Kampong Selayun,Salayan	4.9	114.85	P	PPL	BN	BN	00				0		11	Asia/Brunei	2012-01-18
+1820578	Kampong Selangan	Kampong Selangan		4.91667	114.83333	P	PPL	BN		00				0		37	Asia/Brunei	1993-12-21
+1820579	Kampong Sawah	Kampong Sawah		4.51667	114.55	P	PPL	BN		00				0		18	Asia/Brunei	1993-12-21
+1820580	Sengkarai	Sengkarai	Kampong Sangkarai,Kampung Sengkarai	4.80476	114.64558	P	PPL	BN		00				0		1	Asia/Brunei	2019-09-27
+1820581	Kampong Salapit	Kampong Salapit		4.86667	114.81667	P	PPL	BN		00				0		10	Asia/Brunei	1993-12-21
+1820582	Salambigar	Salambigar	Kampong Salambigar,Kampung Salambigar	4.97877	114.9878	P	PPL	BN		02	11821303			0		1	Asia/Brunei	2018-08-01
+1820583	Kampong Sabun	Kampong Sabun	Kampong Sabun,Kampong Subun	5.03333	115.06667	P	PPL	BN	BN	00				0		9	Asia/Brunei	2012-01-18
+1820584	Kampong Riong	Kampong Riong		4.85	114.98333	P	PPL	BN		00				0		9	Asia/Brunei	1993-12-21
+1820585	Kampong Riong	Kampong Riong		4.81667	114.68333	P	PPL	BN		00				0		7	Asia/Brunei	1993-12-21
+1820586	Kampong Rimba	Kampong Rimba	Kampong Rimba,Rimba	4.91667	114.9	P	PPL	BN	BN	00				0		36	Asia/Brunei	2019-09-27
+1820587	Kampong Rendangan	Kampong Rendangan		4.83333	114.83333	P	PPL	BN		00				0		11	Asia/Brunei	1993-12-21
+1820588	Kampong Ranggu	Kampong Ranggu		4.86667	114.91667	P	PPL	BN		00				0		7	Asia/Brunei	1993-12-21
+1820589	Kampong Rampaya	Kampong Rampaya		4.63333	114.65	P	PPL	BN		00				0		15	Asia/Brunei	1993-12-21
+1820590	Rambai	Rambai	Kampong Rambal,Kampung Rambai	4.63882	114.65148	P	PPL	BN		04				0		40	Asia/Brunei	2018-05-30
+1820591	Kampong Putat	Kampong Putat		4.83333	114.98333	P	PPL	BN		00				0		14	Asia/Brunei	1993-12-21
+1820592	Kampong Purau Purau	Kampong Purau Purau		4.36667	114.6	P	PPL	BN		00				0		29	Asia/Brunei	1993-12-21
+1820593	Kampong Pulau Muda	Kampong Pulau Muda		4.93333	114.91667	P	PPL	BN		00				0		9	Asia/Brunei	1993-12-21
+1820594	Pulaie	Pulaie	Kampong Palait,Kampong Pulai,Kampong Pulaie	4.92994	114.95523	P	PPL	BN		00				0		42	Asia/Brunei	2019-09-27
+1820595	Kampong Pugat	Kampong Pugat		4.8	114.81667	P	PPL	BN		00				0		11	Asia/Brunei	1993-12-21
+1820596	Kampong Pudak	Kampong Pudak		4.9	114.98333	P	PPL	BN		00				0		104	Asia/Brunei	1993-12-21
+1820597	Kampong Potong	Kampong Potong		4.83333	114.78333	P	PPL	BN		00				0		27	Asia/Brunei	1993-12-21
+1820598	Kampong Perupok	Kampong Perupok		4.75	114.61667	P	PPL	BN		00				0		18	Asia/Brunei	1993-12-21
+1820599	Kampong Perumpong	Kampong Perumpong	Kampong Perumpang,Kampong Perumpong,Perumpong	4.68333	114.48333	P	PPL	BN	BN	00				0		13	Asia/Brunei	2012-01-18
+1820600	Kampong Peradayan	Kampong Peradayan		4.73333	115.08333	P	PPL	BN		00				0		14	Asia/Brunei	1993-12-21
+1820601	Kampong Pepatan	Kampong Pepatan		4.9	115.03333	P	PPL	BN		00				0		1	Asia/Brunei	1993-12-21
+1820602	Kampong Pepara	Kampong Pepara		4.8	114.81667	P	PPL	BN		00				0		11	Asia/Brunei	1993-12-21
+1820603	Kampong Penyatang	Kampong Penyatang		4.75	114.58333	P	PPL	BN		00				0		6	Asia/Brunei	1993-12-21
+1820604	Kampong Peninjau	Kampong Peninjau		4.93333	114.83333	P	PPL	BN		00				0		20	Asia/Brunei	1993-12-21
+1820605	Kampong Penapar	Kampong Penapar	Kampong Panapa,Kampong Penapar,Panapar	4.73333	114.66667	P	PPL	BN	BN	00				0		11	Asia/Brunei	2012-01-18
+1820606	Penanjong	Penanjong	Kampong Penanjong,Kampung Penanjong	4.83793	114.68014	P	PPL	BN		00				0		1	Asia/Brunei	2018-04-05
+1820607	Kampong Penabai	Kampong Penabai	Kampong Lubok Johar,Kampong Lubok Johor,Kampong Penabai	4.8	114.61667	P	PPL	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820608	Kampong Pelumpong	Kampong Pelumpong	Kampong Pelombong,Kampong Pelumpong,Pelumpong	5.03333	115.1	P	PPL	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820609	Kampong Pelambayan	Kampong Pelambayan		4.88333	114.96667	P	PPL	BN		00				0		33	Asia/Brunei	1993-12-21
+1820610	Kampong Pegalayan	Kampong Pegalayan	Kampong Pagalan,Kampong Pegalayan,Kampong Pengkalan Batu	4.78333	114.83333	P	PPL	BN	BN	00				0		19	Asia/Brunei	2012-01-18
+1820611	Kampong Patong	Kampong Patong		4.81667	114.91667	P	PPL	BN		00				0		9	Asia/Brunei	1993-12-21
+1820612	Kampong Pasang	Kampong Pasang		4.91667	114.91667	P	PPL	BN		00				0		9	Asia/Brunei	1993-12-21
+1820613	Kampong Parit Biang	Kampong Parit Biang		4.61667	115.1	P	PPL	BN		00				0		29	Asia/Brunei	1993-12-21
+1820614	Kampong Parit	Kampong Parit		4.88594	114.92867	P	PPL	BN		00				0		15	Asia/Brunei	2014-08-21
+1820615	Kampong Paring	Kampong Paring		4.95	115.01667	P	PPL	BN		00				0		82	Asia/Brunei	1993-12-21
+1820616	Kampong Pantau Marai	Kampong Pantau Marai		4.8	114.8	P	PPL	BN		00				0		32	Asia/Brunei	1993-12-21
+1820617	Kampong Panjang	Kampong Panjang		4.95	114.9	P	PPL	BN		00				0		29	Asia/Brunei	1993-12-21
+1820618	Kampong Pangkalan Ran	Kampong Pangkalan Ran	Kampong Pangkalan Ran,Kampong Pengkalan Ran	4.66667	114.63333	P	PPL	BN	BN	00				0		22	Asia/Brunei	2012-01-18
+1820619	Kampong Pangkalan Piasau	Kampong Pangkalan Piasau	Kampong Pangkalan Piasau,Kampong Pengkalan Piasau,Pengkalan Piasau	4.68333	114.65	P	PPL	BN	BN	00				0		9	Asia/Brunei	2012-01-18
+1820620	Kampong Pangkalan Parai	Kampong Pangkalan Parai	Kampong Pangkalan Parai,Kampong Pengkalan Parai	4.66667	114.63333	P	PPL	BN	BN	00				0		22	Asia/Brunei	2012-01-18
+1820621	Kampong Pangkalan Mau	Kampong Pangkalan Mau	Kampong Pangkalan Mau,Kampong Pengkalan Maut,Pengkalan Maut	4.75	114.73333	P	PPL	BN	BN	00				0		15	Asia/Brunei	2012-01-18
+1820622	Kampong Panchuran	Kampong Panchuran	Kampong Panchor,Kampong Panchuran	4.96667	115.01667	P	PPL	BN	BN	00				0		46	Asia/Brunei	2012-01-18
+1820623	Panchor Papan	Panchor Papan	Kampong Panchor Papan,Kampung Panchor Papan,Panchur Papan	4.8089	114.67301	P	PPL	BN		00				0		1	Asia/Brunei	2018-04-05
+1820624	Panchor Dulit	Panchor Dulit	Kampong Panchor Dulit,Kampong Panchur Dulit,Kampung Panchor Dulit,Kampung Panchur Dulit	4.80546	114.66491	P	PPL	BN		00				0		1	Asia/Brunei	2018-04-05
+1820625	Kampong Pak	Kampong Pak		4.68333	115.18333	P	PPL	BN		00				0		26	Asia/Brunei	1993-12-21
+1820626	Kampong Paganan	Kampong Paganan		4.55	115.06667	P	PPL	BN		00				0		30	Asia/Brunei	1993-12-21
+1820627	Pad Nunok	Pad Nunok	Kampong Pad Nunok,Kampong Padnunok,Kampung Pad Nunok,Kampung Padnunok,Padnunok	4.71749	114.72825	P	PPL	BN		04	10630196			0		33	Asia/Brunei	2018-08-14
+1820628	Kampong Nong Kelulau	Kampong Nong Kelulau	Kampong Nong Kelulau,Nong Kelulau	4.73333	114.65	P	PPL	BN	BN	00				0		23	Asia/Brunei	2012-01-18
+1820629	Kampong Nangka	Kampong Nangka		4.88333	114.83333	P	PPL	BN		00				0		14	Asia/Brunei	1993-12-21
+1820630	Kampong Mungkom	Kampong Mungkom	Kampong Mangkam,Kampong Mungkom	4.73333	114.75	P	PPL	BN	BN	00				0		17	Asia/Brunei	2012-01-18
+1820631	Mulaut	Mulaut	Kampong Mulaut,Kampung Mulaut	4.86458	114.84583	P	PPL	BN		00				0		1	Asia/Brunei	2018-03-02
+1820632	Kampong Mulaut	Kampong Mulaut	Kampong Mulaut,Kampong Mulut	4.86667	114.83333	P	PPL	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820633	Kampong Menunggol	Kampong Menunggol	Kampong Menunggol,Kampong Menunggul,Kampong Mungunul	4.93333	114.83333	P	PPL	BN	BN	00				0		20	Asia/Brunei	2012-01-18
+1820634	Kampong Menunggol	Kampong Menunggol	Kampong Menunggol,Kampong Menunggul	4.88333	114.98333	P	PPL	BN	BN	00				0		16	Asia/Brunei	2012-01-18
+1820635	Mentiri	Mentiri	Kampong Mentiri,Kampung Mentiri,Mentiri	4.97058	115.02078	P	PPL	BN		02				1121		1	Asia/Brunei	2018-02-15
+1820636	Kampong Mengawang	Kampong Mengawang	Kampong Mengawang,Kampong Mongawang	4.88333	114.85	P	PPL	BN	BN	00				0		10	Asia/Brunei	2012-01-18
+1820637	Kampong Medaras	Kampong Medaras		4.96667	114.91667	P	PPL	BN		00				0		34	Asia/Brunei	1993-12-21
+1820638	Kampong Mata Mata	Kampong Mata Mata		4.9	114.9	P	PPL	BN		00				0		21	Asia/Brunei	1993-12-21
+1820639	Madewa	Madewa	Kampong Madewa,Kampung Madewa	4.85583	114.89512	P	PPL	BN		00				0		1	Asia/Brunei	2019-09-27
+1820640	Kampong Lupak Luas	Kampong Lupak Luas	Kampung Lupak Luas	4.86972	114.94047	P	PPL	BN		02	11821307			0		1	Asia/Brunei	2018-08-27
+1820641	Kampong Lumapas	Kampong Lumapas		4.85	114.91667	P	PPL	BN		00				0		21	Asia/Brunei	1993-12-21
+1820642	Kampong Lugu	Kampong Lugu	Kampong Lagu,Kampong Lugu,Lugu	4.88333	114.8	P	PPL	BN	BN	00				0		24	Asia/Brunei	2012-01-18
+1820643	Kampong Lubok Tanjong Maya	Kampong Lubok Tanjong Maya	Kampong Lubok Tanjong Maya,Kampong Meranti,Lubok Tanjong Maya	4.75	114.66667	P	PPL	BN	BN	00				0		9	Asia/Brunei	2012-01-18
+1820644	Lubok Pulau	Lubok Pulau	Kampong Lubok Pulau,Kampung Lubok Pulau	4.76403	114.66356	P	PPL	BN		04				0		1	Asia/Brunei	2019-09-27
+1820645	Kampong Luagan Dudok	Kampong Luagan Dudok	Kampong Luagan Dudok,Kampung Luagan Dudok,Luagan Dudok	4.81734	114.72979	P	PPL	BN	BN	04				0		1	Asia/Brunei	2017-12-21
+1820646	Kampong Lopat	Kampong Lopat		4.68333	115.2	P	PPL	BN		00				0		23	Asia/Brunei	1993-12-21
+1820647	Kampong Limpas	Kampong Limpas		4.83333	114.91667	P	PPL	BN		00				0		13	Asia/Brunei	1993-12-21
+1820648	Kampong Limau Manis	Kampong Limau Manis		4.75	114.81667	P	PPL	BN		00				0		9	Asia/Brunei	1993-12-21
+1820649	Kampong Lilas	Kampong Lilas	Kampong Lilas,Lilas	4.7	114.51667	P	PPL	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820650	Kampong Lepong	Kampong Lepong		4.6	115.05	P	PPL	BN		00				0		14	Asia/Brunei	1993-12-21
+1820651	Layong	Layong	Kampong Layong,Kampung Layong	4.68895	114.67753	P	PPL	BN		04				0		24	Asia/Brunei	2018-05-25
+1820652	Lamunin	Lamunin	Kampong Lamunin,Kampung Lamunin	4.6816	114.71537	P	PPL	BN		04				0		51	Asia/Brunei	2019-09-27
+1820653	Kampong Lambak A	Kampong Lambak A	Kampong Lambak,Lambak	4.96611	114.94296	P	PPL	BN		02				0		22	Asia/Brunei	2014-08-21
+1820654	Kampong Labut	Kampong Labut		4.75	115.1	P	PPL	BN		00				0		15	Asia/Brunei	1993-12-21
+1820655	Kupang	Kupang	Kampong Kupang,Kampung Kupang	4.84309	114.79445	P	PPL	BN		00				0		3	Asia/Brunei	2019-09-27
+1820656	Kampong Kuala Ungar	Kampong Kuala Ungar		4.61667	114.66667	P	PPL	BN		00				0		14	Asia/Brunei	1993-12-21
+1820657	Kampong Kuala Tutong	Kampong Kuala Tutong		4.78333	114.6	P	PPL	BN		04				0		1	Asia/Brunei	2014-10-06
+1820658	Kuala Abang	Kuala Abang	Kampong Kuala Abang,Kampung Kuala Abang	4.70108	114.67683	P	PPL	BN		04				0		13	Asia/Brunei	2018-05-25
+1820659	Kampong Kota Batu	Kampong Kota Batu		4.88333	114.95	P	PPL	BN		00				0		0	Asia/Brunei	1993-12-21
+1820660	Kampong Kobong	Kampong Kobong	Kampong Kobong,Kubong	4.63333	115.03333	P	PPL	BN	BN	00				0		18	Asia/Brunei	2012-01-18
+1820661	Kiulap	Kiulap	Kampong Kiulap,Kampung Kiulap	4.89707	114.92692	A	ADM3	BN		02	11821301	1820661		1788		1	Asia/Brunei	2018-02-27
+1820662	Kampong Kiudang	Kampong Kiudang	Kampong Kiudang,Kampong Kuidang,Kampong Kwidong	4.75	114.73333	P	PPL	BN	BN	04				0		15	Asia/Brunei	2014-10-06
+1820663	Kiarong	Kiarong	Kampong Kiarong,Kampung Kiarong	4.89462	114.91855	A	ADM3	BN		02	11821301	1820663		5556		3	Asia/Brunei	2018-02-27
+1820664	Kampong Kiajong	Kampong Kiajong	Kampong Kiajong,Kiajong	4.91667	114.78333	P	PPL	BN	BN	00				0		-9999	Asia/Brunei	2019-09-27
+1820665	Kampong Keriam	Kampong Keriam		4.81603	114.6941	P	PPL	BN		04				0		6	Asia/Brunei	2017-08-01
+1820666	Kampong Kerangan Nyatan	Kampong Kerangan Nyatan	Kampong Kerangan Nyatan,Karangan Nyatan,Karangen Nyatan,Karengen Nyatan,Krangan Nyata	4.41667	114.6	P	PPL	BN	BN	00				0		50	Asia/Brunei	2012-01-18
+1820667	Kampong Kenua	Kampong Kenua	Kampong Kenua,Kampong Menua	4.61667	115.05	P	PPL	BN	BN	00				0		26	Asia/Brunei	2012-01-18
+1820668	Kampong Keluyoh	Kampong Keluyoh		4.66667	114.5	P	PPL	BN		00				0		55	Asia/Brunei	1993-12-21
+1820669	Kampong Kelalang	Kampong Kelalang		4.73333	114.66667	P	PPL	BN		00				0		11	Asia/Brunei	1993-12-21
+1820670	Kampong Kebun	Kampong Kebun		4.75	114.73333	P	PPL	BN		00				0		15	Asia/Brunei	1993-12-21
+1820671	Kampong Kebia	Kampong Kebia	Kampong Kebia,Kebia	4.76667	114.73333	P	PPL	BN	BN	00				0		36	Asia/Brunei	2012-01-18
+1820672	Kampong Kayu Kapur	Kampong Kayu Kapur	Kampong Kayu Kapur,Kayukapur	4.73333	114.66667	P	PPL	BN	BN	00				0		11	Asia/Brunei	2012-01-18
+1820673	Katok	Katok		4.91619	114.89353	P	PPL	BN		00				0		1	Asia/Brunei	2019-09-27
+1820674	Katimahar	Katimahar	Kampong Ketimahar,Kampung Katimahar	4.86807	114.81454	P	PPL	BN		00				0		1	Asia/Brunei	2018-04-22
+1820675	Kampong Kasat	Kampong Kasat	Butir,Kampong Kasat	4.82307	114.9471	P	PPL	BN	BN	00				0		1	Asia/Brunei	2018-04-02
+1820676	Kapok	Kapok	Kampong Kapok,Kampung Kapok,Kapok	5.02447	115.04664	P	PPL	BN		02				4337		1	Asia/Brunei	2019-02-28
+1820677	Kampong Kandang	Kampong Kandang		4.8	114.65	P	PPL	BN		00				0		7	Asia/Brunei	1993-12-21
+1820678	Kampong Kalamasi	Kampong Kalamasi		4.83333	114.95	P	PPL	BN		00				0		29	Asia/Brunei	1993-12-21
+1820679	Junjongan	Junjongan	Kampong Junjongan,Kampung Junjongan	4.81032	114.85343	P	PPL	BN		02	11821310			0		4	Asia/Brunei	2018-07-14
+1820680	Kampong Jerudong	Kampong Jerudong	Jerudong,Kampong Jerudong,Kampong Jerundong	4.95	114.85	P	PPL	BN	BN	02				0		48	Asia/Brunei	2014-10-06
+1820681	Kampong Jangsak	Kampong Jangsak		4.88333	114.86667	P	PPL	BN		00				0		30	Asia/Brunei	1993-12-21
+1820682	Kampong Imang	Kampong Imang		4.8	114.8	P	PPL	BN		00				0		32	Asia/Brunei	1993-12-21
+1820683	Kampong Ikas	Kampong Ikas	Kampong Damuan,Kampong Ikas	4.86667	114.8	P	PPL	BN	BN	00				0		13	Asia/Brunei	2012-01-18
+1820684	Kampong Gadong	Kampong Gadong		4.91667	114.91667	P	PPL	BN		02				0		9	Asia/Brunei	2014-10-06
+1820685	Kampong Empat Setengah	Kampong Empat Setengah	Kampong Ampat Setengah,Kampong Empat Setengah	4.95	114.95	P	PPL	BN	BN	00				0		13	Asia/Brunei	2012-01-18
+1820686	Kampong Delima	Kampong Delima	Kampong Belima,Kampong Delima	4.95	114.95	P	PPL	BN	BN	00				0		13	Asia/Brunei	2012-01-18
+1820687	Kampong Danau	Kampong Danau	Danau,Kampong Danau,Kampung Danau	4.76667	114.58333	P	PPL	BN	BN	04				0		-9999	Asia/Brunei	2018-01-10
+1820688	Kampong Burong Pingai Berakas	Kampong Burong Pingai Berakas		4.93333	114.91667	P	PPL	BN		00				0		9	Asia/Brunei	1993-12-21
+1820689	Kampong Burong Pingai	Kampong Burong Pingai	Bang Pangan,Kampong Bang Pangan,Kampong Bupangang,Kampong Bupungan,Kampong Burong Pingai	4.65	114.63333	P	PPL	BN	BN	00				0		10	Asia/Brunei	2012-01-18
+1820690	Bunut	Bunut	Kampong Bunut,Kampung Bunut	4.85348	114.88683	P	PPL	BN		00				0		1	Asia/Brunei	2018-04-14
+1820691	Kampong Bukok	Kampong Bukok		4.65	115.05	P	PPL	BN		00				0		20	Asia/Brunei	1993-12-21
+1820692	Kampong Bukit Tambai	Kampong Bukit Tambai		4.76667	114.73333	P	PPL	BN		00				0		36	Asia/Brunei	1993-12-21
+1820693	Bukit Sulang	Bukit Sulang	Kampong Bukit Sulang,Kampung Bukit Sulang	4.65826	114.73664	P	PPL	BN		04				0		83	Asia/Brunei	2018-05-25
+1820694	Bukit Panggal	Bukit Panggal	Kampong Bukit Panggal,Kampung Bukit Panggal	4.82774	114.72628	P	PPL	BN		04				0		1	Asia/Brunei	2018-03-04
+1820695	Kampong Bukit Kota	Kampong Bukit Kota		4.7	114.71667	P	PPL	BN		00				0		9	Asia/Brunei	1993-12-21
+1820696	Kampong Bukit Bang Tangur	Kampong Bukit Bang Tangur	Bang Tangur,Kampong Bang Tagor,Kampong Bukit Bang Tangur	4.61667	114.6	P	PPL	BN	BN	00				0		70	Asia/Brunei	2012-01-18
+1820697	Kampong Bukit	Kampong Bukit		4.63333	114.65	P	PPL	BN		00				0		15	Asia/Brunei	1993-12-21
+1820698	Kampong Buang Tawar	Kampong Buang Tawar	Buang Tawar,Kampong Buang Tawar	4.88333	114.96667	P	PPL	BN	BN	00				0		33	Asia/Brunei	2012-01-18
+1820699	Kampong Buangsakar	Kampong Buangsakar		4.85	114.95	P	PPL	BN		00				0		94	Asia/Brunei	1993-12-21
+1820700	Kampong Buang Bulan	Kampong Buang Bulan		4.68333	115.08333	P	PPL	BN		00				0		243	Asia/Brunei	1993-12-21
+1820701	Kampong Buangang	Kampong Buangang		4.61667	114.68333	P	PPL	BN		00				0		12	Asia/Brunei	1993-12-21
+1820702	Kampong Birau	Kampong Birau	Kampong Birau,Kampong Sentul	4.78333	114.73333	P	PPL	BN	BN	00				0		13	Asia/Brunei	2012-01-18
+1820703	Kampong Bintauran	Kampong Bintauran	Bintauran,Kampong Bintauran	4.86667	114.71667	P	PPL	BN	BN	00				0		14	Asia/Brunei	2012-01-18
+1820704	Kampong Binchaya	Kampong Binchaya	Binchaya,Kampong Binchaya	4.73333	114.56667	P	PPL	BN	BN	00				0		6	Asia/Brunei	2012-01-18
+1820705	Kampong Bibit	Kampong Bibit		4.88333	114.9	P	PPL	BN		00				0		23	Asia/Brunei	1993-12-21
+1820706	Kampong Biang	Kampong Biang	Biang,Kampong Biang	4.65	115.1	P	PPL	BN	BN	00				0		8	Asia/Brunei	2012-01-18
+1820707	Kampong Beribi	Kampong Beribi		4.88333	114.88333	P	PPL	BN		00				0		40	Asia/Brunei	1993-12-21
+1820708	Kampong Berbunot	Kampong Berbunot		4.88333	115.03333	P	PPL	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820709	Berangan	Berangan	Kampong Berangan,Kampung Berangan	4.89565	114.94549	A	ADM3	BN		02		1820709		0		30	Asia/Brunei	2018-04-16
+1820710	Kampong Berakas	Kampong Berakas		4.94794	114.93583	P	PPL	BN		02				0		41	Asia/Brunei	2014-10-06
+1820711	Kampong Benutan	Kampong Benutan	Benutan,Kampong Benuta,Kampong Benutan	4.6	114.71667	P	PPL	BN	BN	00				0		25	Asia/Brunei	2012-01-18
+1820712	Kampong Belayong	Kampong Belayong		4.63333	115.05	P	PPL	BN		00				0		13	Asia/Brunei	1993-12-21
+1820713	Kampong Belaban	Kampong Belaban		4.66667	115.08333	P	PPL	BN		00				0		13	Asia/Brunei	1993-12-21
+1820714	Kampong Bebatek	Kampong Bebatek	Kampong Bebatek,Kampong Bebatok	4.85	114.83333	P	PPL	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820715	Kampong Bawong	Kampong Bawong		4.83333	114.96667	P	PPL	BN		00				0		15	Asia/Brunei	1993-12-21
+1820716	Batu Marang	Batu Marang	Kampong Batu Marang,Kampung Batu Marang	4.98203	115.03506	P	PPL	BN		00				0		-9999	Asia/Brunei	2018-02-20
+1820717	Kampong Batu Lapan	Kampong Batu Lapan		4.88333	114.85	P	PPL	BN		00				0		10	Asia/Brunei	1993-12-21
+1820718	Kampong Batu Empat	Kampong Batu Empat		4.86667	114.9	P	PPL	BN		00				0		64	Asia/Brunei	1993-12-21
+1820719	Kampong Batu Empat	Kampong Batu Empat		4.78333	114.81667	P	PPL	BN		00				0		7	Asia/Brunei	1993-12-21
+1820720	Batong	Batong	Kampong Batong,Kampung Batong	4.81992	114.81663	P	PPL	BN		02	11821310			0		6	Asia/Brunei	2018-07-15
+1820721	Kampong Batang Duri	Kampong Batang Duri		4.56667	115.13333	P	PPL	BN		03				0		114	Asia/Brunei	2016-02-09
+1820722	Kampong Baru Baru	Kampong Baru Baru		4.66667	115.1	P	PPL	BN		00				0		57	Asia/Brunei	1993-12-21
+1820723	Kampong Bantun	Kampong Bantun		4.88333	114.86667	P	PPL	BN		00				0		30	Asia/Brunei	1993-12-21
+1820724	Kampong Bang Togor	Kampong Bang Togor		4.61667	114.61667	P	PPL	BN		00				0		44	Asia/Brunei	1993-12-21
+1820725	Kampong Bangana	Kampong Bangana		4.65	114.71667	P	PPL	BN		00				0		45	Asia/Brunei	1993-12-21
+1820726	Kampong Bandong	Kampong Bandong	Bandong,Kampong Bandong	4.88333	114.76667	P	PPL	BN	BN	00				0		39	Asia/Brunei	2012-01-18
+1820727	Kampong Bakaladong	Kampong Bakaladong		4.68333	114.66667	P	PPL	BN		00				0		8	Asia/Brunei	1993-12-21
+1820728	Kampong Baharu	Kampong Baharu		4.8	114.8	P	PPL	BN		00				0		32	Asia/Brunei	1993-12-21
+1820729	Kampong Ampar	Kampong Ampar		4.78333	114.81667	P	PPL	BN		00				0		7	Asia/Brunei	1993-12-21
+1820730	Kampong Amo	Kampong Amo		4.61667	115.1	P	PPL	BN		03				0		29	Asia/Brunei	2014-10-06
+1820731	Kampong Abang	Kampong Abang		4.68333	114.71667	P	PPL	BN		00				0		15	Asia/Brunei	1993-12-21
+1820732	Sungai Kalasi	Sungai Kalasi		4.2	114.68333	H	STM	BN		00				0		35	Asia/Brunei	1993-12-21
+1820733	Sungai Kalambat Kechil	Sungai Kalambat Kechil		4.83333	114.88333	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820734	Sungai Kalambat Besar	Sungai Kalambat Besar	Sungai Kalambat Besar,Sungei Kelomba,Sungei Kelomba Besar	4.85	114.88333	H	STM	BN	BN	00				0		8	Asia/Brunei	2012-01-18
+1820735	Sungai Kalamasi	Sungai Kalamasi		4.85	114.95	H	STM	BN		00				0		94	Asia/Brunei	1993-12-21
+1820736	Sungai Kaingaran	Sungai Kaingaran	Sungai Kaingaran,Sungei Keranggian	4.98333	114.9	H	STM	BN	BN	00				0		25	Asia/Brunei	2012-01-18
+1820737	Pulau Kaingaran	Pulau Kaingaran	Pulau Kaingaran,Pulau Kingaran,Pulo Ingarin,Pulu Kigaran	4.95	115.03333	T	ISL	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820738	Sungai Kagu	Sungai Kagu	Sungai Kagu,Sungai Kargu	4.53333	114.55	H	STM	BN	BN	00				0		15	Asia/Brunei	2012-01-18
+1820739	Sungai Jerudong	Sungai Jerudong		4.96667	114.83333	H	STM	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820740	Sungai Jerudong	Sungai Jerudong		4.86667	114.81667	H	STM	BN		00				0		10	Asia/Brunei	1993-12-21
+1820741	Bukit Jerudong	Bukit Jerudong	Bukit Jerudong,Bukit Sabandar,Bukit Shabandar	4.95	114.85	T	HLL	BN	BN	00				0		48	Asia/Brunei	2012-01-18
+1820742	Sungai Jeraya	Sungai Jeraya		4.71667	114.56667	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820743	Sungai Jelutong	Sungai Jelutong		4.58333	114.51667	H	STM	BN		00				0		26	Asia/Brunei	1993-12-21
+1820744	Sungai Jambu	Sungai Jambu		4.91667	114.9	H	STM	BN		00				0		36	Asia/Brunei	1993-12-21
+1820745	Jajak Ridge	Jajak Ridge	Jaja Ridge,Jajak Ridge	4.91667	115	T	RDGE	BN	BN	00				0		107	Asia/Brunei	2012-01-18
+1820746	Istana Darul Hana	Istana Darul Hana		4.88333	114.91667	P	PPL	BN		00				0		70	Asia/Brunei	1993-12-21
+1820747	Sungai Ingei	Sungai Ingei	Sungai Ingei,Sungei Jngieh	4.16667	114.71667	H	STM	BN	BN	00				0		38	Asia/Brunei	2012-01-18
+1820748	Sungai Imbang	Sungai Imbang		4.76667	114.66667	H	STM	BN		00				0		10	Asia/Brunei	1993-12-21
+1820749	Sungai Imang	Sungai Imang		4.8	114.83333	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820750	Sungai Ikas	Sungai Ikas		4.86667	114.8	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820751	Sungai Hanching	Sungai Hanching	Sungai Anching,Sungai Hanching	4.95863	114.98579	H	STM	BN	BN	00				0		63	Asia/Brunei	2014-08-21
+1820752	Sungai Gudang Akop	Sungai Gudang Akop		4.3	114.51667	H	STM	BN		00				0		85	Asia/Brunei	1993-12-21
+1820754	Sungai Golok	Sungai Golok	Sungai Golok,Sungai Gorok	4.68333	115.18333	H	STM	BN	BN	00				0		26	Asia/Brunei	2012-01-18
+1820755	Sungai Glas	Sungai Glas		4.46667	114.78333	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820756	Sungai Geronggung	Sungai Geronggung		4.66667	114.56667	H	STM	BN		00				0		52	Asia/Brunei	1993-12-21
+1820757	Sungai Geriting	Sungai Geriting		4.7	114.5	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820758	Sungai Gelinggong	Sungai Gelinggong		4.85	114.81667	H	STM	BN		00				0		57	Asia/Brunei	1993-12-21
+1820759	Sungai Garang	Sungai Garang		4.85	115.1	H	CRKT	BN		00				0		1	Asia/Brunei	1993-12-21
+1820760	Sungai Gana	Sungai Gana		4.68333	114.48333	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820761	Gadong Estate	Gadong Estate		4.91667	114.9	S	EST	BN		00				0		36	Asia/Brunei	1993-12-21
+1820762	Sungai Gadong	Sungai Gadong	Sungai Gadong,Sungei Menglait	4.9	114.91667	H	STM	BN	BN	00				0		11	Asia/Brunei	2012-01-18
+1820763	Sungai Entudau	Sungai Entudau		4.45	114.8	H	STM	BN		00				0		121	Asia/Brunei	1993-12-21
+1820764	Sungai Enjalatu	Sungai Enjalatu		4.41667	114.61667	H	STM	BN		00				0		19	Asia/Brunei	1993-12-21
+1820765	Sungai Enam	Sungai Enam	Sungai Enam,Sungei Anam	4.58333	114.1	H	STM	BN	BN	00				0		3	Asia/Brunei	2012-01-18
+1820766	Sungai Empat	Sungai Empat	Sungai Empat,Sungei Ampat	4.58333	114.11667	H	STM	BN	BN	00				0		6	Asia/Brunei	2012-01-18
+1820767	Lubok Embangan	Lubok Embangan		4.45	114.56667	H	POOL	BN		00				0		21	Asia/Brunei	1993-12-21
+1820768	Sungai Durian Sarawak	Sungai Durian Sarawak		4.75	114.8	H	STM	BN		00				0		23	Asia/Brunei	1993-12-21
+1820769	Sungai Durian Kalang	Sungai Durian Kalang		4.86667	114.86667	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820770	Sungai Durian	Sungai Durian		4.8	114.75	H	STM	BN		00				0		28	Asia/Brunei	1993-12-21
+1820771	Bang Durian	Bang Durian	Bang Duran,Bang Duran River,Bang Durian,Sungai Bang Durian	4.7	114.63333	H	STM	BN	BN	00				0		23	Asia/Brunei	2012-01-18
+1820772	Sungai Duau Kechil	Sungai Duau Kechil	Sungai Do-Wo Kechil,Sungai Duau Kechil	4.85	115.1	H	CRKT	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820773	Sungai Duau Damit	Sungai Duau Damit		4.85	115.1	H	CRKT	BN		00				0		1	Asia/Brunei	1993-12-21
+1820774	Sungai Duau Besar	Sungai Duau Besar	Sungai Do-Wo Besar,Sungai Duau Besar,Sungi Duau	4.83333	115.08333	H	CRKT	BN	BN	00				0		20	Asia/Brunei	2012-01-18
+1820775	Sungai Dua	Sungai Dua		4.58333	114.13333	H	STM	BN		00				0		22	Asia/Brunei	1993-12-21
+1820776	Bukit Didaran	Bukit Didaran		4.91667	114.83333	T	HLL	BN		00				0		37	Asia/Brunei	1993-12-21
+1820777	Sungai Dedap	Sungai Dedap		4.88333	114.88333	H	STM	BN		00				0		40	Asia/Brunei	1993-12-21
+1820778	Bukit Dedap	Bukit Dedap		4.81667	114.71667	T	HLL	BN		00				0		8	Asia/Brunei	1993-12-21
+1820779	Sungai Dangar	Sungai Dangar		4.66667	114.65	H	STM	BN		00				0		16	Asia/Brunei	1993-12-21
+1820780	Tanjong Danau	Tanjong Danau		4.76667	114.6	T	PT	BN		00				0		13	Asia/Brunei	1993-12-21
+1820781	Sungai Danau	Sungai Danau		4.78333	114.6	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820782	Sungai Damuan	Sungai Damuan	Sungai Damuan,Sungei Demuan	4.86667	114.85	H	STM	BN	BN	00				0		4	Asia/Brunei	2012-01-18
+1820783	Sungai Damit Tanjong Maya	Sungai Damit Tanjong Maya		4.73333	114.61667	H	STM	BN		00				0		29	Asia/Brunei	1993-12-21
+1820784	Sungai Damit Pemadang	Sungai Damit Pemadang		4.7	114.66667	H	STM	BN		00				0		9	Asia/Brunei	1993-12-21
+1820785	Sungai Damit Pemadang	Sungai Damit Pemadang		4.7	114.65	H	STM	BN		00				0		6	Asia/Brunei	1993-12-21
+1820786	Sungai Damit	Sungai Damit	Damit River,Sungai Damit	4.45	114.31667	H	STM	BN	BN	00				0		17	Asia/Brunei	2012-01-18
+1820787	Sungai Dalit	Sungai Dalit		4.56667	114.2	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820788	Sungai Dalam	Sungai Dalam		4.98333	114.9	H	STM	BN		00				0		25	Asia/Brunei	1993-12-21
+1820789	Sungai Dalam	Sungai Dalam		4.83333	114.86667	H	STM	BN		00				0		6	Asia/Brunei	1993-12-21
+1820790	Sungai Dalai	Sungai Dalai	Sungai Dalai,Sungei Dulai	4.7	114.55	H	STM	BN	BN	00				0		20	Asia/Brunei	2012-01-18
+1820791	Bukit Cowie	Bukit Cowie	Bukit Cowie,Cowie Hill	5.03426	115.05715	T	HLL	BN	BN	00				0		54	Asia/Brunei	2017-09-12
+1820792	Pulau Chermin	Pulau Chermin	Pulau Chermin,Pulau Churmin	4.93333	115.01667	T	ISL	BN	BN	00				0		19	Asia/Brunei	2012-01-18
+1820793	Sungai Butir	Sungai Butir		4.86667	114.95	H	CRKT	BN		00				0		1	Asia/Brunei	1993-12-21
+1820794	Sungai Burong Lapas	Sungai Burong Lapas		4.81667	114.86667	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820795	Sungai Bura	Sungai Bura		4.25	114.66667	H	STM	BN		00				0		28	Asia/Brunei	1993-12-21
+1820796	Sungai Buloh Gading	Sungai Buloh Gading		4.85	114.75	H	STM	BN		00				0		52	Asia/Brunei	1993-12-21
+1820797	Sungai Buloh Besar	Sungai Buloh Besar		4.85	114.73333	H	STM	BN		00				0		65	Asia/Brunei	1993-12-21
+1820798	Sungai Buloh Balui	Sungai Buloh Balui	Sungai Buloh Balui,Sungei Penambang	4.75	114.71667	H	STM	BN	BN	00				0		22	Asia/Brunei	2012-01-18
+1820800	Sungai Buloh	Sungai Buloh		4.83333	114.66667	H	STM	BN		00				0		11	Asia/Brunei	1993-12-21
+1820801	Aur Buloh	Aur Buloh		4.66667	115.2	H	STM	BN		00				0		80	Asia/Brunei	1993-12-21
+1820802	Sungai Bukok	Sungai Bukok	Sungai Bukok,Sungei Bubok	4.65	115.05	H	STM	BN	BN	00				0		20	Asia/Brunei	2012-01-18
+1820803	Sungai Bukit Tiong	Sungai Bukit Tiong		4.75	114.71667	H	STM	BN		00				0		22	Asia/Brunei	1993-12-21
+1820804	Bukit Puan	Bukit Puan		4.53333	114.45	P	PPL	BN		00				0		41	Asia/Brunei	1993-12-21
+1820805	Sungai Bukit	Sungai Bukit		4.63333	114.65	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820806	Sungai Buhot	Sungai Buhot		4.96667	114.85	H	STM	BN		00				0		8	Asia/Brunei	1993-12-21
+1820807	Sungai Buaya	Sungai Buaya		4.85	114.88333	H	STM	BN		00				0		8	Asia/Brunei	1993-12-21
+1820808	Sungai Buaya	Sungai Buaya		4.71667	115.1	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820809	Sungai Buaya	Sungai Buaya	Sungai Boya,Sungai Buaya	4.21667	114.68333	H	STM	BN	BN	00				0		36	Asia/Brunei	2012-01-18
+1820810	Sungai Buang Tekurok	Sungai Buang Tekurok		4.86667	114.93333	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820811	Sungai Buang Tawar	Sungai Buang Tawar	Sungai Buang Sawar,Sungai Buang Tawar	4.81667	114.85	H	STM	BN	BN	00				0		10	Asia/Brunei	2012-01-18
+1820812	Bukit Buang Sakar	Bukit Buang Sakar		4.85	114.93333	T	HLL	BN		00				0		105	Asia/Brunei	1993-12-21
+1820813	Sungai Buang Pinang	Sungai Buang Pinang		4.98333	114.91667	H	STM	BN		00				0		55	Asia/Brunei	1993-12-21
+1820814	Brunei Darussalam	Brunei Darussalam	Brineyi,Broenai,Broenei,Brouney,Bru-nay,Bru-nây,Bruine,Brunae,Brunaen,Brunaigh,Brunay,Brunei,Brunei Darussalam,Brunei nutome,Bruneium,Brunej,Brunej Darusalam,Brunej Darussalam,Brunej-Darusalam,Brunej-Darussalam,Bruneja,Brunejo,Brunejus,Bruney,Bruneyi,Brunän,Brunéi,Brunéi Darussalam,Brunêi,Brunėjus,Brùnaigh,Brúiné,Brúnei,Brûnei,Brûney,Burinɛyi,Burnaay,Burunayi,Burune,Buruneeya,Burunei,Buruneyi,Mprounei,Mprounei Ntarousalam,Negara Brunei Darussalam,Negeri Brunei,Orileede Buruneli,Orílẹ́ède Búrúnẹ́lì,Pulunei,State of Brunei,Sultanate of Brunei,beulunai,bruna'i,brunai,brune'i,brunei,bruni,brwnay,brwny,brwnyy,brwwnay,burunei,i-Brunei,prathes bruni,puruney,wen lai,Μπρουνέι,Μπρουνέι Νταρουσαλάμ,Брунеи,Бруней,Бруней Дарусалам,Бруней Даруссалам,Бруней-Дарусалам,Бруней-Даруссалам,Брунеј,Բրունեյ,ברוניי,ברוניי דארוסאלאם,برونئی,بروناي,برونای,بروني,بروونای,برۇنېي,ब्रुनाइ,ब्रुनेई,ब्रूनइ,ब्रूनै,ব্রুনাই,ব্রুনেই,બ્રુનેઇ,ବ୍ରୁନେଇ,புரூனேய்,బ్రునై,ಬ್ರೂನಿ,ബ്രൂണൈ,බෲනායි,บรูไน,ประเทศบรูไน,ບູຮໄນ,བུ་རུ་ནེ།,ဘရူနိုင်း,ბრუნეი,ብሩኒ,ប៊្រុយណេ,ブルネイ,文莱,브루나이	4.5	114.66667	A	PCLI	BN		00				395027		95	Asia/Brunei	2018-02-07
+1820815	Brunei Cliffs	Brunei Cliffs		4.96667	114.85	T	CLF	BN		00				0		8	Asia/Brunei	1993-12-21
+1820816	Brunei Channel	Brunei Channel		4.96667	115.05	H	CHNM	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820817	Brunei Bluff	Brunei Bluff		5.04595	115.05924	T	CLF	BN		00				0		0	Asia/Brunei	2017-09-12
+1820818	Daerah Brunei dan Muara	Daerah Brunei dan Muara	Brunei District,Brunei and Muara,Brunei and Muara District,Brunei dan Muara,Brunei-Muara,Brunei-Muara District,Daerah Brunei dan Muara	4.91667	114.91667	A	ADM1	BN		02				279924		1	Asia/Brunei	2019-04-09
+1820819	Sungai Brunei	Sungai Brunei	Brunei River,Bruni River,Sungai Brunei,Sungi Brunei	4.92214	115.01533	H	STM	BN	BN	02				0		-9999	Asia/Brunei	2017-09-15
+1820820	Kuala Brunei	Kuala Brunei		4.93333	115.01667	H	STMM	BN		00				0		19	Asia/Brunei	1993-12-21
+1820821	Brunei Airport	Brunei Airport	BWN,WBSB	4.9442	114.92835	S	AIRP	BN		00				0	22	12	Asia/Brunei	2016-01-15
+1820822	Bowong Point	Bowong Point		5	115.08333	T	PT	BN		00				0		1	Asia/Brunei	1993-12-21
+1820824	Sungai Bontu Kechil	Sungai Bontu Kechil		4.85	115.08333	H	CRKT	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820825	Sungai Bontu Besar	Sungai Bontu Besar		4.85	115.08333	H	CRKT	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820826	Bukit Bisut	Bukit Bisut		4.55	114.5	T	HLL	BN		00				0		26	Asia/Brunei	1993-12-21
+1820827	Sungai Birau	Sungai Birau		4.8	114.66667	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820828	Arur Birau	Arur Birau		4.68333	115.18333	H	STMA	BN		00				0		26	Asia/Brunei	1993-12-21
+1820829	Sungai Bintauran Damit	Sungai Bintauran Damit		4.86667	114.7	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820830	Sungai Bintauran Besar	Sungai Bintauran Besar	Sungai Bintauran Besar,Sungai Binturan Besar	4.88333	114.71667	H	STM	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820831	Tanjong Binjai	Tanjong Binjai		4.78333	114.65	T	PT	BN		00				0		9	Asia/Brunei	1993-12-21
+1820832	Sungai Biawak	Sungai Biawak		4.98333	114.98333	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820833	Sungai Biang Tapan	Sungai Biang Tapan		4.66667	115.13333	H	STM	BN		00				0		26	Asia/Brunei	1993-12-21
+1820834	Biang Estate	Biang Estate		4.66667	115.1	S	EST	BN		00				0		57	Asia/Brunei	1993-12-21
+1820835	Sungai Biang	Sungai Biang	Biang Tapang River,Sungai Biang	4.66667	115.1	H	STM	BN	BN	00				0		57	Asia/Brunei	2012-01-18
+1820836	Bukit Biang	Bukit Biang	Bukit Biang,Bukit Pangang	4.68333	115.1	T	HLL	BN	BN	00				0		351	Asia/Brunei	2012-01-18
+1820837	Sungai Biadong Tengah	Sungai Biadong Tengah		4.3	114.7	H	STM	BN		00				0		46	Asia/Brunei	1993-12-21
+1820838	Sungai Biadong Patan	Sungai Biadong Patan		4.3	114.7	H	STM	BN		00				0		46	Asia/Brunei	1993-12-21
+1820839	Sungai Biadong	Sungai Biadong	Sungai Biadong,Sungei Biondong	4.35	114.61667	H	STM	BN	BN	00				0		26	Asia/Brunei	2012-01-18
+1820840	Sungai Betia	Sungai Betia		4.71667	115.1	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820841	Sungai Betayan	Sungai Betayan		4.71667	115.1	H	STM	BN		00				0		14	Asia/Brunei	1993-12-21
+1820842	Sungai Betampat	Sungai Betampat		4.86667	114.8	H	STM	BN		00				0		13	Asia/Brunei	1993-12-21
+1820843	Sungai Besar	Sungai Besar	Sungai Besar	5	114.91667	H	STM	BN		00				0		1	Asia/Brunei	2019-02-21
+1820844	Sungai Besar	Sungai Besar		4.81667	114.66667	H	STM	BN		00				0		36	Asia/Brunei	1993-12-21
+1820845	Alor Besar	Alor Besar	Alor Besar,Sungei Alor Besar	4.86667	115.11667	H	CRKT	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820846	Sungai Beruang	Sungai Beruang		4.7	114.73333	H	STM	BN		00				0		28	Asia/Brunei	1993-12-21
+1820847	Sungai Beribi	Sungai Beribi		4.9	114.9	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820848	Sungai Beribi	Sungai Beribi	Sungai Beribi,Sungai Beridi	4.68333	114.66667	H	STM	BN	BN	00				0		8	Asia/Brunei	2012-01-18
+1820849	Sungai Berbunut	Sungai Berbunut	Sungai Berbunut,Sungai Membunut	4.93333	114.91667	H	STM	BN	BN	00				0		9	Asia/Brunei	2012-01-18
+1820850	Pulau Berbunot	Pulau Berbunot	Barbunot Island,Pulau Berbunot,Pulau Berbunut,Pulo Burbunot	4.88333	115.03333	T	ISL	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820851	Sungai Berbunga	Sungai Berbunga		4.85	115.13333	H	CRKT	BN		00				0		17	Asia/Brunei	1993-12-21
+1820852	Sungai Berangan	Sungai Berangan		4.9	114.95	H	STM	BN		00				0		80	Asia/Brunei	1993-12-21
+1820853	Sungai Berangan	Sungai Berangan	Sungai Berangan,Sungai Berangin	4.31667	114.66667	H	STM	BN	BN	00				0		45	Asia/Brunei	2012-01-18
+1820854	Pulau Berambang	Pulau Berambang		4.86667	114.98333	T	ISL	BN		00				0		11	Asia/Brunei	1993-12-21
+1820855	Berakas Forest Reserve	Berakas Forest Reserve		4.98333	114.91667	V	FRST	BN		00				0		55	Asia/Brunei	1993-12-21
+1820856	Sungai Berakas	Sungai Berakas	Sungai Berakas,Sungei Berakus	4.93333	114.93333	H	STM	BN	BN	00				0		7	Asia/Brunei	2012-01-18
+1820857	Sungai Bera	Sungai Bera	Sungai Bera,Sungei Bira	4.63333	114.35	H	STM	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820858	Sungai Benutan	Sungai Benutan	Sungai Benitan,Sungai Benutan	4.95	114.9	H	STM	BN	BN	00				0		29	Asia/Brunei	2012-01-18
+1820859	Sungai Benutan	Sungai Benutan		4.6	114.71667	H	STM	BN		00				0		25	Asia/Brunei	1993-12-21
+1820860	Sungai Bengkala	Sungai Bengkala		4.91667	114.9	H	STM	BN		00				0		36	Asia/Brunei	1993-12-21
+1820861	Sungai Benawar	Sungai Benawar		4.63333	114.65	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820862	Sungai Bemban	Sungai Bemban		4.78333	115.21667	H	STM	BN		00				0		31	Asia/Brunei	1993-12-21
+1820863	Sungai Belangsat	Sungai Belangsat		4.83333	114.81667	H	STM	BN		00				0		28	Asia/Brunei	1993-12-21
+1820864	Sungai Belandak	Sungai Belandak		4.93333	114.86667	H	STM	BN		00				0		60	Asia/Brunei	1993-12-21
+1820865	Sungai Belamdam Besar	Sungai Belamdam Besar		4.85	114.68333	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820866	Sungai Belalong	Sungai Belalong	Sungai Belalong,Sungai Jelalong	4.93333	114.81667	H	STM	BN	BN	00				0		26	Asia/Brunei	2012-01-18
+1820867	Sungai Belalong	Sungai Belalong	Relalong River,Sungai Belalong	4.55	115.13333	H	STM	BN	BN	00				0		136	Asia/Brunei	2012-01-18
+1820868	Bukit Belalong	Bukit Belalong		4.48333	115.18333	T	HLL	BN		00				0		849	Asia/Brunei	1993-12-21
+1820869	Belait	Belait	Belait,Belait District,Daerah Belait	4.31667	114.58333	A	ADM1	BN		01				77515		94	Asia/Brunei	2019-04-09
+1820870	Sungai Belait	Sungai Belait	Batang Belait,Sungai Belait,Sungei Bailait,Sungei Besar,Sungi Balait	4.58276	114.18752	H	STM	BN	BN	00				0		0	Asia/Brunei	2013-06-09
+1820871	Kuala Belait	Kuala Belait		4.59165	114.18005	H	STMM	BN		00				0		1	Asia/Brunei	2013-06-09
+1820872	Sungai Belabau	Sungai Belabau		4.45	114.78333	H	STM	BN		00				0		52	Asia/Brunei	1993-12-21
+1820873	Sungai Belaban	Sungai Belaban		4.91667	114.9	H	STM	BN		00				0		36	Asia/Brunei	1993-12-21
+1820874	Sungai Bekuku	Sungai Bekuku		4.76667	114.61667	H	CRKT	BN		00				0		15	Asia/Brunei	1993-12-21
+1820875	Pulau Bekuku	Pulau Bekuku	Pulau Bekuku	4.78333	114.61667	T	ISL	BN		00				0		21	Asia/Brunei	2018-12-05
+1820876	Sungai Bekina	Sungai Bekina		4.85	114.78333	H	STM	BN		00				0		32	Asia/Brunei	1993-12-21
+1820877	Sungai Bekiau	Sungai Bekiau	Sungai Bekiau,Sungai Pechau,Sungei Bakayau	4.8	114.66667	H	STM	BN	BN	00				0		14	Asia/Brunei	2012-01-18
+1820878	Pulau Bedukang	Pulau Bedukang	Badukang Island,Pulau Bedukang	4.98333	115.05	T	ISL	BN	BN	00				0		-9999	Asia/Brunei	2012-01-18
+1820879	Sungai Bedawan	Sungai Bedawan		4.48333	114.78333	H	STM	BN		00				0		42	Asia/Brunei	1993-12-21
+1820881	Sungai Bedaput	Sungai Bedaput		4.46667	114.78333	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820882	Sungai Bayan Lawat	Sungai Bayan Lawat		4.61667	114.48333	H	STM	BN		00				0		53	Asia/Brunei	1993-12-21
+1820883	Sungai Bayan	Sungai Bayan		4.6	114.48333	H	STM	BN		00				0		38	Asia/Brunei	1993-12-21
+1820884	Sungai Bawang Grang	Sungai Bawang Grang		4.23333	114.68333	H	STM	BN		00				0		43	Asia/Brunei	1993-12-21
+1820885	Sungai Bawang Gayoh	Sungai Bawang Gayoh		4.21667	114.68333	H	STM	BN		00				0		36	Asia/Brunei	1993-12-21
+1820886	Sungai Batu Miris	Sungai Batu Miris		4.63333	115.23333	H	STM	BN		00				0		149	Asia/Brunei	1993-12-21
+1820887	Sungai Batu Marang	Sungai Batu Marang		4.98333	115.03333	H	STM	BN		00				0		10	Asia/Brunei	1993-12-21
+1820888	Sungai Batu Apoi Obud	Sungai Batu Apoi Obud		4.61667	115.23333	H	STM	BN		00				0		191	Asia/Brunei	1993-12-21
+1820889	Batu Apoi Forest Reserve	Batu Apoi Forest Reserve	Batu Apoi Forest Reserve	4.6	115.18333	V	FRST	BN		00				0		183	Asia/Brunei	2016-03-10
+1820890	Batu Apoi Estate	Batu Apoi Estate		4.71667	115.08333	S	EST	BN		00				0		13	Asia/Brunei	1993-12-21
+1820891	Sungai Batu Apoi	Sungai Batu Apoi	Sungai Batu Apoi,Sungei Batu Apai	4.75	115.08333	H	STM	BN	BN	00				0		15	Asia/Brunei	2012-01-18
+1820892	Batu Apoi	Batu Apoi	Batu Apoi	4.7	115.1	P	PPL	BN		03				0		142	Asia/Brunei	2019-02-21
+1820893	Sungai Batong	Sungai Batong	Sungai Batong,Sungai Kebatong	4.9	114.91667	H	STM	BN	BN	00				0		11	Asia/Brunei	2012-01-18
+1820894	Sungai Batong	Sungai Batong	Sungai Batong,Sungai Batung	4.8	114.83333	H	STM	BN	BN	00				0		14	Asia/Brunei	2012-01-18
+1820895	Sungai Batang Tongkat	Sungai Batang Tongkat		4.71667	115.16667	H	STM	BN		00				0		186	Asia/Brunei	1993-12-21
+1820896	Sungai Batang Duri	Sungai Batang Duri		4.58333	115.11667	H	STM	BN		00				0		32	Asia/Brunei	1993-12-21
+1820897	Sungai Basong	Sungai Basong		4.81667	114.76667	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820898	Pulau Baru Baru	Pulau Baru Baru	Baru Baru Islands,Pulau Baru Baru	4.9	115.03333	T	ISL	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820899	Sungai Baran	Sungai Baran		4.43333	114.58333	H	STM	BN		00				0		22	Asia/Brunei	1993-12-21
+1820900	Sungai Bangau	Sungai Bangau	Sungai Bangau,Sungai Banyau	4.38333	114.68333	H	STM	BN	BN	00				0		38	Asia/Brunei	2012-01-18
+1820903	Bangar	Bangar	Bangar,Pekan Bangar,Temburong	4.70861	115.07167	P	PPLA	BN		03				3970		75	Asia/Brunei	2019-04-10
+1820904	Sungai Bangal	Sungai Bangal		4.9	114.9	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820905	Sungai Bandong	Sungai Bandong		4.86667	114.78333	H	STM	BN		00				0		23	Asia/Brunei	1993-12-21
+1820906	Bandar Seri Begawan	Bandar Seri Begawan	BWN,Banda Seri,Bandar Seri Begauan,Bandar Seri Begavan,Bandar Seri Begavanas,Bandar Seri Begawan,Bandar Sery Begawan,Bandar-Seri-Begavan,Bandar-Seri-Begavano,Bandar-Sery-Begavan,Bandarseribegavana,Brunei,Brunei Town,Bruni,Mpantar Seri Mpenkaban,badara seri begavana,ban dar se ribe ka wan,bandaleuseulibeugawan,bandar seri bagevan,bandar-seri-begavani,bandara seri bega'oyana,bandara seri begavana,bandara sri bagavana,bandarusuribugawan,bndr sry bgawan,bndr sry bkawan,bndr sry bygwan,pantar ceri pekavan,si li ba jia wan,si li ba jia wan shi,sry bgawan,Μπαντάρ Σερί Μπεγκαβάν,Бандар Сери Бегаван,Бандар-Сери-Бегаван,Бандар-Серы-Бегаван,Бандар-Сері-Бегаван,Բանդար Սերի Բեգավան,בנדר סרי בגוואן,باندار سەرى بەگاۋان,بندر سري بكاوان,بندر سری بگاوان,بندر سری بیگوان,بەندەر سێری بێگاوان,سری بگاوان,बंदर स्री बगवान,बन्दर सेरी बेगवान,बन्दर सेरी बेगावान,বন্দর সেরি বেগাওয়ান,ਬੰਦਰ ਸੇਰੀ ਬੇਗਵਾਨ,பண்டர் செரி பெகாவான்,ಬಂದರ್ ಸೆರಿ ಬಗೆವನ್,ബന്ദർ സെരി ബെഗവൻ,บันดาร์เสรีเบกาวัน,སི་རི་པེ་ཀ་མཚོ་ཁུགས་གྲོང་ཁྱེར།,ဘန်ဒါဆရီဘဂါဝမ်မြို့,ბანდარ-სერი-ბეგავანი,ባንዳር ሰሪ ቤጋዋን,バンダルスリブガワン,斯里巴加湾市,斯里巴加灣,斯里巴加灣市,반다르스리브가완	4.89035	114.94006	P	PPLC	BN		02				64409		10	Asia/Brunei	2019-09-05
+1820907	Sungai Bamban	Sungai Bamban		4.65	114.63333	H	STM	BN		00				0		10	Asia/Brunei	1993-12-21
+1820908	Sungai Balau	Sungai Balau	Sungai Balau,Sungei Balan	4.88333	114.73333	H	STM	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820909	Sungai Bakut	Sungai Bakut		4.75	114.71667	H	STM	BN		00				0		22	Asia/Brunei	1993-12-21
+1820910	Sungai Bakong	Sungai Bakong		4.66667	114.45	H	STM	BN		00				0		4	Asia/Brunei	1993-12-21
+1820911	Tanjong Bakarang	Tanjong Bakarang		4.9	115.03333	T	PT	BN		00				0		1	Asia/Brunei	1993-12-21
+1820912	Sungai Bahu	Sungai Bahu		4.25	114.65	H	STM	BN		00				0		52	Asia/Brunei	1993-12-21
+1820913	Sungai Badas	Sungai Badas		4.56667	114.41667	H	STM	BN		00				0		30	Asia/Brunei	1993-12-21
+1820914	Sungai Badak	Sungai Badak		4.63333	114.65	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820915	Arur Bada	Arur Bada		4.7	115.16667	H	STM	BN		00				0		107	Asia/Brunei	1993-12-21
+1820916	Sungai Babi	Sungai Babi		4.53333	115.16667	H	STM	BN		00				0		222	Asia/Brunei	1993-12-21
+1820917	Anak Sungai Babi	Anak Sungai Babi		4.55	115.23333	H	STM	BN		00				0		352	Asia/Brunei	1993-12-21
+1820918	Sungai Ayer Terjun	Sungai Ayer Terjun		4.86667	114.86667	H	STM	BN		00				0		17	Asia/Brunei	1993-12-21
+1820919	Sungai Ayam Ayam	Sungai Ayam Ayam		4.86667	115.15	H	STM	BN		00				0		21	Asia/Brunei	1993-12-21
+1820920	Sungai Ayam	Sungai Ayam	Sungai Ayam,Sungai Ayan	4.63333	114.35	H	STM	BN	BN	00				0		1	Asia/Brunei	2012-01-18
+1820921	Sungai Asin	Sungai Asin		4.25	114.58333	H	STM	BN		00				0		46	Asia/Brunei	1993-12-21
+1820922	Sungai Asan	Sungai Asan		4.91667	114.78333	H	STM	BN		00				0		-9999	Asia/Brunei	1993-12-21
+1820923	Sungai Asan	Sungai Asan	Bang Asan,Sungai Asan	4.58333	114.66667	H	STM	BN	BN	00				0		31	Asia/Brunei	2012-01-18
+1820924	Sungai Arut	Sungai Arut		4.81667	114.85	H	STM	BN		00				0		10	Asia/Brunei	1993-12-21
+1820925	Sungai Arur Damit	Sungai Arur Damit		4.71667	115.16667	H	STM	BN		00				0		186	Asia/Brunei	1993-12-21
+1820926	Sungai Aru Lirang	Sungai Aru Lirang		4.13333	114.56667	H	STM	BN		00				0		99	Asia/Brunei	1993-12-21
+1820927	Sungai Aru Bonang	Sungai Aru Bonang		4.18333	114.68333	H	STM	BN		00				0		51	Asia/Brunei	1993-12-21
+1820929	Sungai Ara Nibong	Sungai Ara Nibong		4.7	115.15	H	STM	BN		00				0		39	Asia/Brunei	1993-12-21
+1820930	Sungai Ara Nibong	Sungai Ara Nibong	Sungai Ara Nibong,Sungei Aranidong	4.13333	114.65	H	STM	BN	BN	00				0		48	Asia/Brunei	2012-01-18
+1820931	Sungai Apan	Sungai Apan		4.55	115.18333	H	STM	BN		00				0		270	Asia/Brunei	1993-12-21
+1820932	Sungai Antong	Sungai Antong		5	114.96667	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820933	Anson Passage	Anson Passage		5.02571	115.10668	H	CHNM	BN		00				0		-9999	Asia/Brunei	2017-09-12
+1820934	Andulau Forest Reserve	Andulau Forest Reserve		4.63333	114.53333	V	FRST	BN		00				0		82	Asia/Brunei	1993-12-21
+1820935	Anduki Forest Reserve	Anduki Forest Reserve		4.63333	114.38333	V	FRST	BN		00				0		6	Asia/Brunei	1993-12-21
+1820936	Anduki Airport	Anduki Airport	Anduki Airport,WBAK	4.63597	114.38021	S	AIRF	BN		00				0		4	Asia/Brunei	2013-06-09
+1820937	Sungai Anduki	Sungai Anduki		4.63333	114.36667	H	STM	BN		00				0		15	Asia/Brunei	1993-12-21
+1820938	Sungai Anduan	Sungai Anduan		4.63333	114.4	H	STM	BN		00				0		7	Asia/Brunei	1993-12-21
+1820939	Sungai Ampoh	Sungai Ampoh		4.71667	114.51667	H	STM	BN		00				0		1	Asia/Brunei	1993-12-21
+1820940	Sungai Amoh Besar	Sungai Amoh Besar	Sungai Amoh,Sungai Amoh Besar	4.61667	115.13333	H	STM	BN	BN	00				0		77	Asia/Brunei	2012-01-18
+1820941	Sungai Amoh	Sungai Amoh		4.63333	115.11667	H	STM	BN		00				0		52	Asia/Brunei	1993-12-21
+1820942	Bukit Ambok	Bukit Ambok		4.8	114.66667	T	HLL	BN		00				0		14	Asia/Brunei	1993-12-21
+1820943	Sungai Akotakut	Sungai Akotakut		5	114.93333	H	STM	BN		00				0		9	Asia/Brunei	1993-12-21
+1820944	Ajong Batu	Ajong Batu		4.86667	114.91667	T	RK	BN		00				0		7	Asia/Brunei	1993-12-21
+1820945	Sungai Ajar	Sungai Ajar		4.33333	114.66667	H	STM	BN		00				0		39	Asia/Brunei	1993-12-21
+1820946	Sungai Aipoh	Sungai Aipoh		4.36667	114.7	H	STM	BN		00				0		49	Asia/Brunei	1993-12-21
+1820947	Sungai Agutagut	Sungai Agutagut		5	114.93333	H	STM	BN		00				0		9	Asia/Brunei	1993-12-21
+1820948	Bukit Agok	Bukit Agok		4.9	114.78333	T	HLL	BN		00				0		43	Asia/Brunei	1993-12-21
+1820949	Sungai Agat	Sungai Agat		4.94052	114.96128	H	STM	BN		00				0		23	Asia/Brunei	2014-08-21
+1820950	Sungai Agas	Sungai Agas		4.38333	114.33333	H	STM	BN		00				0		37	Asia/Brunei	1993-12-21
+1820951	Sungai Abang	Sungai Abang		4.7	114.66667	H	STM	BN		00				0		9	Asia/Brunei	1993-12-21
+1820952	Bukit Abang	Bukit Abang		4.88333	114.81667	T	HLL	BN		00				0		45	Asia/Brunei	1993-12-21
+1820953	Abana Rock	Abana Rock		5.08218	115.05334	T	RK	BN		00				0		-9999	Asia/Brunei	2016-03-09
+1905142	Fairley Baram Oil Field	Fairley Baram Oil Field	Fairley Baram,Fairley Baram Oil Field,Fairley-Baram Oil Field	4.80639	113.96556	L	OILF	BN		00				0		-9999	Asia/Brunei	2014-03-09
+6488282	Sheraton Utama	Sheraton Utama		4.9445	114.9468	S	HTL	BN						0		13	Asia/Brunei	2007-04-12
+6518816	Orchid Garden Hotel	ORCHID GARDEN HOTEL		4.93266	114.94489	S	HTL	BN						0		20	Asia/Brunei	2014-08-21
+6941910	Kampong Ayer	Kampong Ayer		4.91667	114.91667	H	LK	BN						0		9	Asia/Brunei	2009-06-09
+9407534	Sungai Kianggeh	Sungai Kianggeh		4.8958	114.94705	H	BNKR	BN						0		21	Asia/Brunei	2014-08-21
+10063209	Radisson	Radisson		4.9115	114.9341	S	HTL	BN						0		16	Asia/Brunei	2015-02-12
+10098961	Traders Inn	Traders Inn		4.90258	114.90492	S	HTL	BN						0		12	Asia/Brunei	2015-02-13
+10098962	Rizqun International	Rizqun International		4.90555	114.91683	S	HTL	BN						0		6	Asia/Brunei	2015-02-13
+10098963	The Centrepoint Hotel	The Centrepoint Hotel		4.90743	114.91542	S	HTL	BN						0		13	Asia/Brunei	2015-02-13
+10098964	Brunei Hotel	Brunei Hotel		4.88881	114.94398	S	HTL	BN						0		9	Asia/Brunei	2015-02-13
+10100405	Lr Asma Hotel	Lr Asma Hotel		4.94424	114.84193	S	HTL	BN						0		10	Asia/Brunei	2015-02-14
+10110930	Abdul Razak Hotel Apartments Mb	Abdul Razak Hotel Apartments Mb		4.88522	114.93227	S	HTL	BN						0		34	Asia/Brunei	2015-02-22
+10112417	Tat Place Hotel And Cafa	Tat Place Hotel And Cafa		4.89028	114.94222	S	HTL	BN						0		9	Asia/Brunei	2015-02-22
+10113284	Grand City Hotel	Grand City Hotel		4.8397	114.86814	S	HTL	BN						0		5	Asia/Brunei	2015-02-23
+10113285	D'anggerek Hotel	D'anggerek Hotel		4.93725	114.94724	S	HTL	BN						0		13	Asia/Brunei	2015-02-23
+10113304	Palm Garden Hotel	Palm Garden Hotel		4.90283	114.92437	S	HTL	BN						0		15	Asia/Brunei	2015-02-23
+10114579	Raddison	Raddison		4.9431	114.9425	S	HTL	BN						0		9	Asia/Brunei	2015-02-24
+10115758	Le Gallery Suites Hotel Mb	Le Gallery Suites Hotel Mb		4.89497	114.94137	S	HTL	BN						0		13	Asia/Brunei	2015-02-24
+10122775	Radisson Hotel Brunei Darussalam	Radisson Hotel Brunei Darussalam		4.89471	114.94251	S	HTL	BN						0		17	Asia/Brunei	2015-02-27
+10128309	Riverview Hotel Bandar Seri Begawan	Riverview Hotel Bandar Seri Begawan		4.88154	114.89043	S	HTL	BN						0		22	Asia/Brunei	2015-03-06
+10170013	Terrace Hotel	Terrace Hotel		4.89537	114.94173	S	HTL	BN						0		13	Asia/Brunei	2015-03-10
+10170014	Empire Hotel & Country Club Brunei	Empire Hotel & Country Club Brunei		4.9499	114.85	S	HTL	BN						0		48	Asia/Brunei	2015-03-10
+10170015	The Rizqun International Hotel Brunei	The Rizqun International Hotel Brunei		4.90555	114.91683	S	HTL	BN						0		6	Asia/Brunei	2015-03-10
+10176755	The Empire Hotel & Country Clu	The Empire Hotel & Country Clu		4.9683	114.85339	S	HTL	BN						0		28	Asia/Brunei	2015-04-01
+10227901	Jubilee Hotel Brunei	Jubilee Hotel Brunei		4.89175	114.94693	S	HTL	BN						0		16	Asia/Brunei	2015-04-17
+10229886	Legallery Suites Hotel	Legallery Suites Hotel		4.89028	114.94222	S	HTL	BN						0		9	Asia/Brunei	2015-04-21
+10338148	Badiaah Hotel	Badiaah Hotel		4.89089	114.93166	S	HTL	BN						0		32	Asia/Brunei	2015-06-10
+10338610	Seaview Hotel	Seaview Hotel		4.89028	114.94222	S	HTL	BN						0		9	Asia/Brunei	2015-06-10
+10339166	The Empire Hotel and Golf Club	The Empire Hotel and Golf Club		4.9683	114.85339	S	HTL	BN						0		28	Asia/Brunei	2015-06-11
+10630196	Kiudang	Kiudang		4.66667	114.7	A	ADM2	BN		04	10630196			0		38	Asia/Brunei	2015-09-13
+11593776	Sekolah Chung Hwa Tutong	Sekolah Chung Hwa Tutong		4.80397	114.65474	S	SCH	BN		04				0		10	Asia/Brunei	2017-06-26
+11593787	Universiti Brunei Darussalam Library	Universiti Brunei Darussalam Library		4.97394	114.89469	S	LIBR	BN		02				0		37	Asia/Brunei	2017-06-26
+11593789	Sekolah Chung Hwa Kiudang	Sekolah Chung Hwa Kiudang		4.73588	114.73508	S	SCH	BN		04				0		12	Asia/Brunei	2017-06-26
+11593808	Brunei Polytechnic	Brunei Polytechnic		4.9048	114.93303	S	SCH	BN		02				0		22	Asia/Brunei	2017-06-26
+11593809	Brunei Sports School	Brunei Sports School		4.92995	114.95432	S	SCH	BN		02				0		41	Asia/Brunei	2017-06-26
+11593813	Mukim Bangar	Mukim Bangar		4.71424	115.05621	A	ADM3	BN		03		11593813		0		14	Asia/Brunei	2017-06-26
+11593819	Universiti Brunei Darussalam	Universiti Brunei Darussalam		4.97272	114.89387	S	UNIV	BN		02				0		39	Asia/Brunei	2017-06-26
+11593829	Chung Hwa Middle School	Chung Hwa Middle School		4.8952	114.9446	S	SCH	BN		02				0		21	Asia/Brunei	2017-06-26
+11594069	Pai Yuek School	Pai Yuek School		4.70652	115.07002	S	SCH	BN		03				0		7	Asia/Brunei	2017-06-28
+11611006	Universiti Teknologi Brunei	Universiti Teknologi Brunei		4.97726	114.89914	S	UNIV	BN		02				0		32	Asia/Brunei	2017-07-20
+11791883	Masin	Masin	Kampong Masin,Kampung Masin,Kg. Masin	4.8375	114.84472	P	PPL	BN		02				0		1	Asia/Brunei	2018-01-12
+11792070	Kampong Masin Mosque	Kampong Masin Mosque	Kampung Masin Mosque,Masjid Kampong Masin,Masjid Kampung Masin	4.82957	114.84531	S	MSQE	BN		02				0		1	Asia/Brunei	2018-01-12
+11807072	Pehin Khatib Abdullah Mosque	Pehin Khatib Abdullah Mosque	Kampong Kulapis Mosque,Kampung Kulapis Mosque,Kg. Kulapis Mosque,Kulapis Mosque,Masjid Kampong Kulapis,Masjid Kampung Kulapis,Masjid Kg. Kulapis,Masjid Kulapis,Masjid Pehin Khatib Abdullah	4.85164	114.82323	S	MSQE	BN		02				0		1	Asia/Brunei	2018-01-12
+11807073	Kulapis	Kulapis	Kampong Kulapis,Kampung Kulapis,Kg. Kulapis	4.85045	114.82322	P	PPL	BN		02				0		1	Asia/Brunei	2018-01-12
+11821300	Gadong A	Gadong A	Mukim Gadong A	4.94579	114.89401	A	ADM2	BN		02	11821300			0		1	Asia/Brunei	2018-02-27
+11821301	Gadong B	Gadong B	Mukim Gadong B	4.92054	114.91091	A	ADM2	BN		02	11821301			0		1	Asia/Brunei	2018-02-27
+11821302	Berakas A	Berakas A		4.97032	114.92989	A	ADM2	BN		02	11821302			31000		1	Asia/Brunei	2018-02-27
+11821303	Berakas B	Berakas B		4.95972	114.95748	A	ADM2	BN		02	11821303			0		1	Asia/Brunei	2018-02-27
+11821304	Serasa	Serasa	Mukim Serasa	5.01718	115.05841	A	ADM2	BN		02	11821304			16000		1	Asia/Brunei	2018-02-27
+11821305	Mentiri	Mentiri	Mukim Mentiri	4.97477	115.00211	A	ADM2	BN		02	11821305			0		1	Asia/Brunei	2018-02-27
+11821306	Kota Batu	Kota Batu	Mukim Kota Batu	4.88874	114.96898	A	ADM2	BN		02	11821306			0		1	Asia/Brunei	2018-02-27
+11821307	Lumapas	Lumapas	Mukim Lumapas	4.8253	114.9113	A	ADM2	BN		02	11821307			0		1	Asia/Brunei	2018-07-14
+11821309	Sengkurong	Sengkurong	Mukim Sengkurong	4.92399	114.83577	A	ADM2	BN		02	11821309			0		72	Asia/Brunei	2018-02-27
+11821310	Pengkalan Batu	Pengkalan Batu	Mukim Pengkalan Batu	4.84634	114.84761	A	ADM2	BN		02	11821310			0		1	Asia/Brunei	2018-02-27
+11821313	Kianggeh	Kianggeh	Mukim Kianggeh	4.89945	114.94382	A	ADM2	BN		02	11821313			0		1	Asia/Brunei	2018-02-27
+11821315	Tamoi	Tamoi	Mukim Tamoi	4.87572	114.91559	A	ADM2	BN		02	11821315			0		5	Asia/Brunei	2018-08-09
+11821317	Burong Pingai Ayer	Burong Pingai Ayer	Mukim Burong Pingai Ayer	4.87142	114.91662	A	ADM2	BN		02	11821317			0		1	Asia/Brunei	2018-02-27
+11821318	Peramu	Peramu	Mukim Peramu	4.87209	114.9222	A	ADM2	BN		02	11821318			0		1	Asia/Brunei	2018-02-27
+11821319	Saba	Saba	Mukim Saba	4.87487	114.92572	A	ADM2	BN		02	11821319			0		1	Asia/Brunei	2018-02-27
+11821320	Sungai Kedayan	Sungai Kedayan	Mukim Sungai Kedayan	4.87945	114.9198	A	ADM2	BN		02	11821320			0		1	Asia/Brunei	2018-02-27
+11821322	Sungai Kebun	Sungai Kebun	Mukim Sungai Kebun	4.86816	114.92375	A	ADM2	BN		02	11821322			0		1	Asia/Brunei	2018-02-27
+11837501	Pulau Muara Besar Bridge	Pulau Muara Besar Bridge	Jambatan Pulau Muara Besar	5.00498	115.07554	S	BDG	BN		02	11821304			0		1	Asia/Brunei	2018-03-19
+11952630	Bukit Salat	Bukit Salat		4.89015	114.93675	P	PPLH	BN		02	11821320			0		1	Asia/Brunei	2018-09-28
+11952640	Kuala Peminyak	Kuala Peminyak		4.88509	114.93934	P	PPLH	BN		02	11821320			0		1	Asia/Brunei	2018-09-28
+11952645	Pemancha Lama	Pemancha Lama		4.88562	114.93996	P	PPLH	BN		02	11821320			0		1	Asia/Brunei	2018-09-28

@@ -1,0 +1,234 @@
+3573360	Windward Point Bay	Windward Point Bay		18.27035	-62.9667	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573361	Windward Point	Windward Point		18.27547	-62.96621	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573362	White Hill	White Hill		18.25327	-62.99573	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573363	West Point	West Point		18.27716	-62.96029	T	PT	AI		00				0		4	America/Anguilla	2017-01-29
+3573364	West End Village	West End Village		18.17191	-63.14941	P	PPLA	AI		11205437				0		23	America/Anguilla	2016-07-31
+3573365	West End Salt Pond	West End Salt Pond	West End Pond,West End Salt Pond	18.16697	-63.15673	H	PNDN	AI		00				0		1	America/Anguilla	2018-06-08
+3573366	West End Bay	West End Bay		18.17185	-63.15675	H	COVE	AI		00				0		1	America/Anguilla	2018-06-08
+3573367	West Cay	West Cay		18.2773	-63.27498	T	ISL	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573368	Welches Hill	Welches Hill	Welches,Welches Hill	18.2446	-63.01217	P	PPL	AI	AI	00				0		21	America/Anguilla	2016-07-31
+3573369	Wattices	Wattices		18.22674	-63.03368	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573370	Warner Point	Warner Point		18.58333	-63.41667	T	PT	AI		00				0		-9999	America/Anguilla	1993-12-22
+3573371	Clayton J. Lloyd International Airport	Clayton J. Lloyd International Airport	AXA,Aeroport de Wallblake,Aeroport international Clayton J. Lloyd,Aeroporto di The Valley-Wallblake,Angilijos Wallblake oro uostas,Anguilla Wallblake Airport,Aéroport de Wallblake,Aéroport international Clayton J. Lloyd,Clayton J. Lloyd International Airport,TQPF,Wallblake Airport	18.20483	-63.05508	S	AIRP	AI	AI	00				0	38	33	America/Anguilla	2013-03-31
+3573372	Upper Shoal Bay	Upper Shoal Bay		18.25581	-63.02331	H	BAY	AI		00				0		1	America/Anguilla	2018-06-08
+3573373	Upper Maunday’s Point	Upper Maunday's Point	Maunday's Point,Maunday’s Point,Upper Maunday's Point,Upper Maunday’s Point	18.16186	-63.14182	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573374	The Valley	The Valley	De Balei,El Valle,La-Valo,The Valley,Vali,Valis,Valley,Valli,bare,d wly,deobaelli,dy wyly,hwwʼly,ti velli,vali,wa li,Δε Βάλεϊ,Вали,Валли,Валлі,Валі,הוואלי,د ولی,دی ویلی,தி வேல்லி,เดอะแวลลีย์,ვალი,バレー,瓦利,더밸리	18.21704	-63.05783	P	PPLC	AI		11205396				2035	7	19	America/Anguilla	2019-09-05
+3573375	The Quarter	The Quarter	The Quarter	18.20799	-63.04178	P	PPLA	AI		11205439				0		40	America/Anguilla	2016-07-31
+3573376	The Fountain	The Fountain		18.249	-63.03121	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573377	The Forest	The Forest	The Forest	18.20039	-63.04521	P	PPLL	AI		00				0		-9999	America/Anguilla	2018-07-04
+3573378	Farrington	Farrington	The Farrington	18.215	-63.02238	P	PPLA	AI		11205444				0		19	America/Anguilla	2016-07-31
+3573379	The Copse	The Copse		18.23347	-62.99681	P	PPL	AI		00				0		16	America/Anguilla	2016-07-31
+3573380	Stoney Ground	Stoney Ground	Stoney Ground	18.22026	-63.04607	P	PPLA	AI		11205443				0		26	America/Anguilla	2016-07-31
+3573381	Stoney Cove	Stoney Cove		18.29245	-62.94955	H	COVE	AI		00				0		1	America/Anguilla	2018-06-08
+3573382	Stoney Bay	Stoney Bay		18.27366	-63.24881	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573383	Spring Bay	Spring Bay		18.28155	-63.26003	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573384	South Wager	South Wager		18.17178	-63.16255	T	ISL	AI		00				0		1	America/Anguilla	2017-01-29
+3573385	South Hill Village	South Hill Village		18.19201	-63.08779	P	PPLA	AI		11205438				0		40	America/Anguilla	2016-07-31
+3573386	Souse Bay	Souse Bay		18.28301	-62.94638	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573387	Sombrero	Sombrero	Hat Island,Sombrero,Sombrero Island	18.58996	-63.42579	T	ISL	AI	AI	00				0		10	America/Anguilla	2014-04-06
+3573388	Snake Point	Snake Point		18.27516	-62.96977	T	PT	AI		00				0		6	America/Anguilla	2017-01-29
+3573389	Sile Bay	Sile Bay		18.23719	-62.98403	H	BAY	AI		00				0		1	America/Anguilla	2018-06-08
+3573390	Shoal Bay Village	Shoal Bay Village	Shoal Bay Village,Shoal Village	18.25385	-63.02886	P	PPL	AI	AI	00				0		12	America/Anguilla	2016-07-31
+3573391	Shoal Bay	Shoal Bay		18.16332	-63.15709	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573392	Sherricks High Point	Sherricks High Point		18.16247	-63.16129	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573393	Sherricks Bay	Sherricks Bay		18.16201	-63.16377	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573394	Shaddick Point	Shaddick Point	Lovers Point,Shaddick Point	18.16771	-63.10397	T	PT	AI	AI	00				0		2	America/Anguilla	2017-01-28
+3573395	Seal Rocks	Seal Rocks		18.27162	-63.14589	T	RKS	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573396	Seal Island	Seal Island	Seal Island,Seal Islands,Seal Islets	18.26844	-63.14868	T	ISL	AI	AI	00				0		3	America/Anguilla	2017-01-29
+3573397	Sea Feather Bay	Sea Feather Bay		18.22165	-62.99449	H	COVE	AI		00				0		-9999	America/Anguilla	2016-07-31
+3573398	Scrub Island	Scrub Island	Scrub Island,Scrub Islet	18.29048	-62.94222	T	ISL	AI	AI	00				0		7	America/Anguilla	2016-07-31
+3573399	Scrub Island	Scrub Island		18.28824	-62.94539	S	AIRQ	AI		00				0		13	America/Anguilla	2016-07-31
+3573400	Scrub Bay	Scrub Bay		18.28339	-62.95981	H	BAY	AI		00				0		-9999	America/Anguilla	2016-07-31
+3573401	Scilly Cay	Scilly Cay		18.26027	-63.00204	T	ISL	AI		00				0		1	America/Anguilla	2010-04-02
+3573402	Savannah Bay	Savannah Bay		18.2819	-63.24446	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573403	Savannah Bay	Savannah Bay		18.24816	-62.98568	H	BAY	AI		00				0		1	America/Anguilla	2018-06-08
+3573404	Sandy Point	Sandy Point		18.16953	-63.09647	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573405	Sandy Island	Sandy Island	Sand Island,Sandy Island	18.21235	-63.11843	T	ISL	AI	AI	00				0		-9999	America/Anguilla	2013-09-27
+3573406	Sandy Hill Bay	Sandy Hill Bay	Sandy Hill Bay	18.21741	-63.00784	H	BAY	AI		00				0		-9999	America/Anguilla	2016-07-31
+3573407	Sandy Ground Village	Sandy Ground Village	Sandy Ground Village	18.20118	-63.08998	P	PPLA	AI		11205392				274		4	America/Anguilla	2019-02-27
+3573408	Round Rock Bay	Round Rock Bay		18.17451	-63.08143	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573409	Road Salt Pond	Road Salt Pond	Road Salt Pond,Salt Pond	18.20134	-63.08665	H	PNDN	AI		00				0		1	America/Anguilla	2018-06-08
+3573410	Road Point	Road Point		18.20391	-63.09443	T	PT	AI		00				0		1	America/Anguilla	2018-06-08
+3573411	Road Bay	Road Bay		18.1991	-63.09297	H	BAY	AI		00				0		1	America/Anguilla	2018-06-08
+3573412	Rey Hill	Rey Hill		18.20834	-63.04353	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573413	Rendezvous Bay Salt Pond	Rendezvous Bay Salt Pond	Rendezvous Bay Salt Pond,Rendezvous Pond,Rendezvous Salt Pond	18.17794	-63.1076	H	PNDN	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573414	Rendezvous Bay	Rendezvous Bay		18.17324	-63.11013	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573415	Prickly Pear Cays	Prickly Pear Cays	Prickley Pear Cays,Prickly Pear Cays	18.26594	-63.18029	T	ISLS	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573416	Pelican Bay	Pelican Bay		18.17156	-63.08229	H	COVE	AI		00				0		-9999	America/Anguilla	2016-08-07
+3573417	North Wager	North Wager		18.25858	-63.15594	T	RK	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573418	North Side	North Side	North Side	18.22919	-63.04401	P	PPLA	AI		11205440				0		37	America/Anguilla	2016-07-31
+3573419	North Shannon Hill	North Shannon Hill	North Shannon Hill,Shannon Hill	18.20635	-63.08726	T	HLL	AI		00				0		1	America/Anguilla	2018-06-08
+3573420	North Hill Village	North Hill Village		18.20542	-63.07847	P	PPLA	AI		11205436				0		36	America/Anguilla	2016-07-31
+3573421	Mount Fortune	Mount Fortune		18.24301	-62.99552	P	PPL	AI		00				0		5	America/Anguilla	2016-07-30
+3573422	Mimi Bay	Mimi Bay		18.22756	-62.98827	H	BAY	AI		00				0		-9999	America/Anguilla	2016-07-31
+3573423	Mid Cay	Mid Cay		18.28685	-63.26098	T	ISL	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573424	Merrywing Pond	Merrywing Pond		18.17032	-63.12792	H	PNDN	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573425	Merrywing Bay	Merrywing Bay		18.16942	-63.12554	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573426	Mead’s Bay Pond	Mead's Bay Pond		18.18262	-63.13406	H	PND	AI		00				0		1	America/Anguilla	2018-06-08
+3573427	Mead’s Bay	Mead's Bay		18.18451	-63.13851	H	BAY	AI		00				0		1	America/Anguilla	2012-05-02
+3573428	Mead Point	Mead Point		18.1885	-63.13468	T	PT	AI		00				0		1	America/Anguilla	2018-06-08
+3573429	Maunday’s Bay	Maunday's Bay		18.16135	-63.14504	H	BAY	AI		00				0		-9999	America/Anguilla	2012-07-25
+3573430	Mahogany Tree	Mahogany Tree		18.21489	-63.04707	P	PPLL	AI		00				0		1	America/Anguilla	2018-06-08
+3573431	Lower West End Point	Lower West End Point		18.16033	-63.17231	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573432	Lower South Hill	Lower South Hill		18.19209	-63.10206	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573433	Lower Shoal Bay	Lower Shoal Bay	Lower Shoal Bay,Shoal Bay	18.25497	-63.03298	H	BGHT	AI		00				0		1	America/Anguilla	2018-06-08
+3573434	Lower Maunday’s Point	Lower Maunday's Point		18.1612	-63.15009	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573435	Long Salt Pond	Long Salt Pond	Long Pond,Long Salt Pond	18.21186	-63.02281	H	PND	AI	AI	00				0		0	America/Anguilla	2016-07-31
+3573436	Long Rock	Long Rock		18.16183	-63.1531	T	RK	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573437	Long Pond Bay	Long Pond Bay		18.21489	-63.01256	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573438	Long Path	Long Path		18.21484	-63.0245	P	PPL	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573439	Long Ground	Long Ground		18.20225	-63.0598	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573440	Long Bay Village	Long Bay Village		18.1876	-63.12879	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573441	Long Bay Pond	Long Bay Pond		18.19081	-63.12626	H	PNDN	AI		00				0		1	America/Anguilla	2018-06-08
+3573442	Long Bay	Long Bay		18.18379	-63.12665	P	PPLL	AI		00				0		1	America/Anguilla	2018-06-08
+3573443	Long Bay	Long Bay		18.19446	-63.12658	H	BAY	AI		00				0		1	America/Anguilla	2012-05-02
+3573444	Little Scrub Island	Little Scrub Island	Little Scrub Island,Little Scrub Islet	18.29753	-62.95565	T	ISL	AI	AI	00				0		11	America/Anguilla	2017-01-29
+3573445	Little Island	Little Island		18.23886	-62.98032	T	ISL	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573446	Little Harbour	Little Harbour		18.1866	-63.06907	H	HBR	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573447	Little Dix	Little Dix	Little Dicks,Little Dix	18.23261	-63.03779	P	PPL	AI	AI	00				0		38	America/Anguilla	2016-07-31
+3573448	Little Bay	Little Bay		18.22854	-63.07114	H	COVE	AI		00				0		-9999	America/Anguilla	2016-07-31
+3573449	Little Bay	Little Bay		18.24436	-62.9833	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573450	Little Bay	Little Bay		18.17467	-63.10525	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573451	Limestone Bay	Limestone Bay		18.23498	-63.07191	H	BAY	AI		00				0		-9999	America/Anguilla	2016-07-31
+3573452	Katouche Bay	Katouche Bay	Katouche Bay,Latouche Bay	18.21259	-63.07693	H	BAY	AI		00				0		1	America/Anguilla	2018-06-08
+3573453	Junks Hole Bay	Junks Hole Bay		18.25397	-62.97878	H	BAY	AI		00				0		-9999	America/Anguilla	2016-07-31
+3573454	Junks Hole	Junks Hole		18.25198	-62.98923	P	PPLL	AI		00				0		1	America/Anguilla	2018-06-08
+3573455	Island Head	Island Head		18.26667	-63	T	PT	AI		00				0		-9999	America/Anguilla	1993-12-22
+3573456	Island Harbour	Island Harbour		18.25601	-63.0102	P	PPLA	AI		11205441				0		11	America/Anguilla	2016-07-31
+3573457	Island Harbour	Island Harbour		18.25709	-63.00329	H	HBR	AI		00				0		1	America/Anguilla	2010-04-02
+3573458	High Cliff	High Cliff		18.21329	-63.01287	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573459	Gull Pond	Gull Pond	Gull Pond,Maunday's Bay Pond,Maunday’s Bay Pond	18.16316	-63.15092	H	PNDN	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573460	Grey Pond	Grey Pond	Grey Pond	18.24274	-62.98704	H	PND	AI		00				0		1	America/Anguilla	2018-06-08
+3573461	Great Bay	Great Bay		18.27269	-63.25376	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573462	Graften’s Point	Graften's Point		18.28959	-62.92728	T	PT	AI		00				0		2	America/Anguilla	2017-01-28
+3573463	Goat Cave	Goat Cave		18.26489	-62.97008	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573464	Gibbons Point	Gibbons Point		18.17585	-63.07769	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573465	Gibbon Point	Gibbon Point		18.24343	-62.9811	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573466	George Hill	George Hill	George Hill	18.19939	-63.0665	P	PPLA	AI		11205442				0		30	America/Anguilla	2016-07-31
+3573467	Forest Point	Forest Point		18.19901	-63.03614	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573468	Forest Bay	Forest Bay		18.19684	-63.04601	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573469	Flirt Rocks	Flirt Rocks	Flirt Rocks	18.27652	-63.18034	T	RK	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573470	Flat Cap Point	Flat Cap Point		18.23217	-63.07293	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573471	Elsie Bay	Elsie Bay		18.18845	-63.06391	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573472	Ebenezer	Ebenezer		18.21667	-63.06667	P	PPL	AI		00				0		71	America/Anguilla	1993-12-22
+3573473	East End Village	East End Village	East End,East End Village	18.23333	-63	P	PPLA	AI		11205433				0		6	America/Anguilla	2016-07-31
+3573474	East Cay	East Cay		18.28498	-63.2365	T	ISL	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573475	Dowling Shoal	Dowling Shoal	Dowling,Dowling Shoal,Dowlings Shoal	18.21667	-63.13333	H	SHOL	AI	AI	00				0		-9999	America/Anguilla	2012-01-18
+3573476	Dog Island	Dog Island	Dog Island,Dog Islet	18.27732	-63.25344	T	ISL	AI	AI	00				0		7	America/Anguilla	2017-01-29
+3573477	Deep Waters	Deep Waters		18.23501	-63.02601	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573478	Deadman’s Cay	Deadman's Cay		18.29456	-62.92963	T	ISL	AI		00				0		2	America/Anguilla	2017-01-29
+3573479	Deadman’s Bay	Deadman's Bay		18.29328	-62.93413	H	COVE	AI		00				0		1	America/Anguilla	2018-06-08
+3573480	Crocus Hill	Crocus Hill	Crocus Hill,Saint Mary's,Saint Mary’s	18.2172	-63.06393	P	PPL	AI	AI	00				0		61	America/Anguilla	2016-07-31
+3573481	Crocus Bay	Crocus Bay		18.22008	-63.06907	H	BAY	AI		00				0		1	America/Anguilla	2018-06-08
+3573482	Cove Pond	Cove Pond	Cove Pond	18.1713	-63.13696	H	PNDN	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573483	Cove Bay	Cove Bay		18.16907	-63.13239	H	BAY	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573484	Corito Bay	Corito Bay		18.19099	-63.05212	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573485	Coral Point	Coral Point		18.28757	-62.95809	T	PT	AI		00				0		1	America/Anguilla	2018-06-08
+3573486	Conkpool Bay	Conkpool Bay		18.2	-63.03333	H	BAY	AI		00				0		-9999	America/Anguilla	1993-12-22
+3573487	Chalvilles	Chalvilles		18.2348	-63.015	P	PPLL	AI		00				0		1	America/Anguilla	2018-06-08
+3573488	Cauls Pond	Cauls Pond	Cauls Pond	18.22389	-63.02425	H	PND	AI		00				0		1	America/Anguilla	2016-07-31
+3573489	Cauls Bottom	Cauls Bottom		18.22165	-63.04215	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573490	Captains Bay	Captains Bay		18.26306	-62.98162	H	BAY	AI		00				0		-9999	America/Anguilla	2010-04-02
+3573491	Cannifist	Cannifist		18.23363	-63.01965	P	PPL	AI		00				0		1	America/Anguilla	2018-06-08
+3573492	Burrowes Park	Burrowes Park		18.2	-63.05	L	PRK	AI		00				0		19	America/Anguilla	1993-12-22
+3573493	Buntin Hill	Buntin Hill		18.2029	-63.07903	T	HLL	AI		00				0		39	America/Anguilla	2017-01-28
+3573494	Bungalows	Bungalows		18.18483	-63.10103	P	PPLL	AI		00				0		1	America/Anguilla	2018-06-08
+3573495	Blowing Rock	Blowing Rock		18.1503	-63.16167	T	RK	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573496	Blowing Point Village	Blowing Point Village	Blowing Point Village	18.17648	-63.09375	P	PPLA	AI		11205389				942		10	America/Anguilla	2016-08-07
+3573497	Blowing Point Harbour	Blowing Point Harbour		18.17058	-63.09297	H	HBR	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573498	Blowing Point	Blowing Point		18.17086	-63.08947	T	PT	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573500	Blolly Ham Bay	Blolly Ham Bay		18.16896	-63.16405	H	BAY	AI		00				0		1	America/Anguilla	2018-06-08
+3573501	Blackgarden Bay	Blackgarden Bay		18.23723	-63.06656	H	COVE	AI		00				0		1	America/Anguilla	2018-06-08
+3573502	Betty Hill	Betty Hill		18.22574	-63.0043	P	PPLL	AI		00				0		25	America/Anguilla	2016-07-31
+3573503	Bethel	Bethel		18.2	-63.1	P	PPL	AI		00				0		1	America/Anguilla	1993-12-22
+3573504	Benzies Bay	Benzies Bay	Bendig Bay,Benzies Bay	18.2097	-63.08556	H	COVE	AI		00				0		1	America/Anguilla	2018-06-08
+3573505	Bay Rock	Bay Rock		18.27085	-63.25612	T	RK	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573506	Barnes Bay	Barnes Bay		18.17652	-63.15173	H	BAY	AI		00				0		1	America/Anguilla	2012-05-02
+3573507	Bailey’s Cove	Bailey's Cove		18.27581	-63.26089	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573508	Bad Cox Pond	Bad Cox Pond	Bad Cox Pond,Badcocks Pond	18.2375	-63.02676	H	PND	AI		00				0		1	America/Anguilla	2018-06-08
+3573509	Auntie Dol Bay	Auntie Dol Bay		18.2031	-63.03399	H	COVE	AI		00				0		-9999	America/Anguilla	2018-06-08
+3573510	Anguillita Island	Anguillita Island		18.15715	-63.17632	T	ISL	AI		00				0		3	America/Anguilla	2017-01-29
+3573511	Anguilla	Anguilla	An'nkouila,Angil'ja,Angila,Angilija,Angilja,Angiya,Angiye,Angiyɛ,Anguila,Anguilla,Anguilla nutome,Angvila,Angvilla,Angvilo,Angwila,Angwilla,Angûîla,Anikuila,Anngiyaa,Anquila,Orileede Aangulila,Orílẹ́ède Ààngúlílà,aeng-gwilla,amgvila,an gui la,angavilla,anghwyla,angilla,angira,angu'ila,angu'illa,anguyilla,angvila,angwyyla,angyl,ankuyla,engu'ila,engvila,i-Anguilla,Ανγκουίλα,Ангвила,Ангилья,Ангуила,Ангуілля,Ангілья,אנגילה,آنگیل,أنغويلا,انگوئیلا,अँग्विला,आङ्गुइला,एंगुइला,এ্যাঙ্গুইলা,ઍંગ્વિલા,ଆଙ୍ଗୁଇଲ୍ଲା,அங்குய்லா,ఆంగవిల్లా,ಆಂಗುಯಿಲ್ಲಾ,ആന്‍ഗ്വില്ല,ඇන්ගුයිලාව,แองกวิลลา,ອັນກິລາ,ཨང་གུའི་ལ།,အန်ကွီလာ,ანგვილა,አንጉኢላ,アンギラ,安圭拉,안길라,앵귈라	18.21667	-63.05	A	PCLD	AI		00				13254		19	America/Anguilla	2017-11-05
+3573512	Anguilla	Anguilla	AXA,An'nkouila,Angil'ja,Angila,Angilija,Angiļa,Anguila,Anguila - Anguilla,Anguilla,Angvila,Angvilla,Angvilo,Angwilla,aeng-gwilla,an gui la,angira,Ανγκουίλα,Ангвила,Ангилья,Ангиља,Ангілья,Анґілья,אנגווילה,แองกวิลลา,アンギラ,安圭拉,앵귈라	18.21534	-63.04875	T	ISL	AI		00				13500		1	America/Anguilla	2018-06-08
+3573513	Anegada Passage	Anegada Passage	Anegada Passage	18.5	-63.66667	H	CHNM	AI		00				0		-9999	America/Anguilla	2012-01-18
+6464447	Arawak Beach Inn	Arawak Beach Inn		18.2701	-63.011	S	HTL	AI						0		-9999	America/Anguilla	2007-04-13
+6476262	Anguilla Great House	Anguilla Great House		18.1989	-63.0687	S	HTL	AI						0		28	America/Anguilla	2007-04-13
+6491273	Frangipani Resort	Frangipani Resort		18.1796	-63.1393	S	HTL	AI						0		6	America/Anguilla	2007-04-15
+6498213	CuisinArt Resort & Spa	CuisinArt Resort & Spa		18.1973	-63.0771	S	HTL	AI						0		53	America/Anguilla	2007-04-14
+6498455	Rendezvous Bay Hotel	Rendezvous Bay Hotel		18.20355	-63.0553	S	HTL	AI						0		34	America/Anguilla	2013-03-31
+6503489	Carimar Beach Club	Carimar Beach Club		18.2038	-63.1047	S	HTL	AI						0		1	America/Anguilla	2007-04-14
+6510744	Cuisinart Resort And Spa	CUISINART RESORT AND SPA		18.2	-63.0667	S	HTL	AI						0		36	America/Anguilla	2007-04-13
+6511674	Cap Juluca	CAP JULUCA		18.16461	-63.14701	S	HTL	AI						0		7	America/Anguilla	2008-01-30
+6516543	Ku Hotel	KU HOTEL		18.2	-63.0667	S	HTL	AI						0		36	America/Anguilla	2007-04-12
+6517062	La Sirena Hotel	LA SIRENA HOTEL		18.2	-63.0667	S	HTL	AI						0		36	America/Anguilla	2007-04-12
+6528934	Malliouhana Hotel And Spa	MALLIOUHANA HOTEL AND SPA		18.2	-63.0667	S	HTL	AI						0		36	America/Anguilla	2007-04-14
+6532625	Shoal Bay Villas	SHOAL BAY VILLAS		18.2	-63.0667	S	HTL	AI						0		36	America/Anguilla	2007-04-14
+6532705	Covecastles	COVECASTLES		18.2	-63.0667	S	HTL	AI						0		36	America/Anguilla	2007-04-14
+6943135	Paradise Cove Resort	PARADISE COVE RESORT		18.17059	-63.13149	S	HTL	AI						0		6	America/Anguilla	2009-07-08
+10105465	Anacaona Boutique Hotel	Anacaona Boutique Hotel		18.17715	-63.14218	S	HTL	AI						0		18	America/Anguilla	2015-02-19
+10115346	Viceroy Anguilla Resort & Residence	Viceroy Anguilla Resort & Residence		18.17883	-63.14507	S	HTL	AI						0		9	America/Anguilla	2015-02-24
+10280549	Estate Hope Art Studio	Estate Hope Art Studio		18.21814	-63.06577	S	MUS	AI						0		56	America/Anguilla	2015-05-17
+10280550	Crocus Bay Beach	Crocus Bay Beach		18.21986	-63.06717	T	BCH	AI						0		1	America/Anguilla	2015-05-17
+10280551	Ruthwill Auditorium	Ruthwill Auditorium		18.21333	-63.05255	S	CTRCM	AI						0		25	America/Anguilla	2015-05-17
+10280552	Ronald Webster Park	Ronald Webster Park		18.21763	-63.05063	S	ATHF	AI						0		17	America/Anguilla	2015-05-17
+10280553	Heritage Museum Collection	Heritage Museum Collection		18.23232	-62.99463	S	MUS	AI						0		17	America/Anguilla	2015-05-17
+10284665	Frangipani Beach Resort	Frangipani Beach Resort		18.17967	-63.13952	S	HTL	AI						0		6	America/Anguilla	2015-05-22
+10284677	Allamanda Beach Club	Allamanda Beach Club		18.25471	-63.0261	S	HTL	AI						0		7	America/Anguilla	2015-05-22
+10285122	Sheriva Luxury Villas and Suites	Sheriva Luxury Villas and Suites		18.17004	-63.1423	S	HTL	AI						0		13	America/Anguilla	2015-05-22
+10285169	Tortue Villa	Tortue Villa		18.25104	-63.04012	S	HTL	AI						0		11	America/Anguilla	2015-05-22
+11205389	Blowing Point	Blowing Point		18.177	-63.09161	A	ADM1	AI		11205389				942		7	America/Anguilla	2019-07-26
+11205392	Sandy Ground	Sandy Ground		18.20399	-63.08993	A	ADM1	AI		11205392				274		5	America/Anguilla	2019-07-26
+11205393	Sandy Hill	Sandy Hill		18.22066	-63.01178	A	ADM1	AI		11205393				1018		16	America/Anguilla	2019-07-26
+11205396	The Valley	The Valley		18.21475	-63.05706	A	ADM1	AI		11205396				1067		22	America/Anguilla	2019-07-26
+11205433	East End	East End		18.234	-62.99728	A	ADM1	AI		11205433				701		8	America/Anguilla	2016-07-31
+11205436	North Hill	North Hill		18.20603	-63.07607	A	ADM1	AI		11205436				526		53	America/Anguilla	2016-07-31
+11205437	West End	West End		18.17138	-63.15113	A	ADM1	AI		11205437				1015		21	America/Anguilla	2016-07-31
+11205438	South Hill	South Hill		18.19177	-63.0898	A	ADM1	AI		11205438				1495		39	America/Anguilla	2016-07-31
+11205439	The Quarter	The Quarter		18.21158	-63.04504	A	ADM1	AI		11205439				1737		26	America/Anguilla	2016-07-31
+11205440	North Side	North Side		18.22931	-63.0468	A	ADM1	AI		11205440				2592		41	America/Anguilla	2016-07-31
+11205441	Island Harbour	Island Harbour		18.25617	-63.00724	A	ADM1	AI		11205441				1114		8	America/Anguilla	2016-07-31
+11205442	George Hill	George Hill		18.19943	-63.06517	A	ADM1	AI		11205442				1135		23	America/Anguilla	2016-07-31
+11205443	Stoney Ground	Stoney Ground		18.22112	-63.04466	A	ADM1	AI		11205443				1545		27	America/Anguilla	2016-07-31
+11205444	The Farrington	The Farrington		18.21533	-63.02123	A	ADM1	AI		11205444				1200		20	America/Anguilla	2016-07-31
+11205445	Sandy Hill	Sandy Hill		18.22104	-63.01329	P	PPLA	AI		11205393				0		18	America/Anguilla	2016-07-31
+11881207	Captains Ridge	Captains Ridge		18.26168	-62.98919	P	PPL	AI		00				0		1	America/Anguilla	2018-06-11
+11881208	Navigation Hill	Navigation Hill		18.25598	-62.9933	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881209	Indian Bottom Hill	Indian Bottom Hill		18.23541	-62.99103	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881210	Sandy Hill	Sandy Hill		18.22404	-63.0104	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881211	Sandy Hill Roundabout	Sandy Hill Roundabout		18.22267	-63.01204	S	RDCR	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881212	Welches	Welches		18.23896	-63.01568	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881213	Island Harbour	Island Harbour		18.25166	-63.01499	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881214	Fountain Hill	Fountain Hill		18.24779	-63.03474	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881215	Long Pond	Long Pond		18.20892	-63.02806	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881216	Brimegin	Brimegin		18.23603	-63.04941	P	PPL	AI		00				0		1	America/Anguilla	2018-06-11
+11881217	North Side	North Side		18.23411	-63.04966	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881218	Cedar Village	Cedar Village		18.22734	-63.05911	P	PPL	AI		00				0		1	America/Anguilla	2018-06-11
+11881219	Princess Alexandria Hospital	Princess Alexandria Hospital		18.22025	-63.04813	S	HSP	AI		00				0		1	America/Anguilla	2018-06-11
+11881221	Roaches Hill	Roaches Hill		18.22335	-63.06291	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881222	Landsome Bowl Roundabout	Landsome Bowl Roundabout		18.21611	-63.05649	S	RDCR	AI		00				0		1	America/Anguilla	2018-06-11
+11881223	East Base	East Base		18.21981	-63.05065	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881224	Wallblake Roundabout	Wallblake Roundabout		18.20834	-63.05464	S	RDCR	AI		00				0		1	America/Anguilla	2018-06-11
+11881227	South Hill Roundabout	South Hill Roundabout		18.20093	-63.07596	S	RDCR	AI		00				0		1	America/Anguilla	2018-06-11
+11881228	Iguana Cave	Iguana Cave		18.21127	-63.06919	S	CAVE	AI		00				0		1	America/Anguilla	2018-06-11
+11881229	North Hill	North Hill		18.20636	-63.08708	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881231	Cul-de-Sac	Cul-de-Sac		18.17186	-63.10203	P	PPLL	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881232	Isaac’s Cliff	Isaac's Cliff		18.19164	-63.11635	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881236	Cove	Cove		18.16274	-63.14178	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881237	West End	West End		18.16405	-63.1677	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881238	Scrub West	Scrub West		18.27677	-62.95658	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881239	Scrub East	Scrub East		18.28752	-62.94663	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881240	Little Scrub Island	Little Scrub Island		18.29706	-62.95537	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881241	Prickly Pear West	Prickly Pear West		18.26832	-63.19061	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881242	Prickly Pear East	Prickly Pear East		18.26217	-63.17038	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881243	Prickly Pear North	Prickly Pear North		18.26907	-63.17482	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881244	Seal Island	Seal Island		18.26838	-63.14947	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881245	Sandy Cay	Sandy Cay		18.21245	-63.1181	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881246	Dog Island Northwest Ridge	Dog Island Northwest Ridge		18.28133	-63.25438	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881248	Dog Island	Dog Island		18.27872	-63.24967	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881249	Dog Island South Bay	Dog Island South Bay		18.27139	-63.25193	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881251	Lockrum	Lockrum		18.17616	-63.07941	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11
+11881252	Centre	Centre		18.19024	-63.08343	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881254	South Hill	South Hill		18.19773	-63.08197	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881255	Old Ta Reservoir	Old Ta Reservoir		18.20677	-63.06746	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881256	West Base	West Base		18.21078	-63.05407	S	TRIG	AI		00				0		1	America/Anguilla	2018-06-11
+11881258	Flat Cap	Flat Cap		18.23232	-63.07218	S	TRIG	AI		00				0		-9999	America/Anguilla	2018-06-11

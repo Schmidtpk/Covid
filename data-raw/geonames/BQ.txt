@@ -1,0 +1,462 @@
+3513072	Zeelandia Baai	Zeelandia Baai		17.5	-62.96667	H	COVE	BQ		SE				0		13	America/Kralendijk	2010-12-19
+3513078	Yatu Largu	Yatu Largu		12.1	-68.25	L	AREA	BQ		BO				0		5	America/Kralendijk	2010-12-19
+3513079	Yatu Baku	Yatu Baku		12.15	-68.25	S	EST	BQ		BO				0		17	America/Kralendijk	2010-12-19
+3513080	Witte Pan	Witte Pan		12.05	-68.28333	L	SALT	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513081	Withbaai	Withbaai		17.46667	-62.95	H	BAY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513083	Windward Side	Windward Side		17.62864	-63.23136	P	PPL	BQ		SB				442		403	America/Kralendijk	2010-12-19
+3513084	Fort de Windt	Fort de Windt	Fort de Windt,Old Fort	17.45	-62.95	S	FT	BQ		SE				0		-9999	America/Kralendijk	2010-12-19
+3513086	Wilton	Wilton		17.46667	-62.98333	P	PPLL	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513089	Willemstoren	Willemstoren		12.01667	-68.23333	S	LTHSE	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513092	Wiba Hole	Wiba Hole		17.61667	-63.21667	H	COVE	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513093	White Wall	White Wall	White Wall,Witte Wal	17.46667	-62.95	T	CLF	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513094	White Hook	White Hook		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513097	Westpunt	Westpunt		12.16667	-68.31667	T	PT	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513098	Well’s Gut	Well's Gut		17.63333	-63.25	H	STMI	BQ		SB				0		318	America/Kralendijk	2010-12-19
+3513099	Well’s Gut	Well's Gut		17.63333	-63.21667	H	STMI	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513100	Well’s Bay	Well's Bay	Well's Baai,Well's Bay,Well’s Baai,Well’s Bay	17.63333	-63.25	H	COVE	BQ		SB				0		318	America/Kralendijk	2010-12-19
+3513105	Wecua Punt	Wecua Punt	Punt'i Wecua,Punt’i Wecúa,Wecua Punt,Wekoewa Punt	12.21667	-68.4	T	PT	BQ		BO				0		43	America/Kralendijk	2010-12-19
+3513106	Ceru Wecúa	Ceru Wecua	Ceru Wecua,Ceru Wecúa,Wekoewa	12.23333	-68.4	T	HLL	BQ		BO				0		6	America/Kralendijk	2010-12-19
+3513111	Washington	Washington		12.3	-68.38333	S	EST	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513112	Boca Washikemba	Boca Washikemba		12.16667	-68.2	H	BAY	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513113	Washikemba	Washikemba		12.16667	-68.21667	L	LCTY	BQ		BO				0		9	America/Kralendijk	2010-12-19
+3513114	Wash Gut	Wash Gut		17.61667	-63.21667	H	STMI	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513115	Wash Gut	Wash Gut		17.50761	-62.98146	H	STMI	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513116	Wasao	Wasao		12.23333	-68.38333	T	HLL	BQ		BO				0		29	America/Kralendijk	2010-12-19
+3513117	Warahami Grandi	Warahami Grandi		12.11667	-68.25	L	AREA	BQ		BO				0		8	America/Kralendijk	2010-12-19
+3513118	Warahami Chiki	Warahami Chiki		12.11667	-68.25	L	AREA	BQ		BO				0		8	America/Kralendijk	2010-12-19
+3513119	Wanico	Wanico		12.2	-68.28333	T	HLL	BQ		BO				0		134	America/Kralendijk	2010-12-19
+3513121	Wanapa	Wanapa		12.11667	-68.23333	P	PPLL	BQ		BO				0		5	America/Kralendijk	2010-12-19
+3513122	Wamari	Wamari		12.16667	-68.21667	T	HLL	BQ		BO				0		9	America/Kralendijk	2010-12-19
+3513123	Walkers	Walkers		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513125	Saliña Wajaká	Salina Wajaka	Salina Wajaka,Salina Wayaka,Saliña Wajaká	12.26667	-68.4	L	SALT	BQ		BO				0		14	America/Kralendijk	2010-12-19
+3513126	Wajacá	Wajaca		12.26667	-68.4	H	RF	BQ		BO				0		14	America/Kralendijk	2010-12-19
+3513129	Vlijt	Vlijt		12.16667	-68.26667	P	PPLL	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513131	Punt Vierkant	Punt Vierkant	Punt Vierkant,Vierkant Point	12.11667	-68.28333	T	PT	BQ		BO				0		6	America/Kralendijk	2010-12-19
+3513134	Venus Baai	Venus Baai	Venicebaai,Venus Baai,Venus Bay	17.51724	-62.98745	H	COVE	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513135	Venus	Venus		17.51413	-62.9899	L	LCTY	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513142	Upper Town	Upper Town		17.46667	-62.98333	P	PPLX	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513143	Upper Round Hill	Upper Round Hill		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513145	Upper Lynch	Upper Lynch		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513146	Upper Hell's Gate	Upper Hell's Gate	Hellsgate	17.643	-63.22649	P	PPL	BQ		SB				2810		195	America/Kralendijk	2011-02-05
+3513148	Union	Union		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513149	Under the Hill	Under the Hill		17.61667	-63.25	L	LCTY	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513152	Rooi Tuna	Rooi Tuna	Rooi Toena,Rooi Tuna	12.2	-68.2	H	STMI	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513153	Tumble Down Dick Bay	Tumble Down Dick Bay	Baai van Tumble-Down-Dick,Tumble Down Dick Baai,Tumble Down Dick Bay	17.49858	-63.00114	H	COVE	BQ		SE				0		-9999	America/Kralendijk	2018-02-02
+3513154	Tumble Down Dick	Tumble Down Dick		17.48333	-62.98333	L	LCTY	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513155	Troy	Troy		17.63333	-63.23333	T	MT	BQ		SB				0		558	America/Kralendijk	2010-12-19
+3513157	Tres Krus	Tres Krus		12.18333	-68.25	L	LCTY	BQ		BO				0		44	America/Kralendijk	2010-12-19
+3513158	Tra’i Montaña	Tra'i Montana	Tra'i Montana,Traai Montagne,Traaï Montagne,Tran di Montagne,Tra’i Montaña	12.2	-68.26667	S	FRM	BQ		BO				0		52	America/Kralendijk	2010-12-19
+3513159	Torrens Point	Torrens Point	Torrens Point,Torrens Punt	17.65	-63.25	T	PT	BQ		SB				0		1	America/Kralendijk	2010-12-19
+3513160	Torrens Bay	Torrens Bay	Torrens Baai,Torrens Bay	17.63333	-63.25	H	COVE	BQ		SB				0		318	America/Kralendijk	2010-12-19
+3513161	Tom’s Gut	Tom's Gut		17.6	-63.23333	H	STMI	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513162	Tom Ball	Tom Ball		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513163	Tólo	Tolo		12.21667	-68.31667	L	AREA	BQ		BO				0		51	America/Kralendijk	2010-12-19
+3513164	Toby’s Gut	Toby's Gut		17.46495	-62.96806	H	STMI	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513167	The Level	The Level		17.61667	-63.21667	P	PPLL	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513169	The Gap	The Gap		17.61667	-63.25	P	PPLL	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513170	The Farm	The Farm		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513173	The Bottom	The Bottom	Bottom,Leverock Town	17.6259	-63.24919	P	PPLA	BQ		SB				488		222	America/Kralendijk	2010-12-19
+3513174	Thais Hill	Thais Hill		17.61667	-63.23333	T	MT	BQ		SB				0		32	America/Kralendijk	2010-12-19
+3513176	Tera Hundu	Tera Hundu		12.18333	-68.26667	P	PPLL	BQ		BO				0		21	America/Kralendijk	2010-12-19
+3513177	Tent Point	Tent Point		17.61667	-63.25	T	PT	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513178	Tent Bay	Tent Bay		17.61667	-63.25	H	COVE	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513179	Saliñ’e Tam	Salin'e Tam		12.21667	-68.38333	H	LK	BQ		BO				0		50	America/Kralendijk	2010-12-19
+3513185	Ceru Sumpina	Ceru Sumpina		12.28333	-68.36667	T	HLL	BQ		BO				0		34	America/Kralendijk	2010-12-19
+3513186	Sugar Loaf	Sugar Loaf		17.46749	-62.96106	T	CLF	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513191	Subi Rincon	Subi Rincon	Soebi Rincon,Subi Rincon,Subi di Rincon	12.21667	-68.33333	T	HLL	BQ		BO				0		29	America/Kralendijk	2010-12-19
+3513192	Subi Blanku	Subi Blanku		12.18603	-68.26276	L	LCTY	BQ		BO				0		30	America/Kralendijk	2015-03-26
+3513193	Steward	Steward		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513196	Spring Bay Gut	Spring Bay Gut		17.63333	-63.21667	H	STMI	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513197	Spring Bay Flat	Spring Bay Flat		17.61667	-63.21667	L	LCTY	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513198	Spring Bay	Spring Bay	Spring Bay,Springbaai	17.63333	-63.21667	H	COVE	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513199	Spouts	Spouts		17.5	-62.96667	H	STMI	BQ		SE				0		13	America/Kralendijk	2010-12-19
+3513200	Boca Spelonk	Boca Spelonk	Boca Spelonk,Boka Spilon	12.21667	-68.20833	H	COVE	BQ		BO				0		8	America/Kralendijk	2010-12-19
+3513206	Sorobon	Sorobon		12.08333	-68.23333	L	LCTY	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513207	Solitude	Solitude		17.50197	-62.9881	L	LCTY	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513208	Soledad	Soledad		12.23333	-68.33333	T	HLL	BQ		BO				0		39	America/Kralendijk	2010-12-19
+3513209	Soledad	Soledad		12.25	-68.35	L	AREA	BQ		BO				0		36	America/Kralendijk	2010-12-19
+3513210	Soldiers Gut	Soldiers Gut		17.46667	-62.95	H	STMI	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513211	Smoky Gut	Smoky Gut		17.63333	-63.25	H	STMI	BQ		SB				0		318	America/Kralendijk	2010-12-19
+3513212	Smoke Alley	Smoke Alley		17.48333	-62.98333	L	LCTY	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513213	Smith Gut	Smith Gut		17.5	-62.96667	H	STMI	BQ		SE				0		13	America/Kralendijk	2010-12-19
+3513215	Boca Slagbaai	Boca Slagbaai		12.26667	-68.4	H	BAY	BQ		BO				0		14	America/Kralendijk	2010-12-19
+3513216	Washington Slagbaai National Park	Washington Slagbaai National Park		12.25807	-68.37856	L	RESN	BQ		BO				0		32	America/Kralendijk	2015-09-02
+3513228	Sint Joris	Sint Joris		12.23333	-68.33333	P	PPLL	BQ		BO				0		39	America/Kralendijk	2010-12-19
+3513232	Sint Eustatius	Sint Eustatius	Ermis Eustatius,Ermiş Eustatius,Eustatius Island,Saint Eustatius,Saint-Eustache,Sint Eustasius,Sint Eustatius,Sint-Eustatius,Statia,sheng you si te xie si,sinteuoeseutatiuseu seom,シント・ユースタティウス島,圣尤斯特歇斯,신트외스타티우스 섬	17.49088	-62.97868	T	ISL	BQ		SE				0		1	America/Kralendijk	2019-11-20
+3513238	Signal Hill	Signal Hill		17.48333	-62.98333	T	HLL	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513244	Shishiribana	Shishiribana		12.28333	-68.4	T	HLL	BQ		BO				0		26	America/Kralendijk	2010-12-19
+3513252	Senkuria	Senkuria		12.15	-68.26667	P	PPLL	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513254	Schotsenhoek	Schotsenhoek		17.48333	-62.98333	P	PPLL	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513255	Schildpadden Baai	Schildpadden Baai	Schildpadbaai,Schildpadden Baai,Schildpadden baai	17.50144	-62.97224	H	COVE	BQ		SE				0		-9999	America/Kralendijk	2018-02-02
+3513258	Mount Scenery	Mount Scenery	Maunt Seneri,Maunt-Sceneri,Mont Scenery,Monte Scenery,Mountain Scenery,Piek,Scenery,jbl synyry,Маунт Сенери,Маунт-Сценері,جبل سينيري,მაუნტ-სცენერი	17.63482	-63.23769	T	MT	BQ		SB				0	877	854	America/Kralendijk	2011-02-10
+3513262	Playa Sarna	Playa Sarna		12.15	-68.26667	H	COVE	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513270	Santa Maria	Santa Maria		12.25	-68.31667	T	HLL	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513275	Santa Cruz	Santa Cruz		12.23333	-68.35	P	PPLL	BQ		BO				0		107	America/Kralendijk	2010-12-19
+3513276	Santa Clara	Santa Clara		12.13333	-68.21667	P	PPLL	BQ		BO				0		20	America/Kralendijk	2010-12-19
+3513278	Santa Catarina	Santa Catarina		12.15	-68.21667	P	PPLL	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513282	Santa Barbara	Santa Barbara		12.2	-68.28333	S	EST	BQ		BO				0		134	America/Kralendijk	2010-12-19
+3513292	San Juan	San Juan		12.25	-68.36667	L	LCTY	BQ		BO				0		38	America/Kralendijk	2010-12-19
+3513294	San José	San Jose		12.11667	-68.23333	P	PPLL	BQ		BO				0		5	America/Kralendijk	2010-12-19
+3513296	Sandy Cruz	Sandy Cruz		17.63333	-63.23333	L	LCTY	BQ		SB				0		558	America/Kralendijk	2010-12-19
+3513298	San Bernardo	San Bernardo		12.18333	-68.26667	P	PPLL	BQ		BO				0		21	America/Kralendijk	2010-12-19
+3513299	Salta	Salta		12.03333	-68.25	L	AREA	BQ		BO				0		2	America/Kralendijk	2010-12-19
+3513302	Saliña	Salina		12.16667	-68.26667	P	PPLL	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513307	Saint John’s Hill	Saint John's Hill		17.61667	-63.23333	T	MT	BQ		SB				0		32	America/Kralendijk	2010-12-19
+3513308	Saint John's Flat	Saint John's Flat	Sint John,Sint John's	17.62059	-63.2434	P	PPL	BQ		SB				197		331	America/Kralendijk	2010-12-19
+3513311	Sabaneta	Sabaneta		12.23333	-68.33333	P	PPLL	BQ		BO				0		39	America/Kralendijk	2010-12-19
+3513313	Sabana	Sabana		12.3	-68.36667	L	LCTY	BQ		BO				0		13	America/Kralendijk	2010-12-19
+3513314	Saba Island	Saba Island	Ile de Saba,Illa de Saba,SAB,Saba,Saba Island,Saba saar,sa ba gong gong shi ti,saba dao,saba seom,Île de Saba,Саба,סאבא,サバ島,薩巴公共實體,사바 섬	17.63027	-63.24068	T	ISL	BQ		SB				0		576	America/Kralendijk	2017-10-30
+3513316	Fort Royal	Fort Royal	Fort Royal,Fort Royale,Old Battery	17.48196	-62.98662	S	FT	BQ		SE				0		-9999	America/Kralendijk	2018-02-02
+3513317	Round Hill	Round Hill		17.48333	-62.96667	T	HLL	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513319	Roshikiri	Roshikiri		12.21667	-68.23333	L	AREA	BQ		BO				0		23	America/Kralendijk	2010-12-19
+3513320	Roozendaal	Roozendaal		12.13333	-68.25	P	PPLL	BQ		BO				0		9	America/Kralendijk	2010-12-19
+3513321	Roots	Roots		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513323	Rooi Lamunchi	Rooi Lamunchi	Rooi,Rooi Lamoenchi,Rooi Lamunchi	12.13333	-68.2	L	LCTY	BQ		BO				0		7	America/Kralendijk	2010-12-19
+3513330	Roi Sangu	Roi Sangu		12.23333	-68.33333	L	AREA	BQ		BO				0		39	America/Kralendijk	2010-12-19
+3513331	Roi Pagai	Roi Pagai		12.16667	-68.25	L	LCTY	BQ		BO				0		24	America/Kralendijk	2010-12-19
+3513333	Riscado	Riscado		12.23333	-68.36667	P	PPLL	BQ		BO				0		35	America/Kralendijk	2010-12-19
+3513335	Ser’i Rincon	Ser'i Rincon		12.21667	-68.31667	T	HLL	BQ		BO				0		51	America/Kralendijk	2010-12-19
+3513336	Rigot	Rigot		12.25	-68.35	P	PPLL	BQ		BO				0		36	America/Kralendijk	2010-12-19
+3513344	Retreat	Retreat		17.46667	-62.95	L	LCTY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513345	Republiek	Republiek		12.25	-68.33333	P	PPLL	BQ		BO				0		20	America/Kralendijk	2010-12-19
+3513346	Republiek	Republiek		12.15	-68.25	P	PPLL	BQ		BO				0		17	America/Kralendijk	2010-12-19
+3513350	Eiland Rancho	Eiland Rancho	Eil Rancho,Eiland Rancho,Rancho,Rancho Island	12.11667	-68.23333	T	ISL	BQ		BO				0		5	America/Kralendijk	2010-12-19
+3513352	The Quill	The Quill	Krater,Quil,Quill,The Quill	17.47799	-62.96381	T	CRTR	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513355	Prospect	Prospect		17.46667	-62.98333	P	PPLX	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513357	Rooi Promente	Rooi Promente		12.18333	-68.21667	H	STMI	BQ		BO				0		21	America/Kralendijk	2010-12-19
+3513359	Princess Garden	Princess Garden		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513361	Piedra Pretu	Piedra Pretu		12.26667	-68.3	T	HLL	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513362	Ceru Pretu	Ceru Pretu		12.28333	-68.36667	T	HLL	BQ		BO				0		34	America/Kralendijk	2010-12-19
+3513363	Powder House	Powder House		17.48333	-62.98333	L	LCTY	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513366	Pos di Kas	Pos di Kas	Pos di Cas,Pos di Kas	12.16667	-68.3	L	LCTY	BQ		BO				0		1	America/Kralendijk	2010-12-19
+3513367	Pos Chikitu	Pos Chikitu		12.23333	-68.35	S	FRM	BQ		BO				0		107	America/Kralendijk	2010-12-19
+3513368	Porto Spaño	Porto Spano		12.23333	-68.26667	P	PPLL	BQ		BO				0		7	America/Kralendijk	2010-12-19
+3513371	Porta Makaku	Porta Makaku		12.26667	-68.33333	P	PPLL	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513374	Plump Gut	Plump Gut		17.61667	-63.21667	H	STMI	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513375	Plenchi	Plenchi		12.05	-68.21667	L	AREA	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513376	Pleasures	Pleasures		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513379	Seru Plat	Seru Plat		12.18333	-68.23333	T	HLL	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513380	Saliña Plaja Frans	Salina Plaja Frans		12.23333	-68.4	L	SALT	BQ		BO				0		6	America/Kralendijk	2010-12-19
+3513381	Pisga	Pisga		17.503	-62.99822	T	HLL	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513383	Pirate Cliff	Pirate Cliff		17.63333	-63.23333	T	CLF	BQ		SB				0		558	America/Kralendijk	2010-12-19
+3513385	Pilot Rots	Pilot Rots		17.65	-63.25	T	RK	BQ		SB				0		1	America/Kralendijk	2010-12-19
+3513386	Pilot Hill	Pilot Hill		17.49596	-62.99835	T	HLL	BQ		SE				0		-9999	America/Kralendijk	2018-02-02
+3513387	Pig Rock	Pig Rock		17.63333	-63.25	T	RK	BQ		SB				0		318	America/Kralendijk	2010-12-19
+3513389	Pichi Lang	Pichi Lang		12.28333	-68.4	T	HLL	BQ		BO				0		26	America/Kralendijk	2010-12-19
+3513393	Peter Simmon’s Hill	Peter Simmon's Hill		17.61667	-63.23333	T	MT	BQ		SB				0		32	America/Kralendijk	2010-12-19
+3513395	Peru	Peru		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513398	Pekelmeer	Pekelmeer		12.03333	-68.25	H	LGN	BQ		BO				0		2	America/Kralendijk	2010-12-19
+3513399	Peak Hill	Peak Hill		17.61667	-63.23333	T	MT	BQ		SB				0		32	America/Kralendijk	2010-12-19
+3513404	Paris Hill	Paris Hill		17.61667	-63.25	T	MT	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513407	Paramira	Paramira		17.48333	-62.96667	P	PPLL	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513408	Para Mira	Para Mira		12.23333	-68.33333	P	PPLL	BQ		BO				0		39	America/Kralendijk	2010-12-19
+3513409	Paradijs	Paradijs		12.15	-68.23333	P	PPLL	BQ		BO				0		20	America/Kralendijk	2010-12-19
+3513415	Boka Pamper	Boka Pamper		12.26667	-68.33333	H	COVE	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513418	Cer’i Palmit	Cer'i Palmit		12.26667	-68.36667	T	HLL	BQ		BO				0		33	America/Kralendijk	2010-12-19
+3513419	Palu Lechi	Palu Lechi	Pal'i Lechi,Paloe Lechi,Palu Lechi,Pal’i Lechi	12.16667	-68.28333	T	HLL	BQ		BO				0		1	America/Kralendijk	2010-12-19
+3513423	Orinoco	Orinoco		12.15	-68.21667	P	PPLL	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513424	Orinoco	Orinoco		12.2	-68.25	L	LCTY	BQ		BO				0		38	America/Kralendijk	2010-12-19
+3513425	Oranje Baai	Oranje Baai	Oranje Baai,Oranjestad Baai	17.46667	-62.98333	H	COVE	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513426	Oranjestad	Oranjestad	Aran'estad,EUX,Oran'estad,Oranestad,Orange Town,Oraniestat,Oranjestad,Oranjestad pa Sint Eustatius,Oranjestad på Sint Eustatius,Oranjestadas,Oranjestado,Oranjested,Oranjestêd,ao la nie si ta de,awranyastad,olanyeseutateu,oraniesutaddo,Οράνιεστατ,Араньестад,Ораньестад,Орањестад,أورانياستاد,اورنجسٹیڈ، سینٹ ایوسٹائیس,ორანესტადი,オラニエスタッド,奥拉涅斯塔德,오라녜스타트	17.48303	-62.9864	P	PPLA	BQ		SE				1097		-9999	America/Kralendijk	2019-09-05
+3513427	Oranje Pan	Oranje Pan		12.03333	-68.25	L	SALT	BQ		BO				0		2	America/Kralendijk	2010-12-19
+3513428	Oranje Pan	Oranje Pan		12.03333	-68.25	P	PPLL	BQ		BO				0		2	America/Kralendijk	2010-12-19
+3513430	Fort Oranje	Fort Oranje	Fort,Fort Orange,Fort Oranje	17.46667	-62.98333	S	FT	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513435	Ceru Oom Wie	Ceru Oom Wie		12.25	-68.36667	T	HLL	BQ		BO				0		38	America/Kralendijk	2010-12-19
+3513436	Boca Onima	Boca Onima	Boca Onima,Boka Onima	12.25	-68.31667	H	BAY	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513437	Onima	Onima		12.25	-68.31667	P	PPL	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513439	Boca Olivia	Boca Olivia	Boca Oliva,Boca Olivia,Boka Olivia	12.25	-68.28333	H	COVE	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513440	Old Booby Hill	Old Booby Hill		17.63333	-63.21667	T	HLL	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513444	Nonna Grell’s	Nonna Grell's		17.46667	-62.93333	L	LCTY	BQ		SE				0		-9999	America/Kralendijk	2010-12-19
+3513446	New Ground	New Ground		17.48333	-62.98333	P	PPLL	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513449	Negro Path	Negro Path		17.50627	-63.00245	L	LCTY	BQ		SE				0		-9999	America/Kralendijk	2018-02-02
+3513451	Fort Nassau	Fort Nassau		17.46667	-62.96667	S	FT	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513454	Naaldrots	Naaldrots	Naaldrots,Needle Rocks	17.45	-62.95	T	PT	BQ		SE				0		-9999	America/Kralendijk	2010-12-19
+3513455	Mussenden	Mussenden		17.46667	-62.95	L	LCTY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513460	Mount Pleasant	Mount Pleasant		17.46667	-62.95	L	LCTY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513461	Mountain Piece	Mountain Piece		17.48333	-62.95	P	PPLL	BQ		SE				51		51	America/Kralendijk	2010-12-19
+3513463	Morotin	Morotin		12.26667	-68.31667	T	PT	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513465	Moreke	Moreke		12.21667	-68.28333	T	HLL	BQ		BO				0		58	America/Kralendijk	2010-12-19
+3513468	Montaña	Montana	Montagne,Montana,Montaña	12.23333	-68.36667	T	HLL	BQ		BO				0		35	America/Kralendijk	2010-12-19
+3513471	Miss Tini’s Land	Miss Tini's Land		17.46667	-62.93333	L	LCTY	BQ		SE				0		-9999	America/Kralendijk	2010-12-19
+3513474	Middle Island Gut	Middle Island Gut		17.61667	-63.25	H	STMI	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513477	Midden Bolivia	Midden Bolivia		12.2	-68.25	L	AREA	BQ		BO				0		38	America/Kralendijk	2010-12-19
+3513478	Mentor	Mentor		12.16667	-68.26667	P	PPLL	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513479	Ceru Meimei	Ceru Meimei		12.3	-68.35	T	HLL	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513483	Mazinga	Mazinga		17.47631	-62.95979	T	MT	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513484	Saliña Matijs	Salina Matijs	Salina Mathys,Salina Matijs,Saliña Matijs	12.28333	-68.36667	H	LK	BQ		BO				0		34	America/Kralendijk	2010-12-19
+3513485	Matado’i Pascu	Matado'i Pascu		12.26667	-68.38333	T	HLL	BQ		BO				0		97	America/Kralendijk	2010-12-19
+3513486	Maskehorne Hill	Maskehorne Hill		17.61667	-63.23333	T	MT	BQ		SB				0		32	America/Kralendijk	2010-12-19
+3513488	Marys Point	Marys Point	Marypoint,Marys Point	17.65	-63.23333	L	LCTY	BQ		SB				0		1	America/Kralendijk	2010-12-19
+3513489	Mary’s Glory	Mary's Glory		17.50201	-62.99088	T	HLL	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513491	Markoe	Markoe		17.46667	-62.95	L	LCTY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513494	Maravia	Maravia		12.2	-68.26667	L	LCTY	BQ		BO				0		52	America/Kralendijk	2010-12-19
+3513495	Mansion Pasture	Mansion Pasture		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513496	Mansion	Mansion		17.48333	-62.96667	P	PPLL	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513500	Manparía Kutu	Manparia Kutu	Manparia Goetoe,Manparia Kutu,Manparía Kutu	12.06667	-68.21667	T	BCH	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513501	Man of War Rock	Man of War Rock		17.63333	-63.2	T	RK	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513502	Man of War	Man of War		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513503	Ceru Mangel	Ceru Mangel	Ceru Mangel,Seroe Mangel	12.28333	-68.38333	T	HLL	BQ		BO				0		43	America/Kralendijk	2010-12-19
+3513507	Malmok	Malmok	Malmok,Noordpunt,North Point	12.3	-68.38333	T	PT	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513509	Mal Hasi	Mal Hasi		12.15	-68.21667	L	LCTY	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513515	Macutucao	Macutucao		12.23333	-68.35	T	HLL	BQ		BO				0		107	America/Kralendijk	2010-12-19
+3513516	Playa Macoshi	Playa Macoshi	Plaja Macoshi,Playa Macoshi	12.3	-68.35	T	BCH	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513520	Lower Town	Lower Town		17.46667	-62.98333	P	PPLX	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513521	Lower Round Hill	Lower Round Hill		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513523	Lower Place	Lower Place		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513524	Lower Lynch	Lower Lynch		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513525	Lower Hell's Gate	Lower Hell's Gate		17.63969	-63.22992	P	PPL	BQ		SB				0		370	America/Kralendijk	2011-02-27
+3513526	Lodi	Lodi		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513527	Little Rendez Vous	Little Rendez Vous		17.61667	-63.23333	L	LCTY	BQ		SB				0		32	America/Kralendijk	2010-12-19
+3513528	Little Mountains	Little Mountains		17.50476	-62.99591	L	LCTY	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513530	Little Island	Little Island		17.63333	-63.21667	T	ISL	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513534	Lima	Lima		12.1	-68.25	S	EST	BQ		BO				0		5	America/Kralendijk	2010-12-19
+3513539	Leeuwarden	Leeuwarden		12.22435	-68.27295	P	PPL	BQ		BO				0		44	America/Kralendijk	2015-03-26
+3513540	Play’i Lechi	Play'i Lechi		12.16667	-68.28333	H	COVE	BQ		BO				0		1	America/Kralendijk	2010-12-19
+3513542	Lawyer	Lawyer		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513543	La Sana	La Sana		12.25	-68.35	T	HLL	BQ		BO				0		36	America/Kralendijk	2010-12-19
+3513545	Ceru Largu	Ceru Largu		12.26667	-68.36667	T	HLL	BQ		BO				0		33	America/Kralendijk	2010-12-19
+3513546	Lamunchi	Lamunchi		12.13333	-68.2	L	LCTY	BQ		BO				0		7	America/Kralendijk	2010-12-19
+3513549	Lagún	Lagun		12.18333	-68.2	H	INLT	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513550	Ladder Point	Ladder Point	Ladder Point,Ladder Punt,The Ladder	17.61667	-63.25	T	PT	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513551	Ladder Gut	Ladder Gut		17.61667	-63.25	H	STMI	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513552	Ladder Bay	Ladder Bay	Ladder Baai,Ladder Bay	17.63333	-63.26667	H	COVE	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513553	Lacre Punt	Lacre Punt	Lacre Point,Lacre Punt	12.01667	-68.23333	T	PT	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513554	Lac	Lac		12.1	-68.21667	H	LGN	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513555	Labra	Labra		12.25	-68.38333	P	PPLL	BQ		BO				0		18	America/Kralendijk	2010-12-19
+3513557	Kuruburu	Kuruburu	Coeroeboeroe,Kuruburu	12.2	-68.26667	P	PPLL	BQ		BO				0		52	America/Kralendijk	2010-12-19
+3513559	Kunuku Bieu	Kunuku Bieu		12.16667	-68.26667	S	FRM	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513561	Kunchi	Kunchi		12.25	-68.3	P	PPLL	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513563	Kralendijk	Kralendijk	Kralendajk,Kralendehjk,Kralendeikas,Kralendejk,Kralendijk,Kralendiyk,Kralentik,Playa,ke la lun dai ke,keulallendeikeu,kralndyk,kralyndayk,kurarendaiku,Κράλεντικ,Кралендайк,Кралендајк,Кралендейк,Кралендэйк,Կրալենդիյկ,كراليندايك,کرالندیک,کرالن‌دیک,კრალენდეიკი,クラレンダイク,克拉伦代克,크랄렌데이크	12.15	-68.26667	P	PPLC	BQ		BO				3081		4	America/Kralendijk	2019-09-05
+3513575	Kokorobi	Kokorobi		12.23333	-68.31667	P	PPLL	BQ		BO				0		23	America/Kralendijk	2010-12-19
+3513577	Knippenga	Knippenga		17.46667	-62.95	L	LCTY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513594	Klein Bonaire	Klein Bonaire	Klein Bonaire,Little Bonaire	12.16221	-68.30647	T	ISL	BQ		BO				0		2	America/Kralendijk	2010-12-19
+3513596	Kimeterio	Kimeterio		12.26667	-68.36667	T	HLL	BQ		BO				0		33	America/Kralendijk	2010-12-19
+3513597	Seru Kima	Seru Kima		12.18333	-68.25	T	HLL	BQ		BO				0		44	America/Kralendijk	2010-12-19
+3513598	Kid Sadler	Kid Sadler		17.46667	-62.95	L	LCTY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513599	Kibra Hacha	Kibra Hacha		12.16667	-68.26667	P	PPLL	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513600	Kibra Guarati	Kibra Guarati		12.18333	-68.23333	T	HLL	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513601	Kibrá di Montaña	Kibra di Montana	Kibra di Montana,Kibrá di Montaña,Montagne,Seroe Largoe	12.19457	-68.27278	T	HLL	BQ		BO				0		120	America/Kralendijk	2015-03-26
+3513602	Kibra Carati	Kibra Carati		12.26667	-68.3	L	LCTY	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513604	Kelbey’s Ridge	Kelbey's Ridge		17.63333	-63.21667	T	RDGE	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513605	Kay Bay	Kay Bay		17.46467	-62.9673	H	COVE	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513607	Kates Hill	Kates Hill		17.61667	-63.21667	T	MT	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513611	Landhuis Karpata	Landhuis Karpata		12.21667	-68.33333	S	HSEC	BQ		BO				0		29	America/Kralendijk	2010-12-19
+3513612	Karpata	Karpata	Huur,Karpata	12.21667	-68.36667	S	RUIN	BQ		BO				0		43	America/Kralendijk	2010-12-19
+3513613	Karpata	Karpata		12.23333	-68.35	S	EST	BQ		BO				0		107	America/Kralendijk	2010-12-19
+3513614	Karpat	Karpat		12.21667	-68.31667	L	AREA	BQ		BO				0		51	America/Kralendijk	2010-12-19
+3513615	Kaomati	Kaomati		12.25	-68.3	T	HLL	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513616	Roi Kaohari	Roi Kaohari	Roi Kaohari,Rooi Cauhani,Rooi Cauhari	12.21667	-68.2	H	STM	BQ		BO				0		6	America/Kralendijk	2010-12-19
+3513617	Boca Canoa	Boca Canoa	Boca Canoa,Bok'i Kanoa,Bok’i Kanoa	12.21667	-68.2	H	COVE	BQ		BO				0		6	America/Kralendijk	2010-12-19
+3513619	Ser’i Kabuya	Ser'i Kabuya		12.23333	-68.3	T	HLL	BQ		BO				0		82	America/Kralendijk	2010-12-19
+3513624	Juwana	Juwana	Joewa,Juwana	12.28333	-68.38333	T	HLL	BQ		BO				0		43	America/Kralendijk	2010-12-19
+3513628	Juancho E. Yrausquin Airport	Juancho E. Yrausquin Airport	Juancho E. Yrausquin Airport,SAB,Saba Airport,Saba Island Airport,TNCS	17.64545	-63.22074	S	AIRP	BQ		SB				0		37	America/Kralendijk	2016-04-22
+3513631	Johnnie’s Ground	Johnnie's Ground		17.61667	-63.21667	L	LCTY	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513632	Jenkin’s Bay	Jenkin's Bay	Jenkin's Bay,Jenkins Baai,Jenkin’s Bay	17.5129	-63.0014	H	COVE	BQ		SE				0		-9999	America/Kralendijk	2018-02-02
+3513633	Jeems	Jeems		17.48333	-62.98333	L	LCTY	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513634	Jarabi Mangel	Jarabi Mangel		12.28333	-68.36667	T	HLL	BQ		BO				0		34	America/Kralendijk	2010-12-19
+3513644	Jan Doran	Jan Doran		12.21667	-68.35	T	SHOR	BQ		BO				0		66	America/Kralendijk	2010-12-19
+3513645	Jan Doran	Jan Doran		12.21667	-68.35	P	PPL	BQ		BO				0		66	America/Kralendijk	2010-12-19
+3513647	Island Gut	Island Gut		17.63333	-63.23333	H	STMI	BQ		SB				0		558	America/Kralendijk	2010-12-19
+3513648	Ishiri	Ishiri		12.13333	-68.23333	P	PPLL	BQ		BO				0		11	America/Kralendijk	2010-12-19
+3513649	Interlopers Punt	Interlopers Punt		17.48333	-62.98333	T	PT	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513650	Industry	Industry		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513656	Rooi Huba	Rooi Huba		12.23333	-68.36667	H	STMI	BQ		BO				0		35	America/Kralendijk	2010-12-19
+3513657	Hoop	Hoop		12.11667	-68.28333	P	PPLL	BQ		BO				0		6	America/Kralendijk	2010-12-19
+3513658	Hogsty	Hogsty		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513660	Hobao	Hobao	Hobao,Hobau	12.28333	-68.38333	T	MT	BQ		BO				0		43	America/Kralendijk	2010-12-19
+3513666	Hearty	Hearty		17.48333	-62.96667	P	PPLL	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513669	Hato	Hato		12.17586	-68.28827	P	PPLX	BQ		BO				13		9	America/Kralendijk	2015-03-26
+3513671	Hard Time	Hard Time		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513674	Guyeau	Guyeau	Guyeau,Rocky Town	17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513675	Guatemala	Guatemala		12.16667	-68.23333	P	PPLL	BQ		BO				0		32	America/Kralendijk	2010-12-19
+3513679	Grovell	Grovell		17.5	-62.96667	L	LCTY	BQ		SE				0		13	America/Kralendijk	2010-12-19
+3513680	Grove	Grove		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513693	Seru Grita Kabai	Seru Grita Kabai		12.23333	-68.3	T	HLL	BQ		BO				0		82	America/Kralendijk	2010-12-19
+3513694	Grey Hill	Grey Hill		17.63333	-63.23333	T	HLL	BQ		SB				0		558	America/Kralendijk	2010-12-19
+3513695	Green Island	Green Island	Groen Eil,Groen Eiland	17.6491	-63.23	T	ISL	BQ		SB				0		1	America/Kralendijk	2010-12-19
+3513696	Great Savannah Gut	Great Savannah Gut		17.6	-63.21667	H	STMI	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513697	Great Point	Great Point	Great Point,Noord Punt,North Point	17.65	-63.23333	T	PT	BQ		SB				0		1	America/Kralendijk	2010-12-19
+3513698	Great Level Bay	Great Level Bay		17.6	-63.23333	H	COVE	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513699	Great Hole	Great Hole		17.63333	-63.21667	H	BGHT	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513700	Great Hill	Great Hill		17.61667	-63.25	T	MT	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513701	Great Bay	Great Bay		17.5	-62.96667	H	COVE	BQ		SE				0		13	America/Kralendijk	2010-12-19
+3513703	Ceru Grandi	Ceru Grandi	Ceru Grandi,Grandi Hill,Seroe Grand,Seroe Grandi,Seru Grandi	12.18333	-68.25	T	HLL	BQ		BO				0		44	America/Kralendijk	2019-08-19
+3513705	Rooi Grandi	Rooi Grandi		12.26667	-68.3	H	STMI	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513706	Playa Grandi	Playa Grandi		12.26667	-68.33333	H	COVE	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513708	Ceru Grandi	Ceru Grandi		12.28333	-68.35	T	HLL	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513712	Lagún Goto	Lagun Goto		12.23333	-68.36667	H	LK	BQ		BO				0		35	America/Kralendijk	2010-12-19
+3513713	Goto	Goto		12.21667	-68.36667	S	TRMO	BQ		BO				0		43	America/Kralendijk	2010-12-19
+3513714	Golden Rock	Golden Rock		17.48333	-62.98333	P	PPLL	BQ		SE				823		61	America/Kralendijk	2010-12-19
+3513715	Godet	Godet		17.48333	-62.98333	P	PPLL	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513716	Glass Bottle	Glass Bottle		17.46667	-62.96667	P	PPLL	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513717	Gilheads	Gilheads		17.46667	-62.96667	P	PPLL	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513718	Giles Quarter	Giles Quarter		17.6	-63.23333	L	LCTY	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513719	Gilboa Hill	Gilboa Hill		17.51036	-62.98728	T	HLL	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513724	Game Bow	Game Bow		17.50648	-62.99316	T	HLL	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513725	Gallows Bay	Gallows Bay		17.46667	-62.98333	H	COVE	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513726	Gabilán	Gabilan		12.2	-68.28333	T	HLL	BQ		BO				0		134	America/Kralendijk	2010-12-19
+3513727	Playa Funchi	Playa Funchi	Plaj'i Funchi,Plaj’i Funchi,Playa Foenshi,Playa Funchi	12.28333	-68.4	T	BCH	BQ		BO				0		26	America/Kralendijk	2010-12-19
+3513732	Free Gut	Free Gut		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513733	Playa Frans	Playa Frans	Plaja Frans,Playa Frans	12.23333	-68.4	T	BCH	BQ		BO				0		6	America/Kralendijk	2010-12-19
+3513734	F. D. Roosevelt Airport	F. D. Roosevelt Airport	Aeropuerto F. D. Roosevelt,EUX,F. D. Roosevelt Airport,F・D・ruzuberuto fei xing chang,F・D・ルーズベルト飛行場,TNCE,frwdgah franklyn dlanw rwzwlt,فرودگاه فرانکلین دلانو روزولت	17.49649	-62.97944	S	AIRP	BQ		SE				0	39	37	America/Kralendijk	2016-09-30
+3513738	Fort Hill	Fort Hill		17.61667	-63.25	T	HLL	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513739	Fort Bay	Fort Bay	Fort Baai,Fort Bay	17.61667	-63.25	H	COVE	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513741	Fontein	Fontein		12.23333	-68.28333	S	EST	BQ		BO				0		14	America/Kralendijk	2010-12-19
+3513742	Fontaan Baai	Fontaan Baai		17.52131	-62.99073	H	COVE	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513744	Flat Point	Flat Point	Flat Point,Vlakke Hoek	17.65	-63.21667	T	PT	BQ		SB				0		1	America/Kralendijk	2010-12-19
+3513745	Flamingo International Airport	Flamingo International Airport	BON,Bonaire International Airport,Flamingo International Airport,TNCB	12.13104	-68.26851	S	AIRP	BQ		BO				0	6	7	America/Kralendijk	2016-01-27
+3513747	Fiscal	Fiscal		17.48333	-62.98333	P	PPLL	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513748	Fence Quarter	Fence Quarter		17.6	-63.23333	L	LCTY	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513749	Fair Play	Fair Play		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513751	English Quarter	English Quarter		17.61667	-63.21667	P	PPL	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513752	English Quarter	English Quarter		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513757	Ceru Dos Pos	Ceru Dos Pos		12.23333	-68.35	T	HLL	BQ		BO				0		107	America/Kralendijk	2010-12-19
+3513760	Dorp Tera Kora	Dorp Tera Kora	Dorp Tera Cora,Dorp Tera Corá,Dorp Tera Kora,Terra Corra	12.13333	-68.26667	P	PPL	BQ		BO				1186		6	America/Kralendijk	2010-12-19
+3513764	Dorp Sabana	Dorp Sabana		12.15	-68.25	P	PPL	BQ		BO				0		17	America/Kralendijk	2010-12-19
+3513765	Dorp Rincón	Dorp Rincon	Dorp Rincan,Dorp Rincon,Dorp Rincón,Rincon,Rincón,linkon,린콘	12.23333	-68.33333	P	PPL	BQ		BO				1496		39	America/Kralendijk	2017-09-06
+3513766	Dorp Nor i Saliña	Dorp Nor i Salina	Dorp Noor i Salina,Dorp Noor i Sãlina,Dorp Nor i Salina,Dorp Nor i Saliña,Noord di Salinja	12.18333	-68.26667	P	PPL	BQ		BO				0		21	America/Kralendijk	2010-12-19
+3513767	Dorp Nikiboko	Dorp Nikiboko	Dorp Nikiboco,Dorp Nikiboko,Nikiboko	12.15	-68.26667	P	PPL	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513768	Dorp Antriol	Dorp Antriol	Deenterra,Dentera,Dorp Antriol,Entrejol	12.16667	-68.26667	P	PPL	BQ		BO				2980		28	America/Kralendijk	2010-12-19
+3513774	Docker’s Island	Docker's Island		17.45	-62.95	L	LCTY	BQ		SE				0		-9999	America/Kralendijk	2010-12-19
+3513775	Dochila	Dochila		12.23333	-68.33333	T	HLL	BQ		BO				0		39	America/Kralendijk	2010-12-19
+3513777	Diamond Rock	Diamond Rock	Diamant Rots,Diamond Rock	17.65	-63.25	T	RK	BQ		SB				0		1	America/Kralendijk	2010-12-19
+3513779	Ser’i Diabel	Ser'i Diabel		12.23333	-68.33333	T	HLL	BQ		BO				0		39	America/Kralendijk	2010-12-19
+3513780	Den Tuna	Den Tuna		12.16667	-68.26667	P	PPLL	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513783	Deep Gut	Deep Gut		17.63333	-63.21667	H	STMI	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513793	Cultuurvlakte	Cultuurvlakte		17.48333	-62.96667	T	PLN	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513795	Cul de Sac	Cul de Sac		17.48333	-62.98333	T	HLL	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513796	Crooks	Crooks		17.46667	-62.98333	L	LCTY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513797	Crispeen	Crispeen		17.61667	-63.23333	P	PPLL	BQ		SB				0		32	America/Kralendijk	2010-12-19
+3513798	Cow Pasture	Cow Pasture		17.61667	-63.25	L	LCTY	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513800	Cove Gut	Cove Gut		17.63333	-63.21667	H	STMI	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513801	Cove Bay	Cove Bay	Cove Baai,Cove Bay	17.63333	-63.21667	H	COVE	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513802	Cottage Pasture	Cottage Pasture		17.48333	-62.98333	P	PPLL	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513803	Corre Corre Baai	Corre Corre Baai		17.4863	-62.94632	H	COVE	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513804	Corner Point	Corner Point	Corner Point,Southeast Point,Zuidoosten Punt,Zuidwestern Punt	17.61667	-63.21667	T	PT	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513806	Core Gut Bay	Core Gut Bay	Core Gut Baai,Core Gut Bay	17.61667	-63.21667	H	COVE	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513807	Core Gut	Core Gut		17.61667	-63.21667	H	STMI	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513809	Ceru Corá	Ceru Cora		12.18333	-68.21667	T	HLL	BQ		BO				0		21	America/Kralendijk	2010-12-19
+3513810	Concordia Baai	Concordia Baai	Concordia Baai,Concordia Bay	17.5	-62.96667	H	BAY	BQ		SE				0		13	America/Kralendijk	2010-12-19
+3513811	Concordia	Concordia		17.48333	-62.96667	P	PPL	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513812	Compagnie’s Gut	Compagnie's Gut		17.6	-63.23333	H	STMI	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513813	Compagnie Land	Compagnie Land		17.46667	-62.95	L	LCTY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513814	Compagnie Baai	Compagnie Baai		17.48333	-62.95	H	COVE	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513815	Compagnie	Compagnie		17.46667	-62.95	L	LCTY	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513817	Colombia	Colombia	Colombia,Columbia	12.23333	-68.31667	S	EST	BQ		BO				0		23	America/Kralendijk	2010-12-19
+3513820	Cocoluch Bay	Cocoluch Bay	Cocoluch Baai,Cocoluch Bay,Coculus Baai	17.52291	-62.99961	H	COVE	BQ		SE				0		-9999	America/Kralendijk	2018-02-02
+3513821	Boca Cocolishi	Boca Cocolishi		12.3	-68.36667	H	COVE	BQ		BO				0		13	America/Kralendijk	2010-12-19
+3513823	Claes Gut	Claes Gut		17.46667	-62.98333	H	STMI	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513824	Ceru Chubatu	Ceru Chubatu		12.23333	-68.4	T	HLL	BQ		BO				0		6	America/Kralendijk	2010-12-19
+3513828	Playa Chikitu	Playa Chikitu	Playa Chikitoe,Playa Chikitu	12.28333	-68.33333	H	COVE	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513830	Boca Chikitu	Boca Chikitu		12.2	-68.2	H	COVE	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513831	Cherry Tree	Cherry Tree		17.48333	-62.96667	L	LCTY	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513833	Chapel Piece	Chapel Piece		17.46667	-62.98333	P	PPLX	BQ		SE				0		1	America/Kralendijk	2010-12-19
+3513837	Cave of Rum Bay	Cave of Rum Bay		17.63333	-63.23333	H	BGHT	BQ		SB				0		558	America/Kralendijk	2010-12-19
+3513838	Boca Catuna	Boca Catuna		12.3	-68.4	H	COVE	BQ		BO				0		14	America/Kralendijk	2010-12-19
+3513839	Castle Hill	Castle Hill		17.61667	-63.25	T	HLL	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513840	Casicunda	Casicunda		12.26667	-68.33333	T	HLL	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513841	Cas Corá	Cas Cora	Cas Cora,Cas Corá,Rood Huis	12.16667	-68.21667	P	PPLL	BQ		BO				0		9	America/Kralendijk	2010-12-19
+3513843	Caranjito	Caranjito		12.13333	-68.25	P	PPL	BQ		BO				0		9	America/Kralendijk	2010-12-19
+3513846	Caracao	Caracao		12.3	-68.36667	T	HLL	BQ		BO				0		13	America/Kralendijk	2010-12-19
+3513847	Boca Cañon	Boca Canon		12.25	-68.4	H	COVE	BQ		BO				0		18	America/Kralendijk	2010-12-19
+3513848	Ceru Camina	Ceru Camina		12.28333	-68.38333	T	HLL	BQ		BO				0		43	America/Kralendijk	2010-12-19
+3513849	Camia	Camia		12.3	-68.38333	H	STMI	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513852	Bunker Hill	Bunker Hill		17.61667	-63.25	T	MT	BQ		SB				0		57	America/Kralendijk	2010-12-19
+3513855	Buena Vista	Buena Vista		12.25	-68.31667	P	PPLL	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513857	Buena Esperansa	Buena Esperansa		12.16667	-68.21667	P	PPLL	BQ		BO				0		9	America/Kralendijk	2010-12-19
+3513858	Buccaneers Bay	Buccaneers Bay	Buccaneers Baai,Buccaneers Bay	17.46619	-62.95961	H	COVE	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513859	Brua Wesu	Brua Wesu		12.06667	-68.23333	L	AREA	BQ		BO				0		5	America/Kralendijk	2010-12-19
+3513862	Bricat	Bricat		12.15	-68.21667	P	PPLL	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513864	Brasil	Brasil	Brasiel,Brasil	12.25	-68.4	S	EST	BQ		BO				0		18	America/Kralendijk	2010-12-19
+3513865	Brandaris	Brandaris	Brandaris,Brandaris Peak	12.26667	-68.38333	T	HLL	BQ		BO				0		97	America/Kralendijk	2010-12-19
+3513867	Boxen Alley	Boxen Alley		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513868	Boven Bolivia	Boven Bolivia		12.18333	-68.21667	P	PPLL	BQ		BO				0		21	America/Kralendijk	2010-12-19
+3513869	Boven Baai	Boven Baai	Boven Baai,Heiligenbaai	17.5242	-62.99206	H	BAY	BQ		SE				0		-9999	America/Kralendijk	2018-02-02
+3513870	Boven	Boven		17.51867	-62.99715	T	HLL	BQ		SE				0		-9999	America/Kralendijk	2018-02-02
+3513872	Bouille	Bouille		17.46667	-62.96667	P	PPLL	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513873	Bottom Hill	Bottom Hill		17.61667	-63.23333	L	LCTY	BQ		SB				0		32	America/Kralendijk	2010-12-19
+3513875	Botele	Botele		12.23333	-68.31667	P	PPLL	BQ		BO				0		23	America/Kralendijk	2010-12-19
+3513876	Booby Hole Ridge	Booby Hole Ridge		17.61667	-63.21667	T	RDGE	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513877	Booby Hole	Booby Hole		17.61667	-63.21667	H	COVE	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513878	Booby Hill	Booby Hill		17.61667	-63.21667	T	MT	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513881	Bonaire Island	Bonaire Island	BON,Bonair,Bonaire,Bonaire Island,Bonajre,Bonehjr,Boneiru,Boner,Boneras,Bonere,Boneyre,Bonére,Bonêre,Buen Ayre,Buon Ayre,Ile de Bonaire,Insula Boni Aeris,Insula Boni Aëris,Papiamentu,Vostrau Banajreh,bo nai er dao,bo nei he,bone'ara,boneiri,boneleu seom,boneru dao,bwnayr,bwnyr,bwnyyr,poneyr,Île de Bonaire,Μποναίρ,Бонайре,Бонер,Бонэйр,Востраў Банайрэ,Բոնեյրե,בונייר,بونایر,بونير,بونیر,ਬੋਨੇਅਰ,பொனெய்ர்,โบแนร์,ბონეირი,ボネール島,博奈爾島,波内赫,보네르 섬	12.19106	-68.2567	T	ISL	BQ		BO				0		46	America/Kralendijk	2020-01-28
+3513882	Bonabista	Bonabista		12.18333	-68.25	L	LCTY	BQ		BO				0		44	America/Kralendijk	2010-12-19
+3513883	Bonabista	Bonabista		12.15	-68.23333	L	LCTY	BQ		BO				0		20	America/Kralendijk	2010-12-19
+3513884	Bolivia	Bolivia		12.21667	-68.23333	S	EST	BQ		BO				0		23	America/Kralendijk	2010-12-19
+3513886	Boca Spelonk	Boca Spelonk		12.21667	-68.18333	T	CAPE	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513890	Blauwe Pan	Blauwe Pan		12.08333	-68.28333	L	SALT	BQ		BO				0		1	America/Kralendijk	2010-12-19
+3513895	Punta Blanku	Punta Blanku	Punta Blanco,Punta Blanku	12.23333	-68.31667	T	HLL	BQ		BO				0		23	America/Kralendijk	2010-12-19
+3513901	Bisé Morto	Bise Morto		12.26667	-68.4	H	COVE	BQ		BO				0		14	America/Kralendijk	2010-12-19
+3513902	Billy’s Gut	Billy's Gut		17.48333	-62.98333	H	STMI	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513904	Big Rendez Vous	Big Rendez Vous		17.61667	-63.23333	L	LCTY	BQ		SB				0		32	America/Kralendijk	2010-12-19
+3513905	Big Pasture	Big Pasture		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513906	Big Gut	Big Gut		17.45	-62.95	H	STMI	BQ		SE				0		-9999	America/Kralendijk	2010-12-19
+3513908	Be Zú	Be Zu		12.3	-68.38333	T	HLL	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513912	Bergje	Bergje		17.50795	-62.99509	T	HLL	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513914	Ceru Bentana	Ceru Bentana	Ceru Bentana,Seroe Ventana	12.3	-68.36667	T	HLL	BQ		BO				0		13	America/Kralendijk	2010-12-19
+3513915	Benners	Benners		17.48333	-62.98333	P	PPLL	BQ		SE				0		61	America/Kralendijk	2010-12-19
+3513916	Plaja Bengé	Plaja Benge	Benge,Plaja Benge,Plaja Bengé	12.28333	-68.4	H	BAY	BQ		BO				0		26	America/Kralendijk	2010-12-19
+3513917	Bengé	Benge		12.28333	-68.4	T	PT	BQ		BO				0		26	America/Kralendijk	2010-12-19
+3513918	Bengalen	Bengalen		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513919	Benesuela	Benesuela	Benesuela,Venezuela	12.26667	-68.33333	P	PPL	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513920	Beneden Bolivia	Beneden Bolivia		12.23333	-68.26667	L	AREA	BQ		BO				0		7	America/Kralendijk	2010-12-19
+3513922	Bel Nem	Bel Nem		12.11667	-68.28333	P	PPLL	BQ		BO				0		6	America/Kralendijk	2010-12-19
+3513923	Bellevue	Bellevue		17.46667	-62.96667	L	LCTY	BQ		SE				0		59	America/Kralendijk	2010-12-19
+3513924	Bella Vista	Bella Vista		12.15	-68.25	P	PPL	BQ		BO				0		17	America/Kralendijk	2010-12-19
+3513926	Behind the Ridge	Behind the Ridge		17.63333	-63.21667	L	LCTY	BQ		SB				0		138	America/Kralendijk	2010-12-19
+3513927	Behind the Mountain	Behind the Mountain		17.48333	-62.95	L	LCTY	BQ		SE				0		51	America/Kralendijk	2010-12-19
+3513929	Beco	Beco		12.2	-68.25	L	LCTY	BQ		BO				0		38	America/Kralendijk	2010-12-19
+3513932	Plaja Bartól	Plaja Bartol		12.3	-68.38333	H	COVE	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513933	Boca Bartól	Boca Bartol	Boca Bartol,Boca Bartool,Boca Bartól	12.3	-68.38333	H	COVE	BQ		BO				0		19	America/Kralendijk	2010-12-19
+3513934	Barón	Baron		12.25	-68.35	T	HLL	BQ		BO				0		36	America/Kralendijk	2010-12-19
+3513935	Bargine Bay	Bargine Bay	Bargine Baai,Bargine Bay	17.5	-62.96667	H	COVE	BQ		SE				0		13	America/Kralendijk	2010-12-19
+3513938	Bara i Carta	Bara i Carta	Bara di Carta,Bara i Carta	12.16667	-68.23333	T	HLL	BQ		BO				0		32	America/Kralendijk	2010-12-19
+3513939	Banana Gut	Banana Gut		17.61667	-63.21667	H	STMI	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3513941	Landhuis Bacuna	Landhuis Bacuna		12.11667	-68.21667	S	HSEC	BQ		BO				0		9	America/Kralendijk	2010-12-19
+3513942	Bacuna	Bacuna		12.11667	-68.2	S	EST	BQ		BO				0		-9999	America/Kralendijk	2010-12-19
+3513943	Back Off Bay	Back Off Bay	Back Off Bay,Back-off Baai	17.46462	-62.96461	H	COVE	BQ		SE				0		1	America/Kralendijk	2018-02-02
+3513952	Aruba	Aruba		12.15	-68.25	S	EST	BQ		BO				0		17	America/Kralendijk	2010-12-19
+3513953	Angola	Angola		12.16667	-68.26667	T	HLL	BQ		BO				0		28	America/Kralendijk	2010-12-19
+3513955	Fort Amsterdam	Fort Amsterdam		17.48333	-62.96667	S	FT	BQ		SE				0		255	America/Kralendijk	2010-12-19
+3513957	Ambuana	Ambuana		12.15	-68.26667	S	EST	BQ		BO				0		4	America/Kralendijk	2010-12-19
+3513958	Abraham’s Hole	Abraham's Hole		17.61667	-63.21667	H	COVE	BQ		SB				0		-9999	America/Kralendijk	2010-12-19
+3740318	Bocht van Goto	Bocht van Goto		12.18889	-68.30833	H	BAY	BQ		BO				0		5	America/Kralendijk	2010-12-19
+3740319	Goto Meer	Goto Meer		12.2375	-68.375	H	LK	BQ		BO				0		2	America/Kralendijk	2010-12-19
+6316263	Bonaire Relay Station	Bonaire Relay Station		12.21353	-68.32234	S	STNR	BQ						0		30	America/Kralendijk	2010-12-18
+6464192	Old Gin House	OLD GIN HOUSE		17.498	-62.965	S	HTL	BQ						0		22	America/Kralendijk	2010-12-18
+6507051	Divi Flamingo	DIVI FLAMINGO		12.1342	-68.2733	S	HTL	BQ						0		3	America/Kralendijk	2010-12-18
+6513689	Golden Era Hotel	GOLDEN ERA HOTEL		17.498	-62.965	S	HTL	BQ						0		22	America/Kralendijk	2010-12-18
+6528889	Harbour Village Beach Club	HARBOUR VILLAGE BEACH CLUB		12.15	-68.2666	S	HTL	BQ						0		4	America/Kralendijk	2010-12-18
+6692387	Barkadera	Barkadera		12.19918	-68.30406	P	PPL	BQ						0		21	America/Kralendijk	2010-12-18
+6692388	Belnem	Belnem		12.12329	-68.28739	P	PPL	BQ						0		5	America/Kralendijk	2010-12-18
+7609816	Bonaire	Bonaire	Boneiru	12.2	-68.25	A	ADM1	BQ		BO				13389		38	America/Kralendijk	2017-11-04
+7610358	Saba	Saba		17.63333	-63.23333	A	ADM1	BQ		SB				1737		558	America/Kralendijk	2017-10-30
+7610359	Sint Eustatius	Sint Eustatius	Agios Efstathios,Isla de Sant Eustaquio,Saint-Eustache,San Eustakio,San Eustaquio,Sant Eustaqui,Santo Eustaquio,Santo Eustáquio,Sint Eustatijus,Sint Evstatius,Sint-Ehstatius,Sint-Estatius,Sint-Eustasius,Sint-Eustatius,Sintestatiusa,Sintēstatiusa,Svaty Eustach,Svatý Eustach,Sveti Eustakhije,Sveti Evstakhij,Vostrau Sint-Ehstacius,sheng you si te xie si,sinteuoeseutatiwiseu seom,sita yusatesasa,snt aywstytys,synt awstatyws,synt ywstyshs,Άγιος Ευστάθιος,Востраў Сінт-Эстаціус,Свети Евстахиј,Свети Еустахије,Синт-Эстатиус,Сінт-Естатіус,Սինտ Էվստատիուս,סנט אוסטתיוס,سنت ایوستیتیس,سينت أوستاتيوس,سینت یوستیشس,سینٹ ایوسٹائیس,ਸਿੰਟ ਯੂਸਟੇਸ਼ਸ,სინტ-ესტატიუსი,シント・ユースタティウス島,圣尤斯特歇斯,신트외스타티위스 섬	17.5	-62.96667	A	ADM1	BQ		SE				2886		13	America/Kralendijk	2017-10-30
+7626844	Bonaire, Saint Eustatius and Saba	Bonaire, Saint Eustatius and Saba	BES Islands,BES-eilanden,Bonair,Bonaire,Bonaire  Saint Eustatius and Saba,Bonaire  Saint Eustatius og Saba,Bonaire  Saint Eustatius  and Saba,Bonaire  Saint-Eustache et Saba,Bonaire  Sint Eustatius and Saba,Bonaire  Sint Eustatius en Saba,Bonaire  Sint Eustatius i Saba,Bonaire  Sint Eustatius ja Saba,Bonaire  Sint Eustatius  and Saba,Bonajre  Sint-Ehstatius i Saba,Caraibi Olandesi,Caribbean Netherlands,Caribisch Nederland,Karibian Alankomaat,Municipio Especial de Bonaire,Niderlands'ki Karibs'ki ostrovi,Territorio Insular de Bonaire,Território Insular de Bonaire,bo nai er dao、 sheng you si da di si he sa ba,boneleu,boneru shinto・yusutatiusuoyobisaba,bwnyr wsynt awstatyws wsaba,nedeollandeulyeong kalibeu,Μποναίρ,Бонайре  Синт-Эстатиус и Саба,Нідерландські Карибські острови,بونير وسينت أوستاتيوس وسابا,ボネール、シント・ユースタティウスおよびサバ,博奈尔岛、圣尤斯达蒂斯和萨巴,네덜란드령 카리브,보네르	12.21286	-68.29445	A	PCLIX	BQ		00				18012		118	America/Kralendijk	2017-11-03
+8063299	Mary's Point Mountain	Mary's Point Mountain		17.63889	-63.24209	T	MT	BQ		SB				0	572	565	America/Kralendijk	2016-02-14
+9954650	Plaza Resort Bonaire	Plaza Resort Bonaire		12.13811	-68.27602	S	HTL	BQ		BO				0		6	America/Kralendijk	2015-01-11
+9954652	Caribbean Club Bonaire	Caribbean Club Bonaire		12.20065	-68.30893	S	HTL	BQ		BO				0		10	America/Kralendijk	2015-01-11
+9954653	Buddy Dive	Buddy Dive		12.17128	-68.28805	S	HTL	BQ		BO				0		7	America/Kralendijk	2015-01-11
+9954654	Sorobon Beach Rresort Bonaire	Sorobon Beach Rresort Bonaire		12.09177	-68.23586	S	HTL	BQ		BO				0		5	America/Kralendijk	2015-01-11
+9954655	Belmar Oceanfront	Belmar Oceanfront		12.13452	-68.2782	S	HTL	BQ		BO				0		6	America/Kralendijk	2015-01-11
+9954656	Sand Dollar Condominium Resort	Sand Dollar Condominium Resort		12.16914	-68.2869	S	HTL	BQ		BO				0		4	America/Kralendijk	2015-01-11
+10056493	Divi Flamingo Resort & Casino	Divi Flamingo Resort & Casino		12.14433	-68.27599	S	HTL	BQ		BO				0		9	America/Kralendijk	2015-02-09
+10056746	Plaza Beach Resort Bonaire	Plaza Beach Resort Bonaire		12.13713	-68.27403	S	HTL	BQ		BO				0		5	America/Kralendijk	2015-02-09
+10113121	Yachtclub Apartments Bonaire	Yachtclub Apartments Bonaire		12.16273	-68.28327	S	HTL	BQ		BO				0		5	America/Kralendijk	2015-02-23
+10121409	Captain Dons Habitat	Captain Dons Habitat		12.17267	-68.28709	S	HTL	BQ		BO				0		5	America/Kralendijk	2015-02-26
+10121415	Sorobon Beach Resort Bonaire	Sorobon Beach Resort Bonaire		12.09177	-68.23586	S	HTL	BQ		BO				0		5	America/Kralendijk	2015-02-26
+10121416	Portobello Apartments	Portobello Apartments		12.15711	-68.27901	S	HTL	BQ		BO				0		4	America/Kralendijk	2015-02-26
+10121417	Eden Beach Resort	Eden Beach Resort		12.16467	-68.28623	S	HTL	BQ		BO				0		4	America/Kralendijk	2015-02-26
+10121418	Divi Flamingo Beach Resort	Divi Flamingo Beach Resort		12.14434	-68.27599	S	HTL	BQ		BO				0		9	America/Kralendijk	2015-02-26
+10121419	Den Laman	Den Laman		12.15464	-68.27797	S	HTL	BQ		BO				0		4	America/Kralendijk	2015-02-26
+10121420	Central Hotel Bonaire	Central Hotel Bonaire		12.15227	-68.27546	S	HTL	BQ		BO				0		5	America/Kralendijk	2015-02-26
+10121421	Bonaire Seaside Apartments	Bonaire Seaside Apartments		12.15816	-68.28003	S	HTL	BQ		BO				0		5	America/Kralendijk	2015-02-26
+10174009	Flamingo Airport (Historical)	Flamingo Airport (Historical)		12.18637	-68.26484	S	AIRQ	BQ		BO				0		23	America/Kralendijk	2015-03-26
+10174010	Nawati	Nawati		12.1811	-68.2775	P	PPLX	BQ		BO				0		21	America/Kralendijk	2015-03-26
+10174011	Republiek	Republiek		12.18345	-68.28303	P	PPLX	BQ		BO				0		20	America/Kralendijk	2015-03-26
+10236884	Happy Holiday Homes	Happy Holiday Homes		12.11862	-68.29216	S	HTL	BQ		BO				0		5	America/Kralendijk	2015-04-27
+10245817	The Lodge Bed And Breakfast	The Lodge Bed And Breakfast		12.1426	-68.2746	S	HTL	BQ		BO				0		6	America/Kralendijk	2015-05-07
+10288678	Queen S Garden Resort	Queen S Garden Resort		17.63	-63.25	S	HTL	BQ		SB				0		316	America/Kralendijk	2015-05-26
+10288690	Divi Flamingo Beach Resort and Casino	Divi Flamingo Beach Resort and Casino		12.14371	-68.27574	S	HTL	BQ		BO				0		5	America/Kralendijk	2015-05-26
+10288692	Buddy Drive Resort	Buddy Drive Resort		12.17128	-68.28805	S	HTL	BQ		BO				0		7	America/Kralendijk	2015-05-26
+10288696	Belmar Oceanfront Apartments	Belmar Oceanfront Apartments		12.13452	-68.2782	S	HTL	BQ		BO				0		6	America/Kralendijk	2015-05-26

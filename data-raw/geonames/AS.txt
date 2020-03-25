@@ -1,0 +1,996 @@
+5880735	Sogi	Sogi		-14.35417	-170.78361	P	PPL	AS		050				0	8	17	Pacific/Pago_Pago	2010-10-12
+5880736	Niuloa Point	Niuloa Point	Point Distress	-14.3	-170.67639	T	CAPE	AS		010				0	50	-9999	Pacific/Pago_Pago	2010-10-12
+5880737	Utulei	Utulei	Utulei,Утулеи	-14.28694	-170.68306	P	PPL	AS		010				683	126	123	Pacific/Pago_Pago	2010-10-12
+5880738	Solo Hill	Solo Hill		-14.28333	-170.68361	T	MT	AS		010				0	54	55	Pacific/Pago_Pago	2010-09-05
+5880739	Solo Point	Solo Point		-14.25639	-170.58333	T	CAPE	AS		010				0	126	127	Pacific/Pago_Pago	2010-10-12
+5880740	Afutele Stream	Afutele Stream		-14.33556	-170.81833	H	STM	AS		050				0	5	1	Pacific/Pago_Pago	2010-10-12
+5880741	Tāfeu Cove	Tafeu Cove	Tafeu Cove	-14.25694	-170.68944	H	BAY	AS		010				0	209	222	Pacific/Pago_Pago	2010-10-12
+5880742	Afu Stream	Afu Stream		-14.30667	-170.68778	H	STM	AS		010				0	3	19	Pacific/Pago_Pago	2010-10-12
+5880743	Aganoa	Aganoa		-14.27944	-170.57917	P	PPL	AS		010				0	21	1	Pacific/Pago_Pago	2010-10-12
+5880744	Afulei	Afulei		-14.28	-170.62389	P	PPL	AS		010				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5880745	Afuelo Stream	Afuelo Stream		-14.30417	-170.68278	H	STM	AS		010				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5880746	Afimuao Stream	Afimuao Stream		-14.25667	-170.58167	H	STM	AS		010				0	117	128	Pacific/Pago_Pago	2010-10-12
+5880747	Afono Elementary School	Afono Elementary School		-14.26333	-170.6525	S	SCH	AS		010				0	4	62	Pacific/Pago_Pago	2010-09-05
+5880748	Afimuao Ridge	Afimuao Ridge		-14.26222	-170.58194	T	RDGE	AS		010				0	63	86	Pacific/Pago_Pago	2010-10-12
+5880749	Afao	Afao		-14.33667	-170.79917	P	PPL	AS		050				0	4	107	Pacific/Pago_Pago	2010-10-12
+5880750	Aasu Stream	Aasu Stream		-14.29694	-170.75861	H	STM	AS		050				0	26	56	Pacific/Pago_Pago	2010-10-12
+5880751	A‘asufou	A'asufou		-14.32028	-170.76389	P	PPL	AS		050				0	352	387	Pacific/Pago_Pago	2014-10-08
+5880752	Aasu	Aasu	A`asu	-14.2975	-170.75833	P	PPL	AS		050				0	69	73	Pacific/Pago_Pago	2010-10-12
+5880753	Matautuloa Point	Matautuloa Point	Double Point,Mata`utuloa Point	-14.30472	-170.67944	T	CAPE	AS		010				0	6	-9999	Pacific/Pago_Pago	2010-10-12
+5880754	Agalua Rock	Agalua Rock		-14.28889	-170.73361	T	ISL	AS		010				0	238	264	Pacific/Pago_Pago	2010-10-12
+5880755	Āfono	Afono	Afono	-14.26417	-170.65083	P	PPL	AS		010				527	26	35	Pacific/Pago_Pago	2010-10-12
+5880756	Agaoleatu Point	Agaoleatu Point	Aga`oleatu Point	-14.28333	-170.55167	T	CAPE	AS		010				0	3	5	Pacific/Pago_Pago	2010-10-12
+5880757	Alofau	Alofau		-14.27917	-170.60222	P	PPL	AS		010				465	87	87	Pacific/Pago_Pago	2010-10-12
+5880758	Alaufau	Alaufau	Aloafao	-14.17167	-169.67889	P	PPL	AS		020				0	9	157	Pacific/Pago_Pago	2014-10-08
+5880759	Alei Stream	Alei Stream		-14.17417	-169.67833	H	STM	AS		020				0	3	157	Pacific/Pago_Pago	2010-10-12
+5880760	Aonoi Stream	Aonoi Stream		-14.26194	-170.595	H	STM	AS		010				0	173	178	Pacific/Pago_Pago	2010-10-12
+5880761	Agasavili Point	Agasavili Point		-14.27306	-170.71611	T	CAPE	AS		010				0	136	152	Pacific/Pago_Pago	2010-10-12
+5880762	Agaputuputu Stream	Agaputuputu Stream		-14.16833	-169.66639	H	STM	AS		020				0	129	141	Pacific/Pago_Pago	2010-10-12
+5880763	Agapie Cove	Agapie Cove		-14.26556	-170.70528	H	BAY	AS		010				0	288	295	Pacific/Pago_Pago	2010-10-12
+5880764	Alao	Alao		-14.2675	-170.56361	P	PPL	AS		010				508	5	-9999	Pacific/Pago_Pago	2010-10-12
+5880765	Alatele Cove	Alatele Cove		-14.35139	-170.72139	H	BAY	AS		050				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5880766	Agasii Stream	Agasii Stream		-14.2925	-170.72333	H	STM	AS		010				0	74	83	Pacific/Pago_Pago	2010-10-12
+5880767	Agatoavalu Rock	Agatoavalu Rock		-14.33722	-170.81694	T	ISL	AS		050				0	4	1	Pacific/Pago_Pago	2010-10-12
+5880768	Alataua-Lua Elementary School	Alataua-Lua Elementary School		-14.3325	-170.805	S	SCH	AS		050				0	8	136	Pacific/Pago_Pago	2010-09-05
+5880769	Alaeli Ridge	Alaeli Ridge		-14.30583	-170.80056	T	RDGE	AS		050				0	368	369	Pacific/Pago_Pago	2010-10-12
+5880770	Alei Ridge	Alei Ridge	`Ai`ei Ridge	-14.16611	-169.61361	T	RDGE	AS		020				0	298	310	Pacific/Pago_Pago	2010-10-12
+5880771	Alega Beach	Alega Beach		-14.285	-170.63639	T	BCH	AS		010				0	1	-9999	Pacific/Pago_Pago	2010-09-05
+5880772	Alega Stream	Alega Stream		-14.285	-170.63667	H	STM	AS		010				0	4	-9999	Pacific/Pago_Pago	2010-10-12
+5880773	Ālega	Alega	Alega	-14.28528	-170.6375	P	PPL	AS		010				0	8	-9999	Pacific/Pago_Pago	2010-10-12
+5880774	Alei Stream	Alei Stream		-14.17333	-169.60833	H	STM	AS		020				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5880775	Alava Mountain	Alava Mountain	Alava Peak,Mount Alava,Mount `Alava,`Alava Ridge	-14.27028	-170.68778	T	MT	AS		010				0	10	21	Pacific/Pago_Pago	2010-10-12
+5880776	Alegā Valley	Alega Valley	Alega Valley	-14.28472	-170.63639	T	VAL	AS		010				0	4	-9999	Pacific/Pago_Pago	2010-09-05
+5880777	Alili Spring	Alili Spring		-14.26806	-170.57222	H	SPNG	AS		010				0	100	99	Pacific/Pago_Pago	2010-10-12
+5880778	Alofau Elementary School	Alofau Elementary School		-14.27917	-170.60056	S	SCH	AS		010				0	6	111	Pacific/Pago_Pago	2010-09-05
+5880779	Afulei Stream	Afulei Stream		-14.27972	-170.62333	H	STM	AS		010				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5880780	Aga Stream	Aga Stream		-14.2825	-170.70528	H	STM	AS		010				0	119	132	Pacific/Pago_Pago	2010-10-12
+5880781	Agugulu	Agugulu		-14.33556	-170.82167	P	PPL	AS		050				0	-3	1	Pacific/Pago_Pago	2010-09-05
+5880782	Puaneva Point	Puaneva Point		-14.26167	-170.7025	T	CAPE	AS		010				0	142	166	Pacific/Pago_Pago	2010-10-12
+5880783	Logome Point	Logome Point		-14.32056	-170.70917	T	CAPE	AS		010				0	0	127	Pacific/Pago_Pago	2010-10-12
+5880784	A‘oloaufou	A'oloaufou	Aoloaufou	-14.31972	-170.76778	P	PPL	AS		050				0	435	411	Pacific/Pago_Pago	2014-10-08
+5880785	Faleselau Ridge	Faleselau Ridge		-14.22833	-169.51444	T	RDGE	AS		020				0	8	10	Pacific/Pago_Pago	2010-10-12
+5880786	Āfono Bay	Afono Bay	Afono Bay	-14.25667	-170.64889	H	BAY	AS		010				0	77	65	Pacific/Pago_Pago	2010-10-12
+5880787	Alofisau Point	Alofisau Point		-14.28556	-170.55889	T	CAPE	AS		010				0	4	5	Pacific/Pago_Pago	2010-10-12
+5880788	Amaile Ridge	Amaile Ridge		-14.30944	-170.69639	T	RDGE	AS		010				0	186	76	Pacific/Pago_Pago	2010-10-12
+5880789	Amalau (historical)	Amalau (historical)		-14.2575	-170.65833	P	PPLQ	AS		010				0	162	180	Pacific/Pago_Pago	2011-12-11
+5880790	Amaile Stream	Amaile Stream		-14.31556	-170.69639	H	STM	AS		010				0	4	50	Pacific/Pago_Pago	2010-10-12
+5880791	‘Āmanave	'Amanave	'Amanave,'Āmanave,Amanave	-14.33	-170.82944	P	PPL	AS		050				0	20	10	Pacific/Pago_Pago	2014-10-08
+5880792	Amalau Valley	Amalau Valley		-14.25778	-170.65722	T	VAL	AS		010				0	2	222	Pacific/Pago_Pago	2010-09-05
+5880793	Amaluia	Amaluia		-14.33833	-170.79111	P	PPL	AS		050				0	3	165	Pacific/Pago_Pago	2010-10-12
+5880794	Amanave Bay	Amanave Bay		-14.3325	-170.82889	H	BAY	AS		050				0	-3	7	Pacific/Pago_Pago	2010-10-12
+5880795	American Samoa Community College	American Samoa Community College		-14.32222	-170.74361	S	SCH	AS		050				0	47	62	Pacific/Pago_Pago	2010-09-05
+5880796	Amaua	Amaua		-14.27694	-170.62167	P	PPL	AS		010				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5880797	Amano Stream	Amano Stream		-14.27361	-170.65972	H	STM	AS		010				0	280	229	Pacific/Pago_Pago	2010-10-12
+5880798	Amate Stream	Amate Stream		-14.30194	-170.80917	H	STM	AS		050				0	111	103	Pacific/Pago_Pago	2010-10-12
+5880799	Āmouli	Amouli	Amouli	-14.27806	-170.5825	P	PPL	AS		010				0	2	1	Pacific/Pago_Pago	2010-10-12
+5880800	American Samoa Government Administration Building	American Samoa Government Administration Building		-14.28667	-170.6825	S	BLDG	AS		010				0	8	113	Pacific/Pago_Pago	2010-09-05
+5880801	American Samoa, Territory of	American Samoa, Territory of	Ameerika Samoa,American Samoa,Americhka Samoa,Americka Samoa,Americká Samoa,Amerihka Samoa,Amerihká Samoa,Amerika Samoa,Amerika Samoa nutome,Amerika Samoasi,Amerika Samoası,Amerikaans Samoa,Amerikaansch-Samoa,Amerikai Szamoa,Amerikan Samoa,Amerikan Samoasi,Amerikan Samoası,Amerikanike Samoa,Amerikanisch-Samoa,Amerikans'ke Samoa,Amerikansk Samoa,Amerikanska Samoa,Amerikanska Sámoa,Amerikansko Samoa,Amerikanskoe Samoa,Amerikanu Samoa,Amerikar Samoa,Amerikos Samoa,Amerikāņu Samoa,Ameriska Samoa,Amerisku Samoaeyjar,Američka Samoa,Ameriška Samoa,Amerykanskae Samoa,Amerísku Samóaeyjar,Amɛrika Samoa,Bandariska Samoa,Bandaríska Samóa,Eastern Samoa,GJao Somoa thuoc My,Ha'amoa 'Amelika,Haʻamoa ʻAmelika,Samo Meiriceanach,Samoa Americana,Samoa Americanaidd,Samoa Americane,Samoa Americană,Samoa Amerika,Samoa Amerikan,Samoa Amerikana,Samoa Amerykanskie,Samoa Amerykańskie,Samoa americaines,Samoa american,Samoa americana,Samoa amerikanina,Samoa américaines,Samoa wa Ameriki,Samoa ya Ameriki,Samoa ya Marekani,Samoa ye Amelika,Samoa ye Amerika,Samoani ti Orileede Amerika,Samoea ti Amerika,Samowa Ameerika,Samowa Amerik,Samowa Ta Amurka,Samowa amerikani,Samowa nyamerika,Samowa omumerika,Samòa americana,Samó Meiriceánach,Samöa tî Amerîka,Sámóánì ti Orílẹ́ède Àméríkà,amelikan samoa,amerikan samo'a,amerikan samova,amerikana samo'a,amerikana samoya,ameriki samo'a,amerikka camova,amryky samwa,i-American Samoa,mei shu sa mo ya,mi lingsamoa,miguglyeong samoa,samwa alamrykyt,samway amryka,xmerikan samaw,Đảo Somoa thuộc Mỹ,Αμερικανική Σαμόα,Американска Самоа,Американско Самоа,Американское Самоа,Американське Самоа,Америчка Самоа,Амерыканскае Самоа,סמואה האמריקנית,امریکی ساموآ,ساموا الأمريكية,ساموای ئەمەریکایی,ساموای امریکا,अमेरिकन सामोआ,अमेरिकी समोआ,আমেরিকান সামোয়া,અમેરીકન સમોઆ,ଆମେରିକାନ୍ ସାମୋଆ,அமெரிக்க சமோவா,అమెరికన్ సమోవా,ಅಮೇರಿಕನ್ ಸಮೋವಾ,അമേരിക്കന്‍ സാമോവ,ඇමරිකානු සැමෝවාව,อเมริกันซามัว,အမေရိကန် စမိုအ,ამერიკული სამოა,የአሜሪካ ሳሞአ,米領サモア,美属萨摩亚,미국령 사모아,아메리칸 사모아	-14.23377	-169.47767	A	TERR	AS	US	00				57881		765	Pacific/Pago_Pago	2017-09-11
+5880802	Amouli (historical)	Amouli (historical)		-14.27139	-169.49417	P	PPLQ	AS		020				0	2	111	Pacific/Pago_Pago	2014-10-08
+5880803	Anapeapea Cove	Anapeapea Cove	Anape`ape`a Cove	-14.25972	-170.64611	H	BAY	AS		010				0	188	218	Pacific/Pago_Pago	2010-10-12
+5880804	Amouli Stream	Amouli Stream		-14.17806	-169.67694	H	STM	AS		020				0	1	49	Pacific/Pago_Pago	2010-10-12
+5880805	Anapeapea Point	Anapeapea Point	Anape`ape`a Point	-14.27889	-170.62222	T	CAPE	AS		010				0	13	-9999	Pacific/Pago_Pago	2010-10-12
+5880806	Amuula Rock	Amuula Rock	`Amu`ula Rock	-14.27917	-170.6675	T	BAR	AS		010				0	-6	1	Pacific/Pago_Pago	2010-10-12
+5880807	Anapeapea Point	Anapeapea Point		-14.30583	-170.68389	T	CAPE	AS		010				0	50	19	Pacific/Pago_Pago	2010-10-12
+5880808	Anasosopo	Anasosopo		-14.28861	-170.66278	P	PPL	AS		010				0	3	22	Pacific/Pago_Pago	2010-10-12
+5880809	Anasosopo Point	Anasosopo Point		-14.28556	-170.66444	T	CAPE	AS		010				0	6	7	Pacific/Pago_Pago	2010-10-12
+5880810	Anasosopo Stream	Anasosopo Stream		-14.28806	-170.66361	H	STM	AS		010				0	0	8	Pacific/Pago_Pago	2010-10-12
+5880811	Aoloautuai (historical)	Aoloautuai (historical)	A`oloautuai,Aoloau	-14.30028	-170.78	P	PPLQ	AS		050				0	107	102	Pacific/Pago_Pago	2011-12-11
+5880812	Tafeta	Tafeta		-14.32556	-170.75167	P	PPL	AS		050				0	173	144	Pacific/Pago_Pago	2010-09-05
+5880813	Anua	Anua		-14.275	-170.68778	P	PPL	AS		010				0	25	-9999	Pacific/Pago_Pago	2010-10-12
+5880814	Apolima Point	Apolima Point		-14.34139	-170.78917	T	CAPE	AS		050				0	0	165	Pacific/Pago_Pago	2010-10-12
+5880815	Āsaga Strait	Asaga Strait	Asaga Strait	-14.25556	-170.62361	H	CHN	AS		010				0	2	1	Pacific/Pago_Pago	2010-10-12
+5880816	Asaga Strait	Asaga Strait	Le Asanga	-14.17389	-169.63028	H	CHN	AS		020				0	-3	295	Pacific/Pago_Pago	2010-10-12
+5880817	Asagatai Point	Asagatai Point		-14.17333	-169.63139	T	CAPE	AS		020				0	-3	295	Pacific/Pago_Pago	2010-10-12
+5880818	Asili	Asili		-14.33556	-170.79556	P	PPL	AS		050				0	11	107	Pacific/Pago_Pago	2010-10-12
+5880819	Asasama Point	Asasama Point		-14.27639	-170.60583	T	CAPE	AS		010				0	19	1	Pacific/Pago_Pago	2010-10-12
+5880820	‘Aoa	'Aoa	Aoa	-14.26556	-170.58389	P	PPL	AS		010				466	115	125	Pacific/Pago_Pago	2014-10-08
+5880821	Aualili Point	Aualili Point		-14.28444	-170.72194	T	CAPE	AS		010				0	9	10	Pacific/Pago_Pago	2010-10-12
+5880822	Asili Point	Asili Point		-14.33806	-170.79806	T	CAPE	AS		050				0	7	107	Pacific/Pago_Pago	2010-10-12
+5880823	Asili Stream	Asili Stream		-14.33611	-170.795	H	STM	AS		050				0	1	107	Pacific/Pago_Pago	2010-10-12
+5880824	Atauloma Girls School	Atauloma Girls School	Atauloma School	-14.33528	-170.80111	S	SCH	AS		050				0	26	-9999	Pacific/Pago_Pago	2010-10-12
+5880825	Atauloma Stream	Atauloma Stream		-14.33667	-170.80083	H	STM	AS		050				0	1	-9999	Pacific/Pago_Pago	2010-10-12
+5880826	Atu‘u	Atu'u	Atuu	-14.27444	-170.68472	P	PPL	AS		010				0	34	50	Pacific/Pago_Pago	2014-10-08
+5880827	Aoa Bay	Aoa Bay	`Aoa Bay	-14.25956	-170.58853	H	BAY	AS		010				0	16	1	Pacific/Pago_Pago	2016-12-07
+5880828	Aūa	Aua	Aua,`Ava Point	-14.27611	-170.66389	P	PPL	AS		010				2124	14	19	Pacific/Pago_Pago	2010-10-12
+5880829	Auasi	Auasi	Au`asi,`Au`asi	-14.27667	-170.57444	P	PPL	AS		010				0	7	-9999	Pacific/Pago_Pago	2010-10-12
+5880830	Auauli Cove	Auauli Cove	`Au`auli Cove *	-14.22083	-169.47389	H	BAY	AS		020				0	353	341	Pacific/Pago_Pago	2010-10-12
+5880831	Audii Stream	Audii Stream		-14.34139	-170.78528	H	STM	AS		050				0	6	12	Pacific/Pago_Pago	2010-10-12
+5880832	Aufotu Cove	Aufotu Cove		-14.26083	-169.4325	H	BAY	AS		020				0	6	3	Pacific/Pago_Pago	2010-10-12
+5880833	Aoloau	Aoloau		-14.31972	-170.77	P	PPL	AS		050				966	406	363	Pacific/Pago_Pago	2010-09-05
+5880834	Augaloloa Cove	Augaloloa Cove		-14.36639	-170.7375	H	BAY	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5880835	Auma	Auma	A`uma	-14.34083	-170.78639	P	PPL	AS		050				0	2	4	Pacific/Pago_Pago	2010-10-12
+5880836	Aumi	Aumi		-14.29194	-170.64667	P	PPL	AS		010				0	8	-9999	Pacific/Pago_Pago	2010-10-12
+5880837	Aunu‘u	Aunu'u	Aunuu	-14.28861	-170.55917	P	PPL	AS		010				0	1	1	Pacific/Pago_Pago	2014-10-08
+5880838	Aunu‘u Harbor	Aunu'u Harbor		-14.28806	-170.56	H	HBR	AS		010				0	-4	1	Pacific/Pago_Pago	2014-10-08
+5880839	Aunu‘u Elementary School	Aunu'u Elementary School		-14.29333	-170.55556	S	SCH	AS		010				0	1	-9999	Pacific/Pago_Pago	2014-10-08
+5880840	Fatuapule Point	Fatuapule Point		-14.35556	-170.7275	T	CAPE	AS		050				0	-6	-9999	Pacific/Pago_Pago	2010-10-12
+5880841	Auvai Stream	Auvai Stream	`Auvai Stream	-14.27389	-170.61417	H	STM	AS		010				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5880842	Aunuu Island	Aunuu Island	Aunu`u,Aunu`u Island,`Aunu`u	-14.28365	-170.5539	T	ISL	AS		010				0	39	41	Pacific/Pago_Pago	2016-12-07
+5880843	Auvaiola Stream	Auvaiola Stream		-14.28472	-170.59444	H	STM	AS		010				0	15	-9999	Pacific/Pago_Pago	2010-10-12
+5880844	Auto	Auto	`Auto *	-14.28306	-170.62694	P	PPL	AS		010				0	1	1	Pacific/Pago_Pago	2010-10-12
+5880845	Auvaipe Stream	Auvaipe Stream		-14.28472	-170.59361	H	STM	AS		010				0	11	-9999	Pacific/Pago_Pago	2010-10-12
+5880846	Aua Point	Aua Point	Ava Point	-14.28056	-170.66472	T	CAPE	AS		010				0	39	19	Pacific/Pago_Pago	2010-10-12
+5880847	Avagatatau Rock	Avagatatau Rock		-14.29361	-170.64917	T	ISL	AS		010				0	3	-9999	Pacific/Pago_Pago	2010-10-12
+5880848	Aunuu Island National Natural Landmark	Aunuu Island National Natural Landmark		-14.28889	-170.55306	L	PRK	AS		010				0	15	-9999	Pacific/Pago_Pago	2010-09-05
+5880849	Avau	Avau		-14.31083	-170.69278	P	PPL	AS		010				0	36	50	Pacific/Pago_Pago	2010-10-12
+5880850	Avaloa Point	Avaloa Point		-14.36583	-170.775	T	CAPE	AS		050				0	3	23	Pacific/Pago_Pago	2010-10-12
+5880851	Avapui Ridge	Avapui Ridge		-14.28528	-170.59694	T	RDGE	AS		010				0	57	-9999	Pacific/Pago_Pago	2010-10-12
+5880852	Avatele Passage	Avatele Passage		-14.32833	-170.70389	H	CHN	AS		010				0	3	5	Pacific/Pago_Pago	2010-10-12
+5880853	Etemuli Mountain	Etemuli Mountain	`Etemuli Mountain	-14.27083	-170.62972	T	MT	AS		010				0	142	170	Pacific/Pago_Pago	2010-10-12
+5880854	Avau Stream	Avau Stream		-14.31056	-170.69222	H	STM	AS		010				0	12	50	Pacific/Pago_Pago	2010-10-12
+5880855	Coconut Point	Coconut Point		-14.32389	-170.70111	T	CAPE	AS		010				0	0	50	Pacific/Pago_Pago	2010-10-12
+5880856	Avatele Cove	Avatele Cove		-14.22083	-169.46611	H	BAY	AS		020				0	361	399	Pacific/Pago_Pago	2010-10-12
+5880857	Avatele Point	Avatele Point		-14.32972	-170.69889	T	CAPE	AS		010				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5880858	Aoloau Bay	Aoloau Bay	A`oloau Bay	-14.2921	-170.78007	H	BAY	AS		050				0	39	87	Pacific/Pago_Pago	2016-12-07
+5880859	Autapini	Autapini		-14.27889	-170.6975	P	PPL	AS		010				0	208	241	Pacific/Pago_Pago	2010-10-12
+5880860	Avaio	Avaio		-14.28528	-170.63083	P	PPL	AS		010				0	8	-9999	Pacific/Pago_Pago	2010-10-12
+5880861	Faasouga Point	Faasouga Point	Fa`asouga Point *	-14.36778	-170.77111	T	CAPE	AS		050				0	5	-9999	Pacific/Pago_Pago	2010-10-12
+5880862	Faleoteine Point	Faleoteine Point		-14.29222	-170.73861	T	CAPE	AS		010				0	28	60	Pacific/Pago_Pago	2010-10-12
+5880863	Afuli Cove	Afuli Cove		-14.26444	-169.49722	H	BAY	AS		020				0	3	254	Pacific/Pago_Pago	2010-10-12
+5880864	WVUV-FM (Pago Pago)	WVUV-FM (Pago Pago)		-14.27028	-170.68667	S	TOWR	AS		010				0	10	21	Pacific/Pago_Pago	2010-10-12
+5880865	Breakers Point	Breakers Point	Breaker Point	-14.295	-170.66333	T	CAPE	AS		010				0	0	1	Pacific/Pago_Pago	2010-10-12
+5880866	Faasouga Point	Faasouga Point	Fa`asouga Point *	-14.24278	-169.51194	T	CAPE	AS		020				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5880867	Cape Taputapu National Natural Landmark	Cape Taputapu National Natural Landmark		-14.32639	-170.8425	L	PRK	AS		050				0	19	7	Pacific/Pago_Pago	2010-09-05
+5880868	‘Aoa Valley	'Aoa Valley		-14.26667	-170.58556	T	VAL	AS		010				0	99	82	Pacific/Pago_Pago	2014-10-08
+5880869	Blacklock Wharf (historical)	Blacklock Wharf (historical)		-14.27861	-170.69472	S	WHRF	AS		010				0	180	199	Pacific/Pago_Pago	2010-09-05
+5880870	‘Ili‘ili Golf Course	'Ili'ili Golf Course	Lava Lava Golf Course,`Ili`ili Golf Course	-14.34694	-170.74	S	RECG	AS		050				0	37	41	Pacific/Pago_Pago	2014-10-08
+5880871	Vaitele Stream	Vaitele Stream		-14.3225	-170.71611	H	STM	AS		050				0	6	13	Pacific/Pago_Pago	2010-10-12
+5880872	West Vaifanua County (historical)	West Vaifanua County (historical)		-14.25889	-170.67556	A	ADMD	AS		010	5880872			0	265	281	Pacific/Pago_Pago	2016-12-07
+5880873	Western District	Western District		-14.31667	-170.76667	A	ADM1	AS		050				32435	377	439	Pacific/Pago_Pago	2013-06-26
+5880874	Whale Rock	Whale Rock		-14.28574	-170.66992	T	ISL	AS		010				0	7	1	Pacific/Pago_Pago	2016-12-07
+5880875	Visa Stream	Visa Stream		-14.29139	-170.64333	H	STM	AS		010				0	4	1	Pacific/Pago_Pago	2010-10-12
+5880876	WVUV-AM (Leone)	WVUV-AM (Leone)		-14.35778	-170.77667	S	TOWR	AS		050				0	13	20	Pacific/Pago_Pago	2010-10-12
+5880877	Craggy Point	Craggy Point		-14.25333	-170.65139	T	CAPE	AS		010				0	7	1	Pacific/Pago_Pago	2010-10-12
+5880878	Vesitau Ridge	Vesitau Ridge		-14.30528	-170.74444	T	RDGE	AS		050				0	316	319	Pacific/Pago_Pago	2010-10-12
+5880879	Virgin Falls	Virgin Falls		-14.29278	-170.695	H	OVF	AS		010				0	132	267	Pacific/Pago_Pago	2010-09-05
+5880880	Visa Point	Visa Point		-14.29139	-170.6425	T	CAPE	AS		010				0	20	1	Pacific/Pago_Pago	2010-10-12
+5880881	Vatia	Vatia		-14.255	-170.67528	P	PPL	AS		010				0	65	74	Pacific/Pago_Pago	2010-10-12
+5880882	Vava Cove	Vava Cove		-14.32806	-170.84111	H	BAY	AS		050				0	6	1	Pacific/Pago_Pago	2010-10-12
+5880883	Vatia Bay	Vatia Bay	Vatia Anchorage	-14.25222	-170.67028	H	BAY	AS		010				0	25	31	Pacific/Pago_Pago	2010-10-12
+5880884	Vasaaiga	Vasaaiga	Vasa`aeiga,Vasa`äiga	-14.30556	-170.68611	P	PPL	AS		010				0	56	19	Pacific/Pago_Pago	2010-10-12
+5880885	Vaoaga Point	Vaoaga Point		-14.30361	-170.81111	T	CAPE	AS		050				0	188	184	Pacific/Pago_Pago	2010-10-12
+5880886	Va‘oto	Va'oto	Va`oto Marsh,Vaoto Marsh	-14.18833	-169.66944	H	SWMP	AS		020				0	9	151	Pacific/Pago_Pago	2014-10-08
+5880887	Vaotamu Rocks	Vaotamu Rocks		-14.25583	-170.58361	T	ISL	AS		010				0	99	99	Pacific/Pago_Pago	2010-10-12
+5880888	Faalefu Rock	Faalefu Rock		-14.26167	-170.59028	T	ISL	AS		010				0	10	0	Pacific/Pago_Pago	2010-10-12
+5880889	Faalaaga (historical)	Faalaaga (historical)	Fa`ala`aga	-14.17556	-169.64222	P	PPLQ	AS		020				0	2	-9999	Pacific/Pago_Pago	2014-10-08
+5880890	Etemuli Stream	Etemuli Stream		-14.18667	-169.60639	H	STM	AS		020				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5880891	Vaitogi	Vaitogi		-14.35889	-170.73472	P	PPL	AS		050				1436	16	-9999	Pacific/Pago_Pago	2010-10-12
+5880892	Vaitele Stream	Vaitele Stream		-14.29306	-170.65222	H	STM	AS		010				0	10	-9999	Pacific/Pago_Pago	2010-10-12
+5880893	Vaitele Stream	Vaitele Stream		-14.31889	-170.8325	H	STM	AS		050				0	96	109	Pacific/Pago_Pago	2010-10-12
+5880894	East Vaifanua County (historical)	East Vaifanua County (historical)		-14.27556	-170.58333	A	ADMD	AS		010	5880894			0	35	1	Pacific/Pago_Pago	2016-12-07
+5880895	Vaisa Stream	Vaisa Stream		-14.25667	-170.57972	H	STM	AS		010				0	136	153	Pacific/Pago_Pago	2010-10-12
+5880896	Vaitai Stream	Vaitai Stream		-14.34306	-170.76806	H	STM	AS		050				0	48	54	Pacific/Pago_Pago	2010-10-12
+5880897	Vaitele Point	Vaitele Point		-14.32194	-170.71194	T	CAPE	AS		010				0	0	127	Pacific/Pago_Pago	2010-10-12
+5880898	Vaitanoa Pool	Vaitanoa Pool		-14.29222	-170.69556	H	LK	AS		010				0	278	271	Pacific/Pago_Pago	2010-10-12
+5880899	Vaita Point	Vaita Point		-14.25444	-169.50417	T	CAPE	AS		020				0	-3	0	Pacific/Pago_Pago	2010-10-12
+5880900	Faalagiumu Point	Faalagiumu Point	Fa`alagiumu Point	-14.33583	-170.82056	T	CAPE	AS		050				0	-1	1	Pacific/Pago_Pago	2010-10-12
+5880901	Vaitele Point	Vaitele Point		-14.24639	-169.50861	T	CAPE	AS		020				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5880902	Vaisa Stream	Vaisa Stream		-14.25722	-170.69444	H	STM	AS		010				0	182	221	Pacific/Pago_Pago	2010-10-12
+5880903	Vaisa Stream	Vaisa Stream		-14.30806	-170.8225	H	STM	AS		050				0	62	71	Pacific/Pago_Pago	2010-10-12
+5880904	Vaisina Stream	Vaisina Stream		-14.29444	-170.65694	H	STM	AS		010				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5880905	Vaisigano Point	Vaisigano Point		-14.33861	-170.79861	T	CAPE	AS		050				0	-3	107	Pacific/Pago_Pago	2010-10-12
+5880906	Vaisaili Point	Vaisaili Point	Vaisae`ili Point,Vaisä`ili Point	-14.19194	-169.61583	T	CAPE	AS		020				0	9	-9999	Pacific/Pago_Pago	2010-10-12
+5880907	Faalogo Stream	Faalogo Stream		-14.36417	-170.7775	H	STM	AS		050				0	-2	16	Pacific/Pago_Pago	2010-10-12
+5880908	Vaisa Stream	Vaisa Stream		-14.27611	-170.57222	H	STM	AS		010				0	1	-9999	Pacific/Pago_Pago	2010-10-12
+5880909	Faataaga Point	Faataaga Point	Fa`ata`aga Point *	-14.29556	-170.6625	T	CAPE	AS		010				0	-5	1	Pacific/Pago_Pago	2010-10-12
+5880910	Vaisa Stream	Vaisa Stream		-14.29972	-170.78028	H	STM	AS		050				0	53	102	Pacific/Pago_Pago	2010-10-12
+5880911	Faatafe Stream	Faatafe Stream		-14.25639	-170.67278	H	STM	AS		010				0	2	80	Pacific/Pago_Pago	2010-10-12
+5880912	Faatafa Rocks	Faatafa Rocks	Fa`atafa Rocks	-14.31556	-170.83278	T	ISL	AS		050				0	28	40	Pacific/Pago_Pago	2010-10-12
+5880913	Fafaga Point	Fafaga Point		-14.29833	-170.80667	T	CAPE	AS		050				0	80	113	Pacific/Pago_Pago	2010-10-12
+5880914	Vaisa Point	Vaisa Point		-14.25583	-170.69417	T	CAPE	AS		010				0	172	188	Pacific/Pago_Pago	2010-10-12
+5880915	Vaipuna Stream	Vaipuna Stream		-14.33861	-170.79083	H	STM	AS		050				0	0	165	Pacific/Pago_Pago	2010-10-12
+5880916	Faga Point	Faga Point		-14.30806	-170.82333	T	CAPE	AS		050				0	43	58	Pacific/Pago_Pago	2010-10-12
+5880917	Vaipito Stream	Vaipito Stream		-14.27806	-170.70167	H	STM	AS		010				0	5	174	Pacific/Pago_Pago	2010-10-12
+5880918	Vaipito Stream	Vaipito Stream		-14.26361	-170.60472	H	STM	AS		010				0	96	105	Pacific/Pago_Pago	2010-10-12
+5880919	Faga‘alu Bay	Faga'alu Bay		-14.29583	-170.67972	H	BAY	AS		010				0	82	112	Pacific/Pago_Pago	2014-10-08
+5880920	Faga Cove	Faga Cove		-14.24778	-169.50667	H	BAY	AS		020				0	-3	8	Pacific/Pago_Pago	2010-10-12
+5880921	Faga‘itua	Faga'itua	Fagaitua	-14.27194	-170.61194	P	PPL	AS		010				0	23	1	Pacific/Pago_Pago	2014-10-08
+5880922	Vaipito Valley	Vaipito Valley		-14.27861	-170.70333	T	VAL	AS		010				0	103	123	Pacific/Pago_Pago	2010-10-12
+5880923	Fagailiili Point	Fagailiili Point	Faga`ili`ili Point	-14.28556	-170.62833	T	CAPE	AS		010				0	8	-9999	Pacific/Pago_Pago	2010-10-12
+5880924	Tafe Stream	Tafe Stream		-14.16889	-169.66389	H	STM	AS		020				0	156	165	Pacific/Pago_Pago	2010-10-12
+5880925	Vaiolefuga Stream	Vaiolefuga Stream		-14.29639	-170.79611	H	STM	AS		050				0	149	160	Pacific/Pago_Pago	2010-10-12
+5880926	Vaiola Stream	Vaiola Stream		-14.25278	-170.66417	H	STM	AS		010				0	282	271	Pacific/Pago_Pago	2010-10-12
+5880927	Vainuulua Stream	Vainuulua Stream		-14.17028	-169.65778	H	STM	AS		020				0	1	278	Pacific/Pago_Pago	2010-10-12
+5880928	Vainuu Point	Vainuu Point	Vaeinu`u Point,Väinu`u Point	-14.25417	-170.64389	T	CAPE	AS		010				0	97	89	Pacific/Pago_Pago	2010-10-12
+5880929	Faga‘itua	Faga'itua	Faga`itua Bay,Fagaitua Bay	-14.27972	-170.61222	H	BAY	AS		010				0	-3	1	Pacific/Pago_Pago	2014-10-08
+5880930	Vaiola Point	Vaiola Point		-14.28917	-170.63806	T	CAPE	AS		010				0	17	-9999	Pacific/Pago_Pago	2010-10-12
+5880931	Fagalea	Fagalea	Fagale`a,Fangalea	-14.28917	-170.71861	P	PPL	AS		010				0	128	126	Pacific/Pago_Pago	2010-10-12
+5880932	Vainuu Mountain	Vainuu Mountain	Vaeinu`u Mountain,Väinu`u Mountain	-14.25611	-170.62722	T	MT	AS		010				0	106	1	Pacific/Pago_Pago	2010-10-12
+5880933	Vaimumu Stream	Vaimumu Stream		-14.26611	-170.56278	H	STM	AS		010				0	10	-9999	Pacific/Pago_Pago	2010-10-12
+5880934	Vaiava Strait	Vaiava Strait		-14.24361	-170.66944	H	CHN	AS		010				0	11	-9999	Pacific/Pago_Pago	2010-10-12
+5880935	Vaima Stream	Vaima Stream		-14.28583	-170.70944	H	STM	AS		010				0	150	168	Pacific/Pago_Pago	2010-10-12
+5880936	Vailoa Stream	Vailoa Stream		-14.28694	-170.68111	H	STM	AS		010				0	112	97	Pacific/Pago_Pago	2010-10-12
+5880937	Vailoloatele Cove	Vailoloatele Cove		-14.27333	-169.48111	H	BAY	AS		020				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5880938	Vailoloaitiiti Cove	Vailoloaitiiti Cove		-14.27694	-169.48528	H	BAY	AS		020				0	10	-9999	Pacific/Pago_Pago	2010-10-12
+5880939	Vailoatai Crater	Vailoatai Crater		-14.36278	-170.78	T	CRTR	AS		050				0	19	16	Pacific/Pago_Pago	2010-10-12
+5880940	Fagaleoo Point	Fagaleoo Point	Fagaleo`o Point *	-14.35306	-170.72611	T	CAPE	AS		050				0	1	-9999	Pacific/Pago_Pago	2010-10-12
+5880941	Fagalea Point	Fagalea Point	Fagale`a Point	-14.30583	-170.82083	T	CAPE	AS		050				0	125	139	Pacific/Pago_Pago	2010-10-12
+5880942	Fagalua Cove	Fagalua Cove		-14.36639	-170.75222	H	BAY	AS		050				0	-3	13	Pacific/Pago_Pago	2010-10-12
+5880943	Vailolo Stream	Vailolo Stream		-14.30139	-170.78111	H	STM	AS		050				0	126	148	Pacific/Pago_Pago	2010-10-12
+5880944	Vailoatai	Vailoatai	Vailoa	-14.36111	-170.78222	P	PPL	AS		050	5881085			1144	7	16	Pacific/Pago_Pago	2014-10-08
+5880945	Vailega Spring	Vailega Spring		-14.22194	-169.48222	H	SPNG	AS		020				0	66	256	Pacific/Pago_Pago	2010-10-12
+5880946	Fagali‘i	Fagali'i	Fagalii,Fangali`i	-14.31222	-170.82472	P	PPL	AS		050				0	113	110	Pacific/Pago_Pago	2014-10-08
+5880947	Vailoa Stream	Vailoa Stream		-14.25778	-170.56556	H	STM	AS		010				0	61	65	Pacific/Pago_Pago	2010-10-12
+5880948	Fagamalo	Fagamalo	Fangamalo	-14.30361	-170.80889	P	PPL	AS		050				0	195	194	Pacific/Pago_Pago	2010-10-12
+5880949	Fagaoo Point	Fagaoo Point	Fagao`o Point	-14.32972	-170.83611	T	CAPE	AS		050				0	22	1	Pacific/Pago_Pago	2010-10-12
+5880950	Vaifusi Stream	Vaifusi Stream		-14.26861	-170.56722	H	STM	AS		010				0	9	27	Pacific/Pago_Pago	2010-10-12
+5880951	Fagaone Point	Fagaone Point		-14.33611	-170.81528	T	CAPE	AS		050				0	23	-9999	Pacific/Pago_Pago	2010-10-12
+5880952	Vaialufai Stream	Vaialufai Stream		-14.27278	-170.61056	H	STM	AS		010				0	1	1	Pacific/Pago_Pago	2010-10-12
+5880953	Vaialili Stream	Vaialili Stream		-14.26917	-170.56722	H	STM	AS		010				0	17	13	Pacific/Pago_Pago	2010-10-12
+5880954	Vaiava Strait National Natural Landmark	Vaiava Strait National Natural Landmark		-14.24361	-170.67	L	PRK	AS		010				0	9	-9999	Pacific/Pago_Pago	2010-09-05
+5880955	Fagasā	Fagasa	Fagasa Bay,Forbidden Bay	-14.28833	-170.72444	H	BAY	AS		010				0	9	6	Pacific/Pago_Pago	2010-10-12
+5880956	Vaiala	Vaiala		-14.34611	-170.77861	P	PPL	AS		050				0	20	31	Pacific/Pago_Pago	2010-10-12
+5880957	Vaialae Stream	Vaialae Stream	Vai`alae Stream	-14.33306	-170.81306	H	STM	AS		050				0	5	75	Pacific/Pago_Pago	2010-10-12
+5880958	Vai Cove	Vai Cove		-14.34444	-170.71944	H	BAY	AS		050				0	6	-9999	Pacific/Pago_Pago	2010-10-12
+5880959	Vaaui Stream	Vaaui Stream	Va`aui Stream	-14.17667	-169.60861	H	STM	AS		020				0	1	148	Pacific/Pago_Pago	2010-10-12
+5880960	Vaea Hill	Vaea Hill		-14.27	-170.56556	T	MT	AS		010				0	16	17	Pacific/Pago_Pago	2010-10-12
+5880961	Vaiala Ridge	Vaiala Ridge		-14.32889	-170.80417	T	RDGE	AS		050				0	57	60	Pacific/Pago_Pago	2010-10-12
+5880962	Fagasā Pass	Fagasa Pass	Fagasa Pass	-14.28861	-170.71167	T	GAP	AS		010				0	185	355	Pacific/Pago_Pago	2010-09-05
+5880963	Tafananai	Tafananai		-14.2925	-170.66222	P	PPL	AS		010				0	1	1	Pacific/Pago_Pago	2010-10-12
+5880964	Pupualoa Point	Pupualoa Point	Leone Point	-14.36139	-170.78417	T	CAPE	AS		050				0	-3	5	Pacific/Pago_Pago	2010-10-12
+5880965	Sepu Ridge	Sepu Ridge		-14.33472	-170.79806	T	RDGE	AS		050				0	94	107	Pacific/Pago_Pago	2010-10-12
+5880966	Ututafa Point	Ututafa Point		-14.28833	-170.6775	T	CAPE	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5880967	Vaaogeoge Cove	Vaaogeoge Cove	Va`aoneone Cove	-14.25167	-170.68417	H	BAY	AS		010				0	181	174	Pacific/Pago_Pago	2010-10-12
+5880968	Utusegisegi Cove	Utusegisegi Cove		-14.225	-169.51556	H	BAY	AS		020				0	9	7	Pacific/Pago_Pago	2010-10-12
+5880969	Utusiva Rock	Utusiva Rock		-14.33139	-170.82944	T	ISL	AS		050				0	14	7	Pacific/Pago_Pago	2010-10-12
+5880970	Utusia	Utusia	Utusi`a	-14.27583	-170.61861	P	PPL	AS		010				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5880971	Fogamaa Cove	Fogamaa Cove	Fogama`a Cove *	-14.36556	-170.74917	H	BAY	AS		050				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5880972	Puatauapa Point	Puatauapa Point		-14.36889	-170.74333	T	CAPE	AS		050				0	-1	-9999	Pacific/Pago_Pago	2010-10-12
+5880973	Puna Stream	Puna Stream		-14.32083	-170.74917	H	STM	AS		050				0	159	179	Pacific/Pago_Pago	2010-10-12
+5880974	Folau Point	Folau Point		-14.25917	-170.6025	T	CAPE	AS		010				0	89	105	Pacific/Pago_Pago	2010-10-12
+5880975	Puna Spring	Puna Spring		-14.27639	-170.70333	H	SPNG	AS		010				0	61	71	Pacific/Pago_Pago	2010-10-12
+5880976	Puna Stream	Puna Stream		-14.26611	-170.58361	H	STM	AS		010				0	137	139	Pacific/Pago_Pago	2010-10-12
+5880977	Punaomanuia Stream	Punaomanuia Stream		-14.27472	-170.60611	H	STM	AS		010				0	4	1	Pacific/Pago_Pago	2010-10-12
+5880978	Fogamutia Point	Fogamutia Point		-14.22556	-169.41778	T	CAPE	AS		020				0	1	-9999	Pacific/Pago_Pago	2010-10-12
+5880979	Cape Fogausa	Cape Fogausa	Cape Fogauso,Kap Fongausa	-14.28083	-170.60386	T	CAPE	AS		010				0	9	19	Pacific/Pago_Pago	2016-12-07
+5880980	Puna Stream	Puna Stream		-14.32944	-170.82944	H	STM	AS		050				0	6	12	Pacific/Pago_Pago	2010-10-12
+5880981	Fogamaa Crater National Natural Landmark	Fogamaa Crater National Natural Landmark		-14.36194	-170.75222	L	PRK	AS		050				0	24	13	Pacific/Pago_Pago	2010-09-05
+5880982	Punaloa Spring	Punaloa Spring		-14.34083	-170.78278	H	SPNG	AS		050				0	19	27	Pacific/Pago_Pago	2010-10-12
+5880983	Punaoa Valley	Punaoa Valley	Puna`oa Valley	-14.28861	-170.68	T	VAL	AS		010				0	4	11	Pacific/Pago_Pago	2010-10-12
+5880984	Se‘etaga	Se'etaga	Se`etana,Seetaga,Seetuga	-14.33056	-170.81056	P	PPL	AS		050				0	6	75	Pacific/Pago_Pago	2014-10-08
+5880985	Saint Theresas Girls School	Saint Theresas Girls School		-14.34389	-170.78333	S	SCH	AS		050				0	20	26	Pacific/Pago_Pago	2010-10-12
+5880986	Rose Atoll National Wildlife Refuge	Rose Atoll National Wildlife Refuge	Rose Island National Wildlife Refuge	-14.54529	-168.15593	L	PRK	AS		030				0		-9999	Pacific/Pago_Pago	2014-10-08
+5880987	Red Lake	Red Lake		-14.28833	-170.54944	H	LK	AS		010				0	2	24	Pacific/Pago_Pago	2010-09-05
+5880988	Rainmaker Mountain National Natural Landmark	Rainmaker Mountain National Natural Landmark		-14.27639	-170.65306	L	PRK	AS		010				0	515	171	Pacific/Pago_Pago	2010-09-05
+5880989	Rainmaker Pass	Rainmaker Pass		-14.27194	-170.65389	T	GAP	AS		010				0	256	502	Pacific/Pago_Pago	2010-09-05
+5880990	Rose Island	Rose Island	Kordinkoff,Kordiukoff,Kordyukov,Kórdyukov,Muliava,Nu`u O Manu,Rose Atoll,Rose Islet	-14.5475	-168.14139	T	ISL	AS		030				0		-9999	Pacific/Pago_Pago	2010-10-12
+5880991	Rex H Lee Auditorium	Rex H Lee Auditorium		-14.28361	-170.68194	S	BLDG	AS		010				0	7	20	Pacific/Pago_Pago	2010-09-05
+5880992	Rocky Point	Rocky Point		-14.33667	-170.82806	T	ISL	AS		050				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5880993	Saint Francis School for Girls	Saint Francis School for Girls		-14.27306	-170.67333	S	SCH	AS		010				0	15	8	Pacific/Pago_Pago	2010-09-05
+5880994	Sagamea Stream	Sagamea Stream		-14.31583	-170.70528	H	STM	AS		010				0	1	167	Pacific/Pago_Pago	2010-10-12
+5880996	Saafelo Point	Saafelo Point		-14.29056	-170.72417	T	CAPE	AS		010				0	25	35	Pacific/Pago_Pago	2010-10-12
+5880997	Saililagi Ridge	Saililagi Ridge		-14.26139	-170.56583	T	RDGE	AS		010				0	36	33	Pacific/Pago_Pago	2010-10-12
+5880998	Sa‘ilele	Sa'ilele	Sailele	-14.26222	-170.59639	P	PPL	AS		010				0	142	154	Pacific/Pago_Pago	2014-10-08
+5880999	Sail Rock Point	Sail Rock Point		-14.37028	-170.74056	T	CAPE	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881000	Fiti‘uta Point	Fiti'uta Point	Fitiuta Point	-14.21694	-169.42639	T	CAPE	AS		020				0	65	70	Pacific/Pago_Pago	2014-10-08
+5881001	Satala	Satala		-14.27124	-170.69222	P	PPL	AS		010				0	3	8	Pacific/Pago_Pago	2016-12-07
+5881002	Samoa Islands	Samoa Islands	Bauman Islands,Baumann Islands,Iles des Navigateurs,Isole Dei Navigatori,Navigator Islands,Navigator's Islands,Navigators Islands,Samoa,Samoa americaine,Samoan Islands	-14	-171	T	ISL	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-09-05
+5881003	Salevatia Point	Salevatia Point		-14.29083	-170.56	T	CAPE	AS		010				0	0	1	Pacific/Pago_Pago	2010-10-12
+5881004	Samituutuu Point	Samituutuu Point	Samitu`utu`u Point	-14.25889	-170.70139	T	CAPE	AS		010				0	193	186	Pacific/Pago_Pago	2010-10-12
+5881005	Sand Island	Sand Island		-14.5375	-168.14889	T	ISL	AS		030				0		-9999	Pacific/Pago_Pago	2010-10-12
+5881006	Samoana High School	Samoana High School		-14.28417	-170.6825	S	SCH	AS		010				0	10	86	Pacific/Pago_Pago	2010-09-05
+5881007	Samoi (historical)	Samoi (historical)		-14.16583	-169.67194	P	PPLQ	AS		020				0	227	231	Pacific/Pago_Pago	2011-12-11
+5881008	Saumolia Stream	Saumolia Stream		-14.17611	-169.67778	H	STM	AS		020				0	1	0	Pacific/Pago_Pago	2010-10-12
+5881009	Puputagi Point	Puputagi Point		-14.25972	-170.60722	T	CAPE	AS		010				0	43	72	Pacific/Pago_Pago	2010-10-12
+5881010	Saua (historical)	Saua (historical)		-14.24139	-169.42	P	PPLQ	AS		020				0	2	-9999	Pacific/Pago_Pago	2014-10-08
+5881011	Sauaimoe Stream	Sauaimoe Stream		-14.33083	-170.81056	H	STM	AS		050				0	5	75	Pacific/Pago_Pago	2010-10-12
+5881012	Sauma Ridge	Sauma Ridge		-14.25389	-170.66167	T	RDGE	AS		010				0	146	182	Pacific/Pago_Pago	2010-10-12
+5881013	Sauino Stream	Sauino Stream		-14.32139	-170.71528	H	STM	AS		050				0	2	8	Pacific/Pago_Pago	2010-10-12
+5881014	Fogalilimu Stream	Fogalilimu Stream		-14.27861	-170.60278	H	STM	AS		010				0	75	55	Pacific/Pago_Pago	2010-10-12
+5881015	Fatutoaga Rock	Fatutoaga Rock	Fatuto`aga Rock *,Pyramid Rock	-14.29444	-170.65083	T	ISL	AS		010				0	-2	-9999	Pacific/Pago_Pago	2010-10-12
+5881016	Sinamanoo Point	Sinamanoo Point	Sinamano`o Point	-14.33889	-170.79306	T	CAPE	AS		050				0	5	107	Pacific/Pago_Pago	2010-10-12
+5881017	Fitiuta	Fitiuta	Aga`e,FTI,Fiti'uta,Fiti`uta Village,Fitiuta,Fiti‘uta	-14.21675	-169.42493	P	PPL	AS		020				0	101	44	Pacific/Pago_Pago	2015-05-02
+5881018	Si‘ufaga	Si'ufaga	Siufaga	-14.27917	-170.58528	P	PPL	AS		010				0	4	1	Pacific/Pago_Pago	2014-10-08
+5881019	Seumalo Ridge	Seumalo Ridge		-14.36444	-170.76611	T	RDGE	AS		050				0	134	22	Pacific/Pago_Pago	2010-10-12
+5881020	Si‘ufaga	Si'ufaga	Siufaga	-14.275	-170.69889	P	PPL	AS		010				0	17	28	Pacific/Pago_Pago	2014-10-08
+5881021	Sigaloa Stream	Sigaloa Stream		-14.34056	-170.76639	H	STM	AS		050				0	43	53	Pacific/Pago_Pago	2010-10-12
+5881022	Siapapa Stream	Siapapa Stream		-14.27278	-170.61306	H	STM	AS		010				0	1	1	Pacific/Pago_Pago	2010-10-12
+5881023	Fitiuta Elementary School	Fitiuta Elementary School		-14.22139	-169.42389	S	SCH	AS						0	40	137	Pacific/Pago_Pago	2010-09-05
+5881024	Filivili Stream	Filivili Stream		-14.28278	-170.70583	H	STM	AS		010				0	121	134	Pacific/Pago_Pago	2010-10-12
+5881025	Siliataligalu Point	Siliataligalu Point	Sili`ataligalu Point *	-14.29111	-170.63889	T	CAPE	AS		010				0	19	-9999	Pacific/Pago_Pago	2010-10-12
+5881026	Sili	Sili		-14.16944	-169.61889	P	PPL	AS		020				0	525	473	Pacific/Pago_Pago	2011-01-10
+5881027	Siliaga Point	Siliaga Point	Sili`aga Point	-14.2925	-170.76056	T	CAPE	AS		050				0	12	30	Pacific/Pago_Pago	2010-10-12
+5881028	Sina Stream	Sina Stream		-14.30389	-170.67861	H	STM	AS		010				0	18	-9999	Pacific/Pago_Pago	2010-10-12
+5881029	Sina Fall	Sina Fall		-14.34167	-170.77639	H	OVF	AS		050				0	36	41	Pacific/Pago_Pago	2010-10-12
+5881030	Sina Ridge	Sina Ridge		-14.29889	-170.68611	T	RDGE	AS		010				0	76	58	Pacific/Pago_Pago	2010-10-12
+5881031	Siufaga Stream	Siufaga Stream		-14.28056	-170.58611	H	STM	AS		010				0	1	1	Pacific/Pago_Pago	2010-10-12
+5881032	Feia Point	Feia Point	Fei`a Point	-14.16389	-169.67861	T	CAPE	AS		020				0	69	79	Pacific/Pago_Pago	2010-10-12
+5881033	Sinapoto Stream	Sinapoto Stream		-14.17639	-169.60917	H	STM	AS		020				0	147	159	Pacific/Pago_Pago	2010-10-12
+5881034	Sinapioa Mountain	Sinapioa Mountain		-14.27833	-170.65028	T	MT	AS		010				0	138	155	Pacific/Pago_Pago	2010-10-12
+5881035	Sinapoto Point	Sinapoto Point		-14.16722	-169.66722	T	CAPE	AS		020				0	111	130	Pacific/Pago_Pago	2010-10-12
+5881036	Sinavevela Stream	Sinavevela Stream		-14.26194	-170.56222	H	STM	AS		010				0	11	0	Pacific/Pago_Pago	2010-10-12
+5881037	Feleti Pacific Library	Feleti Pacific Library		-14.28222	-170.68361	S	LIBR	AS		010				0	7	18	Pacific/Pago_Pago	2010-09-05
+5881038	Sinatau Point	Sinatau Point		-14.28889	-170.60056	T	CAPE	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881039	Siufaga Point	Siufaga Point		-14.28639	-170.72278	T	CAPE	AS		010				0	0	229	Pacific/Pago_Pago	2010-10-12
+5881040	Si‘u Point	Si'u Point	Siu Point	-14.26222	-169.26139	T	CAPE	AS		020				0	2	-9999	Pacific/Pago_Pago	2014-10-08
+5881041	Siona Mountain	Siona Mountain		-14.28417	-170.69722	T	MT	AS		010				0	274	297	Pacific/Pago_Pago	2010-10-12
+5881042	Sita Bay	Sita Bay		-14.29444	-170.74	H	BAY	AS		010				0	139	128	Pacific/Pago_Pago	2010-10-12
+5881043	Si‘ufaga	Si'ufaga	Siufaga	-14.24083	-169.51167	P	PPL	AS		020				0	8	49	Pacific/Pago_Pago	2014-10-08
+5881044	Siuai Point	Siuai Point	Si`ua`i Point	-14.22389	-169.51417	T	CAPE	AS		020				0	54	48	Pacific/Pago_Pago	2010-10-12
+5881045	Si‘ufa‘alele	Si'ufa'alele	Kap Amouli,Si`ufa`alele Point,Siufaalele Point	-14.27722	-169.48694	T	CAPE	AS		020				0	43	-9999	Pacific/Pago_Pago	2014-10-08
+5881046	Siulepa Ridge	Siulepa Ridge		-14.33333	-170.82778	T	RDGE	AS		050				0	15	7	Pacific/Pago_Pago	2010-10-12
+5881047	Siufagatele Point	Siufagatele Point	Si`ufagatele Point	-14.27944	-170.72222	T	CAPE	AS		010				0	19	44	Pacific/Pago_Pago	2010-10-12
+5881048	Si‘ulagi	Si'ulagi	Kap Siulangi,Si`ulagi Point,Siulagi Point	-14.21778	-169.50556	T	CAPE	AS		020				0	33	34	Pacific/Pago_Pago	2014-10-08
+5881049	Siuono Ridge	Siuono Ridge	Si`uono Ridge	-14.2525	-170.68	T	RDGE	AS		010				0	122	124	Pacific/Pago_Pago	2010-10-12
+5881050	Tiaseu Ridge	Tiaseu Ridge		-14.28083	-170.64528	T	RDGE	AS		010				0	165	180	Pacific/Pago_Pago	2010-10-12
+5881051	Toiloto Ridge	Toiloto Ridge		-14.26	-170.56806	T	RDGE	AS		010				0	91	92	Pacific/Pago_Pago	2010-10-12
+5881052	Vaifoa Cove	Vaifoa Cove		-14.35389	-170.72722	H	BAY	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881053	Vaitolu Stream	Vaitolu Stream		-14.26694	-170.58833	H	STM	AS		010				0	40	52	Pacific/Pago_Pago	2010-10-12
+5881055	Utumea East	Utumea East		-14.27583	-170.56833	P	PPL	AS		010				0	6	-9999	Pacific/Pago_Pago	2010-09-05
+5881056	Utunonu Point	Utunonu Point		-14.35361	-170.78583	T	CAPE	AS		050				0	0	31	Pacific/Pago_Pago	2010-10-12
+5881057	Utumea West	Utumea West		-14.33417	-170.81722	P	PPL	AS		050				0	74	1	Pacific/Pago_Pago	2010-09-05
+5881058	Utumoa Stream	Utumoa Stream		-14.28417	-170.7075	H	STM	AS		010				0	98	108	Pacific/Pago_Pago	2010-10-12
+5881059	Fagatele Bay	Fagatele Bay	Fanga Pui	-14.37028	-170.76361	H	BAY	AS		050				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5881060	Utumea	Utumea	Utumea East	-14.27583	-170.56917	P	PPL	AS		010				0	7	-9999	Pacific/Pago_Pago	2010-10-12
+5881061	Utumea	Utumea		-14.33361	-170.81389	P	PPL	AS		050				0	9	-9999	Pacific/Pago_Pago	2010-10-12
+5881062	Utumatuu Rock	Utumatuu Rock		-14.32972	-170.83694	T	ISL	AS		050				0	2	1	Pacific/Pago_Pago	2010-10-12
+5881063	Utuloa Ridge	Utuloa Ridge		-14.26028	-170.61306	T	RDGE	AS		010				0	118	112	Pacific/Pago_Pago	2010-10-12
+5881064	Utumanu‘a Point	Utumanu'a Point	Utu Manua,Utumanua Point	-14.22583	-169.51722	T	CAPE	AS		020				0	8	1	Pacific/Pago_Pago	2014-10-08
+5881065	Fagatele Crater	Fagatele Crater		-14.36472	-170.7625	T	CRTR	AS		050				0	106	22	Pacific/Pago_Pago	2010-10-12
+5881066	Utuloa	Utuloa		-14.26444	-170.61722	P	PPL	AS		010				0	118	147	Pacific/Pago_Pago	2010-10-12
+5881067	Utanuatele Stream	Utanuatele Stream		-14.32806	-170.81028	H	STM	AS		050				0	32	75	Pacific/Pago_Pago	2010-10-12
+5881068	Utufotu Rocks	Utufotu Rocks		-14.32444	-170.83944	T	ISL	AS		050				0	9	11	Pacific/Pago_Pago	2010-10-12
+5881069	Utulaina Point	Utulaina Point	Motusaga Point	-14.30972	-170.68944	T	CAPE	AS		010				0	17	-9999	Pacific/Pago_Pago	2010-10-12
+5881070	Utulelei Ridge	Utulelei Ridge		-14.29	-170.68361	T	RDGE	AS		010				0	4	13	Pacific/Pago_Pago	2010-10-12
+5881071	Utulaina Stream	Utulaina Stream		-14.31	-170.69028	H	STM	AS		010				0	46	-9999	Pacific/Pago_Pago	2010-10-12
+5881072	Utulei Beach Park	Utulei Beach Park		-14.28528	-170.68139	L	PRK	AS		010				0	2	35	Pacific/Pago_Pago	2010-09-05
+5881073	Fagatele Bay National Marine Sanctuary	Fagatele Bay National Marine Sanctuary		-14.36889	-170.76306	L	PRK	AS		050				0	-3	1	Pacific/Pago_Pago	2010-09-05
+5881074	Tuālāuta County	Tualauta County	Tualauta County	-14.3624	-170.72267	A	ADM2	AS		050	5881074			0	30	-9999	Pacific/Pago_Pago	2014-10-08
+5881075	Usi Ridge	Usi Ridge		-14.26361	-170.60083	T	RDGE	AS		010				0	120	220	Pacific/Pago_Pago	2010-09-05
+5881076	Usi Point	Usi Point		-14.26222	-170.60361	T	CAPE	AS		010				0	149	146	Pacific/Pago_Pago	2010-10-12
+5881077	Fagatele Point	Fagatele Point		-14.30694	-170.82111	T	CAPE	AS		050				0	120	132	Pacific/Pago_Pago	2010-10-12
+5881078	Tuumuai Point	Tuumuai Point	Tumua`i Point	-14.17167	-169.68028	T	CAPE	AS		020				0	0	157	Pacific/Pago_Pago	2010-10-12
+5881079	Ulufala Point	Ulufala Point		-14.26056	-169.43611	T	CAPE	AS		020				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881080	Uea Point	Uea Point		-14.28528	-170.60583	T	CAPE	AS		010				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5881081	United States Naval Station Tutuila Historic District	United States Naval Station Tutuila Historic District		-14.28194	-170.68417	L	PRK	AS		010				0	3	9	Pacific/Pago_Pago	2010-09-05
+5881082	United States Naval Station Tutuila (historical)	United States Naval Station Tutuila (historical)		-14.28194	-170.68417	S	INSM	AS		010				0	3	9	Pacific/Pago_Pago	2010-09-05
+5881083	Fagatogo Market	Fagatogo Market		-14.28222	-170.68972	S	BLDG	AS		010				0	3	141	Pacific/Pago_Pago	2010-09-05
+5881084	Ulafala Stream	Ulafala Stream		-14.16944	-169.66056	H	STM	AS		020				0	229	218	Pacific/Pago_Pago	2010-10-12
+5881085	Tūalātai County	Tualatai County	Tualatai County	-14.38098	-170.76949	A	ADM2	AS		050	5881085			0	49	-9999	Pacific/Pago_Pago	2014-10-08
+5881086	Tāfuna Plain	Tafuna Plain	Tafuna Plain	-14.34083	-170.7325	T	PLN	AS		050				0	24	30	Pacific/Pago_Pago	2014-10-08
+5881087	Tutuila Island	Tutuila Island	Maouna Island,Mouna,Toomahlooah,Tootaillah Island,Tootooellah,Tutuilla,Tutuilla Island	-14.29972	-170.7225	T	ISL	AS		010				0	404	397	Pacific/Pago_Pago	2010-10-12
+5881088	Tāfuna Industrial Park	Tafuna Industrial Park	Tafuna Industrial Park	-14.32917	-170.71722	L	INDS	AS		050				0	6	12	Pacific/Pago_Pago	2014-10-08
+5881089	Tutu Ridge	Tutu Ridge		-14.3375	-170.7875	T	RDGE	AS		050				0	3	4	Pacific/Pago_Pago	2010-10-12
+5881090	Tunoa Ridge	Tunoa Ridge		-14.22583	-169.49833	T	RDGE	AS		020				0	199	195	Pacific/Pago_Pago	2010-10-12
+5881091	Tumutumu Mountain	Tumutumu Mountain	Mount Tumutumu,Tumu Mountain	-14.18111	-169.66028	T	MT	AS		020				0	91	103	Pacific/Pago_Pago	2010-10-12
+5881092	Tumatolu Point	Tumatolu Point		-14.1725	-169.62778	T	CAPE	AS		020				0	1	11	Pacific/Pago_Pago	2010-10-12
+5881093	Tulauta (historical)	Tulauta (historical)	Tulotu	-14.2575	-170.5675	P	PPLQ	AS		010				0	88	99	Pacific/Pago_Pago	2011-12-12
+5881094	Tulutulu Point	Tulutulu Point	Blunt Point,Blunt's Point	-14.29	-170.67472	T	CAPE	AS		010				0	12	1	Pacific/Pago_Pago	2010-10-12
+5881095	Tulagamatuu Rock	Tulagamatuu Rock	Tulagaematue`u Rock,Tulagämatü`u Rock	-14.26	-170.64806	T	ISL	AS		010				0	91	93	Pacific/Pago_Pago	2010-10-12
+5881096	Togotogo Ridge	Togotogo Ridge		-14.28472	-170.68639	T	RDGE	AS		010				0	149	178	Pacific/Pago_Pago	2010-10-12
+5881097	Tuigaava Ridge	Tuigaava Ridge	Tiuga`ava Ridge	-14.31917	-170.82722	T	RDGE	AS		050				0	175	196	Pacific/Pago_Pago	2010-10-12
+5881098	Tula	Tula		-14.25806	-170.56417	P	PPL	AS		010				370	62	53	Pacific/Pago_Pago	2010-10-12
+5881099	Fagatuitui Cove	Fagatuitui Cove		-14.27611	-170.71861	H	BAY	AS		010				0	182	180	Pacific/Pago_Pago	2010-10-12
+5881100	Tuasivitasi Ridge	Tuasivitasi Ridge		-14.31056	-170.73972	T	RDGE	AS		050				0	129	152	Pacific/Pago_Pago	2010-10-12
+5881101	Faiava	Faiava	Fai`ava	-14.16639	-169.61667	P	PPL	AS		020				0	453	446	Pacific/Pago_Pago	2010-10-12
+5881102	Tuatafa Ridge	Tuatafa Ridge		-14.30944	-170.80944	T	RDGE	AS		050				0	137	112	Pacific/Pago_Pago	2010-10-12
+5881103	Tuavaa Stream	Tuavaa Stream		-14.275	-170.5825	H	STM	AS		010				0	22	1	Pacific/Pago_Pago	2010-10-12
+5881104	Tufu Point	Tufu Point		-14.22278	-169.50917	T	CAPE	AS		020				0	117	127	Pacific/Pago_Pago	2010-10-12
+5881105	Tufu Stream	Tufu Stream		-14.18056	-169.67611	H	STM	AS		020				0	6	20	Pacific/Pago_Pago	2010-10-12
+5881106	Toauta Rock	Toauta Rock		-14.33556	-170.82806	T	ISL	AS		050				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881107	Tuasina Ridge	Tuasina Ridge		-14.31611	-170.81444	T	RDGE	AS		050				0	310	321	Pacific/Pago_Pago	2010-10-12
+5881108	Faimulivai Marsh	Faimulivai Marsh	Fa`imulivai Marsh	-14.28833	-170.54806	H	SWMP	AS		010				0	1	14	Pacific/Pago_Pago	2010-10-12
+5881109	Tuaolo	Tuaolo	Tuae`olo,Tuä`olo	-14.31944	-170.75917	P	PPL	AS		050				0	282	281	Pacific/Pago_Pago	2010-10-12
+5881110	Tofu Stream	Tofu Stream		-14.25778	-170.67056	H	STM	AS		010				0	85	94	Pacific/Pago_Pago	2010-10-12
+5881111	Faiga Ridge	Faiga Ridge	Fa`iga Ridge	-14.25722	-170.68611	T	RDGE	AS		010				0	233	245	Pacific/Pago_Pago	2010-10-12
+5881112	Tualiliu Point	Tualiliu Point		-14.3175	-170.70611	T	CAPE	AS		010				0	0	50	Pacific/Pago_Pago	2010-10-12
+5881113	Tuafanua (historical)	Tuafanua (historical)		-14.17194	-169.65306	P	PPLQ	AS		020				0	333	381	Pacific/Pago_Pago	2014-10-08
+5881114	Trading Point	Trading Point		-14.27556	-170.68444	T	CAPE	AS		010				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5881115	Tualatai Plain	Tualatai Plain		-14.35333	-170.77306	T	PLN	AS		050				0	31	30	Pacific/Pago_Pago	2010-09-05
+5881116	Tolisi Point	Tolisi Point		-14.27556	-170.61556	T	CAPE	AS		010				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5881117	Tolotolooleoti Point	Tolotolooleoti Point		-14.295	-170.79	T	CAPE	AS		050				0	190	184	Pacific/Pago_Pago	2010-10-12
+5881118	Topea Stream	Topea Stream		-14.17861	-169.6075	H	STM	AS		020				0	122	139	Pacific/Pago_Pago	2010-10-12
+5881119	Faiumuolegau Rocks	Faiumuolegau Rocks		-14.28861	-170.60361	T	ISL	AS		010				0	5	-9999	Pacific/Pago_Pago	2010-10-12
+5881120	Tō‘aga (historical)	To'aga (historical)	To`aga,Toaga (historical)	-14.18167	-169.65194	P	PPLQ	AS		020				0	0	50	Pacific/Pago_Pago	2014-10-08
+5881121	Toasa Rock	Toasa Rock	Grampus Rock,To`asae Rock,To`asä Rock	-14.28222	-170.66778	T	ISL	AS		010				0	2	1	Pacific/Pago_Pago	2016-12-07
+5881122	Toatai Rock	Toatai Rock		-14.33694	-170.82806	T	ISL	AS		050				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881123	Timolea Ridge	Timolea Ridge		-14.26167	-170.69722	T	RDGE	AS		010				0	259	280	Pacific/Pago_Pago	2010-10-12
+5881124	Toa Point	Toa Point	To`a Point	-14.36778	-170.7375	T	CAPE	AS		050				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5881125	Toa Cove	Toa Cove		-14.22	-169.50667	H	BAY	AS		020				0	132	124	Pacific/Pago_Pago	2010-10-12
+5881126	Taligai Cove	Taligai Cove		-14.26056	-170.59778	H	BAY	AS		010				0	113	106	Pacific/Pago_Pago	2010-10-12
+5881127	Tialu Stream	Tialu Stream		-14.27194	-170.61028	H	STM	AS		010				0	8	1	Pacific/Pago_Pago	2010-10-12
+5881128	Toa Ridge	Toa Ridge	To`a Ridge	-14.26306	-170.68806	T	RDGE	AS		010				0	377	364	Pacific/Pago_Pago	2010-10-12
+5881129	Tiatele Ridge	Tiatele Ridge		-14.32722	-170.83694	T	RDGE	AS		050				0	153	1	Pacific/Pago_Pago	2010-10-12
+5881130	Tavalagi Ridge	Tavalagi Ridge		-14.22556	-169.50833	T	RDGE	AS		020				0	149	92	Pacific/Pago_Pago	2010-10-12
+5881131	Tifa Point	Tifa Point		-14.28611	-170.63278	T	CAPE	AS		010				0	8	-9999	Pacific/Pago_Pago	2010-10-12
+5881132	Tiatele Ridge	Tiatele Ridge		-14.27389	-170.57333	T	RDGE	AS		010				0	88	1	Pacific/Pago_Pago	2010-10-12
+5881133	Tiatauala Ridge	Tiatauala Ridge		-14.26	-170.66361	T	RDGE	AS		010				0	351	358	Pacific/Pago_Pago	2010-10-12
+5881134	Tiapea Point	Tiapea Point	Bat Point,Tiape`a Point	-14.25162	-170.61329	T	CAPE	AS		010				0	1	3	Pacific/Pago_Pago	2016-12-07
+5881135	Tiaoalii Rock	Tiaoalii Rock		-14.32278	-170.83556	T	ISL	AS		050				0	68	100	Pacific/Pago_Pago	2010-10-12
+5881136	Tialiufau Ridge	Tialiufau Ridge		-14.28972	-170.65583	T	RDGE	AS		010				0	145	10	Pacific/Pago_Pago	2010-10-12
+5881137	Tiafou Point	Tiafou Point	Tiafau Point	-14.22389	-169.41806	T	CAPE	AS		020				0	3	1	Pacific/Pago_Pago	2010-10-12
+5881138	Tiaiu Falls	Tiaiu Falls	Tiaei`u Falls,Tiaiu Fall,Tiäi`u Falls	-14.26278	-170.66	H	OVF	AS		010				0	411	416	Pacific/Pago_Pago	2010-10-12
+5881139	Tialeogaumu Ridge	Tialeogaumu Ridge	Tiaole`oegaeumu Ridge,Tiaole`ögäumu Ridge	-14.26722	-170.70306	T	RDGE	AS		010				0	139	129	Pacific/Pago_Pago	2010-10-12
+5881140	Tepatasi Mountain	Tepatasi Mountain		-14.28194	-170.70083	T	MT	AS		010				0	136	151	Pacific/Pago_Pago	2010-10-12
+5881141	Falaseeitoafa Point	Falaseeitoafa Point	Falase`eitoafa Point	-14.28139	-170.58583	T	CAPE	AS		010				0	2	1	Pacific/Pago_Pago	2010-10-12
+5881142	Tia Ridge	Tia Ridge		-14.26861	-170.70694	T	RDGE	AS		010				0	127	167	Pacific/Pago_Pago	2010-10-12
+5881143	Tia Ridge	Tia Ridge		-14.16611	-169.67806	T	RDGE	AS		020				0	71	71	Pacific/Pago_Pago	2010-10-12
+5881144	Taumata Stream	Taumata Stream		-14.32139	-170.72167	H	STM	AS		050				0	11	15	Pacific/Pago_Pago	2010-10-12
+5881145	Televai Stream	Televai Stream		-14.27833	-170.58194	H	STM	AS		010				0	0	1	Pacific/Pago_Pago	2010-10-12
+5881146	Taumulimalo Stream	Taumulimalo Stream		-14.29806	-170.80306	H	STM	AS		050				0	210	214	Pacific/Pago_Pago	2010-10-12
+5881147	Taumata Mountain	Taumata Mountain		-14.3025	-170.73083	T	MT	AS		010				0	157	167	Pacific/Pago_Pago	2010-10-12
+5881148	Taulaotoga Rock	Taulaotoga Rock	Taula`otoga Rock	-14.28	-170.57917	T	ISL	AS		010				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5881149	Faleapoi Point	Faleapoi Point		-14.35639	-170.78389	T	CAPE	AS		050				0	6	10	Pacific/Pago_Pago	2010-10-12
+5881150	Taulaga	Taulaga		-11.05528	-171.08833	P	PPLA	AS		040				37		8	Pacific/Pago_Pago	2012-02-19
+5881151	Taugamalama Point	Taugamalama Point		-14.27889	-170.57583	T	CAPE	AS		010				0	7	1	Pacific/Pago_Pago	2010-10-12
+5881152	Taugasega Ridge	Taugasega Ridge		-14.27694	-170.57778	T	RDGE	AS		010				0	128	1	Pacific/Pago_Pago	2010-10-12
+5881153	Tauga Rock	Tauga Rock	Camel Rock	-14.28813	-170.64542	T	ISL	AS		010				0	21	1	Pacific/Pago_Pago	2016-12-07
+5881154	Tauese Stream	Tauese Stream	Taeu`ese Stream,Täu`ese Stream	-14.31194	-170.70972	H	STM	AS		010				0	5	11	Pacific/Pago_Pago	2010-10-12
+5881155	Taufusi Marsh	Taufusi Marsh		-14.26889	-170.56694	H	SWMP	AS		010				0	11	20	Pacific/Pago_Pago	2010-10-12
+5881156	Taufusitele Marsh	Taufusitele Marsh	Taufusitele Taro Marshes	-14.28861	-170.55583	H	SWMP	AS		010				0	6	3	Pacific/Pago_Pago	2010-10-12
+5881157	Taugā Point	Tauga Point	Tauga Point	-14.165	-169.67972	T	CAPE	AS		020				0	39	14	Pacific/Pago_Pago	2010-10-12
+5881158	Taufanua Ridge	Taufanua Ridge		-14.29972	-170.79583	T	RDGE	AS		050				0	252	277	Pacific/Pago_Pago	2010-10-12
+5881159	Tauga Ridge	Tauga Ridge		-14.285	-170.64167	T	RDGE	AS		010				0	80	78	Pacific/Pago_Pago	2010-10-12
+5881160	Faleselau Ridge	Faleselau Ridge		-14.31333	-170.77389	T	RDGE	AS		050				0	391	394	Pacific/Pago_Pago	2010-10-12
+5881161	Tamatupu Point	Tamatupu Point		-14.17472	-169.62944	T	CAPE	AS		020				0	24	295	Pacific/Pago_Pago	2010-10-12
+5881162	Ta‘ū Island	Ta'u Island	Manua,Manua Island,Opoun Island,Ta`u Island,Ta`ue,Ta`ü,Tau Island	-14.23806	-169.47611	T	ISL	AS		020				0	784	789	Pacific/Pago_Pago	2014-10-08
+5881163	Tau Mountain	Tau Mountain		-14.31778	-170.72806	T	MT	AS		050				0	110	124	Pacific/Pago_Pago	2010-10-12
+5881164	Tau Airport	Tau Airport	Port lotniczy Tau,TAV	-14.22917	-169.51111	S	AIRQ	AS		020				0	66	73	Pacific/Pago_Pago	2017-10-14
+5881165	Ta`ū	Ta`u	Opoun,TAV,Ta`u,Ta`ue Village,Ta`ü Village,Tau	-14.23361	-169.51444	P	PPLA	AS		020				873	6	12	Pacific/Pago_Pago	2017-08-16
+5881166	Tauese Ridge	Tauese Ridge	Taeu`ese Ridge,Täu`ese Ridge	-14.31028	-170.71306	T	RDGE	AS		010				0	10	22	Pacific/Pago_Pago	2010-10-12
+5881167	Talitoelau Spring	Talitoelau Spring	Talito`elau Spring	-14.2775	-170.70472	H	SPNG	AS		010				0	59	49	Pacific/Pago_Pago	2010-10-12
+5881168	Taputimu	Taputimu		-14.36028	-170.77306	P	PPL	AS		050				741	32	32	Pacific/Pago_Pago	2010-10-12
+5881169	Falili	Falili		-14.35639	-170.78	P	PPL	AS		050				0	12	19	Pacific/Pago_Pago	2010-10-12
+5881170	Cape Taputapu	Cape Taputapu	Kap Taputapu	-14.32583	-170.84278	T	CAPE	AS		050				0	0	7	Pacific/Pago_Pago	2010-10-12
+5881171	Taputapu Island	Taputapu Island		-14.32778	-170.84389	T	ISL	AS		050				0	77	7	Pacific/Pago_Pago	2010-10-12
+5881172	Taputapu Elementary School	Taputapu Elementary School		-14.32389	-170.83417	S	SCH	AS		050				0	6	29	Pacific/Pago_Pago	2010-09-05
+5881173	Tapepe Ridge	Tapepe Ridge		-14.26361	-170.56417	T	RDGE	AS		010				0	3	5	Pacific/Pago_Pago	2010-10-12
+5881174	Tapua Stream	Tapua Stream		-14.26639	-170.58556	H	STM	AS		010				0	82	82	Pacific/Pago_Pago	2010-10-12
+5881175	Tapisi Point	Tapisi Point		-14.25194	-170.63861	T	CAPE	AS		010				0	163	161	Pacific/Pago_Pago	2010-10-12
+5881176	Soonapule Stream	Soonapule Stream		-14.33028	-170.80972	H	STM	AS		050				0	3	75	Pacific/Pago_Pago	2010-10-12
+5881177	Talaloa Stream	Talaloa Stream		-14.25972	-170.62917	H	STM	AS		010				0	104	111	Pacific/Pago_Pago	2010-10-12
+5881178	Fatu Rock	Fatu Rock	Flower Pot Rock	-14.29813	-170.67663	T	ISL	AS		010				0	4	-9999	Pacific/Pago_Pago	2016-12-07
+5881179	Tainamu Point	Tainamu Point	Ta`inaeu Point,Ta`inäu Point	-14.25361	-169.44833	T	CAPE	AS		020				0	19	2	Pacific/Pago_Pago	2010-10-12
+5881180	Souga Stream	Souga Stream		-14.32806	-170.81028	H	STM	AS		050				0	32	75	Pacific/Pago_Pago	2010-10-12
+5881181	Tafola Rocks	Tafola Rocks		-14.30389	-170.81917	T	ISL	AS		050				0	99	109	Pacific/Pago_Pago	2010-10-12
+5881182	Talaisina Stream	Talaisina Stream	Tala`isina Stream	-14.17806	-169.60778	H	STM	AS		020				0	131	139	Pacific/Pago_Pago	2010-10-12
+5881183	Fatifati Mountain	Fatifati Mountain		-14.28306	-170.71444	T	MT	AS		010				0	166	169	Pacific/Pago_Pago	2010-10-12
+5881184	Fatuana Point	Fatuana Point		-14.18889	-169.66278	T	CAPE	AS		020				0	7	-9999	Pacific/Pago_Pago	2010-10-12
+5881185	Tagau Stream	Tagau Stream		-14.26222	-170.63361	H	STM	AS		010				0	139	166	Pacific/Pago_Pago	2010-10-12
+5881186	Tagau Mountain	Tagau Mountain		-14.26639	-170.64361	T	MT	AS		010				0	273	281	Pacific/Pago_Pago	2010-10-12
+5881187	Tafuna High School	Tafuna High School		-14.32972	-170.72139	S	SCH	AS		050				0	14	17	Pacific/Pago_Pago	2010-09-05
+5881188	Tafuna Elementary School	Tafuna Elementary School		-14.32667	-170.72556	S	SCH	AS		050				0	20	23	Pacific/Pago_Pago	2010-09-05
+5881189	Tafunafou	Tafunafou		-14.32917	-170.73083	P	PPL	AS		050				0	23	30	Pacific/Pago_Pago	2010-10-12
+5881190	Tagapofu	Tagapofu		-14.30333	-170.6825	P	PPL	AS		010				0	6	-9999	Pacific/Pago_Pago	2010-10-12
+5881191	Sā‘ole County	Sa'ole County	Saole County	-14.30277	-170.57519	A	ADM2	AS		010	5881191			0	34	-9999	Pacific/Pago_Pago	2014-10-08
+5881192	Tāfuna	Tafuna	Tafuna,Тафуна	-14.33583	-170.72	P	PPL	AS		050				11017	12	13	Pacific/Pago_Pago	2010-09-05
+5881193	Puapua	Puapua		-14.34472	-170.7719	P	PPL	AS		050				0	42	52	Pacific/Pago_Pago	2016-12-07
+5881194	Alili Ridge	Alili Ridge		-14.26944	-170.57222	T	RDGE	AS		010				0	63	74	Pacific/Pago_Pago	2010-10-12
+5881195	Swains Island	Swains Island	De Quiros Island,Gente Hermosa,Isla de la Gente Hermosa,Jennings Island,La Isla De La Gente Hermosa,Matanza,Olohega,Olosega,Olosenga,Quiros Island,Swain's Island	-11.056	-171.081	T	ATOL	AS		040				0		0	Pacific/Pago_Pago	2010-12-02
+5881196	Tafaga Cove	Tafaga Cove		-14.28861	-170.7325	H	BAY	AS		010				0	284	265	Pacific/Pago_Pago	2010-10-12
+5881197	Ta‘ū Marsh	Ta'u Marsh	Tau Marsh	-14.23167	-169.51306	H	SWMP	AS						0	53	51	Pacific/Pago_Pago	2014-10-08
+5881198	Tāemā Bank	Taema Bank	Taema Bank	-14.32194	-170.65389	T	BAR	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881199	Swains Island	Swains Island	Island of Swains Island,US Unincorporated Unorganized Territory administered by American Samoa	-11.056	-171.082	A	ADM1	AS		040				37		0	Pacific/Pago_Pago	2011-06-09
+5881200	Tafagamanu Point	Tafagamanu Point		-14.29083	-170.66278	T	CAPE	AS		010				0	10	1	Pacific/Pago_Pago	2010-10-12
+5881201	Tafalau (historical)	Tafalau (historical)		-14.17417	-169.60861	P	PPLQ	AS		020				0	1	366	Pacific/Pago_Pago	2014-10-08
+5881203	Fatutea Spring	Fatutea Spring		-14.26667	-170.57472	H	SPNG	AS		010				0	183	117	Pacific/Pago_Pago	2010-10-12
+5881204	Suesave Point	Suesave Point		-14.33556	-170.80556	T	CAPE	AS		050				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881205	Square Head	Square Head	Square Head Point	-14.29444	-170.79833	T	CAPE	AS		050				0	86	92	Pacific/Pago_Pago	2010-10-12
+5881206	Sunu‘itao Peak	Sunu'itao Peak	Sunuitao Peak	-14.17389	-169.63667	T	MT	AS		020				0	167	183	Pacific/Pago_Pago	2014-10-08
+5881207	Suaavamuli Ridge	Suaavamuli Ridge	Sua`avamuli Ridge	-14.31194	-170.71583	T	RDGE	AS		010				0	31	44	Pacific/Pago_Pago	2010-10-12
+5881208	Fatuelo Point	Fatuelo Point		-14.28639	-170.72972	T	CAPE	AS		010				0	200	221	Pacific/Pago_Pago	2010-10-12
+5881209	Suaia Stream	Suaia Stream	Suai`a Stream	-14.27472	-170.66333	H	STM	AS		010				0	84	57	Pacific/Pago_Pago	2010-10-12
+5881210	Fatugau Rock	Fatugau Rock		-14.37028	-170.73944	T	ISL	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881211	Star of the Sea Fish Market	Star of the Sea Fish Market		-14.28167	-170.68972	S	BLDG	AS		010				0	1	72	Pacific/Pago_Pago	2010-09-05
+5881212	Steps Point	Steps Point		-14.37327	-170.75961	T	CAPE	AS		050				0	6	5	Pacific/Pago_Pago	2016-12-07
+5881213	Sua County	Sua County		-14.2774	-170.62815	A	ADM2	AS		010	5881213			0	1	8	Pacific/Pago_Pago	2013-03-08
+5881214	South Pioa Mountain	South Pioa Mountain		-14.27806	-170.65556	T	MT	AS		010				0	125	132	Pacific/Pago_Pago	2010-10-12
+5881216	South Ofu Beach	South Ofu Beach		-14.17889	-169.65	T	BCH	AS		020				0	10	-9999	Pacific/Pago_Pago	2010-09-05
+5881217	Faasouga Point	Faasouga Point	Fa`asouga Point *	-14.28472	-170.62722	T	CAPE	AS		010				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5881218	Etena - Jennings Residency	Etena - Jennings Residency		-11.06028	-171.07476	P	PPLQ	AS		040				0		11	Pacific/Pago_Pago	2010-12-02
+5881219	Eastern District	Eastern District		-14.26667	-170.65	A	ADM1	AS		010				23441	22	63	Pacific/Pago_Pago	2015-04-21
+5881220	Cockscomb Point	Cockscomb Point		-14.23055	-170.67097	T	CAPE	AS		010				0	1	2	Pacific/Pago_Pago	2016-12-07
+5881221	Faasamene Cove	Faasamene Cove	Fa`asamene Cove	-14.22194	-169.50861	H	BAY	AS		020				0	119	128	Pacific/Pago_Pago	2010-10-12
+5881222	Faalefu	Faalefu	Fa`alefu	-14.26694	-170.58917	P	PPL	AS		010				0	82	80	Pacific/Pago_Pago	2010-10-12
+5881223	Faalogologotala Rock	Faalogologotala Rock	Fa`alogologotale Rock,Lions Head	-14.28639	-170.63	T	CAPE	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881224	Faleniu	Faleniu		-14.3325	-170.74444	P	PPL	AS		050				3200	48	53	Pacific/Pago_Pago	2010-10-12
+5881225	Faganeanea	Faganeanea	Fagane`ane`a	-14.30611	-170.68889	P	PPL	AS		010				0	20	19	Pacific/Pago_Pago	2010-10-12
+5881226	Fagafue Bay	Fagafue Bay		-14.29889	-170.75167	H	BAY	AS		050				0	4	27	Pacific/Pago_Pago	2010-10-12
+5881227	Faga	Faga		-14.21778	-169.455	P	PPL	AS		020				0	303	257	Pacific/Pago_Pago	2010-10-12
+5881228	Faatafa Rocks	Faatafa Rocks		-14.34	-170.7925	T	ISL	AS		050				0	-3	107	Pacific/Pago_Pago	2010-10-12
+5881229	Fafiqa Peak	Fafiqa Peak		-14.3	-170.69778	T	MT	AS		010				0	281	285	Pacific/Pago_Pago	2010-10-12
+5881230	Fagaalu Stream	Fagaalu Stream	Faga`alu Stream	-14.29583	-170.68278	H	STM	AS		010				0	140	141	Pacific/Pago_Pago	2010-10-12
+5881231	Faga‘alu	Faga'alu	Fagaalu,Fangaalu	-14.29639	-170.68361	P	PPL	AS		010				0	91	90	Pacific/Pago_Pago	2014-10-08
+5881232	Faga‘itua High School	Faga'itua High School	Faga`itua High School	-14.2725	-170.61444	S	SCH	AS		010				0	7	1	Pacific/Pago_Pago	2014-10-08
+5881233	Fagamutu	Fagamutu		-14.33611	-170.805	P	PPL	AS		050				0	1	-9999	Pacific/Pago_Pago	2010-10-12
+5881234	Fagalele Junior High School	Fagalele Junior High School	Fagalele High School	-14.34722	-170.78528	S	SCH	AS		050				0	13	20	Pacific/Pago_Pago	2010-10-12
+5881235	Fagaitua Post Office	Fagaitua Post Office		-14.27278	-170.6125	S	PO	AS		010				0	2	1	Pacific/Pago_Pago	2010-09-05
+5881236	Fagalele	Fagalele		-14.34667	-170.78444	P	PPL	AS		050				0	4	23	Pacific/Pago_Pago	2010-09-05
+5881237	Fagamalo Cove	Fagamalo Cove		-14.24944	-169.50417	H	BAY	AS		020				0	-3	18	Pacific/Pago_Pago	2010-10-12
+5881238	Fagalua Cove	Fagalua Cove		-14.25528	-170.62944	H	BAY	AS		010				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5881239	Fagamalo (historical)	Fagamalo (historical)		-14.25056	-169.50222	P	PPLQ	AS						0	21	42	Pacific/Pago_Pago	2011-12-12
+5881240	Faleiulu Stream	Faleiulu Stream	Fale`i`ulu Stream	-14.22278	-169.49611	H	STM	AS		020				0	168	177	Pacific/Pago_Pago	2010-10-12
+5881241	Fagatogo	Fagatogo	Fagatogo,Fanga Tonga,Фагатого	-14.2825	-170.69	P	PPL	AS		010				1868	134	141	Pacific/Pago_Pago	2010-10-12
+5881242	Fagatele	Fagatele	Fangatele	-14.29333	-170.72278	P	PPL	AS		010				0	100	135	Pacific/Pago_Pago	2010-10-12
+5881243	Fagasā	Fagasa	Fagasa,Fungasar	-14.29083	-170.71861	P	PPL	AS		010				0	189	215	Pacific/Pago_Pago	2010-10-12
+5881244	Fagasa Point	Fagasa Point		-14.25444	-170.56333	T	CAPE	AS		010				0	37	-9999	Pacific/Pago_Pago	2010-10-12
+5881245	Fagatiale Point	Fagatiale Point		-14.29611	-170.74722	T	CAPE	AS		050				0	168	164	Pacific/Pago_Pago	2010-10-12
+5881246	Fagatele Cove	Fagatele Cove		-14.25944	-170.61056	H	BAY	AS		010				0	96	104	Pacific/Pago_Pago	2010-10-12
+5881247	Fagatele Point	Fagatele Point		-14.36972	-170.76806	T	CAPE	AS		050				0	41	-9999	Pacific/Pago_Pago	2010-10-12
+5881248	Faleasao Harbor	Faleasao Harbor	Falaesau Bay	-14.22472	-169.51167	H	BAY	AS		020				0	81	79	Pacific/Pago_Pago	2010-09-05
+5881249	Failolo	Failolo	Fa`ilolo	-14.33361	-170.82583	P	PPL	AS		050				0	6	-9999	Pacific/Pago_Pago	2010-10-12
+5881250	Faiaiulu Point	Faiaiulu Point	Fai`ai`ulu Point	-14.31333	-170.82833	T	CAPE	AS		050				0	151	154	Pacific/Pago_Pago	2010-10-12
+5881251	Faigatoa Stream	Faigatoa Stream		-14.26222	-170.67861	H	STM	AS		010				0	339	353	Pacific/Pago_Pago	2010-10-12
+5881252	Faleasao Elementary School	Faleasao Elementary School		-14.22667	-169.51389	S	SCH	AS						0	8	1	Pacific/Pago_Pago	2010-09-05
+5881253	Fala Ane Point	Fala Ane Point		-11.05111	-171.0875	T	PT	AS		040				0		8	Pacific/Pago_Pago	2010-12-02
+5881254	Faleāsao	Faleasao	Faleasao,Faleasau	-14.2222	-169.51278	P	PPLA3	AS		020	7267965			0	44	28	Pacific/Pago_Pago	2012-02-02
+5881255	Logologo Point	Logologo Point		-14.35056	-170.78667	T	CAPE	AS		050				0	0	31	Pacific/Pago_Pago	2010-10-12
+5881256	Faumasili Point	Faumasili Point	Kap Fa`auma Sili *,Leaumasili Point	-14.16028	-169.61056	T	CAPE	AS		020				0	47	150	Pacific/Pago_Pago	2010-10-12
+5881257	Judds Crater	Judds Crater	Luatele Crater	-14.22972	-169.43333	T	CRTR	AS		020				0	408	422	Pacific/Pago_Pago	2010-10-12
+5881258	Fogaletau Point	Fogaletau Point		-14.35972	-170.73083	T	CAPE	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881259	Fatutea Ridge	Fatutea Ridge		-14.26611	-170.57028	T	RDGE	AS		010				0	48	69	Pacific/Pago_Pago	2010-10-12
+5881260	Fatuaga Point	Fatuaga Point		-14.17556	-169.63639	T	CAPE	AS		020				0	4	-9999	Pacific/Pago_Pago	2010-10-12
+5881261	Fatatele Point	Fatatele Point		-14.2775	-169.48583	T	CAPE	AS		020				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881262	Fatua‘āiga Catholic Center	Fatua'aiga Catholic Center	Fatuaaiga Catholic Center	-14.33556	-170.73222	S	CH	AS		050				0	22	28	Pacific/Pago_Pago	2014-10-08
+5881263	Fatumaga Rocks	Fatumaga Rocks		-14.25472	-170.57972	T	ISL	AS		010				0	96	127	Pacific/Pago_Pago	2010-10-12
+5881264	Fatuasina Point	Fatuasina Point		-14.34917	-170.71972	T	CAPE	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881265	Fatumafuti	Fatumafuti		-14.30139	-170.67722	P	PPL	AS		010				0	28	-9999	Pacific/Pago_Pago	2010-10-12
+5881266	Fogāgogo	Fogagogo	Fogagogo	-14.34278	-170.72222	P	PPL	AS		050				0	10	7	Pacific/Pago_Pago	2010-10-12
+5881267	Filimaoi Ridge	Filimaoi Ridge	Filima`oi Ridge	-14.275	-170.60222	T	RDGE	AS		010				0	8	7	Pacific/Pago_Pago	2010-10-12
+5881268	Fatuuli Rock	Fatuuli Rock	Fatu`uli Rock *	-14.31111	-170.68917	T	ISL	AS		010				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881269	Filiae Mountain	Filiae Mountain	Filia`e Mountain	-14.26694	-170.62139	T	MT	AS		010				0	258	104	Pacific/Pago_Pago	2010-10-12
+5881270	Fogaau	Fogaau		-14.28194	-170.58806	P	PPL	AS		010				0	9	1	Pacific/Pago_Pago	2010-10-12
+5881271	Fitiuta Airport	Fitiuta Airport	FAQ,FTI,Fitiuta Airport,NSFQ,fei tu ta ji chang,frwdgah fytywta,فرودگاه فیتیوتا,菲圖塔機場	-14.21579	-169.42385	S	AIRP	AS		020				0	32	36	Pacific/Pago_Pago	2015-05-02
+5881272	Flowerpot Rocks	Flowerpot Rocks	Fatumafuti	-14.30306	-170.67583	T	ISL	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-09-05
+5881273	Itū‘au	Itu'au	Ituau	-14.34778	-170.76639	P	PPL	AS		050				0	54	62	Pacific/Pago_Pago	2014-10-08
+5881274	Fusi	Fusi		-14.24361	-169.51028	P	PPL	AS		020				0	3	-9999	Pacific/Pago_Pago	2014-10-08
+5881275	Fogausa	Fogausa		-14.28611	-170.60361	P	PPL	AS		010				0	5	-9999	Pacific/Pago_Pago	2010-10-12
+5881276	Fogamaa Crater	Fogamaa Crater	Fogama`a Crater *	-14.3625	-170.75222	T	CRTR	AS		050				0	27	13	Pacific/Pago_Pago	2010-10-12
+5881277	Fogatia Hill	Fogatia Hill		-14.29278	-170.55111	T	MT	AS		010				0	84	-9999	Pacific/Pago_Pago	2010-10-12
+5881278	Fusi	Fusi		-14.27889	-170.70028	P	PPL	AS		010				0	152	164	Pacific/Pago_Pago	2010-10-12
+5881279	Freddies Beach	Freddies Beach	Freddie's Beach	-14.34639	-170.72028	T	BCH	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-09-05
+5881280	Fugalei Ridge	Fugalei Ridge		-14.31639	-170.81	T	RDGE	AS		050				0	316	315	Pacific/Pago_Pago	2010-10-12
+5881281	Itu‘aū County	Itu'au County	Ituau County	-14.30265	-170.71254	A	ADM2	AS		010	5881281			0	263	280	Pacific/Pago_Pago	2014-10-08
+5881282	Gaoa Stream	Gaoa Stream		-14.255	-170.67472	H	STM	AS		010				0	61	74	Pacific/Pago_Pago	2010-10-12
+5881283	Futi Rock	Futi Rock		-14.30306	-170.6775	T	ISL	AS		010				0	8	-9999	Pacific/Pago_Pago	2010-10-12
+5881284	Gagamoe Stream	Gagamoe Stream		-14.27583	-170.70056	H	STM	AS		010				0	111	123	Pacific/Pago_Pago	2010-10-12
+5881285	Imoa Point	Imoa Point		-14.17111	-169.60833	T	CAPE	AS		020				0	21	-9999	Pacific/Pago_Pago	2010-10-12
+5881286	Government House	Government House	Governor's House	-14.28222	-170.68194	S	ADMF	AS		010				0	22	5	Pacific/Pago_Pago	2010-11-15
+5881287	Ili‘ili	Ili'ili	Iliili,`Ili`ili	-14.35167	-170.74694	P	PPL	AS		050				0	62	67	Pacific/Pago_Pago	2014-10-08
+5881288	Leauga Ridge	Leauga Ridge		-14.285	-170.6	T	RDGE	AS		010				0	114	-9999	Pacific/Pago_Pago	2010-10-12
+5881289	Le‘atele Elementary School	Le'atele Elementary School		-14.29222	-170.72444	S	SCH	AS		010				0	52	70	Pacific/Pago_Pago	2014-10-08
+5881290	Laloulu Ridge	Laloulu Ridge		-14.28917	-170.64583	T	RDGE	AS		010				0	148	1	Pacific/Pago_Pago	2010-10-12
+5881291	Laloafu Stream	Laloafu Stream		-14.33028	-170.82778	H	STM	AS		050				0	7	7	Pacific/Pago_Pago	2010-10-12
+5881292	KSBS-FM (Pago Pago)	KSBS-FM (Pago Pago)		-14.29472	-170.66222	S	TOWR	AS		00	010			0	55	1	Pacific/Pago_Pago	2006-01-15
+5881293	Lago Spring	Lago Spring		-14.32306	-170.76111	H	SPNG	AS		050				0	312	281	Pacific/Pago_Pago	2010-10-12
+5881294	Lalopua	Lalopua		-14.27528	-170.69528	P	PPL	AS		010				0	16	13	Pacific/Pago_Pago	2010-10-12
+5881295	Lalolamauta Stream	Lalolamauta Stream		-14.27583	-170.66444	H	STM	AS		010				0	9	19	Pacific/Pago_Pago	2010-10-12
+5881296	Lalopapa Marsh	Lalopapa Marsh		-14.29083	-170.555	H	SWMP	AS		010				0	6	-9999	Pacific/Pago_Pago	2010-10-12
+5881297	Lavania Cove	Lavania Cove		-14.26	-169.46972	H	BAY	AS		020				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881298	Lauagae Ridge	Lauagae Ridge	Lau`agae Ridge	-14.25222	-170.56389	T	RDGE	AS		010				0	45	-9999	Pacific/Pago_Pago	2010-10-12
+5881299	Larsen Bay	Larsen Bay		-14.36861	-170.74833	H	BAY	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881300	Lauagae	Lauagae	Lau`agae	-14.25444	-170.56861	P	PPL	AS		010				0	61	43	Pacific/Pago_Pago	2010-10-12
+5881301	Lausaa Stream	Lausaa Stream		-14.25583	-170.67194	H	STM	AS		010				0	28	38	Pacific/Pago_Pago	2010-10-12
+5881302	Lauli‘i Elementary School	Lauli'i Elementary School		-14.29028	-170.65306	S	SCH	AS		010				0	6	1	Pacific/Pago_Pago	2014-10-08
+5881303	Laumeimamalie Point	Laumeimamalie Point		-14.36417	-170.73611	T	CAPE	AS		050				0	5	-9999	Pacific/Pago_Pago	2010-10-12
+5881304	Leauga Ridge	Leauga Ridge		-14.27611	-170.58	T	RDGE	AS		010				0	78	1	Pacific/Pago_Pago	2010-10-12
+5881305	Leanaosaualii Point	Leanaosaualii Point		-14.27472	-170.60917	T	CAPE	AS		010				0	9	1	Pacific/Pago_Pago	2010-10-12
+5881306	Leala Point	Leala Point		-14.18472	-169.60528	T	CAPE	AS		020				0	9	-9999	Pacific/Pago_Pago	2010-10-12
+5881307	Leafu Stream	Leafu Stream		-14.27611	-170.57306	H	STM	AS		010				0	3	-9999	Pacific/Pago_Pago	2010-10-12
+5881308	Leala Junior High School	Leala Junior High School		-14.36306	-170.77861	S	SCH	AS		050				0	10	16	Pacific/Pago_Pago	2010-10-12
+5881309	Leanaopou Point	Leanaopou Point		-14.25972	-170.60056	T	CAPE	AS		010				0	149	158	Pacific/Pago_Pago	2010-10-12
+5881310	Lealafaalava Mountain	Lealafaalava Mountain	Lealafa`alava Mountain	-14.32	-170.81056	T	MT	AS		050				0	173	180	Pacific/Pago_Pago	2010-10-12
+5881311	Leanamanu Point	Leanamanu Point		-14.2625	-170.59361	T	CAPE	AS		010				0	109	117	Pacific/Pago_Pago	2010-10-12
+5881312	Leala Shoreline National Natural Landmark	Leala Shoreline National Natural Landmark		-14.36528	-170.77528	L	PRK	AS		050				0	0	16	Pacific/Pago_Pago	2010-09-05
+5881313	Leasi Stream	Leasi Stream		-14.27472	-170.66694	H	STM	AS		010				0	9	8	Pacific/Pago_Pago	2010-10-12
+5881314	Leaoao Peak	Leaoao Peak		-14.25222	-170.67806	T	MT	AS		010				0	34	66	Pacific/Pago_Pago	2010-10-12
+5881315	Leasi Point	Leasi Point		-14.275	-170.66806	T	CAPE	AS		010				0	3	1	Pacific/Pago_Pago	2010-10-12
+5881316	Leau Stream	Leau Stream		-14.28528	-170.70944	H	STM	AS		010				0	74	138	Pacific/Pago_Pago	2010-10-12
+5881317	Lealaeli Hill	Lealaeli Hill		-14.27306	-170.56417	T	MT	AS		010				0	12	-9999	Pacific/Pago_Pago	2010-10-12
+5881318	Leatutoga Point	Leatutoga Point		-14.27556	-169.48167	T	CAPE	AS		020				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881319	Loa Cove	Loa Cove		-14.32889	-170.83778	H	BAY	AS		050				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5881320	Leopard Point	Leopard Point		-14.31694	-170.83222	T	CAPE	AS		050				0	50	52	Pacific/Pago_Pago	2010-10-12
+5881321	Lefutu Ridge	Lefutu Ridge		-14.25667	-170.57333	T	RDGE	AS		010				0	137	134	Pacific/Pago_Pago	2010-10-12
+5881322	Leele Mountain	Leele Mountain	Le`ele Mountain	-14.30194	-170.71889	T	MT	AS		010				0	341	370	Pacific/Pago_Pago	2010-10-12
+5881323	Leaveave Stream	Leaveave Stream	Le`ave`ave Stream	-14.30056	-170.75111	H	STM	AS		050				0	58	74	Pacific/Pago_Pago	2010-10-12
+5881324	Leaute Stream	Leaute Stream		-14.33417	-170.82417	H	STM	AS		050				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5881325	Leafu Stream	Leafu Stream		-14.3175	-170.77639	H	STM	AS		050				0	327	327	Pacific/Pago_Pago	2010-10-12
+5881326	Leafu Stream	Leafu Stream		-14.25611	-170.67528	H	STM	AS		010				0	100	108	Pacific/Pago_Pago	2010-10-12
+5881327	Leafu Stream	Leafu Stream		-14.33028	-170.8275	H	STM	AS		050				0	8	7	Pacific/Pago_Pago	2010-10-12
+5881328	Leaveave Stream	Leaveave Stream	Le`ave`ave Stream	-14.33083	-170.74167	H	STM	AS		050				0	49	45	Pacific/Pago_Pago	2010-10-12
+5881329	Lefao Ridge	Lefao Ridge		-14.25444	-170.57556	T	RDGE	AS		010				0	154	155	Pacific/Pago_Pago	2010-10-12
+5881330	Leele Stream	Leele Stream	Le`ele Stream	-14.305	-170.70833	H	STM	AS		010				0	55	59	Pacific/Pago_Pago	2010-10-12
+5881331	Leele Stream	Leele Stream	Le`ele Stream	-14.29056	-170.71972	H	STM	AS		010				0	124	130	Pacific/Pago_Pago	2010-10-12
+5881332	Leaeno Mountain	Leaeno Mountain	Le`aeno Mountain	-14.27083	-170.6	T	MT	AS		010				0	172	182	Pacific/Pago_Pago	2010-10-12
+5881333	Leemo Ridge	Leemo Ridge	Le`emo Ridge *	-14.2675	-170.70028	T	RDGE	AS		010				0	242	170	Pacific/Pago_Pago	2010-10-12
+5881334	Lauliituai	Lauliituai	Lauli`ituai	-14.29167	-170.65278	P	PPL	AS		010				0	5	-9999	Pacific/Pago_Pago	2010-10-12
+5881335	Leelee Point	Leelee Point	Le`ele`e Point	-14.30056	-170.81056	T	CAPE	AS		050				0	53	82	Pacific/Pago_Pago	2010-10-12
+5881336	Leoo Ridge	Leoo Ridge	Leo`o Ridge	-14.27583	-170.58528	T	RDGE	AS		010				0	84	1	Pacific/Pago_Pago	2010-10-12
+5881337	Leolo Ridge	Leolo Ridge		-14.27361	-170.71278	T	RDGE	AS		010				0	220	237	Pacific/Pago_Pago	2010-10-12
+5881338	Leileia Mountain	Leileia Mountain		-14.32333	-170.81917	T	MT	AS		050				0	177	190	Pacific/Pago_Pago	2010-10-12
+5881339	Legaotaema Point	Legaotaema Point		-14.32667	-170.8425	T	CAPE	AS		050				0	14	7	Pacific/Pago_Pago	2010-10-12
+5881340	Leila Mountain	Leila Mountain		-14.26889	-170.59472	T	MT	AS		010				0	161	182	Pacific/Pago_Pago	2010-10-12
+5881341	Lemafa Saddle	Lemafa Saddle		-14.27278	-170.58528	T	GAP	AS		010				0	13	39	Pacific/Pago_Pago	2010-10-12
+5881342	Leloaloa	Leloaloa		-14.27222	-170.67806	P	PPL	AS		010				546	7	24	Pacific/Pago_Pago	2010-10-12
+5881343	Lemafa Ridge	Lemafa Ridge		-14.265	-170.59472	T	RDGE	AS		010				0	144	156	Pacific/Pago_Pago	2010-10-12
+5881344	Leone Post Office	Leone Post Office		-14.34472	-170.78389	S	PO	AS		050				0	3	26	Pacific/Pago_Pago	2010-09-05
+5881345	Leone Bay	Leone Bay		-14.34361	-170.79083	H	BAY	AS		050				0	-3	85	Pacific/Pago_Pago	2010-10-12
+5881346	Le‘olo Ridge	Le'olo Ridge	Leolo Ridge	-14.1775	-169.65361	T	RDGE	AS		020				0	403	19	Pacific/Pago_Pago	2014-10-08
+5881347	Leone	Leone		-14.34389	-170.785	P	PPL	AS		050				4050	14	21	Pacific/Pago_Pago	2010-10-12
+5881348	Leone Midkiff Elementary School	Leone Midkiff Elementary School	Midkiff School	-14.34861	-170.78194	S	SCH	AS		050				0	14	21	Pacific/Pago_Pago	2010-10-12
+5881349	Leone Falls	Leone Falls		-14.32972	-170.78222	H	OVF	AS		050				0	73	16	Pacific/Pago_Pago	2010-09-05
+5881350	Leone High School	Leone High School		-14.355	-170.77806	S	SCH	AS		050				0	17	19	Pacific/Pago_Pago	2010-09-05
+5881351	Liuvaatoga Rock	Liuvaatoga Rock	Liuva`atoga Rock	-14.32917	-170.84028	T	ISL	AS		050				0	17	1	Pacific/Pago_Pago	2010-10-12
+5881352	Laufuti Stream	Laufuti Stream	Laufuti River	-14.255	-169.445	H	STM	AS		020				0	1	3	Pacific/Pago_Pago	2010-10-12
+5881353	Lepua (historical)	Lepua (historical)		-14.18194	-169.60611	P	PPLQ	AS		020				0	5	-9999	Pacific/Pago_Pago	2014-10-08
+5881354	Lepine	Lepine		-14.32389	-170.72778	P	PPL	AS		050				0	18	24	Pacific/Pago_Pago	2010-10-12
+5881355	Lepa Stream	Lepa Stream		-14.27194	-170.58694	H	STM	AS		010				0	23	53	Pacific/Pago_Pago	2010-10-12
+5881356	Lauliifou	Lauliifou	Lauli`ifou	-14.29361	-170.65889	P	PPL	AS		010				0	10	1	Pacific/Pago_Pago	2010-10-12
+5881357	Lepisi Point	Lepisi Point		-14.33694	-170.81722	T	CAPE	AS		050				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5881358	Lepisi (historical)	Lepisi (historical)		-14.26806	-169.47583	P	PPLQ	AS		020				0	-3	-9999	Pacific/Pago_Pago	2014-10-08
+5881359	Lepisi Cove	Lepisi Cove		-14.3525	-170.72333	H	BAY	AS		050				0	7	-9999	Pacific/Pago_Pago	2010-10-12
+5881360	Lesina Stream	Lesina Stream		-14.29222	-170.72139	H	STM	AS		010				0	157	167	Pacific/Pago_Pago	2010-10-12
+5881361	Lepue Crater	Lepue Crater	Lepu`e Crater	-14.22694	-169.48528	T	CRTR	AS		020				0	380	384	Pacific/Pago_Pago	2010-10-12
+5881362	Lepua Point	Lepua Point		-14.25278	-170.63278	T	CAPE	AS		010				0	82	93	Pacific/Pago_Pago	2010-10-12
+5881363	Lepua Point	Lepua Point		-14.16583	-169.66917	T	CAPE	AS		020				0	121	121	Pacific/Pago_Pago	2010-10-12
+5881364	Lauli‘i	Lauli'i		-14.29222	-170.65306	P	PPL	AS		010				0	21	-9999	Pacific/Pago_Pago	2014-10-08
+5881365	Lepula (historical)	Lepula (historical)		-14.21917	-169.43611	P	PPLQ	AS		020				0	292	297	Pacific/Pago_Pago	2011-12-11
+5881366	Lesea Stream	Lesea Stream		-14.28889	-170.65167	H	STM	AS		010				0	7	7	Pacific/Pago_Pago	2010-10-12
+5881367	Liu Bench	Liu Bench		-14.24861	-169.45833	T	BNCH	AS		020				0	1	18	Pacific/Pago_Pago	2010-10-12
+5881368	Leusoali‘i	Leusoali'i	Leusoalii	-14.22611	-169.42111	P	PPL	AS		020				0	22	21	Pacific/Pago_Pago	2014-10-08
+5881369	Leti Point	Leti Point		-14.36667	-170.74583	T	CAPE	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881370	Lesolo Ridge	Lesolo Ridge		-14.30861	-170.70111	T	RDGE	AS		010				0	92	113	Pacific/Pago_Pago	2010-10-12
+5881371	Lesui Ridge	Lesui Ridge		-14.33528	-170.77139	T	RDGE	AS		050				0	39	54	Pacific/Pago_Pago	2010-10-12
+5881372	Lata Mountain	Lata Mountain	Mount Lata,Mount Latu	-14.23694	-169.45694	T	MT	AS		020				0	511	505	Pacific/Pago_Pago	2010-10-12
+5881373	Letula (historical)	Letula (historical)		-14.21917	-169.44389	P	PPLQ	AS		020				0	348	354	Pacific/Pago_Pago	2011-12-11
+5881374	Leua Stream	Leua Stream		-14.28944	-170.71972	H	STM	AS		010				0	101	103	Pacific/Pago_Pago	2010-10-12
+5881375	Lifalifa Point	Lifalifa Point		-14.28306	-170.60306	T	CAPE	AS		010				0	13	11	Pacific/Pago_Pago	2010-10-12
+5881376	Levaga Ridge	Levaga Ridge		-14.26389	-170.69694	T	RDGE	AS		010				0	329	340	Pacific/Pago_Pago	2010-10-12
+5881377	Leutu Point	Leutu Point		-14.28083	-170.72194	T	CAPE	AS		010				0	101	122	Pacific/Pago_Pago	2010-10-12
+5881378	Leva Point	Leva Point		-14.28583	-170.595	T	CAPE	AS		010				0	35	-9999	Pacific/Pago_Pago	2010-10-12
+5881379	Library of American Samoa	Library of American Samoa		-14.28528	-170.68333	S	LIBR	AS		010				0	10	148	Pacific/Pago_Pago	2010-09-05
+5881380	Leālātaua County	Lealataua County	Lealataua County	-14.31837	-170.8289	A	ADM2	AS		050	5881380			0	161	165	Pacific/Pago_Pago	2013-03-08
+5881381	Leāsina County	Leasina County	Leasina County	-14.29699	-170.77064	A	ADM2	AS		050	5881381			0	116	130	Pacific/Pago_Pago	2013-03-08
+5881382	Puafusi Point	Puafusi Point		-14.35667	-170.72889	T	CAPE	AS		050				0	9	-9999	Pacific/Pago_Pago	2010-10-12
+5881383	Mulinuu Point	Mulinuu Point	Mulinu`u Point	-14.32722	-170.70194	T	CAPE	AS		010				0	3	3	Pacific/Pago_Pago	2010-10-12
+5881384	Massacre Bay	Massacre Bay	A`asuat Massacre Bay,Massacre Bai	-14.29472	-170.75833	H	BAY	AS		050				0	38	52	Pacific/Pago_Pago	2010-10-12
+5881385	Malaetia Stream	Malaetia Stream		-14.17722	-169.6775	H	STM	AS		020				0	3	15	Pacific/Pago_Pago	2010-10-12
+5881386	Maamaa Cove	Maamaa Cove	Ma`ama`a Cove	-14.28972	-170.545	H	BAY	AS		010				0	3	-9999	Pacific/Pago_Pago	2010-10-12
+5881387	Luania Rocks	Luania Rocks		-14.32556	-170.84528	T	ISL	AS		050				0	10	7	Pacific/Pago_Pago	2010-10-12
+5881388	Loto Point	Loto Point		-14.22028	-169.4875	T	CAPE	AS		020				0	221	217	Pacific/Pago_Pago	2010-10-12
+5881389	Logotala Hill	Logotala Hill		-14.3575	-170.75083	T	MT	AS		050				0	20	24	Pacific/Pago_Pago	2010-10-12
+5881390	Logoua Fall	Logoua Fall		-14.33361	-170.82361	H	OVF	AS		050				0	59	1	Pacific/Pago_Pago	2010-10-12
+5881391	Luamaa (historical)	Luamaa (historical)	Luama`a *	-14.25333	-169.42028	P	PPLQ	AS		020				0	8	-9999	Pacific/Pago_Pago	2014-10-08
+5881392	Lotoaise Point	Lotoaise Point	Lotoaisi Point	-14.27667	-169.4825	T	CAPE	AS		020				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881393	Lotofaaee Rock	Lotofaaee Rock		-14.27556	-170.56611			AS		010				0	4	-9999	Pacific/Pago_Pago	2010-10-12
+5881394	Maalatetele Rocks	Maalatetele Rocks	Ma`a`alatetele Rocks *	-14.2625	-170.55833	T	ISL	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881395	Lupelele Elementary School	Lupelele Elementary School		-14.35111	-170.74556	S	SCH	AS		050				0	59	61	Pacific/Pago_Pago	2010-09-05
+5881396	Lumā	Luma	Luma	-14.23167	-169.51472	P	PPL	AS		020				0	11	12	Pacific/Pago_Pago	2010-10-12
+5881397	Lumana‘i Building	Lumana'i Building		-14.28333	-170.68667	S	BLDG	AS		010				0	47	84	Pacific/Pago_Pago	2014-10-08
+5881398	Maafee Island	Maafee Island	Ma`afe`e Island	-14.22944	-169.51889	T	ISL	AS		020				0	-3	1	Pacific/Pago_Pago	2010-10-12
+5881399	Lyndon Baines Johnson Tropical Medical Center	Lyndon Baines Johnson Tropical Medical Center		-14.29528	-170.68444	S	HSP	AS		010				0	5	165	Pacific/Pago_Pago	2010-09-05
+5881400	Cape Larsen	Cape Larsen		-14.28667	-170.73056	T	CAPE	AS		010				0	227	233	Pacific/Pago_Pago	2010-10-12
+5881401	Malaeloa/Ituau	Malaeloa/Ituau		-14.34722	-170.76722	P	PPL	AS		050				717	46	62	Pacific/Pago_Pago	2010-09-05
+5881402	Laoulu Stream	Laoulu Stream		-14.26472	-170.58389	H	STM	AS		010				0	99	96	Pacific/Pago_Pago	2010-10-12
+5881403	Maefu Cove	Maefu Cove	Ma`efu Cove	-14.25833	-169.43944	H	BAY	AS		020				0	-2	0	Pacific/Pago_Pago	2010-10-12
+5881404	Maatulaumea Point	Maatulaumea Point		-14.27639	-170.57111	T	CAPE	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881405	Maatulua Ridge	Maatulua Ridge		-14.26389	-170.69389	T	RDGE	AS		010				0	336	358	Pacific/Pago_Pago	2010-10-12
+5881406	Maga Stream	Maga Stream		-14.28722	-170.65139	H	STM	AS		010				0	75	30	Pacific/Pago_Pago	2010-10-12
+5881407	Mafafa (historical)	Mafafa (historical)		-14.17333	-169.64361	P	PPLQ	AS		020				0	51	50	Pacific/Pago_Pago	2014-10-08
+5881408	Lemaga Point	Lemaga Point	Kap Lemanga,Maga Point	-14.19778	-169.61111	T	CAPE	AS		020				0	12	-9999	Pacific/Pago_Pago	2010-10-12
+5881409	Malaeloa/Aitulagi	Malaeloa/Aitulagi		-14.33861	-170.76784	P	PPL	AS		050				633	37	53	Pacific/Pago_Pago	2014-05-02
+5881410	Malaeimi	Malaeimi		-14.32278	-170.73389	P	PPL	AS		050				1261	39	41	Pacific/Pago_Pago	2010-09-05
+5881411	Maia	Maia		-14.21944	-169.42833	P	PPL	AS		020				0	202	207	Pacific/Pago_Pago	2010-10-12
+5881412	Mako Ridge	Mako Ridge		-14.16861	-169.67083	T	RDGE	AS		020				0	269	259	Pacific/Pago_Pago	2010-10-12
+5881413	Malaeloa	Malaeloa		-14.34417	-170.76722	P	PPL	AS		050				0	39	58	Pacific/Pago_Pago	2010-10-12
+5881414	Malaeimi Valley	Malaeimi Valley	Malae`imi Valley	-14.31694	-170.73444	T	VAL	AS		050				0	40	61	Pacific/Pago_Pago	2010-10-12
+5881415	Laolao Stream	Laolao Stream		-14.27694	-170.70278	H	STM	AS		010				0	91	114	Pacific/Pago_Pago	2010-10-12
+5881416	Masinaoleafiafi Ridge	Masinaoleafiafi Ridge		-14.33528	-170.79278	T	RDGE	AS		050				0	73	107	Pacific/Pago_Pago	2010-10-12
+5881417	Maluatia Hill	Maluatia Hill	Malu`atia Hill	-14.21944	-169.42333	T	MT	AS		020				0	50	57	Pacific/Pago_Pago	2010-10-12
+5881418	Malama Spring	Malama Spring		-14.32778	-170.83389	H	SPNG	AS		050				0	60	1	Pacific/Pago_Pago	2010-10-12
+5881419	Malagatiga Ridge	Malagatiga Ridge		-14.32972	-170.79889	T	RDGE	AS		050				0	98	101	Pacific/Pago_Pago	2010-10-12
+5881420	Laloniu Cove	Laloniu Cove		-14.29556	-170.78778	H	BAY	AS		050				0	121	153	Pacific/Pago_Pago	2010-10-12
+5881421	Malagateine Stream	Malagateine Stream		-14.33611	-170.79639	H	STM	AS		050				0	8	107	Pacific/Pago_Pago	2010-10-12
+5881422	Malama Point	Malama Point		-14.32972	-170.83333	T	CAPE	AS		050				0	9	7	Pacific/Pago_Pago	2010-10-12
+5881423	Malaloa	Malaloa		-14.28083	-170.6925	P	PPL	AS		010				0	72	88	Pacific/Pago_Pago	2010-10-12
+5881424	Malaloto Ridge	Malaloto Ridge		-14.33639	-170.77694	T	RDGE	AS		050				0	156	89	Pacific/Pago_Pago	2010-10-12
+5881425	Lalomoana	Lalomoana		-14.17056	-169.62167	P	PPL	AS		020				0	602	202	Pacific/Pago_Pago	2010-10-12
+5881426	Malo Point	Malo Point		-14.26028	-170.59667	T	CAPE	AS		010				0	65	77	Pacific/Pago_Pago	2010-10-12
+5881427	Maliefetaliai Ridge	Maliefetaliai Ridge		-14.28917	-170.64861	T	RDGE	AS		010				0	115	1	Pacific/Pago_Pago	2010-10-12
+5881428	Maliuga Point	Maliuga Point		-14.26361	-170.56111	T	CAPE	AS		010				0	7	-9999	Pacific/Pago_Pago	2010-10-12
+5881429	Maloata Stream	Maloata Stream		-14.30861	-170.815	H	STM	AS		050				0	109	98	Pacific/Pago_Pago	2010-10-12
+5881430	Maloata	Maloata	Moloata	-14.30944	-170.81472	P	PPL	AS		050				0	4	156	Pacific/Pago_Pago	2010-10-12
+5881431	Māloatā Bay	Maloata Bay	Maloata Bay	-14.3075	-170.81639	H	BAY	AS		050				0	174	176	Pacific/Pago_Pago	2010-10-12
+5881432	Masefau Elementary School	Masefau Elementary School		-14.26194	-170.63	S	SCH	AS		010				0	1	177	Pacific/Pago_Pago	2010-09-05
+5881433	Mapusaga	Mapusaga		-14.33	-170.74389	P	PPL	AS		050				0	67	51	Pacific/Pago_Pago	2010-10-12
+5881434	Manu‘a Islands	Manu'a Islands	Manu`a Group,Manua Islands	-14.2125	-169.55417	T	ISL	AS						0	-2	-9999	Pacific/Pago_Pago	2014-10-08
+5881435	Manu‘a High School	Manu'a High School	Papatea High School,Papatea Junior High School	-14.22917	-169.51556	S	SCH	AS		020				0	5	7	Pacific/Pago_Pago	2014-10-08
+5881436	Manu'a District	Manu'a District	District of Manu`a,Manu'a	-14.23327	-169.47458	A	ADM1	AS		020				1400	73	804	Pacific/Pago_Pago	2019-07-26
+5881437	Maota Fono Building	Maota Fono Building		-14.28306	-170.68778	S	BLDG	AS		010				0	3	119	Pacific/Pago_Pago	2010-09-05
+5881438	Manuelo Rock	Manuelo Rock		-14.29306	-170.78028	T	ISL	AS		050				0	7	87	Pacific/Pago_Pago	2010-10-12
+5881439	Manunu Ridge	Manunu Ridge		-14.30889	-170.7975	T	RDGE	AS		050				0	269	284	Pacific/Pago_Pago	2010-10-12
+5881440	Masefau Bay	Masefau Bay		-14.26083	-170.62278	H	BAY	AS		010				0	226	220	Pacific/Pago_Pago	2010-10-12
+5881441	Manofā	Manofa	Manofa	-14.25667	-170.70083	T	ISL	AS		010				0	142	138	Pacific/Pago_Pago	2010-10-12
+5881442	Mapusagafou	Mapusagafou		-14.33056	-170.75278	P	PPL	AS		050				2052	106	111	Pacific/Pago_Pago	2010-10-12
+5881443	Mapusagatuai Stream	Mapusagatuai Stream		-14.3225	-170.73417	H	STM	AS		050				0	31	41	Pacific/Pago_Pago	2010-10-12
+5881444	Masefau	Masefau		-14.25917	-170.63056	P	PPL	AS		010				0	119	113	Pacific/Pago_Pago	2010-10-12
+5881445	Marist Brothers School for Boys	Marist Brothers School for Boys		-14.2725	-170.68278	S	SCH	AS		010				0	71	24	Pacific/Pago_Pago	2010-09-05
+5881446	Masausi	Masausi	Masa`usi	-14.26472	-170.60417	P	PPL	AS		010				0	157	168	Pacific/Pago_Pago	2010-10-12
+5881447	Mulimauga Ridge	Mulimauga Ridge		-14.33639	-170.78389	T	RDGE	AS		050				0	7	6	Pacific/Pago_Pago	2010-10-12
+5881448	Matavai Stream	Matavai Stream		-14.30361	-170.80972	H	STM	AS		050				0	192	187	Pacific/Pago_Pago	2010-10-12
+5881449	Mataitutua Rock	Mataitutua Rock	Mata`itutu`a Rock	-14.25361	-169.45667	T	ISL	AS		020				0	6	151	Pacific/Pago_Pago	2010-10-12
+5881450	Matafanua Junior High School	Matafanua Junior High School		-14.27056	-170.56389	S	SCH	AS		010				0	4	-9999	Pacific/Pago_Pago	2010-10-12
+5881451	Mataālaosagamai Ridge	Mataalaosagamai Ridge	Mataalaosagamai Ridge	-14.27028	-169.4825	T	RDGE	AS		020				0	318	-9999	Pacific/Pago_Pago	2010-10-12
+5881452	Mataae Point	Mataae Point	Mata`ae Point	-14.30611	-170.68417	T	CAPE	AS		010				0	3	19	Pacific/Pago_Pago	2010-10-12
+5881453	Mataalā Ridge	Mataala Ridge	Mataala Ridge	-14.19139	-169.61389	T	RDGE	AS		020				0	191	373	Pacific/Pago_Pago	2010-10-12
+5881454	Mataavaloa Point	Mataavaloa Point		-14.27583	-169.49111	T	CAPE	AS		020				0	3	-9999	Pacific/Pago_Pago	2010-10-12
+5881455	Mataalii Stream	Mataalii Stream		-14.31861	-170.71	H	STM	AS		010				0	0	127	Pacific/Pago_Pago	2010-10-12
+5881456	Laloi Stream	Laloi Stream		-14.27861	-170.585	H	STM	AS		010				0	3	1	Pacific/Pago_Pago	2010-10-12
+5881457	Matai Mountain	Matai Mountain		-14.28917	-170.68917	T	MT	AS		010				0	28	49	Pacific/Pago_Pago	2010-10-12
+5881458	Matafao Peak National Natural Landmark	Matafao Peak National Natural Landmark		-14.3	-170.70222	L	PRK	AS		010				0	614	336	Pacific/Pago_Pago	2010-09-05
+5881459	Matafao Elementary School	Matafao Elementary School		-14.29333	-170.67833	S	SCH	AS		010				0	5	-9999	Pacific/Pago_Pago	2010-09-05
+5881460	Matafao Peak	Matafao Peak		-14.29972	-170.7025	T	MT	AS		010				0	341	336	Pacific/Pago_Pago	2010-10-12
+5881461	Lalofutu Point	Lalofutu Point		-14.27722	-170.72167	T	CAPE	AS		010				0	78	99	Pacific/Pago_Pago	2010-10-12
+5881462	Matafaofafine Peak	Matafaofafine Peak		-14.30167	-170.70139	T	MT	AS		010				0	473	305	Pacific/Pago_Pago	2010-10-12
+5881463	Matagimalie Stream	Matagimalie Stream		-14.27472	-170.66361	H	STM	AS		010				0	77	57	Pacific/Pago_Pago	2010-10-12
+5881464	Matavai Point	Matavai Point		-14.24528	-169.50861	T	CAPE	AS		020				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881465	Matātula	Matatula	Cape Mata`ula,Cape Matatula,Cape Matātula,Kap Matatula	-14.25083	-170.56083	T	CAPE	AS		010				0	16	-9999	Pacific/Pago_Pago	2010-10-12
+5881466	Matape Hill	Matape Hill		-14.25444	-170.65222	T	MT	AS		010				0	49	11	Pacific/Pago_Pago	2010-10-12
+5881467	Matalesolo Point	Matalesolo Point		-14.28389	-170.58944	T	CAPE	AS		010				0	6	-9999	Pacific/Pago_Pago	2010-10-12
+5881468	Matalia Point	Matalia Point		-14.23444	-170.66972	T	ISL	AS		010				0	0	1	Pacific/Pago_Pago	2010-10-12
+5881469	Matatula Elementary School	Matatula Elementary School		-14.25722	-170.56417	S	SCH	AS		010				0	2	36	Pacific/Pago_Pago	2010-09-05
+5881470	Matasina Stream	Matasina Stream		-14.18472	-169.67556	H	STM	AS		020				0	3	50	Pacific/Pago_Pago	2010-10-12
+5881471	Lafogaufi Point	Lafogaufi Point		-14.25667	-169.46417	T	CAPE	AS		020				0	6	178	Pacific/Pago_Pago	2010-10-12
+5881472	Mataututele Point	Mataututele Point		-14.2925	-170.78278	T	CAPE	AS		050				0	81	68	Pacific/Pago_Pago	2010-10-12
+5881473	Matautuele Point	Matautuele Point		-14.27944	-170.58	T	CAPE	AS		010				0	-2	1	Pacific/Pago_Pago	2010-10-12
+5881474	Matautu Point	Matautu Point		-14.27139	-170.71472	T	CAPE	AS		010				0	128	127	Pacific/Pago_Pago	2010-10-12
+5881475	Matautu Ridge	Matautu Ridge		-14.29139	-170.67944	T	RDGE	AS		010				0	86	-9999	Pacific/Pago_Pago	2010-10-12
+5881476	Matautuotafuna Point	Matautuotafuna Point	Point Deceit	-14.33972	-170.71111	T	CAPE	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881477	Matautuloa Point	Matautuloa Point		-14.37722	-170.75667	T	CAPE	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881478	Matautuloa Ridge	Matautuloa Ridge		-14.37139	-170.75667	T	RDGE	AS		050				0	103	-9999	Pacific/Pago_Pago	2010-10-12
+5881479	Mu Point	Mu Point		-14.33722	-170.80333	T	CAPE	AS		050				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881480	Maugatele Rock	Maugatele Rock		-14.33333	-170.81278	T	CAPE	AS		050				0	4	75	Pacific/Pago_Pago	2010-10-12
+5881481	Maugaele Ridge	Maugaele Ridge	Mauga`ele Ridge	-14.27444	-170.57778	T	RDGE	AS		010				0	2	8	Pacific/Pago_Pago	2010-10-12
+5881482	Matu‘u	Matu'u	Matuu	-14.30361	-170.68389	P	PPL	AS		010				0	10	19	Pacific/Pago_Pago	2014-10-08
+5881483	Lafiga Point	Lafiga Point		-14.29361	-170.65056	T	CAPE	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881484	Matavalu Ridge	Matavalu Ridge		-14.2625	-170.67333	T	RDGE	AS		010				0	335	352	Pacific/Pago_Pago	2010-10-12
+5881485	Mauga-o-Alava Elementary School	Mauga-o-Alava Elementary School		-14.25	-170.67167	S	SCH	AS		010				0	4	8	Pacific/Pago_Pago	2010-09-05
+5881486	Matuli Point	Matuli Point		-14.26988	-170.56469	T	CAPE	AS		010				0	3	7	Pacific/Pago_Pago	2016-12-07
+5881487	Mauga o Ali‘i	Mauga o Ali'i		-14.28222	-170.68194	T	MT	AS		010				0	2	5	Pacific/Pago_Pago	2014-10-08
+5881488	Maugasaa Ridge	Maugasaa Ridge		-14.335	-170.82806	T	RDGE	AS		050				0	26	-9999	Pacific/Pago_Pago	2010-10-12
+5881489	Maugaloa Ridge	Maugaloa Ridge		-14.26917	-170.67028	T	RDGE	AS		010				0	42	47	Pacific/Pago_Pago	2010-10-12
+5881490	Maugaleoo Ridge	Maugaleoo Ridge	Maugaleo`o Ridge *	-14.26417	-170.57083	T	RDGE	AS		010				0	84	90	Pacific/Pago_Pago	2010-10-12
+5881491	Maugaleoo Ridge	Maugaleoo Ridge		-14.27861	-170.62833	T	RDGE	AS		010				0	1	7	Pacific/Pago_Pago	2010-10-12
+5881492	Maugaotula Peak	Maugaotula Peak		-14.25528	-170.68278	T	MT	AS		010				0	199	207	Pacific/Pago_Pago	2010-10-12
+5881493	Maugaoalii Ridge	Maugaoalii Ridge	Mauga`oali`i Ridge	-14.27139	-170.60472	T	RDGE	AS		010				0	29	31	Pacific/Pago_Pago	2010-10-12
+5881494	Maugaopea Point	Maugaopea Point	Maugaope`a Point	-14.28222	-170.58667	T	CAPE	AS		010				0	1	1	Pacific/Pago_Pago	2010-10-12
+5881495	Motusaga Ridge	Motusaga Ridge		-14.2725	-170.56917	T	RDGE	AS		010				0	102	1	Pacific/Pago_Pago	2010-10-12
+5881496	Mesepa	Mesepa		-14.33139	-170.74444	P	PPL	AS		050				552	47	51	Pacific/Pago_Pago	2010-10-12
+5881497	Maupua (historical)	Maupua (historical)		-14.25361	-170.57083	P	PPLQ	AS		010				0	22	30	Pacific/Pago_Pago	2011-12-11
+5881498	Maululu Stream	Maululu Stream		-14.33	-170.83028	H	STM	AS		050				0	-3	7	Pacific/Pago_Pago	2010-10-12
+5881500	Mauputasi County	Mauputasi County		-14.25782	-170.70331	A	ADM2	AS		010	5881500			0	5	1	Pacific/Pago_Pago	2013-03-08
+5881501	Maupua Stream	Maupua Stream		-14.25306	-170.57333	H	STM	AS		010				0	7	79	Pacific/Pago_Pago	2010-10-12
+5881502	KBQN-AM (Pago Pago)	KBQN-AM (Pago Pago)		-14.34778	-170.76944	S	TOWR	AS		010				0	46	56	Pacific/Pago_Pago	2010-10-12
+5881503	Motusaga Point	Motusaga Point		-14.26278	-170.59056	T	CAPE	AS		010				0	22	19	Pacific/Pago_Pago	2010-10-12
+5881504	Happy Valley	Happy Valley		-14.27972	-170.69639	T	VAL	AS		010				0	239	253	Pacific/Pago_Pago	2010-10-12
+5881505	Milomilo Mountain	Milomilo Mountain	Milo Milo	-14.30778	-170.7675	T	MT	AS		050				0	351	351	Pacific/Pago_Pago	2010-10-12
+5881506	Misa Stream	Misa Stream		-14.30417	-170.80917	H	STM	AS		050				0	234	232	Pacific/Pago_Pago	2010-10-12
+5881507	Moso Point	Moso Point		-14.27	-169.49583	T	CAPE	AS		020				0	3	111	Pacific/Pago_Pago	2010-10-12
+5881508	Moega-a-uila	Moega-a-uila	Moegauila	-14.22083	-169.50861			AS		020				0	140	137	Pacific/Pago_Pago	2010-10-12
+5881509	Mooliuvaa Cove	Mooliuvaa Cove	Mo`oliuva`a Cove	-14.29139	-170.63944	H	BAY	AS		010				0	-8	-9999	Pacific/Pago_Pago	2010-10-12
+5881510	Pouono Point	Pouono Point		-14.18694	-169.62028	T	CAPE	AS		020				0	1	0	Pacific/Pago_Pago	2010-10-12
+5881511	Olotafatafa Ridge	Olotafatafa Ridge		-14.32444	-170.82889	T	RDGE	AS		050				0	11	25	Pacific/Pago_Pago	2010-10-12
+5881512	Nuuosina Rock	Nuuosina Rock	Nu`uosina Rock	-14.285	-170.73139	T	ISL	AS		010				0	150	154	Pacific/Pago_Pago	2010-10-12
+5881513	Niuasele Ridge	Niuasele Ridge		-14.32889	-170.82306	T	RDGE	AS		050				0	86	71	Pacific/Pago_Pago	2010-10-12
+5881514	Mulivaitele Stream	Mulivaitele Stream		-14.26889	-170.5625	H	STM	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881515	Muliulu Point	Muliulu Point	Southworth Point	-14.26694	-170.71167	T	CAPE	AS		010				0	109	116	Pacific/Pago_Pago	2010-10-12
+5881516	Muliolevai Stream	Muliolevai Stream		-14.28194	-170.62611	H	STM	AS		010				0	4	1	Pacific/Pago_Pago	2010-10-12
+5881517	Mulisinalua Point	Mulisinalua Point		-14.24861	-169.50556	T	CAPE	AS		020				0	5	12	Pacific/Pago_Pago	2010-10-12
+5881518	Mulivaisigano Point	Mulivaisigano Point		-14.26556	-170.70833	T	CAPE	AS		010				0	197	216	Pacific/Pago_Pago	2010-10-12
+5881519	Mulivai Stream	Mulivai Stream		-14.25556	-170.67083	H	STM	AS		010				0	36	46	Pacific/Pago_Pago	2010-10-12
+5881520	Greyhound Point	Greyhound Point		-14.29306	-170.78389	T	CAPE	AS		050				0	175	192	Pacific/Pago_Pago	2010-10-12
+5881521	Niualuau Ridge	Niualuau Ridge		-14.33028	-170.82111	T	RDGE	AS		050				0	20	51	Pacific/Pago_Pago	2010-10-12
+5881522	Nāfanua Bank	Nafanua Bank	Nafanua Bank	-14.30167	-170.56611	T	BAR	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881523	Goat Island Point	Goat Island Point		-14.28194	-170.68028	T	CAPE	AS		010				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5881524	Museum of American Samoa	Museum of American Samoa	Jean P Haydon Museum	-14.28278	-170.68667	S	MUS	AS		010				0	4	86	Pacific/Pago_Pago	2010-09-05
+5881525	National Park of American Samoa	National Park of American Samoa	National Park of American Samoa National Park	-14.23677	-169.45236	L	PRK	AS		020				0	491	494	Pacific/Pago_Pago	2016-12-07
+5881526	Namumeaavaga Point	Namumeaavaga Point		-14.29444	-170.66361	T	CAPE	AS		010				0	9	1	Pacific/Pago_Pago	2010-10-12
+5881527	Narragansett Passage	Narragansett Passage		-14.30806	-170.63278	H	CHN	AS		010				0	6	-9999	Pacific/Pago_Pago	2010-10-12
+5881528	Nuuooti Cove	Nuuooti Cove	Nu`uo`oti Cove	-14.29694	-170.79194	H	BAY	AS		050				0	244	246	Pacific/Pago_Pago	2010-10-12
+5881529	Nua-Seetaga Bay	Nua-Seetaga Bay	Nua Se`etaga Bay	-14.33389	-170.80944	H	BAY	AS		050				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881530	Niutulua Point	Niutulua Point		-14.30556	-170.81444	T	CAPE	AS		050				0	13	19	Pacific/Pago_Pago	2010-10-12
+5881531	Niuaveve Rock	Niuaveve Rock		-14.3425	-170.78861	T	ISL	AS		050				0	-3	85	Pacific/Pago_Pago	2010-10-12
+5881532	Niuolepava Rock	Niuolepava Rock		-14.33028	-170.83444	T	ISL	AS		050				0	8	1	Pacific/Pago_Pago	2010-10-12
+5881533	Nua	Nua		-14.33306	-170.80583	P	PPL	AS		050				0	1	136	Pacific/Pago_Pago	2010-10-12
+5881534	North Pioa Mountain	North Pioa Mountain	Mount Pioa,Peoa Peak,Rainmaker Mountain	-14.27639	-170.65278	T	MT	AS		010				0	170	177	Pacific/Pago_Pago	2010-10-12
+5881535	Nu‘uuli	Nu'uuli	Nuuuli	-14.31583	-170.6975	P	PPL	AS		010				0	4	50	Pacific/Pago_Pago	2014-10-08
+5881536	Nuuoosegi Cove	Nuuoosegi Cove	Nu`uo`osegi Cove	-14.315	-170.69472	H	BAY	AS		010				0	4	50	Pacific/Pago_Pago	2010-10-12
+5881537	Nuuiti Rock	Nuuiti Rock	Nu`uiti Rock	-14.25111	-170.5725	T	ISL	AS		010				0	110	112	Pacific/Pago_Pago	2010-10-12
+5881538	Nuu Stream	Nuu Stream		-14.28083	-170.60222	H	STM	AS		010				0	119	93	Pacific/Pago_Pago	2010-10-12
+5881539	Gatia Point	Gatia Point		-14.26111	-170.64917	T	CAPE	AS		010				0	45	59	Pacific/Pago_Pago	2010-10-12
+5881540	Nuuomanu Rock	Nuuomanu Rock	Nu`uomanu Rock	-14.29583	-170.79472	T	ISL	AS		050				0	188	174	Pacific/Pago_Pago	2010-10-12
+5881541	Nuuolemaa Cove	Nuuolemaa Cove	Nu`uolema`a Cove	-14.28528	-170.59417	H	BAY	AS		010				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5881542	Nuuoleniu Cove	Nuuoleniu Cove	Nu`uoleniu Cove	-14.28722	-170.59778	T	CAPE	AS		010				0	0	-9999	Pacific/Pago_Pago	2010-10-12
+5881543	Olosega Island	Olosega Island	Fanfoue Island,Olassina,Orosenga,`Olosega	-14.1775	-169.61778	T	ISL	AS		020				0	370	243	Pacific/Pago_Pago	2010-10-12
+5881544	Ofu	Ofu	OFU	-14.17528	-169.6775	P	PPLA2	AS		020				254	4	17	Pacific/Pago_Pago	2012-02-03
+5881545	Nuutele Rocks	Nuutele Rocks	Nu`utele Rocks	-14.25167	-170.56806	T	ISL	AS		010				0	5	11	Pacific/Pago_Pago	2010-10-12
+5881546	Nuusilaelae Island	Nuusilaelae Island	Nu`usilaelae Island,Nuu Silaelae Island	-14.17639	-169.68333	T	ISL	AS		020				0	2	254	Pacific/Pago_Pago	2010-10-12
+5881547	Nuupule Rock	Nuupule Rock	Nu`u Pule,Nu`upule Rock	-14.17833	-169.6775	T	ISL	AS		020				0	1	9	Pacific/Pago_Pago	2010-10-12
+5881548	Nuusetoga Island	Nuusetoga Island	Bartlett Island,Nu`usetoga Island	-14.24968	-170.6233	T	ISL	AS		010				0	60	56	Pacific/Pago_Pago	2016-12-07
+5881549	Nu‘utele Island	Nu'utele Island	Nuu Island,Nuutele Island	-14.17194	-169.68333	T	ISL	AS		020				0	46	157	Pacific/Pago_Pago	2014-10-08
+5881550	Nuutai Rock	Nuutai Rock	Nu`utai Rock	-14.33806	-170.80333	T	ISL	AS		050				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881551	Nuutavana Rock	Nuutavana Rock	Nu`utavana Rock	-14.2925	-170.76694	T	ISL	AS		050				0	102	111	Pacific/Pago_Pago	2010-10-12
+5881552	Oalii Cove	Oalii Cove	Oali`i Cove	-14.29583	-170.79944	H	BAY	AS		050				0	107	124	Pacific/Pago_Pago	2010-10-12
+5881553	Gagamoe Field	Gagamoe Field		-14.27694	-170.69889	L	PRK	AS		010				0	2	55	Pacific/Pago_Pago	2010-09-05
+5881554	Nuutoga Point	Nuutoga Point	Nu`utoga Point,Point Nelson	-14.25806	-170.69694	T	CAPE	AS		010				0	218	222	Pacific/Pago_Pago	2010-10-12
+5881555	Nuutoga Stream	Nuutoga Stream		-14.25861	-170.69806	H	STM	AS		010				0	247	236	Pacific/Pago_Pago	2010-10-12
+5881556	Oa (historical)	Oa (historical)		-14.25861	-170.64139	P	PPLQ	AS		010				0	173	182	Pacific/Pago_Pago	2011-12-11
+5881557	Nuututai Point	Nuututai Point	Nu`ututai Point *,Observatory Point	-14.28111	-170.68028	T	CAPE	AS		010				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881558	Nuututai Rock	Nuututai Rock	Nu`ututai Rock *	-14.16194	-169.60833	T	ISL	AS		020				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881559	Olosega Elementary School	Olosega Elementary School		-14.18167	-169.62222	S	SCH	AS						0	7	308	Pacific/Pago_Pago	2010-09-05
+5881560	Ogetu Ridge	Ogetu Ridge		-14.26028	-170.64361	T	RDGE	AS		010				0	251	240	Pacific/Pago_Pago	2010-10-12
+5881561	Oge (historical)	Oge (historical)		-14.18917	-169.60833	P	PPLQ	AS		020				0	3	-9999	Pacific/Pago_Pago	2014-10-08
+5881562	Ofu Airport	Ofu Airport	NSAS,OFU	-14.1848	-169.67069	S	AIRP	AS		020				0	3	6	Pacific/Pago_Pago	2014-10-08
+5881563	Ofu Island	Ofu Island	Afua,`Ofu	-14.17917	-169.66639	T	ISL	AS		020				0	384	394	Pacific/Pago_Pago	2010-10-12
+5881564	Ogegase (historical)	Ogegase (historical)		-14.25833	-170.58417	P	PPLQ	AS		010				0	73	81	Pacific/Pago_Pago	2011-12-11
+5881565	Ogefao	Ogefao		-14.25389	-170.57778	P	PPL	AS		010				0	118	137	Pacific/Pago_Pago	2010-10-12
+5881566	Ogegasa Point	Ogegasa Point		-14.29528	-170.74111	T	CAPE	AS		050				0	127	155	Pacific/Pago_Pago	2010-10-12
+5881567	Olosega	Olosega	Olosega Village	-14.18167	-169.6225	P	PPL	AS		020				0	6	308	Pacific/Pago_Pago	2010-10-12
+5881568	Olomanu Crater	Olomanu Crater		-14.24389	-169.48361	T	CRTR	AS		020				0	648	662	Pacific/Pago_Pago	2010-10-12
+5881569	Olo Ridge	Olo Ridge		-14.26278	-170.65694	T	RDGE	AS		010				0	149	147	Pacific/Pago_Pago	2010-10-12
+5881570	Oloava Crater	Oloava Crater	Olo`ava Crater	-14.32278	-170.76667	T	CRTR	AS		050				0	324	340	Pacific/Pago_Pago	2010-10-12
+5881571	Olomoana Mountain	Olomoana Mountain		-14.2675	-170.5775	T	MT	AS		010				0	98	113	Pacific/Pago_Pago	2010-10-12
+5881572	Olomatimu Crater	Olomatimu Crater	Olomatimu Cone	-14.23528	-169.47417	T	CRTR	AS		020				0	825	824	Pacific/Pago_Pago	2010-10-12
+5881573	Olomoana Elementary School	Olomoana Elementary School		-14.26694	-170.58611	S	SCH	AS		010				0	1	82	Pacific/Pago_Pago	2010-09-05
+5881574	Pouofe Point	Pouofe Point	Pou`ofe Point	-14.25361	-169.45361	T	CAPE	AS		020				0	1	2	Pacific/Pago_Pago	2010-10-12
+5881575	Palapala Mountain	Palapala Mountain		-14.27417	-170.63917	T	MT	AS		010				0	348	279	Pacific/Pago_Pago	2010-10-12
+5881576	Pago Pago	Pago Pago	PPG,Paga-Paga,Pago Pago,Pago-Pago,PagoPago,Pagopago,Pagó Pagó,Panko Panko,Paqo Paqo,baghw baghw,pa guo pa guo,pa ko pa ko,pago pago,pagopago,pagw pagw,pako pako,pango pango,Πάγκο Πάγκο,Пага-Пага,Паго Паго,Паго-Паго,Пагопаго,Պագո Պագո,פאגו פאגו,باغو باغو,پاگو پاگو,पांगो पांगो,பாகோ பாகோ,ปาโกปาโก,პაგო-პაგო,パゴパゴ,帕果帕果,파고 파고,파고파고	-14.27806	-170.7025	P	PPLC	AS		010				11500	2	144	Pacific/Pago_Pago	2019-09-05
+5881577	Oneoneloa	Oneoneloa		-14.31278	-170.69444	P	PPL	AS		010				0	44	50	Pacific/Pago_Pago	2010-10-12
+5881578	Olotina Point	Olotina Point		-14.25528	-170.57944	T	CAPE	AS		010				0	114	110	Pacific/Pago_Pago	2010-10-12
+5881579	Olotania Crater	Olotania Crater	Olotamia Crater	-14.24083	-169.46917	T	CRTR	AS		020				0	903	536	Pacific/Pago_Pago	2010-10-12
+5881580	Olotele Mountain	Olotele Mountain		-14.3225	-170.76306	T	MT	AS		050				0	311	320	Pacific/Pago_Pago	2010-10-12
+5881581	Oneonelilii Point	Oneonelilii Point	Oneonelili`i Point	-14.34194	-170.71472	T	CAPE	AS		050				0	4	-9999	Pacific/Pago_Pago	2010-10-12
+5881582	Olovalu Crater	Olovalu Crater		-14.34889	-170.75694	T	CRTR	AS		050				0	90	95	Pacific/Pago_Pago	2010-10-12
+5881583	Onenoa	Onenoa	`Onenoa	-14.25667	-170.57972	P	PPL	AS		010				0	136	153	Pacific/Pago_Pago	2010-10-12
+5881584	Pagatatua Ridge	Pagatatua Ridge		-14.26583	-170.69972	T	RDGE	AS		010				0	361	351	Pacific/Pago_Pago	2010-10-12
+5881585	Pa Cove	Pa Cove		-14.29722	-170.80083	H	BAY	AS		050				0	169	177	Pacific/Pago_Pago	2010-10-12
+5881586	Oti Point	Oti Point	`Oti Point *	-14.31444	-170.69444	T	CAPE	AS		010				0	31	50	Pacific/Pago_Pago	2010-10-12
+5881587	Ottoville	Ottoville	otobil,오토빌	-14.33472	-170.72972	P	PPL	AS		050				0	23	25	Pacific/Pago_Pago	2017-09-06
+5881588	Pagaitua Point	Pagaitua Point		-14.29417	-170.65444	T	CAPE	AS		010				0	11	-9999	Pacific/Pago_Pago	2010-10-12
+5881589	Paapala Cove	Paapala Cove	Pa`apala Cove	-14.29972	-170.80889	H	BAY	AS		050				0	31	32	Pacific/Pago_Pago	2010-10-12
+5881590	Pagai	Pagai		-14.275	-170.60528	P	PPL	AS		010				0	15	1	Pacific/Pago_Pago	2010-10-12
+5881591	Palagi Beach	Palagi Beach		-14.32861	-170.83806	T	BCH	AS		050				0	-3	1	Pacific/Pago_Pago	2010-09-05
+5881592	Pago Shopping Plaza Shopping Center	Pago Shopping Plaza Shopping Center		-14.27861	-170.70083	S	MALL	AS		010				0	7	176	Pacific/Pago_Pago	2010-09-05
+5881593	Pago Pago International Airport	Pago Pago International Airport	Aeroporto Internazionale di Pago Pago,Aeropuerto Internacional de Pago Pago,Lapangan Terbang Antarabangsa Pago Pago,NSTU,PPG,Pago-Pago,Port lotniczy Pago Pago,San bay quoc te Pago Pago,Sân bay quốc tế Pago Pago,Tafuna/Pago Pago International Airport,pa guo pa guo guo ji ji chang,pagopago guo ji kong gang,Паго-Паго,Фурудгоҳи бин‌алмилалӣ погу погу,فرودگاه بین‌المللی پاگو پاگو,パゴパゴ国際空港,帕果帕果國際機場	-14.331	-170.7105	S	AIRP	AS		010	050			0	9	5	Pacific/Pago_Pago	2013-01-30
+5881594	Pago Pago Elementary School	Pago Pago Elementary School		-14.27861	-170.70472	S	SCH	AS		010				0	5	43	Pacific/Pago_Pago	2010-09-05
+5881595	Pago Pago Harbor	Pago Pago Harbor	Fangaloa Bucht,O Le Fagaloa,Pago Pago Bay,Pango Pango Harbour,Rangopango Bay	-14.28139	-170.67417	H	BAY	AS		010				0	-3	1	Pacific/Pago_Pago	2017-06-18
+5881596	Pago Pago Yacht Club	Pago Pago Yacht Club		-14.28667	-170.68056	S		AS		010				0	2	97	Pacific/Pago_Pago	2010-09-05
+5881597	Pago Pago Park	Pago Pago Park		-14.2775	-170.69972	L	PRK	AS		010				0	0	121	Pacific/Pago_Pago	2010-09-05
+5881598	Pago Pago Post Office	Pago Pago Post Office		-14.28333	-170.68667	S	PO	AS		010				0	8	84	Pacific/Pago_Pago	2010-09-05
+5881599	Pala Lake	Pala Lake		-14.285	-170.55278	H	LK	AS		010				0	21	28	Pacific/Pago_Pago	2010-10-12
+5881600	Pago Stream	Pago Stream		-14.28028	-170.70472	H	STM	AS		010				0	50	55	Pacific/Pago_Pago	2010-10-12
+5881601	Pago Stream	Pago Stream		-14.26306	-170.65083	H	STM	AS		010				0	16	26	Pacific/Pago_Pago	2010-10-12
+5881602	Futiga	Futiga		-14.35333	-170.75417	P	PPL	AS		050				0	74	80	Pacific/Pago_Pago	2010-10-12
+5881603	Pala Lagoon	Pala Lagoon		-14.34194	-170.78583	H	LK	AS		050				0	6	11	Pacific/Pago_Pago	2010-10-12
+5881604	Fusiloa Stream	Fusiloa Stream		-14.27861	-170.585	H	STM	AS		010				0	3	1	Pacific/Pago_Pago	2010-10-12
+5881605	Pala Lagoon	Pala Lagoon		-14.32361	-170.70694	H	LK	AS		010				0	-3	50	Pacific/Pago_Pago	2010-10-12
+5881606	Poloa Bay	Poloa Bay	Hubner Bay	-14.31692	-170.83802	H	BAY	AS		050				0	84	1	Pacific/Pago_Pago	2016-12-07
+5881607	Papaseugogo Rock	Papaseugogo Rock		-14.33222	-170.8075	T	ISL	AS		050				0	-3	136	Pacific/Pago_Pago	2010-10-12
+5881608	Papa Stream	Papa Stream		-14.31806	-170.70722	H	STM	AS		010				0	0	50	Pacific/Pago_Pago	2010-10-12
+5881609	Palapalaloa Mountain	Palapalaloa Mountain		-14.2925	-170.7025	T	MT	AS		010				0	453	459	Pacific/Pago_Pago	2010-10-12
+5881610	Palapala Ridge	Palapala Ridge		-14.27306	-170.62167	T	RDGE	AS		010				0	137	1	Pacific/Pago_Pago	2010-10-12
+5881611	Palapalaloa Marsh	Palapalaloa Marsh		-14.28722	-170.555	H	SWMP	AS		010				0	7	8	Pacific/Pago_Pago	2010-10-12
+5881612	Fusi Ridge	Fusi Ridge		-14.26083	-170.57194	T	RDGE	AS		010				0	96	95	Pacific/Pago_Pago	2010-10-12
+5881613	Palau Point	Palau Point		-14.25917	-170.58528	T	CAPE	AS		010				0	1	18	Pacific/Pago_Pago	2010-10-12
+5881614	Panota Stream	Panota Stream		-14.26361	-170.60389	H	STM	AS		010				0	1	116	Pacific/Pago_Pago	2010-10-12
+5881615	Papasao Point	Papasao Point		-14.23389	-169.41833	T	CAPE	AS		020				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5881616	Papaloa Point	Papaloa Point	Kidd Point	-14.25111	-170.57694	T	CAPE	AS		010				0	114	128	Pacific/Pago_Pago	2010-10-12
+5881617	Fuafua Stream	Fuafua Stream		-14.34528	-170.78444	H	STM	AS		050				0	18	26	Pacific/Pago_Pago	2010-10-12
+5881618	Papafaasee Cove	Papafaasee Cove	Papafa`ase`e Cove	-14.36389	-170.77889	H	BAY	AS		050				0	14	16	Pacific/Pago_Pago	2010-10-12
+5881619	Papaotoma Point	Papaotoma Point	Papaotama Point	-14.27222	-169.47944	T	CAPE	AS		020				0	-3	-9999	Pacific/Pago_Pago	2010-10-12
+5881620	Papaloaloa Point	Papaloaloa Point		-14.25417	-169.45333	T	CAPE	AS		020				0	-3	4	Pacific/Pago_Pago	2010-10-12
+5881621	Papaloloa Point	Papaloloa Point		-14.19056	-169.66806	T	CAPE	AS		020				0	0	151	Pacific/Pago_Pago	2010-10-12
+5881622	Poloa	Poloa		-14.32167	-170.83278	P	PPL	AS		050				0	98	99	Pacific/Pago_Pago	2010-10-12
+5881623	Pava‘ia‘i	Pava'ia'i	Pavaiai	-14.34083	-170.75083	P	PPL	AS		050				0	79	86	Pacific/Pago_Pago	2014-10-08
+5881624	Papatuloto Point	Papatuloto Point		-14.31472	-170.83028	T	CAPE	AS		050				0	118	99	Pacific/Pago_Pago	2010-10-12
+5881625	Papatele Ridge	Papatele Ridge		-14.28694	-170.65833	T	RDGE	AS		010				0	68	81	Pacific/Pago_Pago	2010-10-12
+5881626	Cape Papatele	Cape Papatele		-14.22056	-169.4225	T	CAPE	AS		020				0	32	43	Pacific/Pago_Pago	2010-10-12
+5881627	Patupatu Ridge	Patupatu Ridge	Olomoana Ridge	-14.27333	-170.59056	T	RDGE	AS		010				0	80	91	Pacific/Pago_Pago	2010-10-12
+5881628	Papausi Stream	Papausi Stream		-14.19194	-169.60917	H	STM	AS		020				0	2	-9999	Pacific/Pago_Pago	2010-10-12
+5881629	Fuaau Ridge	Fuaau Ridge	Fua`au Ridge *	-14.29417	-170.73194	T	RDGE	AS		010				0	306	297	Pacific/Pago_Pago	2010-10-12
+5881630	Polauta Ridge	Polauta Ridge		-14.24722	-170.67194	T	RDGE	AS		010				0	129	-9999	Pacific/Pago_Pago	2010-10-12
+5881631	Pisiula Point	Pisiula Point		-14.25194	-170.5625	T	CAPE	AS		010				0	66	-9999	Pacific/Pago_Pago	2010-10-12
+5881632	Pava‘ia‘i Elementary School	Pava'ia'i Elementary School		-14.33833	-170.685	S	SCH	AS		050				0	3	-9999	Pacific/Pago_Pago	2014-10-08
+5881633	Pisaga	Pisaga		-14.29139	-170.54944	L	AREA	AS		010				0	18	-9999	Pacific/Pago_Pago	2010-09-05
+5881634	Pola Island	Pola Island	Insel Pola,The Pola,Vatia Island	-14.23422	-170.67072	T	ISL	AS		010				0	67	24	Pacific/Pago_Pago	2016-12-07
+5881635	Piumafua Mountain	Piumafua Mountain		-14.17556	-169.62028	T	MT	AS		020				0	166	67	Pacific/Pago_Pago	2010-10-12
+5881636	Pofala Hill	Pofala Hill		-14.28556	-170.54778	T	MT	AS		010				0	7	13	Pacific/Pago_Pago	2010-10-12
+6490509	Sadie's By The Sea	Sadie's By The Sea		-14.2786	-170.5734	S	HTL	AS		00	010			0		-9999	Pacific/Pago_Pago	2007-04-15
+7267965	Faleasao County	Faleasao County		-14.21946	-169.50754	A	ADM2	AS		020	7267965			0	0	68	Pacific/Pago_Pago	2017-01-25
+7267973	Vaifanua County	Vaifanua County		-14.24076	-170.5897	A	ADM2	AS		010	7267973			0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267974	Village of Aasu	Village of Aasu		-14.29556	-170.7586	A	ADMD	AS		050				0	13	52	Pacific/Pago_Pago	2013-03-08
+7267975	Village of Afao	Village of Afao		-14.35053	-170.80226	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267976	Village of Afono	Village of Afono		-14.2569	-170.64854	A	ADMD	AS		010				0	122	86	Pacific/Pago_Pago	2013-03-08
+7267977	Village of Agugulu	Village of Agugulu		-14.34743	-170.82249	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267978	Village of Alao	Village of Alao		-14.28932	-170.5234	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267979	Village of Alega	Village of Alega		-14.30341	-170.62958	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267980	Village of Alofau	Village of Alofau		-14.3003	-170.6029	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267981	Village of Amaluia	Village of Amaluia		-14.34743	-170.79185	A	ADMD	AS		050				0	0	36	Pacific/Pago_Pago	2013-03-08
+7267982	Village of Amanave	Village of Amanave		-14.34202	-170.85417	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267983	Village of Amaua	Village of Amaua		-14.26981	-170.62479	A	ADMD	AS		010				0	41	55	Pacific/Pago_Pago	2013-03-08
+7267984	Village of Amouli	Village of Amouli		-14.3094	-170.5715	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267985	Village of Anua	Village of Anua		-14.27063	-170.68768	A	ADMD	AS		010				0	8	9	Pacific/Pago_Pago	2016-12-07
+7267986	Village of Aoa	Village of Aoa		-14.26225	-170.58726	A	ADMD	AS		010				0	1	6	Pacific/Pago_Pago	2013-03-08
+7267987	Village of Aoloau	Village of Aoloau		-14.28674	-170.78106	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267988	Village of Asili	Village of Asili		-14.35215	-170.79728	A	ADMD	AS		050				0	0	3	Pacific/Pago_Pago	2013-03-08
+7267989	Village of Atu‘u	Village of Atu'u		-14.26894	-170.68555	A	ADMD	AS		010				0	39	43	Pacific/Pago_Pago	2016-12-07
+7267990	Village of Aua	Village of Aua		-14.275	-170.66407	A	ADMD	AS		010				0	40	25	Pacific/Pago_Pago	2013-03-08
+7267991	Village of Auasi	Village of Auasi		-14.27038	-170.5764	A	ADMD	AS		010				0	67	95	Pacific/Pago_Pago	2013-03-08
+7267992	Village of Aumi	Village of Aumi		-14.30899	-170.6399	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267993	Village of Aunu‘u	Village of Aunu'u		-14.29017	-170.55173	A	ADMD	AS		010				0	33	-9999	Pacific/Pago_Pago	2014-10-08
+7267994	Village of Auto	Village of Auto		-14.27506	-170.62828	A	ADMD	AS		010				0	47	64	Pacific/Pago_Pago	2013-03-08
+7267995	Village of Avaio	Village of Avaio		-14.30453	-170.61936	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7267996	Village of Faga‘alu	Village of Faga'alu		-14.29025	-170.68046	A	ADMD	AS		010				0	0	3	Pacific/Pago_Pago	2014-10-08
+7267997	Village of Faga‘itua	Village of Faga'itua		-14.27759	-170.61435	A	ADMD	AS		010				0	0	1	Pacific/Pago_Pago	2014-10-08
+7267998	Village of Fagali‘i	Village of Fagali'i	Village of Fagali'i	-14.30671	-170.82739	A	ADMD	AS		050				0	0	2	Pacific/Pago_Pago	2014-10-08
+7267999	Village of Fagamalo	Village of Fagamalo		-14.27581	-170.81835	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268000	Village of Faganeanea	Village of Faganeanea		-14.30112	-170.69355	A	ADMD	AS		010				0	212	202	Pacific/Pago_Pago	2013-03-08
+7268001	Village of Fagasa	Village of Fagasa		-14.26673	-170.74856	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268002	Village of Fagatogo	Village of Fagatogo		-14.28187	-170.69224	A	ADMD	AS		010				0	117	130	Pacific/Pago_Pago	2013-03-08
+7268003	Village of Failolo	Village of Failolo		-14.34862	-170.83026	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268004	Village of Faleasao	Village of Faleasao		-14.21946	-169.48454	A	ADM3	AS		020	7267965	7268004		0	0	189	Pacific/Pago_Pago	2012-02-02
+7268005	Village of Faleniu	Village of Faleniu		-14.32762	-170.74388	A	ADMD	AS		050				0	51	59	Pacific/Pago_Pago	2013-03-08
+7268006	Village of Fatumafuti	Village of Fatumafuti		-14.29665	-170.67426	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268007	Village of Futiga	Village of Futiga		-14.38702	-170.76039	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268008	Village of Ili‘ili	Village of Ili'ili	Village of Ili'ili	-14.36765	-170.71908	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268009	Village of Lauliʻi	Village of Lauli'i	Village of Lauli'i	-14.31313	-170.65591	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2016-12-07
+7268010	Village of Leloaloa	Village of Leloaloa		-14.27078	-170.67729	A	ADMD	AS		010				0	0	24	Pacific/Pago_Pago	2013-03-08
+7268011	Village of Leone	Village of Leone		-14.3322	-170.78044	A	ADMD	AS		050				0	19	11	Pacific/Pago_Pago	2013-03-08
+7268012	Village of Leusoali'i	Village of Leusoali'i		-14.24525	-169.42909	A	ADM3	AS		020	8181800	7268012		0	0	335	Pacific/Pago_Pago	2017-01-25
+7268013	Village of Luma	Village of Luma		-14.2277	-169.51558	A	ADM3	AS		020	8181801	7268013		0	0	7	Pacific/Pago_Pago	2017-01-28
+7268014	Village of Maia	Village of Maia		-14.21713	-169.43167	A	ADM3	AS		020	8181800	7268014		0	0	224	Pacific/Pago_Pago	2017-01-25
+7268015	Village of Malaeimi	Village of Malaeimi		-14.31077	-170.73708	A	ADMD	AS		050				0	44	57	Pacific/Pago_Pago	2013-03-08
+7268016	Village of Malaeloa/Aitulagi	Village of Malaeloa/Aitulagi		-14.33171	-170.76751	A	ADMD	AS		050				0	50	65	Pacific/Pago_Pago	2013-03-08
+7268017	Village of Malaeloa/Ituau	Village of Malaeloa/Ituau		-14.34239	-170.76598	A	ADMD	AS		050				0	47	56	Pacific/Pago_Pago	2013-03-08
+7268018	Village of Maloata	Village of Maloata		-14.30724	-170.8129	A	ADMD	AS		050				0	44	42	Pacific/Pago_Pago	2013-03-08
+7268019	Village of Mapusagafou	Village of Mapusagafou		-14.32262	-170.75556	A	ADMD	AS		050				0	197	204	Pacific/Pago_Pago	2013-03-08
+7268020	Village of Masausi	Village of Masausi		-14.2454	-170.60756	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268021	Village of Masefau	Village of Masefau		-14.24243	-170.62403	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268022	Village of Matu‘u	Village of Matu'u		-14.32658	-170.66921	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268023	Village of Mesepa	Village of Mesepa		-14.32275	-170.747	A	ADMD	AS		050				0	97	134	Pacific/Pago_Pago	2013-03-08
+7268024	Village of Nua	Village of Nua		-14.35192	-170.80745	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268025	Village of Nu‘uuli	Village of Nu'uuli		-14.33221	-170.69131	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268026	Village of Nu‘uuli	Village of Nu'uuli		-14.32854	-170.69235	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268027	Village of Ofu	Village of Ofu		-14.17005	-169.67319	A	ADM3	AS		020	8198683	7268027		0	160	167	Pacific/Pago_Pago	2017-01-25
+7268028	Village of Olosega	Village of Olosega		-14.20141	-169.60023	A	ADM3	AS		020	8181803	7268028		0	0	-9999	Pacific/Pago_Pago	2017-01-25
+7268029	Village of Onenoa	Village of Onenoa		-14.23484	-170.58451	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268030	Village of Pagai	Village of Pagai		-14.27012	-170.60651	A	ADMD	AS		010				0	19	27	Pacific/Pago_Pago	2013-03-08
+7268031	Village of Pago Pago	Village of Pago Pago		-14.24895	-170.71409	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268032	Village of Pava‘ia‘i	Village of Pava'ia'i		-14.33407	-170.75117	A	ADMD	AS		050				0	86	88	Pacific/Pago_Pago	2014-10-08
+7268033	Village of Poloa	Village of Poloa		-14.3065	-170.86082	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268034	Village of Sa‘ilele	Village of Sa'ilele		-14.23232	-170.5973	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268035	Village of Se‘etaga	Village of Se'etaga		-14.35583	-170.815	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2014-10-08
+7268036	Village of Sili	Village of Sili		-14.1395	-169.60049	A	ADM3	AS		020	8181803	7268036		0	0	-9999	Pacific/Pago_Pago	2017-01-25
+7268037	Village of Si‘ufaga	Village of Si'ufaga		-14.27347	-169.4908	A	ADMD	AS		020	8181801			0	4	153	Pacific/Pago_Pago	2017-01-25
+7268039	Village of Tafuna	Village of Tafuna		-14.35396	-170.70271	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268040	Village of Taputimu	Village of Taputimu		-14.37747	-170.77706	A	ADMD	AS		050				0	31	-9999	Pacific/Pago_Pago	2013-03-08
+7268041	Village of Tula	Village of Tula		-14.23003	-170.54915	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268042	Village of Utulei	Village of Utulei		-14.28306	-170.68084	A	ADMD	AS		010				0	3	6	Pacific/Pago_Pago	2013-03-08
+7268043	Village of Utumea East	Village of Utumea East		-14.27861	-170.56837	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268044	Village of Utumea West	Village of Utumea West		-14.32457	-170.81704	A	ADMD	AS		050				0	121	157	Pacific/Pago_Pago	2016-12-07
+7268045	Village of Vailoatai	Village of Vailoatai		-14.37116	-170.78725	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268046	Village of Vaitogi	Village of Vaitogi		-14.38241	-170.73348	A	ADMD	AS		050				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7268047	Village of Vatia	Village of Vatia		-14.21483	-170.66057	A	ADMD	AS		010				0	0	-9999	Pacific/Pago_Pago	2013-03-08
+7269446	Village of Auma	Village of Auma		-14.33305	-170.78594	A	ADMD	AS		050				0	56	37	Pacific/Pago_Pago	2013-03-08
+7269447	Village of Puapua	Village of Puapua		-14.34507	-170.77225	A	ADMD	AS		050				0	42	50	Pacific/Pago_Pago	2013-03-08
+7269448	Village of Satala	Village of Satala		-14.26952	-170.69187	A	ADMD	AS		010				0	41	70	Pacific/Pago_Pago	2016-12-07
+7269449	Village of Utusia	Village of Utusia		-14.27003	-170.62048	A	ADMD	AS		010				0	12	38	Pacific/Pago_Pago	2013-03-08
+7269494	Āfono Pass	Afono Pass	Afono Pass	-14.26611	-170.65611	T	GAP	AS		010				0	175	268	Pacific/Pago_Pago	2010-09-05
+7309441	Rose Atoll	Rose Atoll	Motu O Manu,Rose Island	-14.54583	-168.15	A	ADM1	AS		030				1		-9999	Pacific/Pago_Pago	2019-07-26
+7603167	Swains Brackish Lagoon	Swains Brackish Lagoon		-11.056	-171.08	H	LGN	AS		040				0	-7	0	Pacific/Pago_Pago	2011-02-24
+7603168	Tokelau Seamount Chain South End	Tokelau Seamount Chain South End		-11.056	-171.079	U	SMSU	AS		040				0		0	Pacific/Pago_Pago	2010-12-02
+7603169	Jennings Family Private Atoll	Jennings Family Private Atoll		-11.056	-171.078	L	AGRC	AS		040				0		0	Pacific/Pago_Pago	2010-12-02
+7603170	Church	Church		-11.05567	-171.08847	S	CH	AS		040				0		9	Pacific/Pago_Pago	2010-12-02
+7603171	Blasted Reef Pass	Blasted Reef Pass		-11.05479	-171.09151	H	CNL	AS		040				0	0	1	Pacific/Pago_Pago	2011-02-24
+7603172	Boat Landing	Boat Landing		-11.05502	-171.08973	S	LDNG	AS		040				0		1	Pacific/Pago_Pago	2010-12-02
+7603173	Tokelauan Copra Workers Settlement	Tokelauan Copra Workers Settlement		-11.05539	-171.08789	L	AGRC	AS		040				0		11	Pacific/Pago_Pago	2010-12-02
+7603174	Coconut Groves	Coconut Groves		-11.06317	-171.08135	V	GRVC	AS		040				0		19	Pacific/Pago_Pago	2010-12-02
+7869932	Polynesia	Polynesia	Polynesia - Swains Island	-11.056	-171.077	L	RGN	AS		040				0	0	0	Pacific/Pago_Pago	2011-06-09
+8181800	Fitiuta County	Fitiuta County		-14.23327	-169.42789	A	ADM2	AS		020	8181800			0		277	Pacific/Pago_Pago	2012-02-02
+8181801	Ta'u County	Ta'u County		-14.24475	-169.48162	A	ADM2	AS		020	8181801			0		657	Pacific/Pago_Pago	2012-02-02
+8181802	Village of Si'ufaga	Village of Si'ufaga		-14.24841	-169.48608	A	ADM3	AS		020		8181802		0		557	Pacific/Pago_Pago	2012-02-02
+8181803	Olosega County	Olosega County		-14.16803	-169.61535	A	ADM2	AS		020	8181803			0		340	Pacific/Pago_Pago	2012-02-02
+8198683	Ofu County	Ofu County		-14.17369	-169.67148	A	ADM2	AS		020	8198683			0		188	Pacific/Pago_Pago	2012-02-03
+8496488	A P Lutali Executive Office Building	A P Lutali Executive Office Building		-14.28195	-170.6836	S	BLDG	AS		010				0	7	12	Pacific/Pago_Pago	2013-01-08
+8502738	Pacific Region - 2-digit Hydrologic Unit Code - 22	Pacific Region - 2-digit Hydrologic Unit Code - 22		-14.28831	-170.69614	L	AREA	AS		010				0	172	172	Pacific/Pago_Pago	2018-08-31
+11695139	Motu o Manu	Motu o Manu		-14.54313	-168.16592	P	PPL	AS		030				4		-9999	Pacific/Pago_Pago	2017-09-16

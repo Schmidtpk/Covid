@@ -1,0 +1,775 @@
+3575930	Yorks	Yorks		17.07897	-61.87497	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3575931	York Island	York Island	York Island,York Islet	17.05334	-61.66909	T	ISL	AG		08				0		-9999	America/Antigua	2018-06-08
+3575932	Yepton Peak	Yepton Peak		17.11639	-61.88581	T	MT	AG		04				0		70	America/Antigua	2014-04-06
+3575933	Woods	Woods		17.13526	-61.82585	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3575934	Winthorpes Foot Creek	Winthorpes Foot Creek	Winthorp Creek,Winthorpes Foot Creek	17.13549	-61.78001	H	INLT	AG		03				0		1	America/Antigua	2018-06-08
+3575935	Winthorpes Bay	Winthorpes Bay	Winthorp Bay,Winthorpes Bay	17.14919	-61.78696	H	BAY	AG		03				0		1	America/Antigua	2018-06-08
+3575936	Windward Bay	Windward Bay		17.00428	-61.77634	H	COVE	AG		06				0		-9999	America/Antigua	2014-04-07
+3575937	Willoughby Bay	Willoughby Bay		17.03355	-61.73048	H	BAY	AG		00				0		-9999	America/Antigua	2018-06-08
+3575938	Willoughby	Willoughby		17.04051	-61.71994	P	PPL	AG		08				0		-9999	America/Antigua	2018-06-08
+3575939	Willis Freemans	Willis Freemans		17.04954	-61.77897	P	PPLL	AG		06				0		1	America/Antigua	2018-06-08
+3575940	Willikies	Willikies	Willikie's,Willikies,Willikie’s	17.08684	-61.7093	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3575941	William Point	William Point		17.03921	-61.72676	T	PT	AG		08				0		-9999	America/Antigua	2018-06-08
+3575942	Fort William	Fort William		17.03333	-61.71667	S	FT	AG		08				0		12	America/Antigua	1993-12-21
+3575943	Wicked Will	Wicked Will		17.05	-61.66667	T	ISL	AG		08				0		-9999	America/Antigua	1993-12-21
+3575944	White Cliff	White Cliff		17.54776	-61.7349	T	CLF	AG		01				0		-9999	America/Antigua	2018-06-08
+3575945	Whelk Rock	Whelk Rock	Whelk Rock	17.15	-61.71667	T	RK	AG		07				0		-9999	America/Antigua	2018-12-05
+3575946	West Channel	West Channel		17.14493	-61.9004	H	CHN	AG		04				0		-9999	America/Antigua	2018-06-08
+3575947	Welch Point	Welch Point		17.59309	-61.73274	T	PT	AG		01				0		-9999	America/Antigua	2018-06-08
+3575948	Week Point	Week Point		17.12143	-61.8569	T	PT	AG		04				0		1	America/Antigua	2018-02-02
+3575949	Weatherills Point	Weatherills Point	Weatherills Point,Wetherell Point,Wetherill's Point,Wetherill’s Point	17.16574	-61.84711	T	PT	AG		04				0		-9999	America/Antigua	2018-06-08
+3575950	Weatherills	Weatherills		17.16514	-61.83534	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3575951	Watsons	Watsons	Watson,Watsons	17.05451	-61.67789	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3575952	Vernons	Vernons		17.09192	-61.77132	P	PPL	AG		07				0		1	America/Antigua	2018-06-08
+3575953	Vernon’s Island	Vernon's Island	Vernon Island,Vernon's Island,Vernon’s Island	17.11431	-61.76925	T	ISL	AG		07				0		1	America/Antigua	2018-06-08
+3575954	V. C. Bird International Airport	V. C. Bird International Airport	ANU,Antigua Airport,Antigua Flygplats,Flughafen VC Bird International,Lapangan Terbang Antarabangsa V C Bird,Port lotniczy VC Bird,TAPA,V. C. Bird International Airport,VCbado guo ji kong gang,VCバード国際空港,wei er bo de guo ji ji chang,維爾伯德國際機場	17.13675	-61.79267	S	AIRP	AG	AG	03				0	18	15	America/Antigua	2016-11-29
+3575955	Valley Church Bay	Valley Church Bay		17.05691	-61.89294	H	BAY	AG		05				0		-9999	America/Antigua	2015-03-11
+3575956	Urlings	Urlings	Glebe,Urlings,Urlins	17.02687	-61.87618	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3575957	Tyrells	Tyrells		17.04828	-61.79516	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3575958	Two Feet Bay	Two Feet Bay		17.67872	-61.77717	H	BAY	AG		01				0		1	America/Antigua	2018-06-08
+3575959	Tuson Rock	Tuson Rock	Tuscon Rock,Tuson Rock	17.61667	-61.86667	T	RK	AG	AG	01				0		-9999	America/Antigua	2012-01-18
+3575960	Tucks Point	Tucks Point		17.00968	-61.81054	T	PT	AG		05				0		29	America/Antigua	2014-04-06
+3575961	Tramontania	Tramontania	Tramontania,Tremontaine	17.02552	-61.83731	P	PPLL	AG		05				0		1	America/Antigua	2018-06-08
+3575962	Tomlinson	Tomlinson		17.11327	-61.80808	P	PPLL	AG		04				0		1	America/Antigua	2018-06-08
+3575963	Mount Thomas	Mount Thomas		17.10732	-61.88324	T	MT	AG		04				0		131	America/Antigua	2014-04-06
+3575964	The River	The River		17.59381	-61.82925	L	LCTY	AG		01				0		1	America/Antigua	2018-06-08
+3575965	The Grove	The Grove		17.1	-61.8	P	PPL	AG		03				0		12	America/Antigua	1993-12-21
+3575966	The Garden	The Garden		17.07111	-61.74342	P	PPLL	AG		07				0		1	America/Antigua	2018-06-08
+3575967	Nelson's Dockyard	Nelson's Dockyard	Astillero de Antigua,Chantier naval d'Antigua,Nelson's Dockyard	17.00804	-61.76487	S	FT	AG		06				0		-9999	America/Antigua	2019-12-07
+3575968	The Diamond	The Diamond		17.07759	-61.76047	P	PPL	AG		07				0		1	America/Antigua	2018-06-08
+3575969	The Caves	The Caves		17.68581	-61.78784	P	PPLL	AG		01				0		1	America/Antigua	2018-06-08
+3575970	The Canal	The Canal		17.61396	-61.85155	L	LCTY	AG		01				0		-9999	America/Antigua	2018-06-08
+3575971	The Brook	The Brook		17.05972	-61.68061	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3575972	Tank Bay	Tank Bay		17.00991	-61.76686	H	COVE	AG		06				0		1	America/Antigua	2018-06-08
+3575973	Table Hill Gordon	Table Hill Gordon		17.04332	-61.77991	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3575974	Table Hill	Table Hill		17.11239	-61.89234	T	HLL	AG		04				0		1	America/Antigua	2018-06-08
+3575975	Swetes	Swetes	Sweets,Sweets Village,Swetes,Swetes Village	17.05037	-61.80091	P	PPL	AG		06				727		1	America/Antigua	2018-06-08
+3575976	Sutherlands Development	Sutherlands Development		17.12268	-61.8295	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3575977	Sutherland	Sutherland		17.11241	-61.88007	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3575978	Sugar Loaf Hill	Sugar Loaf Hill		17.02462	-61.79787	T	MT	AG		06				0		1	America/Antigua	2018-06-08
+3575979	Stony Horn	Stony Horn	Stoney Horn,Stony Horn	17.08626	-61.89983	T	PT	AG		05				0		1	America/Antigua	2018-06-08
+3575980	Standfast Point	Standfast Point		17.00277	-61.73428	T	PT	AG		06				0		-9999	America/Antigua	2018-06-08
+3575981	Spithead Channel	Spithead Channel		17.0975	-61.67245	H	CHN	AG		08				0		-9999	America/Antigua	2018-06-08
+3575982	Spencers	Spencers		17.09391	-61.70389	P	PPLL	AG		08				0		1	America/Antigua	2018-06-08
+3575983	Spanish Well Point	Spanish Well Point		17.57343	-61.79333	T	PT	AG		01				0		-9999	America/Antigua	2018-06-08
+3575984	Spanish Point	Spanish Point	Spanish Point	17.54468	-61.73357	T	PT	AG		01				0		-9999	America/Antigua	2018-06-08
+3575985	South Point	South Point		16.9327	-62.34777	T	PT	AG		09				0		-9999	America/Antigua	2018-02-02
+3575986	South Channel	South Channel		17.11088	-61.70828	H	CHNM	AG		00				0		-9999	America/Antigua	2018-06-08
+3575987	Soldier Point	Soldier Point		17.17081	-61.83769	T	PT	AG		04				0		1	America/Antigua	2018-06-08
+3575988	Soldier Point	Soldier Point		17.0352	-61.68539	T	PT	AG		08				0		1	America/Antigua	2018-06-08
+3575989	Soldier Bay	Soldier Bay		17.16982	-61.8399	H	BAY	AG		04				0		1	America/Antigua	2012-05-01
+3575990	Snapper Point	Snapper Point		17.0011	-61.7702	T	PT	AG		06				0		5	America/Antigua	2014-04-07
+3575991	Snapper Hole	Snapper Hole		17.00308	-61.76713	H	COVE	AG		06				0		-9999	America/Antigua	2018-06-08
+3575992	Smith Island	Smith Island		17.041	-61.68016	T	ISL	AG		08				0		-9999	America/Antigua	2018-06-08
+3575993	Smith Hill	Smith Hill		17.09017	-61.85661	T	HLL	AG		05				0		1	America/Antigua	2018-06-08
+3575994	The Sisters	The Sisters		17.16084	-61.86833	T	ISL	AG		04				0		-9999	America/Antigua	2018-06-08
+3575995	Signal Hill	Signal Hill	Signal Hill	17.02865	-61.81311	T	MT	AG		05				0	365	1	America/Antigua	2018-06-08
+3575996	Sign	Sign		17.09096	-61.71179	P	PPLL	AG		08				0		1	America/Antigua	2018-06-08
+3575997	Side Hill Bay	Side Hill Bay	Side Hill Bay,Week Bay	17.12051	-61.8604	H	BAY	AG	AG	04				0		1	America/Antigua	2018-02-02
+3575998	Shoal Point	Shoal Point	Judge Bay Point,Shoal Point	17.15896	-61.79033	T	PT	AG		03				0		-9999	America/Antigua	2018-06-08
+3575999	Shirley Heights	Shirley Heights		17	-61.75	T	HLLS	AG		06				0		62	America/Antigua	1993-12-21
+3576000	Shirley Heights	Shirley Heights	Fort Shirley,Shirley Heights	17.00214	-61.75478	S	FT	AG		06				0		1	America/Antigua	2018-06-08
+3576001	Cape Shirley	Cape Shirley	Cape Shirley	16.99924	-61.74643	T	CAPE	AG		06				0		-9999	America/Antigua	2018-06-08
+3576002	Shipstern Point	Shipstern Point		17.12881	-61.89155	T	PT	AG		04				0		-9999	America/Antigua	2018-02-02
+3576003	Shekerley Mountains	Shekerley Mountains	Shekerley Mountains	17.03849	-61.86873	T	MTS	AG		05				0		329	America/Antigua	2014-04-06
+3576004	Sea View Farm	Sea View Farm	Sea View Farm	17.08809	-61.80281	P	PPL	AG		03				0		1	America/Antigua	2018-06-08
+3576005	Seatons	Seatons	Seatons,Seatons Village,Seton Village,Sitons,Ситонс	17.09435	-61.72552	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576006	Seaforths	Seaforths	Seaforth,Seaforths	17.09376	-61.8643	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3576007	Scotts Hill	Scotts Hill	Scott Hill,Scotts Hill	17.11167	-61.82471	T	HLL	AG		04				0		1	America/Antigua	2018-06-08
+3576008	Sawcolts	Sawcolts	Sawcolts	17.05038	-61.82014	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3576009	Savannah	Savannah		17.02083	-61.73871	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576010	Sandy Island Channel	Sandy Island Channel	Sandy Island Channel,Sandy Islet Channel	17.1199	-61.91353	H	CHN	AG		04				0		-9999	America/Antigua	2018-06-08
+3576011	Sandy Island	Sandy Island	Sandy Island,Sandy Islet	17.13439	-61.92646	T	ISL	AG	AG	04				0		-9999	America/Antigua	2018-02-02
+3576012	Sand Ground Plantation	Sand Ground Plantation		17.60548	-61.83289	S	EST	AG		01				0		1	America/Antigua	2018-06-08
+3576013	Sandersons	Sandersons		17.07527	-61.76991	P	PPLL	AG		07				0		1	America/Antigua	2018-06-08
+3576014	Saint Philips	Saint Philips	Saint Philips,St. Philips	17.04628	-61.72373	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576015	Parish of Saint Philip	Parish of Saint Philip	Parish of Saint Philip,Saint Philip,Saint-Philip	17.05	-61.71667	A	ADM1	AG		08				3599		76	America/Antigua	2016-06-26
+3576016	Parish of Saint Peter	Parish of Saint Peter	Parish of Saint Peter,Saint Peter,Saint-Peter	17.08925	-61.74819	A	ADM1	AG		07				4321		1	America/Antigua	2018-09-08
+3576017	Parish of Saint Paul	Parish of Saint Paul	Parish of Saint Paul,Saint Paul,Saint-Paul	17.03333	-61.76667	A	ADM1	AG		06				7325		140	America/Antigua	2016-06-26
+3576018	Parish of Saint Mary	Parish of Saint Mary	Parish of Saint Mary,Saint Mary,Saint-Mary	17.05	-61.85	A	ADM1	AG		05				6360		202	America/Antigua	2016-06-26
+3576019	Saint Lukes	Saint Lukes	Saint Lukes,Saint Lukes Village	17.07877	-61.83437	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576020	Saint Johnston Village	Saint Johnston Village	Saint Johnston,Saint Johnston Village,Saint Johnstone Village	17.11861	-61.827	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576021	Saint John’s Harbour	Saint John's Harbour	Saint John's Harbour,Saint Johns Harbor,Saint John’s Harbour	17.12574	-61.86341	H	BAY	AG		04				0		-9999	America/Antigua	2018-02-02
+3576022	Saint John’s	Saint John's	Saint John,Saint John's,Saint John’s,Sent Dzonsas,Sent Džonsas,Sent Tzons,Sent-Dzhons,St John's,St Johns,St. John's,St.John.s,seinteujonseu,sentojonzu,sheng yue han,sheng yue han shi,snt g'wns,Σεντ Τζονς,Сент-Джонс,סנט ג'ונס,ሴንት ጆንስ፥ አንቲጋ እና ባርቡዳ,セントジョンズ,圣约翰,圣约翰市,세인트존스	17.12096	-61.84329	P	PPLC	AG		04				24226		12	America/Antigua	2017-09-28
+3576023	Parish of Saint John	Parish of Saint John	Parish of Saint John,Saint John,Saint John´S,Saint-John,St. John's,St. John´s	17.1	-61.85	A	ADM1	AG		04				42721		7	America/Antigua	2016-06-26
+3576024	Parish of Saint George	Parish of Saint George	Parish of Saint George,Saint George,Saint-George	17.1227	-61.79679	A	ADM1	AG		03				5393		11	America/Antigua	2017-12-15
+3576025	Sage Hill	Sage Hill		17.04541	-61.83847	T	MT	AG		05				0		1	America/Antigua	2018-06-08
+3576026	Saddle Hill	Saddle Hill		17.08305	-61.88451	T	HLL	AG		05				0		1	America/Antigua	2018-06-08
+3576027	Runaway Bay	Runaway Bay		17.14538	-61.85895	H	BAY	AG		04				0		-9999	America/Antigua	2012-05-01
+3576028	Rubbish Bay	Rubbish Bay		17.66439	-61.76134	H	BAY	AG		01				0		1	America/Antigua	2018-06-08
+3576029	Port Royal Bay	Port Royal Bay	Port Royal Bay,Royal Bay,Royal's Bay,Royal’s Bay	17.16889	-61.81	H	BAY	AG	AG	04				0		1	America/Antigua	2012-01-18
+3576030	Rooms	Rooms		17.09971	-61.69749	P	PPLL	AG		08				0		1	America/Antigua	2018-06-08
+3576031	Rock Peak	Rock Peak		17.06147	-61.85343	T	HLL	AG		05				0		1	America/Antigua	2018-06-08
+3576032	The Ridge	The Ridge		17.01667	-61.73333	T	RDGE	AG		06				0		14	America/Antigua	1993-12-21
+3576033	Ricketts Harbour	Ricketts Harbour	Ricket Harbor,Ricket Harbour,Rickets Harbour,Rickett Harbor,Rickett Harbour,Ricketts Harbour	17.07001	-61.6707	H	HBR	AG		08				0		-9999	America/Antigua	2018-06-08
+3576034	Renfrew	Renfrew		17.09023	-61.81071	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576035	Rendezvous Bay	Rendezvous Bay		17.01083	-61.80337	H	BAY	AG		00				0		-9999	America/Antigua	2014-04-06
+3576036	Reeds Point	Reeds Point	Reed Point,Reeds Point	17.07145	-61.89534	T	PT	AG	AG	05				0		23	America/Antigua	2014-04-06
+3576037	Redonda	Redonda	Ile de Redonda,Illa Redonda,Isla Redonda,Redonda,Redonda Island,Redonda Islet,Redondo,Rentonta,Vostrau Rehdonda,ledonda seom,lei dong da dao,rdwndh,redonda,redonda dao,rydwnda,Île de Redonda,Ρεντόντα,Востраў Рэдонда,Редонда,רדונדה,ریدوندا,रेडोन्डा,レドンダ島,雷東達島,레돈다 섬	16.93889	-62.34556	A	ADM1	AG		09				0		1	America/Antigua	2019-07-26
+3576038	Red Hill Dam	Red Hill Dam		17.02915	-61.74359	S	DAM	AG		06				0		1	America/Antigua	2018-06-08
+3576039	Red Hill	Red Hill		17.03111	-61.7416	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576040	Red Head Island	Red Head Island		17.13789	-61.72833	T	ISL	AG		07				0		-9999	America/Antigua	2018-06-08
+3576041	Red Cliff	Red Cliff		17.08333	-61.9	T	CLF	AG		05				0		72	America/Antigua	1993-12-21
+3576042	Rat Island	Rat Island	Rat Island,Rat Islet	17.12619	-61.85603	T	ISL	AG	AG	04				0		10	America/Antigua	2014-04-07
+3576043	Rabbit Island	Rabbit Island	Rabbit Island	17.70483	-61.82748	T	PEN	AG		01				0		1	America/Antigua	2019-02-21
+3576044	Rabbit Island	Rabbit Island		17.13592	-61.73101	T	ISL	AG		07				0		-9999	America/Antigua	2018-06-08
+3576045	Proctors Point	Proctors Point	Procters Point,Proctor Point,Proctors Point	17.00717	-61.7853	T	PT	AG		06				0		-9999	America/Antigua	2018-06-08
+3576046	Prickly Pear Island	Prickly Pear Island	Prickley Pear Island,Prickly Pear Island	17.17582	-61.79807	T	ISL	AG		03				0		-9999	America/Antigua	2018-06-08
+3576047	Powells Hill	Powells Hill		17.13863	-61.8011	T	HLL	AG		03				0		1	America/Antigua	2018-06-08
+3576048	Potworks Dam	Potworks Dam	Potworks Dam	17.06628	-61.75019	H	RSV	AG		07				0		17	America/Antigua	2018-06-08
+3576049	Potworks Dam	Potworks Dam		17.06829	-61.74612	S	DAM	AG		07				0		1	America/Antigua	2018-06-08
+3576050	Potters Village	Potters Village	Potters,Potters Village,Potters village,Potters-Villadzh,Поттерс-Вилладж	17.11337	-61.81962	P	PPL	AG		04				1433		1	America/Antigua	2018-06-08
+3576051	Popes Head Hills	Popes Head Hills		17.16667	-61.83333	T	HLLS	AG		04				0		61	America/Antigua	1993-12-21
+3576052	Pointed Hill	Pointed Hill		17.09833	-61.75714	T	HLL	AG		07				0		1	America/Antigua	2018-06-08
+3576053	Pinnacle Rock	Pinnacle Rock	Pinnacle Rock,The Pinnacle	16.93449	-62.34313	T	RK	AG	AG	09				0		1	America/Antigua	2018-02-02
+3576054	Pinching Bay	Pinching Bay		17.10424	-61.90302	H	COVE	AG		04				0		-9999	America/Antigua	2018-06-08
+3576055	Pillar Rock	Pillar Rock		17.12908	-61.87929	T	RK	AG		04				0		1	America/Antigua	2018-02-02
+3576056	Pig Point	Pig Point		17.06852	-61.69366	T	PT	AG		08				0		1	America/Antigua	2018-06-08
+3576057	Piggotts	Piggotts	Piggotts,Saint Mark's,Saint Marks Village,Saint Mark’s	17.11667	-61.8	P	PPLA	AG		03				1878		11	America/Antigua	2013-08-02
+3576058	Pigeon Cliff	Pigeon Cliff		17.64446	-61.74686	T	CLF	AG		01				0		1	America/Antigua	2018-06-08
+3576059	Piccadilly	Piccadilly		17.03147	-61.75312	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576060	Pelican Rocks	Pelican Rocks		17.14953	-61.85877	T	RK	AG		04				0		-9999	America/Antigua	2018-06-08
+3576061	Pelican Point	Pelican Point	Pelican Point	17.57084	-61.73637	T	PT	AG		01				0		1	America/Antigua	2019-02-21
+3576062	Pelican Island	Pelican Island	Pelican Island,Pelican Islet	17.09974	-61.90868	T	ISL	AG		04				0		-9999	America/Antigua	2018-06-08
+3576063	Pelican Island	Pelican Island		17.10547	-61.70393	T	ISL	AG		08				0		-9999	America/Antigua	2018-06-08
+3576064	Pelican Island	Pelican Island	Johnson Island,Johnson Islet,Pelican Island	17.0254	-61.89107	T	ISL	AG	AG	05				0		-9999	America/Antigua	2014-04-06
+3576065	Pelican Bay	Pelican Bay		17.58191	-61.73626	H	BAY	AG		01				0		1	America/Antigua	2018-06-08
+3576066	Pearns Point	Pearns Point		17.08025	-61.90568	T	PT	AG		05				0		9	America/Antigua	2014-04-06
+3576067	Pearns Hill	Pearns Hill		17.0824	-61.90085	T	HLL	AG		05				0		-9999	America/Antigua	2018-06-08
+3576068	Pearns Bay	Pearns Bay		17.08288	-61.9053	H	BAY	AG		05				0		-9999	America/Antigua	2012-05-01
+3576069	Paynters	Paynters	Painter Village,Paynter,Paynters	17.11789	-61.80678	P	PPL	AG		03				0		1	America/Antigua	2018-06-08
+3576070	Pattersons Dwelling House	Pattersons Dwelling House	Pattersons,Pattersons Dwelling House	17.03333	-61.78333	P	PPL	AG	AG	06				0		92	America/Antigua	2012-01-18
+3576071	Pattersons	Pattersons		17.02415	-61.78848	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576072	Parrys	Parrys		17.07388	-61.76477	P	PPL	AG		07				0		1	America/Antigua	2018-06-08
+3576073	Parham Harbour	Parham Harbour	Parham Harbor,Parham Harbour	17.11675	-61.76586	H	BAY	AG		07				0		-9999	America/Antigua	2018-06-08
+3576074	Parham	Parham	Parham,Parkhehm,Пархэм	17.09682	-61.77046	P	PPLA	AG		07				969		18	America/Antigua	2016-06-26
+3576075	Pares	Pares	Pares,Pares Village	17.08493	-61.75445	P	PPL	AG		07				0		1	America/Antigua	2018-06-08
+3576076	Paradise View	Paradise View		17.14953	-61.84161	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576077	Palmetto Point	Palmetto Point		17.58043	-61.85716	T	PT	AG		01				0		-9999	America/Antigua	2018-06-08
+3576078	Palaster Reef	Palaster Reef		17.52686	-61.74767	H	RF	AG		01				0		-9999	America/Antigua	2018-06-08
+3576079	Ottos Estate	Ottos Estate		17.11667	-61.83333	S	EST	AG		04				0		47	America/Antigua	1993-12-21
+3576080	Osbourn	Osbourn	Osbourn,Pigots Village,Pigotts	17.12591	-61.8044	P	PPL	AG		03				0		1	America/Antigua	2018-06-08
+3576081	Ordnance Bay	Ordnance Bay		17.01155	-61.76466	H	COVE	AG		06				0		1	America/Antigua	2018-06-08
+3576082	Orange Valley Mill	Orange Valley Mill		17.03333	-61.86667	P	PPLL	AG		05				0		161	America/Antigua	1993-12-21
+3576083	Olivers	Olivers		17.07713	-61.81551	P	PPLL	AG		04				0		1	America/Antigua	2018-06-08
+3576084	Old Road Bluff	Old Road Bluff	Old Road Bluff,Old Rood Bluff	17.00533	-61.83217	T	PT	AG	AG	05				0		35	America/Antigua	2014-04-06
+3576085	Old Road	Old Road	Carlisle,Carlisle's Estate,Carlisle’s Estate,Old Road,Old Road Town,Old Road Village,Old-Roud,Олд-Роуд	17.01682	-61.83579	P	PPL	AG		05				623		1	America/Antigua	2018-06-08
+3576086	Old Fort Point	Old Fort Point		17.12188	-61.76412	T	PT	AG		07				0		-9999	America/Antigua	2018-06-08
+3576087	Old Battery	Old Battery		17.09948	-61.90173	L	LCTY	AG		04				0		-9999	America/Antigua	2018-06-08
+3576088	North West Channel	North West Channel		17.17675	-61.88396	H	CHN	AG		04				0		-9999	America/Antigua	2018-06-08
+3576089	North Sound Point	North Sound Point		17.1376	-61.74862	T	PT	AG		07				0		1	America/Antigua	2018-06-08
+3576090	North Sound	North Sound		17.09563	-61.78366	P	PPLL	AG		03				0		1	America/Antigua	2018-06-08
+3576091	North Sound	North Sound		17.14353	-61.75007	H	CHN	AG		07				0		-9999	America/Antigua	2018-06-08
+3576092	North Channel	North Channel	North Channel,North Channnel	17.11585	-61.71195	H	CHNM	AG		07				0		-9999	America/Antigua	2018-06-08
+3576093	Nonsuch Bay	Nonsuch Bay	Nonsuch Bay,Nonsuch Harbour	17.07717	-61.68758	H	BAY	AG		08				0		-9999	America/Antigua	2018-06-08
+3576094	New Winthorpes	New Winthorpes	New Winthorpes,Winthorpes Village	17.14575	-61.81344	P	PPL	AG		03				0		1	America/Antigua	2018-06-08
+3576095	Newfield	Newfield	N'jufild,Newfield,Newfield Village,Ньюфилд	17.05687	-61.7254	P	PPL	AG	AG	08				0		44	America/Antigua	2012-02-06
+3576096	New Division Bay	New Division Bay	New Division Bay,Ramsay Bay	17.08846	-61.8829	H	BAY	AG	AG	05				0		1	America/Antigua	2012-05-01
+3576097	New Division	New Division		17.08929	-61.87711	P	PPLL	AG		05				0		1	America/Antigua	2018-06-08
+3576098	The Narrows	The Narrows		17.11562	-61.74749	H	CHN	AG		07				0		1	America/Antigua	2018-06-08
+3576099	Nanton Point	Nanton Point		16.99817	-61.75472	T	PT	AG		06				0		-9999	America/Antigua	2018-06-08
+3576100	Musgrave Point	Musgrave Point		17.02007	-61.78189	T	PT	AG		06				0		1	America/Antigua	2018-06-08
+3576101	Muddy Bay	Muddy Bay		17.08019	-61.7015	H	BAY	AG		08				0		1	America/Antigua	2018-06-08
+3576102	Mount William	Mount William	Mount William,Mount Williem	17.03892	-61.79057	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576103	Mosquito Cove	Mosquito Cove		17.07734	-61.89264	H	COVE	AG		05				0		-9999	America/Antigua	2014-04-06
+3576104	Morris Loobys	Morris Loobys		17.04961	-61.75892	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576105	Morris Bay	Morris Bay		17.06667	-61.88333	H	BAY	AG		05				0		3	America/Antigua	1993-12-21
+3576106	Morris Bay	Morris Bay		17.0144	-61.84904	H	BAY	AG		05				0		-9999	America/Antigua	2014-04-06
+3576107	Moor Island	Moor Island	Moor Island,Moor Islet	17.16667	-61.76667	T	ISL	AG	AG	03				0		-9999	America/Antigua	2012-01-18
+3576108	Montpelier	Montpelier		17.05087	-61.71912	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576109	Monteros Hill	Monteros Hill		17.08413	-61.86863	T	HLL	AG		05				0		1	America/Antigua	2018-06-08
+3576110	Monocle Point	Monocle Point		17.13278	-61.72407	T	PT	AG		07				0		1	America/Antigua	2018-06-08
+3576111	Fort Monk	Fort Monk		17.03333	-61.76667	S	FT	AG		06				0		140	America/Antigua	1993-12-21
+3576112	Mill Reef Club	Mill Reef Club		17.03333	-61.68333	P	PPL	AG		08				0		-9999	America/Antigua	1993-12-21
+3576113	Mill Reef	Mill Reef		17.05	-61.66667	L	AREA	AG		08				0		-9999	America/Antigua	1993-12-21
+3576114	Middle Reef	Middle Reef		17.01432	-61.87187	H	RF	AG		05				0		-9999	America/Antigua	2014-04-06
+3576115	Mercers Creek Bay	Mercers Creek Bay	Belfast Bay,Mercers Creek Bay	17.1038	-61.71721	H	BAY	AG		08				0		-9999	America/Antigua	2018-06-08
+3576116	Mercers Creek	Mercers Creek		17.09376	-61.73689	P	PPLL	AG		07				0		1	America/Antigua	2018-06-08
+3576117	Mercers Creek	Mercers Creek	Mercer Creek,Mercers Creek	17.10323	-61.72978	H	INLT	AG		07				0		1	America/Antigua	2018-06-08
+3576118	McNish Mountain	McNish Mountain	McNish Mountain,Table Mountain	17.05842	-61.84226	T	MT	AG		04				0		1	America/Antigua	2018-06-08
+3576119	Mayers	Mayers		17.0868	-61.71374	P	PPLL	AG		08				0		1	America/Antigua	2018-06-08
+3576120	Matthews	Matthews	Mathew,Matthews	17.05816	-61.79493	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576121	Marygalante Bay	Marygalante Bay	Marigalante Bay,Marygalante Bay	17.04796	-61.67545	H	BAY	AG		08				0		1	America/Antigua	2018-06-08
+3576122	Marble Hill	Marble Hill		17.15409	-61.83631	T	HLL	AG		04				0		1	America/Antigua	2018-06-08
+3576123	Man of War Point	Man of War Point		17.06866	-61.65776	T	PT	AG		08				0		-9999	America/Antigua	2018-06-08
+3576124	Man of War Island	Man of War Island		17.66813	-61.8513	T	RK	AG		01				0		-9999	America/Antigua	2018-06-08
+3576125	Mannings	Mannings		17.03779	-61.6938	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576126	Mamora Reef	Mamora Reef	Mamora Reef,Marmora Reef	17.01123	-61.73156	H	RF	AG		06				0		-9999	America/Antigua	2018-06-08
+3576127	Mamora Bay	Mamora Bay	Mamora Bay,Marmora Bay	17.01439	-61.73673	H	BAY	AG		06				0		1	America/Antigua	2018-06-08
+3576128	Maiden Island	Maiden Island	Maid Island,Maiden Island,Maiden Islet	17.14528	-61.76316	T	ISL	AG		03				0		-9999	America/Antigua	2018-06-08
+3576129	Maiden Island	Maiden Island	Maiden Island,Maiden Islet	17.0958	-61.8873	T	ISL	AG	AG	05				0		-9999	America/Antigua	2014-04-06
+3576130	Lyons	Lyons		17.05754	-61.73002	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576131	Lynch Point	Lynch Point		17.03202	-61.71215	T	PT	AG		08				0		-9999	America/Antigua	2018-06-08
+3576132	Lower Lyons	Lower Lyons	Lower Lyons,Lyon	17.04407	-61.73618	P	PPLL	AG		08				0		1	America/Antigua	2018-06-08
+3576133	Low Bay	Low Bay		17.65665	-61.8585	H	BAY	AG		01				0		-9999	America/Antigua	2018-06-08
+3576134	Long Lane	Long Lane		17.06734	-61.742	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576135	Long Island	Long Island	Long Island,Long Islet	17.15514	-61.75587	T	ISL	AG	AG	03				0		6	America/Antigua	2012-05-01
+3576136	Long Bay	Long Bay		17.09977	-61.69016	H	BAY	AG		08				0		1	America/Antigua	2018-06-08
+3576137	Lobster Island	Lobster Island		17.13382	-61.72976	T	ISL	AG		07				0		-9999	America/Antigua	2018-06-08
+3576138	Loblolly Point	Loblolly Point		17.12663	-61.87301	T	PT	AG		04				0		1	America/Antigua	2018-02-02
+3576139	Little Duers	Little Duers	Little Duer,Little Duers	17.06927	-61.74761	P	PPL	AG		07				0		1	America/Antigua	2018-06-08
+3576140	Little Deep Bay	Little Deep Bay		17.05915	-61.67725	H	BAY	AG		08				0		1	America/Antigua	2018-06-08
+3576141	Little Cove	Little Cove	Hudson Cove,Little Cove	17.03287	-61.69129	H	COVE	AG		08				0		-9999	America/Antigua	2018-06-08
+3576142	Lignum Vitae Bay	Lignum Vitae Bay		17.06355	-61.89036	H	BAY	AG		05				0		-9999	America/Antigua	2014-04-06
+3576143	Lightfoots	Lightfoots		17.10088	-61.80274	P	PPLL	AG		03				0		1	America/Antigua	2018-06-08
+3576144	Liberta	Liberta	Liberta,Liberta Village,Либерта	17.04141	-61.79052	P	PPL	AG		06				1668		1	America/Antigua	2018-06-08
+3576145	Leonards Point	Leonards Point		17.08831	-61.88723	T	PT	AG		05				0		1	America/Antigua	2018-06-08
+3576146	Ledwell Point	Ledwell Point		17.14186	-61.8594	T	PT	AG		04				0		-9999	America/Antigua	2018-02-02
+3576147	Ledeatt Cove	Ledeatt Cove	Ledcoff Cove,Ledeatt Cove	17.08638	-61.69189	H	COVE	AG		08				0		1	America/Antigua	2018-06-08
+3576148	Laviscounts Island	Laviscounts Island		17.09915	-61.72315	T	ISL	AG		08				0		1	America/Antigua	2018-06-08
+3576149	Lavingtons	Lavingtons		17.06087	-61.73883	P	PPLL	AG		08				0		1	America/Antigua	2018-06-08
+3576150	Laurys Bay	Laurys Bay		17.09994	-61.69458	H	BAY	AG		08				0		1	America/Antigua	2018-06-08
+3576151	Kid Island	Kid Island		17.69949	-61.81327	T	ISLT	AG		01				0		1	America/Antigua	2018-06-08
+3576152	Kettle Bottom Shoals	Kettle Bottom Shoals		17.15	-61.76667	H	SHOL	AG		03				0		-9999	America/Antigua	1993-12-21
+3576153	Jumby Bay	Jumby Bay	Jumby Bay	17.15559	-61.76108	H	BAY	AG		03				0		-9999	America/Antigua	2018-06-08
+3576154	Judge Bay	Judge Bay		17.16667	-61.78333	H	BAY	AG		03				0		-9999	America/Antigua	1993-12-21
+3576155	Jolly Hill Salt Pond	Jolly Hill Salt Pond		17.07172	-61.88754	H	PNDN	AG		05				0		1	America/Antigua	2018-06-08
+3576156	Jolly Hill	Jolly Hill		17.06844	-61.87263	T	HLL	AG		05				0		37	America/Antigua	2007-12-11
+3576157	Johnsons Point	Johnsons Point	Johnson Point,Johnsons Point,Old Fort Point	17.02673	-61.89011	T	PT	AG	AG	05				0		5	America/Antigua	2014-04-06
+3576158	Johnsons Point	Johnsons Point	Dzhonsons-Point,Johnson Point,Johnson Point Village,Johnsons Point,Джонсонс-Поинт	17.02985	-61.88885	P	PPL	AG	AG	05				0		7	America/Antigua	2014-04-06
+3576159	John Hughes	John Hughes		17.04328	-61.8222	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3576160	Jennings	Jennings	Dzhennings,Jennings,Jennings Village,Дженнингс	17.07779	-61.86582	P	PPL	AG	AG	08				0		14	America/Antigua	2012-02-06
+3576161	James Point	James Point		17.10285	-61.69807	T	PT	AG		08				0		1	America/Antigua	2018-06-08
+3576162	James Ground	James Ground		17.13333	-61.86667	H	SHOL	AG		04				0		1	America/Antigua	1993-12-21
+3576163	Fort James	Fort James		17.13023	-61.86378	S	FT	AG		04				0		-9999	America/Antigua	2018-02-02
+3576164	Isaac Point	Isaac Point		17.01752	-61.73065	T	PT	AG		06				0		1	America/Antigua	2018-06-08
+3576165	Isaac Channel	Isaac Channel		17.01645	-61.72293	H	CHN	AG		00				0		-9999	America/Antigua	2018-06-08
+3576166	Indian Town Point	Indian Town Point	Indian Town Point	17.10147	-61.6781	T	PT	AG		08				0		-9999	America/Antigua	2018-06-08
+3576167	Indian Town Creek	Indian Town Creek		17.10088	-61.6808	H	INLT	AG		08				0		-9999	America/Antigua	2018-06-08
+3576168	Indian Creek Point	Indian Creek Point		17.00228	-61.73683	T	PT	AG		06				0		-9999	America/Antigua	2018-06-08
+3576169	Indian Creek	Indian Creek		17.00312	-61.73814	H	INLT	AG		06				0		-9999	America/Antigua	2018-06-08
+3576170	Hughes Point	Hughes Point		17.07377	-61.70065	T	PT	AG		08				0		1	America/Antigua	2018-06-08
+3576171	Hughes Bay	Hughes Bay	Hughes Bay,Hughes Cove	17.07147	-61.69904	H	COVE	AG		08				0		1	America/Antigua	2018-06-08
+3576172	Hudson Point	Hudson Point		17.03153	-61.69155	T	PT	AG		08				0		-9999	America/Antigua	2018-06-08
+3576173	Horse Shoe Reef	Horse Shoe Reef	Horse Shoe Reef,The Horse Shoe	17.02622	-61.71424	H	RF	AG		00				0		-9999	America/Antigua	2018-06-08
+3576174	Horse Shoe Channel	Horse Shoe Channel		17.02264	-61.72272	H	CHN	AG		00				0		-9999	America/Antigua	2018-06-08
+3576175	Horse Channel	Horse Channel		17.18267	-61.80039	H	CHN	AG		03				0		-9999	America/Antigua	2018-06-08
+3576176	Hog Point	Hog Point		17.70048	-61.79568	T	PT	AG		01				0		-9999	America/Antigua	2018-06-08
+3576177	Hog Hole	Hog Hole		17.09927	-61.67905	H	COVE	AG		08				0		1	America/Antigua	2018-06-08
+3576178	Hog Hole	Hog Hole		17.70343	-61.79578	H	CHN	AG		01				0		-9999	America/Antigua	2018-06-08
+3576179	Hog Cliffs	Hog Cliffs		17.65319	-61.75214	T	CLF	AG		01				0		1	America/Antigua	2018-06-08
+3576180	High Point	High Point		17.15187	-61.78802	T	PT	AG		03				0		1	America/Antigua	2018-06-08
+3576181	The Highlands	The Highlands		17.65198	-61.76749	T	HLLS	AG		01				0		1	America/Antigua	2018-06-08
+3576182	Hermitage Bay	Hermitage Bay		17.08624	-61.89534	H	BAY	AG		05				0		1	America/Antigua	2012-05-01
+3576183	Hermitage	Hermitage		17.08624	-61.87985	L	LCTY	AG		05				0		1	America/Antigua	2018-06-08
+3576184	Herberts	Herberts		17.094	-61.81403	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576185	Henry Island	Henry Island	Henry Island,Nanny Island	17.06667	-61.68333	T	ISL	AG	AG	08				0		38	America/Antigua	2012-01-18
+3576186	Hells Gate Island	Hells Gate Island	Hale Gate,Hale Gate Island,Hells Gate Island	17.14106	-61.72194	T	ISL	AG		07				0		-9999	America/Antigua	2018-06-08
+3576187	Hawks Bill Rock	Hawks Bill Rock	Hawkes Bill Rock,Hawks Bill Rock	17.11216	-61.90241	T	RK	AG		04				0		-9999	America/Antigua	2018-06-08
+3576188	Hawks Bill Bay	Hawks Bill Bay		17.10937	-61.90255	H	BAY	AG		04				0		1	America/Antigua	2012-05-01
+3576189	Hawes Island	Hawes Island		17.1128	-61.7278	T	ISL	AG		07				0		1	America/Antigua	2018-06-08
+3576190	Harveys	Harveys		17.03333	-61.86667	P	PPL	AG		05				0		161	America/Antigua	1993-12-21
+3576191	Harman Point	Harman Point		17.00108	-61.76093	T	PT	AG		06				0		17	America/Antigua	2014-04-07
+3576192	Hansons Bay	Hansons Bay		17.10117	-61.88092	H	BAY	AG		05				0		-9999	America/Antigua	2014-04-06
+3576193	Hamiltons Dam	Hamiltons Dam		17.06061	-61.83147	S	DAM	AG		04				0		1	America/Antigua	2018-06-08
+3576194	Hamiltons	Hamiltons	Hamiltons,Hamiltons Village	17.05	-61.83333	P	PPL	AG	AG	04				0		238	America/Antigua	2012-01-18
+3576195	Half Moon Bay	Half Moon Bay		17.03783	-61.68705	H	BAY	AG		08				0		1	America/Antigua	2018-06-08
+3576196	Half Hide Bay	Half Hide Bay	Half Hide Bay	17.04203	-61.89607	H	BAY	AG	AG	05				0		-9999	America/Antigua	2014-04-06
+3576197	Gunthorpes	Gunthorpes		17.10975	-61.79989	P	PPL	AG		03				0		1	America/Antigua	2018-06-08
+3576198	Gun Shop Cliff	Gun Shop Cliff		17.66796	-61.7675	T	CLF	AG		01				0		1	America/Antigua	2018-06-08
+3576199	Gulf Point	Gulf Point		17.10671	-61.90292	T	PT	AG		04				0		-9999	America/Antigua	2018-06-08
+3576200	Guiana Island	Guiana Island	Guana Island,Guana Islet,Guiana Island	17.12143	-61.73218	T	ISL	AG	AG	07				0		14	America/Antigua	2013-02-02
+3576201	Guard Point	Guard Point		17.13333	-61.75	T	PT	AG		07				0		7	America/Antigua	1993-12-21
+3576202	Guard Point	Guard Point	Ferris Point,Guard Point	17.12027	-61.89712	T	PT	AG		04				0		-9999	America/Antigua	2018-06-08
+3576203	Guard Point	Guard Point		17.10665	-61.72705	T	PT	AG		07				0		1	America/Antigua	2018-06-08
+3576204	Guard Point	Guard Point	Garde Point,Guard Point	17.09879	-61.71565	T	PT	AG		08				0		1	America/Antigua	2018-06-08
+3576205	Guard Point	Guard Point		17.0812	-61.69758	T	PT	AG		08				0		-9999	America/Antigua	2018-06-08
+3576206	Guard Hill	Guard Hill		17.13104	-61.74614	T	PT	AG		07				0		-9999	America/Antigua	2018-06-08
+3576207	Guiana Bay	Guiana Bay	Guana Bay,Guiana Bay,Rendezvous Bay	17.11468	-61.7361	H	BAY	AG		07				0		1	America/Antigua	2018-06-08
+3576208	Green Island	Green Island	Green Island,Green Islet	17.07086	-61.66673	T	ISL	AG		08				0		-9999	America/Antigua	2018-06-08
+3576209	Green Bay	Green Bay	Fitzroy Town,Green Bay	17.11468	-61.84892	P	PPLX	AG		04				0		1	America/Antigua	2018-06-08
+3576210	Green Bay	Green Bay		17.1213	-61.85139	H	BAY	AG		04				0		1	America/Antigua	2014-04-07
+3576211	Great Deep Bay	Great Deep Bay	Great Deep Bay,York Bay	17.05556	-61.67565	H	BAY	AG		08				0		1	America/Antigua	2018-06-08
+3576212	Great Bird Island	Great Bird Island	Great Bird Island,Great Bird Islet	17.14512	-61.72423	T	ISL	AG		07				0		-9999	America/Antigua	2018-06-08
+3576213	Grays Point	Grays Point		17.07698	-61.7039	T	PT	AG		08				0		1	America/Antigua	2018-06-08
+3576214	Grays Hill	Grays Hill	Gray House,Gray House Village,Grays,Grays Hill	17.10579	-61.84737	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576215	Grays	Grays		17.07853	-61.70721	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576216	Gravenor Bay	Gravenor Bay	Gravenor Bay,Gravenors	17.54978	-61.75135	H	BAY	AG		01				0		-9999	America/Antigua	2018-06-08
+3576217	Grape Bay	Grape Bay	Grape Bay,Great Bay	17.13181	-61.7224	H	BAY	AG		07				0		1	America/Antigua	2018-06-08
+3576218	Grants	Grants		17.08333	-61.71667	P	PPL	AG		08				0		25	America/Antigua	1993-12-21
+3576219	Golden Grove	Golden Grove		17.08903	-61.84685	P	PPL	AG		04				0		5	America/Antigua	2012-02-06
+3576220	Goat Reef	Goat Reef		17.73748	-61.86844	H	RF	AG		01				0		-9999	America/Antigua	2018-06-08
+3576221	Goat Point	Goat Point	Goat Island Point,Goat Point	17.72887	-61.84479	T	PT	AG		01				0		1	America/Antigua	2018-06-08
+3576222	Goat Island Flush	Goat Island Flush		17.69172	-61.82746	H	LGN	AG		01				0		-9999	America/Antigua	2018-06-08
+3576223	Goat Island	Goat Island		17.7047	-61.85142	T	ISLT	AG		01				0		1	America/Antigua	2018-06-08
+3576224	Goat Head	Goat Head		17.01785	-61.8571	T	PT	AG		05				0		14	America/Antigua	2014-04-06
+3576225	Glanvilles	Glanvilles		17.0858	-61.7252	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576226	Gilberts	Gilberts		17.08905	-61.73903	P	PPL	AG		07				0		1	America/Antigua	2018-06-08
+3576227	Gaynors	Gaynors		17.06739	-61.7186	P	PPLL	AG		08				0		1	America/Antigua	2018-06-08
+3576228	Gaulding Point	Gaulding Point		17.00871	-61.78798	T	PT	AG		06				0		1	America/Antigua	2018-06-08
+3576229	Gateward Point	Gateward Point		17.01667	-61.78333	T	PT	AG		06				0		1	America/Antigua	1993-12-21
+3576230	Garden Hill	Garden Hill		17.05	-61.88333	T	HLL	AG		05				0		47	America/Antigua	1993-12-21
+3576231	Gambles	Gambles		17.12735	-61.83312	P	PPLX	AG		04				0		1	America/Antigua	2018-06-08
+3576232	Galley Bay	Galley Bay		17.12176	-61.89405	H	BAY	AG		04				0		-9999	America/Antigua	2012-05-01
+3576233	Fullerton Point	Fullerton Point	Fullerton Point,Pelican Point	17.10059	-61.90475	T	PT	AG		04				0		-9999	America/Antigua	2018-06-08
+3576234	Friars Hill	Friars Hill		17.14523	-61.83431	T	HLL	AG		04				0		1	America/Antigua	2018-06-08
+3576235	Friars Head	Friars Head		17.04664	-61.67384	T	PT	AG		08				0		-9999	America/Antigua	2018-06-08
+3576236	Freetown	Freetown	Far Hill Village,Freetown,Freetown Village,Fritaun,Фритаун	17.04791	-61.70332	P	PPL	AG		08				623		1	America/Antigua	2018-06-08
+3576237	Freemans Bay	Freemans Bay		17.00416	-61.76054	H	COVE	AG		06				0		-9999	America/Antigua	2014-04-07
+3576238	Freemans	Freemans	Freeman,Freemans,Freemanville,Freemonville	17.07917	-61.7857	P	PPL	AG		07				0		1	America/Antigua	2018-06-08
+3576239	Freeman Point	Freeman Point		17	-61.76667	T	PT	AG		06				0		-9999	America/Antigua	1993-12-21
+3576240	Fort Harman Point	Fort Harman Point		17.06667	-61.67685	T	PT	AG		08				0		1	America/Antigua	2018-06-08
+3576241	Fort Bay	Fort Bay	Fort Bay,James Bay	17.13663	-61.86184	H	BAY	AG	AG	04				0		-9999	America/Antigua	2014-04-07
+3576242	Flat Top Hill	Flat Top Hill		17.08105	-61.88343	T	HLL	AG		05				0		1	America/Antigua	2018-06-08
+3576243	Flat Point	Flat Point		17.08343	-61.68392	T	PT	AG		08				0		1	America/Antigua	2018-06-08
+3576244	The Flashes	The Flashes		17.10149	-61.86851	H	SWMP	AG		05				0		1	America/Antigua	2018-06-08
+3576245	Five Islands Village	Five Islands Village		17.11944	-61.88388	P	PPL	AG		04				0		16	America/Antigua	2014-04-06
+3576246	Five Island Harbour	Five Island Harbour	Five Island Harbor,Five Island Harbour,Five Islands Harbour	17.09547	-61.89255	H	BAY	AG	AG	05				0		-9999	America/Antigua	2014-04-06
+3576247	Five Islands	Five Islands		17.11126	-61.89028	T	ISLS	AG		05				0		76	America/Antigua	2012-05-01
+3576248	Fitches Creek Bay	Fitches Creek Bay	Fischer Creek,Fitches Creek,Fitches Creek Bay	17.12631	-61.78345	H	BAY	AG		03				0		1	America/Antigua	2018-06-08
+3576249	Fitches Creek	Fitches Creek		17.12419	-61.7949	P	PPL	AG		03				0		1	America/Antigua	2018-06-08
+3576250	Fish Pond	Fish Pond		17.01632	-61.83046	H	PND	AG		05				0		1	America/Antigua	2018-06-08
+3576251	Fishing Creek	Fishing Creek		17.6987	-61.80524	H	COVE	AG		01				0		1	America/Antigua	2018-06-08
+3576252	Fisher Hill	Fisher Hill		17.01526	-61.82148	T	HLL	AG		05				0		218	America/Antigua	2014-04-06
+3576253	Fisher Dam	Fisher Dam		17.06219	-61.81959	S	DAM	AG		04				0		1	America/Antigua	2018-06-08
+3576254	Ffryes Point	Ffryes Point	Ffryes Point,Fryes Point,Frys Point	17.05162	-61.89775	T	PT	AG	AG	05				0		15	America/Antigua	2014-04-06
+3576255	Ffryes Bay	Ffryes Bay	Ffryes Bay,Fryes Bay,Frys Bay	17.04837	-61.89796	H	BAY	AG	AG	05				0		-9999	America/Antigua	2014-04-06
+3576256	Ffryes	Ffryes	Ffryes,Frryes,Simpson	17.05509	-61.73143	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576257	Farley Bay	Farley Bay		17.0942	-61.73173	H	BAY	AG		00				0		1	America/Antigua	2018-06-08
+3576258	Fannys Cove	Fannys Cove	Fanneys Cove,Fannys Cove	17.09348	-61.68413	H	COVE	AG		08				0		1	America/Antigua	2018-06-08
+3576259	Falmouth Harbour	Falmouth Harbour	Falmouth Harbor,Falmouth Harbour	17.01727	-61.77525	H	BAY	AG		06				0		1	America/Antigua	2018-06-08
+3576260	Falmouth	Falmouth	Falmouth	17.02741	-61.78136	P	PPLA	AG		06				619		25	America/Antigua	2013-08-02
+3576261	Exchange Island	Exchange Island		17.1364	-61.72325	T	ISL	AG		07				0		-9999	America/Antigua	2018-06-08
+3576262	Exchange Bay	Exchange Bay		17.04349	-61.68087	H	BAY	AG		08				0		1	America/Antigua	2018-06-08
+3576263	English Point	English Point		17.0026	-61.77378	T	PT	AG		06				0		2	America/Antigua	2014-04-07
+3576264	English Harbour Town	English Harbour Town	English Harbour,English Harbour Town,Rotten Town	17.01637	-61.7674	P	PPL	AG		06				666		15	America/Antigua	2018-06-08
+3576265	English Harbour	English Harbour	English Harbor	17.00274	-61.76374	H	BAY	AG	AG	06				0		-9999	America/Antigua	2014-04-07
+3576266	Emanuel	Emanuel		17.07217	-61.83731	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576267	Ebenezer	Ebenezer		17.08285	-61.85895	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3576268	Dutchman Bay	Dutchman Bay		17.15406	-61.78886	H	BAY	AG		03				0		1	America/Antigua	2018-06-08
+3576269	Dunnings Dam	Dunnings Dam		17.07095	-61.85285	S	DAM	AG		05				0		1	America/Antigua	2018-06-08
+3576270	Dunnings	Dunnings		17.07154	-61.85441	P	PPLL	AG		05				0		1	America/Antigua	2018-06-08
+3576271	Dums Point	Dums Point	Dian Point,Dums Point	17.10183	-61.68258	T	PT	AG		08				0		-9999	America/Antigua	2018-06-08
+3576272	Dulcina	Dulcina		17.59367	-61.82697	P	PPL	AG		01				0		1	America/Antigua	2018-06-08
+3576273	Dow Hill	Dow Hill		17.01667	-61.75	T	HLL	AG		06				0		30	America/Antigua	1993-12-21
+3576274	Doigs	Doigs		17.01746	-61.8105	L	LCTY	AG		05				0		1	America/Antigua	2018-06-08
+3576275	Dodington Bank	Dodington Bank		17.5	-61.75	H	BNK	AG		01				0		-9999	America/Antigua	1993-12-21
+3576276	Deep Bay	Deep Bay	Deep Bay,Dieppe Bay,Proctor Bay	17.01212	-61.78639	H	BAY	AG		06				0		1	America/Antigua	2018-06-08
+3576277	Dickenson Bay	Dickenson Bay	Dickinson Bay	17.15982	-61.84994	H	BAY	AG		04				0		-9999	America/Antigua	2010-05-16
+3576278	Devils Hole	Devils Hole		17.06514	-61.6773	H	COVE	AG		08				0		1	America/Antigua	2018-06-08
+3576279	Devils Bridge	Devils Bridge		17.1	-61.68333	T	BCH	AG		08				0		1	America/Antigua	2015-03-11
+3576280	Denfields	Denfields		17.11094	-61.85667	P	PPLX	AG		04				0		1	America/Antigua	2018-06-08
+3576281	Delaps	Delaps		17.06046	-61.75179	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576282	Deep Bay Point	Deep Bay Point	Deep Bay Point,Kid Point	17.1241	-61.88998	T	PT	AG		04				0		1	America/Antigua	2018-06-08
+3576283	Deep Bay	Deep Bay	Goat Hill Bay	17.12668	-61.8883	H	BAY	AG	AG	04				0		-9999	America/Antigua	2014-04-06
+3576284	Dark Wood	Dark Wood		17.04052	-61.8896	P	PPLL	AG		05				0		1	America/Antigua	2018-06-08
+3576285	Fort Cuyler	Fort Cuyler		17.00781	-61.77414	S	FT	AG		06				0		-9999	America/Antigua	2018-06-08
+3576286	Curtain Bluff	Curtain Bluff		17.01346	-61.84385	T	PT	AG		05				0		-9999	America/Antigua	2018-06-08
+3576287	Cuffy Creek	Cuffy Creek		17.68061	-61.83557	H	LGN	AG		01				0		1	America/Antigua	2018-06-08
+3576288	Crumps Point	Crumps Point		17.10003	-61.73134	T	PT	AG		07				0		1	America/Antigua	2018-06-08
+3576289	Crump Island	Crump Island	Crump Island	17.10851	-61.71778	T	ISL	AG		07				0		-9999	America/Antigua	2018-06-08
+3576290	Crosbies	Crosbies		17.16569	-61.82367	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576291	Creekside	Creekside		17.07902	-61.85646	P	PPL	AG		04				0		27	America/Antigua	2012-02-06
+3576292	The Creek	The Creek		17.71525	-61.86344	H	CHNM	AG		01				0		1	America/Antigua	2018-06-08
+3576293	Crawl Point	Crawl Point	Crawl Point,Crawle Point	17.02564	-61.73723	T	PT	AG		06				0		1	America/Antigua	2018-06-08
+3576294	Crawl Bay	Crawl Bay	Crawl Bay,Crawle Bay	17.02452	-61.73552	H	BAY	AG		06				0		1	America/Antigua	2018-06-08
+3576295	Crabs Peninsula	Crabs Peninsula		17.11667	-61.75	T	PEN	AG		07				0		-9999	America/Antigua	1993-12-21
+3576296	Crabs Mill	Crabs Mill		17.11366	-61.75098	L	LCTY	AG		07				0		1	America/Antigua	2018-06-08
+3576297	Crab Point	Crab Point		17.03802	-61.89372	T	PT	AG		05				0		-9999	America/Antigua	2018-06-08
+3576298	Crab Hill Bay	Crab Hill Bay		17.03103	-61.8914	H	BAY	AG		05				0		-9999	America/Antigua	2018-06-08
+3576299	Crab Hill	Crab Hill	Crab Hill,Crab Hill Village	17.03437	-61.89114	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3576300	Crab Hill	Crab Hill		17.03606	-61.88727	T	HLL	AG		05				0		152	America/Antigua	2014-04-06
+3576301	The Cove	The Cove		17.12964	-61.85715	H	COVE	AG		04				0		-9999	America/Antigua	2014-04-07
+3576302	Corbison Point	Corbison Point	Corbison Point,Corbizon Point	17.15459	-61.8557	T	PT	AG	AG	04				0		-9999	America/Antigua	2018-02-02
+3576303	Cooks	Cooks		17.10498	-61.85429	P	PPLX	AG		04				0		1	America/Antigua	2018-06-08
+3576304	Conk Point	Conk Point		17.07148	-61.67974	T	PT	AG		08				0		1	America/Antigua	2018-06-08
+3576305	Comfort Hall	Comfort Hall	Comfort Hall,Wickham,Wickhams	17.08133	-61.71415	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576306	Collins Dam	Collins Dam		17.07662	-61.73633	S	DAM	AG		08				0		1	America/Antigua	2018-06-08
+3576307	Collins	Collins		17.07615	-61.73322	P	PPL	AG		08				0		1	America/Antigua	2018-06-08
+3576308	Codrington Shoals	Codrington Shoals		17.48333	-61.83333	H	SHOL	AG		01				0		-9999	America/Antigua	1993-12-21
+3576309	Codrington Lagoon	Codrington Lagoon	Codrington Lagoon	17.64387	-61.84101	H	LGN	AG		01				0		-9999	America/Antigua	2018-06-08
+3576310	Codrington Island	Codrington Island	Codrington Island	17.10275	-61.70563	T	ISL	AG		08				0		-9999	America/Antigua	2018-06-08
+3576311	Codrington	Codrington	Codrington,Codrington Village,Kodrington,Kodringtonas,ke de ling dun,kodeulingteon,kodorinton,qwdryngtwn,Кодрингтон,קודרינגטון,کوڈرنگٹن، باربوڈا,コドリントン,科德灵顿,코드링턴	17.63333	-61.83333	P	PPLA	AG		01				1325		6	America/Antigua	2014-08-18
+3576312	Barbuda Codrington Airport	Barbuda Codrington Airport	Aeroport de Barbuda Codrington,Aéroport de Barbuda Codrington,BBQ,Barbuda Airport,Barbuda Codrington Airport,Codrington,TAPH,ke de lin dun ji chang,科德林頓機場	17.63609	-61.82633	S	AIRF	AG		01				0		5	America/Antigua	2013-06-30
+3576313	Coconut Hall	Coconut Hall	Cocoa Hall,Coconut Hall	17.11005	-61.73462	P	PPLL	AG		07				0		1	America/Antigua	2018-06-08
+3576314	Cocoa Point Beach	Cocoa Point Beach		17.54985	-61.76615	T	BCH	AG		01				0		-9999	America/Antigua	2018-06-08
+3576315	Cocoa Point	Cocoa Point		17.54374	-61.76651	T	PT	AG		01				0		-9999	America/Antigua	2018-06-08
+3576316	Cocoa Point	Cocoa Point		17.55	-61.75	S	AIRF	AG		01				0		-9999	America/Antigua	1993-12-21
+3576317	Cocks Hill	Cocks Hill		17.06513	-61.88015	T	HLL	AG		05				0		1	America/Antigua	2018-06-08
+3576318	Cochranes	Cochranes		17.08334	-61.76691	P	PPL	AG		07				0		1	America/Antigua	2018-06-08
+3576319	Cobbs Cross	Cobbs Cross		17.02402	-61.76599	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576320	Cobb Reef	Cobb Reef		17.7243	-61.81776	H	RF	AG		01				0		-9999	America/Antigua	2018-06-08
+3576321	Cobb Cove	Cobb Cove		17.70266	-61.82104	H	COVE	AG		01				0		1	America/Antigua	2018-06-08
+3576322	Clarence House	Clarence House		17.01006	-61.76219	S	PAL	AG		06				0		1	America/Antigua	2018-06-08
+3576323	Claremont	Claremont		17.02527	-61.83586	P	PPLL	AG		05				0		10	America/Antigua	2014-04-06
+3576324	Clare Hall	Clare Hall		17.11667	-61.81667	P	PPL	AG		04				0		23	America/Antigua	1993-12-21
+3576325	Cinnamon Island	Cinnamon Island		17.11667	-61.78333	T	ISL	AG		03				0		33	America/Antigua	1993-12-21
+3576326	Christian Valley	Christian Valley		17.05543	-61.85239	T	VAL	AG		05				0		1	America/Antigua	2018-06-08
+3576327	Christian Point	Christian Point		17.0371	-61.74231	T	PT	AG		06				0		1	America/Antigua	2018-06-08
+3576328	Christian Hill	Christian Hill		17.03532	-61.75136	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576329	Christian Cove	Christian Cove		17.04113	-61.74255	H	COVE	AG		00				0		1	America/Antigua	2018-06-08
+3576330	Cherry Hill	Cherry Hill		17.0195	-61.78835	T	HLL	AG		06				0		1	America/Antigua	2018-06-08
+3576331	Point Charlotte	Point Charlotte		17	-61.76667	T	PT	AG		06				0		-9999	America/Antigua	1993-12-21
+3576332	Fort Charlotte	Fort Charlotte		17.00158	-61.76093	S	FT	AG		06				0		-9999	America/Antigua	2018-06-08
+3576333	Chapel Point	Chapel Point		17.01549	-61.76886	T	PT	AG		06				0		1	America/Antigua	2018-06-08
+3576334	Chalky Hill	Chalky Hill		17.03333	-61.73333	T	HLL	AG		06				0		-9999	America/Antigua	1993-12-21
+3576335	Cedar Valley Mill	Cedar Valley Mill		17.13333	-61.8	P	PPLL	AG		04				0		21	America/Antigua	1993-12-21
+3576336	Cedar Tree Point	Cedar Tree Point	Cedar Tree Point,Cooks Bay Point	17.69581	-61.88668	T	PT	AG		01				0		-9999	America/Antigua	2018-06-08
+3576337	Cedar Hall	Cedar Hall		17.0773	-61.85763	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3576338	Cedar Grove	Cedar Grove	Cedar Grove,Cedar Grove Village,Willock Village	17.16225	-61.8178	P	PPL	AG		04				789		1	America/Antigua	2018-06-08
+3576339	Castle Hill	Castle Hill		17.61501	-61.73673	T	HLL	AG		01				0		1	America/Antigua	2018-06-08
+3576340	Castle Bay	Castle Bay		17.61097	-61.73307	H	BAY	AG		01				0		-9999	America/Antigua	2018-06-08
+3576341	Cassada Gardens	Cassada Gardens		17.12824	-61.81148	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576342	Cashew Hill	Cashew Hill	Cashew Hill,Cashou Hill	17.09368	-61.85932	T	HLL	AG		05				0		1	America/Antigua	2018-06-08
+3576343	Carlisle Bay	Carlisle Bay		17.01042	-61.8356	H	BAY	AG		05				0		-9999	America/Antigua	2014-04-06
+3576344	Carlisle	Carlisle	Carlisle	17.13226	-61.80356	P	PPL	AG		03				831		1	America/Antigua	2018-06-08
+3576345	Canditch Hill	Canditch Hill		17.05	-61.88333	T	HLL	AG		05				0		47	America/Antigua	2013-08-06
+3576346	Cades Reef	Cades Reef	Cade Reef,Cades Reef,Cailes Reef,South Sandy Island	17.00705	-61.87363	H	RF	AG	AG	05				0		-9999	America/Antigua	2014-04-06
+3576347	Cades Bay	Cades Bay		17.02581	-61.86446	P	PPLL	AG		05				0		11	America/Antigua	2014-04-06
+3576348	Cades Bay	Cades Bay	Cade Bay,Cades Bay	17.01879	-61.87195	H	BAY	AG	AG	05				0		-9999	America/Antigua	2014-04-06
+3576349	Cade Peak	Cade Peak		17.02875	-61.84877	T	MT	AG		05				0		1	America/Antigua	2018-06-08
+3576350	Byham Point	Byham Point	Byam Point,Byham Point	17.12727	-61.71899	T	PT	AG		07				0		1	America/Antigua	2018-06-08
+3576351	Fort Byham	Fort Byham		17.15	-61.8	S	FT	AG		03				0		24	America/Antigua	1993-12-21
+3576352	Burkes	Burkes		17.06011	-61.78397	P	PPLL	AG		06				0		1	America/Antigua	2018-06-08
+3576353	Buckleys	Buckleys		17.07221	-61.81337	P	PPL	AG		04				0		89	America/Antigua	2012-02-06
+3576354	Brooks Old Mill	Brooks Old Mill		17.02554	-61.85861	L	LCTY	AG		05				0		14	America/Antigua	2014-04-06
+3576355	Branns Hamlet	Branns Hamlet		17.10366	-61.83612	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576356	Botts Peak	Botts Peak		17.05192	-61.86334	T	MT	AG		05				0		1	America/Antigua	2018-06-08
+3576357	Boon Point	Boon Point	Boon Point,Boon's Point,Boon’s Point	17.17305	-61.83238	T	PT	AG		04				0		1	America/Antigua	2018-06-08
+3576358	Boon House	Boon House		17.16667	-61.83333	P	PPL	AG		04				0		61	America/Antigua	1993-12-21
+3576359	Boon Channel	Boon Channel		17.17494	-61.85279	H	CHN	AG		04				0		-9999	America/Antigua	2018-06-08
+3576360	Boons Bay	Boons Bay	Boon Bay,Boons Bay,Humphrys Bay	17.173	-61.82908	H	BGHT	AG		04				0		1	America/Antigua	2018-06-08
+3576361	Bolands	Bolands	Boland Village,Bolands,Bolans	17.06565	-61.87466	P	PPLA	AG		05				1657		9	America/Antigua	2016-06-26
+3576362	Bolans Hill	Bolans Hill	Boland Hill,Bolans Hill	17.05937	-61.87703	T	HLL	AG		05				0		1	America/Antigua	2018-06-08
+3576363	Mount Obama	Mount Obama	Boggy Peak,Mount Obama	17.04483	-61.86117	T	MT	AG		05				0	402	1	America/Antigua	2018-06-08
+3576364	Blubber Valley	Blubber Valley		17.06651	-61.86419	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3576365	Blakes	Blakes		17.04929	-61.74103	L	LCTY	AG		08				0		1	America/Antigua	2018-06-08
+3576366	Blake Island	Blake Island	Blake Island,Blake's Islet,Blake’s Islet	17.01456	-61.78266	T	ISL	AG		06				0		-9999	America/Antigua	2018-06-08
+3576367	Blacks Point	Blacks Point		17.00639	-61.77809	T	PT	AG		06				0		-9999	America/Antigua	2018-06-08
+3576368	Blackmans Point	Blackmans Point	Blackman Point,Blackmans Point	17.1242	-61.7776	T	PT	AG		03				0		1	America/Antigua	2018-06-08
+3576369	Bishops	Bishops		17.04523	-61.81557	P	PPL	AG		05				0		1	America/Antigua	2018-06-08
+3576370	Bishop Island	Bishop Island		17	-61.78333	T	ISL	AG		06				0		-9999	America/Antigua	1993-12-21
+3576371	Bird Island Reef	Bird Island Reef	Bird Island Reef,Bird Islet Reef	17.16111	-61.73674	H	RF	AG		03				0		-9999	America/Antigua	2018-06-08
+3576372	Bird Island Channel	Bird Island Channel	Bird Island Channel,Bird Islet Channel	17.1665	-61.72793	H	CHN	AG		03				0		-9999	America/Antigua	2018-06-08
+3576373	Bird Island	Bird Island	Bird Island,Bird Islet	17.07942	-61.67244	T	ISL	AG		08				0		-9999	America/Antigua	2018-06-08
+3576374	Billy Point	Billy Point		17.71565	-61.86814	T	PT	AG		01				0		1	America/Antigua	2018-06-08
+3576375	Big Duers	Big Duers		17.07075	-61.7633	P	PPLL	AG		07				0		1	America/Antigua	2018-06-08
+3576376	Betty’s Hope	Betty's Hope	Betty's Hope,Betty’s Hope	17.08119	-61.74479	P	PPL	AG		07				0		1	America/Antigua	2018-06-08
+3576377	Bethesda	Bethesda	Bethesda,Bethesda Village	17.04331	-61.75083	P	PPL	AG		06				0		1	America/Antigua	2018-06-08
+3576378	Bendals	Bendals	Bendals,Bendals Village	17.06807	-61.83604	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576379	Belmont	Belmont		17.09964	-61.82612	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576380	Bellevue Heights	Bellevue Heights		17.0922	-61.82302	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3576381	Beggars Point	Beggars Point	Beggars Point,Hodge Point	17.16988	-61.80197	T	PT	AG		03				0		1	America/Antigua	2018-06-08
+3576382	Bats Cave	Bats Cave		17.01667	-61.75	P	PPL	AG		06				0		30	America/Antigua	1993-12-21
+3576383	Barters	Barters		17.01559	-61.79923	L	LCTY	AG		06				0		-9999	America/Antigua	2018-06-08
+3576384	Fort Barrington	Fort Barrington		17.12972	-61.88629	S	FT	AG		04				0		-9999	America/Antigua	2018-02-02
+3576385	Barnes Point	Barnes Point		17.12079	-61.74607	T	PT	AG		07				0		-9999	America/Antigua	2018-06-08
+3576386	Barnes Hill	Barnes Hill	Barnes Hill,Barnes Hill Village	17.14227	-61.80788	P	PPL	AG		03				0		1	America/Antigua	2018-06-08
+3576387	Barnes Hill	Barnes Hill		17.15	-61.8	T	HLL	AG		03				0		24	America/Antigua	1993-12-21
+3576388	Barnacle Point	Barnacle Point		17.14116	-61.77351	T	PT	AG		03				0		-9999	America/Antigua	2018-06-08
+3576389	Barbuda Island	Barbuda Island	BBQ,Barbuda,Barbuda Island,Dulcina,Ile de Barbuda,ba bu da dao,babuda dao,brbwdh,Île de Barbuda,Барбуда,ברבודה,バーブーダ島,巴布達島	17.67134	-61.83586	T	ISL	AG		01				0		5	America/Antigua	2018-03-13
+3576390	Barbuda	Barbuda	Barbiwda,Barbuda,Barbudo,Barmpounta,Bàrbúdà,Ile de Barbuda,Vostrau Barbuda,ba bu da dao,babuda dao,babuda seom,barabuda,barabwda,barbuda,brbwdh,parputa,Île de Barbuda,Μπαρμπούντα,Барбуда,Востраў Барбуда,ברבודה,بارابودا,باربوڈا,बारबूडा,பர்புடா,ബാർബുഡ,บาร์บูดา,バーブーダ島,巴布達島,바부다 섬	17.63333	-61.8	A	ADM1	AG		01				1638		13	America/Antigua	2016-06-26
+3576391	Ballast Bluff	Ballast Bluff		17.12311	-61.86825	T	PT	AG		04				0		1	America/Antigua	2018-02-02
+3576392	Ballast Bay	Ballast Bay	Loblolly Bay	17.12126	-61.86575	H	BAY	AG		04				0		1	America/Antigua	2018-02-02
+3576393	Bakers Cellar	Bakers Cellar		17.08494	-61.90285	T	PT	AG		05				0		-9999	America/Antigua	2018-06-08
+3576394	Ayres Creek	Ayres Creek	Ayres Creek,Cables Creek,Gobles Creek	17.07355	-61.70516	H	INLT	AG		08				0		1	America/Antigua	2018-06-08
+3576395	Antigua Island	Antigua Island	ANU,Antigua,Antigua Island,Antigva,Antígua,Illa Antiga,Illa dAntigua,Isla Antigua,Island of Antigua,Santa Maria de la Antigua,Santa María de la Antigua,an de ka dao,antigua dao,Антигва,אנטיגואה,アンティグア島,安地卡島	17.07607	-61.79543	T	ISL	AG	AG					69000		70	America/Antigua	2014-04-06
+3576396	Antigua and Barbuda	Antigua and Barbuda	Aintige agus Barbuda,Aintíge agus Barbúda,An-ti-gu-a va Ba-bu-ga,An-ti-gu-a va Ba-bu-ga (Antigua va Barbuda),An-ti-gu-a và Ba-bu-đa,An-ti-gu-a và Ba-bu-đa (Antigua và Barbuda),Anitikua mo Palaputa,Antiga e Barbuda,Antiga e Barbuda - Antigua and Barbuda,Antiga ha Barbuda,Antiga mpe Barbuda,Antiga mpé Barbuda,Antiga ne Barbuda,Antiga sy Barboda,Antiga-ni-Barbuda,Antigoa-et-Barbuda,Antigua Presidency,Antigua a Barbados,Antigua a Barbuda,Antigua aamma Barbuda,Antigua and Barbuda,Antigua at Barbuda,Antigua dan Barbuda,Antigua dhe Barbuda,Antigua e Barbuda,Antigua en Barbuda,Antigua en Barbûda,Antigua es Barbuda,Antigua et Barbuda,Antigua eta Barbuda,Antigua ha Barbuda,Antigua i Barbuda,Antigua in Barbuda,Antigua iyo Barbuda,Antigua ja Barbuda,Antigua kple Barbuda nutome,Antigua le Barbuda,Antigua me Barbuda,Antigua na Barbuda,Antigua ne Baabuda,Antigua ne Barbuda,Antigua och Barbuda,Antigua og Barbuda,Antigua si Barbuda,Antigua u Berbuda,Antigua un Barbuda,Antigua und Barbuda,Antigua ve Barbuda,Antigua y Barbuda,Antigua és Barbuda,Antigua și Barbuda,Antigua-Barbuda,Antigua-et-Barbuda,Antiguwaa e Barbudaa,Antigva i Barbuda,Antigva in Barbuda,Antigva ir Barbuda,Antigva og Barbuda,Antigva un Barbuda,Antigve i Barbuda,Antigvo-Barbudo,Antigwa a Barbuda,Antigwa da Barbuba,Antigwa na Baribuda,Antigwa ne Barabuda,Antigûa û Berbûda,Antinkoua kai Mparmpounta,Antiqua et Barbuda,Antiqua və Barbuda,Antygua i Barbuda,Antígua e Barbuda,Antígva og Barbúda,Antîgua na Barbûda,Colony of Antigua,Lantigeaen e Barbudeaen,Lantigeän e Barbudeän,Orileede Aantigua ati Baribuda,Orílẹ́ède Ààntígúà àti Báríbúdà,Presidency of Antigua,State of Antigua,aentiga babuda,amtigva ani barbuda,an ti gua he ba bu da,antiga babuda,antigu'a ebam barabuda,antiguababuda,antiguva mattu barbuda,antiguya o barbuda,antigva,antigva mariyu barbuda,antikuva marrum parputa,antygha wbarbwda,antygha wbrbwda,antyghwa wbrbwda,antygwa w barbwda,antyjwa wbrbwda,entigu'a ane barabuda,entigu'a aura barabuda,entigu'a ra barabuda,entiguva aura barabuda,entiguya ebam barbuda,entiguya o barabuda,i-Antigua and Barbuda,yantygwa w barbwda,́Antigua kple Barbuda nutome,Αντίγκουα και Μπαρμπούντα,Антигва и Барбуда,Антигве и Барбуда,Антигуа и Барбуда,Антигуа і Барбуда,Антиґуа і Барбуда,Антыгуа і Барбуда,Антігуа і Барбуда,Անտիգուա-Բարբուդա,אנטיגואה וברבודה,אנטיגווה וברבודה,آنتیگوا و باربودا,أنتيجوا وبربودا,أنتيغا وباربودا,أنتيغا وبربودا,ئانتیگوا و باربودا,انتيغوا وبربودا,انٹیگوا اور باربودا,انټيګ او بربودا,अँटिग्वा आणि बर्बुडा,अंटीग्वा,एंटिगुआ और बारबुडा,एन्टिगुआ र बारबुडा,एन्टिगुवा और बारबूडा,আন্টিগুয়া ও বার্বুডা,এন্টিগুয়া এবং বার্বুডা,এন্টিগুয়া ও বারবুডা,એન્ટીગુઆ અને બરબુડા,ଆଣ୍ଟିଗୁଆ ଏବଂ ବାରବୁଦା,ஆண்டிகுவா மற்றும் பார்புடா,ఆంటిగ్వా మరియు బార్బుడా,ಆಂಟಿಗುವಾ ಮತ್ತು ಬರ್ಬುಡಾ,ആന്‍റിഗ്വയും ബര്‍ബുഡയും,ඇන්ටිගුවා සහ බාබියුඩා,แอนติกาและบาร์บูดา,ཨེན་ཊི་གུ་དང་། བྷར་བུ་ཌ།,ანტიგუა და ბარბუდა,አንቲጓ እና ባሩዳ,アンティグアバブーダ,アンティグア・バーブーダ,安提瓜和巴布达,안티가 바부다,앤티가 바부다	17.05	-61.8	A	PCLI	AG		00				86754		65	America/Antigua	2017-10-30
+3576397	All Saints	All Saints	All Saints,All Saints Village	17.06671	-61.79303	P	PPL	AG		07				2526		60	America/Antigua	2016-06-26
+3576398	Aberdeen	Aberdeen	Aberdeen,Aberdeen Village	17.06994	-61.80977	P	PPL	AG		04				0		1	America/Antigua	2018-06-08
+3715511	Havers Shoal	Havers Shoal		16.81667	-62.41667	H	BNK	AG		00				0		-9999	America/Antigua	1998-10-05
+3739930	Pigeon Cliff	Pigeon Cliff		17.6	-61.73333	T	CLF	AG		01				0		13	America/Antigua	1995-01-23
+3739931	Martello Tower	Martello Tower		17.5951	-61.82923	S	TOWR	AG		01				0		1	America/Antigua	2018-06-09
+3739932	Hudson Landing	Hudson Landing		17.61111	-61.84083	S	LDNG	AG		01				0		8	America/Antigua	1995-01-23
+3739933	Castle Landing	Castle Landing		17.63944	-61.82833	S	LDNG	AG		01				0		7	America/Antigua	1995-01-23
+3740423	Lindsay Hill	Lindsay Hill		17.094	-61.7631	T	HLL	AG		07				0		1	America/Antigua	2018-06-09
+3740428	York Bank	York Bank		17.06111	-61.66667	H	BNK	AG		08				0		-9999	America/Antigua	1995-04-19
+3740429	Mount Pleasant	Mount Pleasant		17.13333	-61.81667	T	MT	AG		03				0		34	America/Antigua	1995-04-19
+3740430	Ward Shoal	Ward Shoal		17.18333	-61.78333	H	SHOL	AG		03				0		-9999	America/Antigua	1995-04-19
+3740432	Horse Shoe	Horse Shoe		17.19167	-61.79167	H	SHOL	AG		03				0		-9999	America/Antigua	1995-04-19
+3740436	Jarvis Shoal	Jarvis Shoal		17.19167	-61.81667	H	SHOL	AG		04				0		-9999	America/Antigua	1995-04-19
+3740437	Scott Shoal	Scott Shoal		17.16667	-61.78333	H	SHOL	AG		03				0		-9999	America/Antigua	1995-04-19
+3740438	Salt Fish Tail	Salt Fish Tail		17.175	-61.85	H	SHOL	AG		04				0		-9999	America/Antigua	1995-04-19
+3740440	Diamond Bank	Diamond Bank		17.2	-61.88333	H	SHOL	AG		04				0		-9999	America/Antigua	1995-04-19
+3740441	Bannister Bank	Bannister Bank		17.18333	-61.88333	H	BNK	AG		04				0		-9999	America/Antigua	1995-04-19
+3740447	Pelican Shoal	Pelican Shoal		17.1	-61.91667	H	SHOL	AG		04				0		-9999	America/Antigua	1995-04-19
+3740449	Cook Shoal	Cook Shoal		17.1	-61.9	H	SHOL	AG		00				0		22	America/Antigua	1995-04-19
+3740450	Irish Bank	Irish Bank		17.06667	-61.925	H	SHOL	AG		05				0		-9999	America/Antigua	1995-04-19
+3740451	Warrington Bank	Warrington Bank		17.14583	-61.88333	H	SHOL	AG		04				0		-9999	America/Antigua	1995-04-19
+3740452	Codrington Bank	Codrington Bank		17.45	-61.78333	H	SHOL	AG		01				0		-9999	America/Antigua	1995-04-19
+3740476	Keeves Landing	Keeves Landing		17.0963	-61.7151	H	INLT	AG		08				0		1	America/Antigua	2018-06-09
+3740478	North Whelk	North Whelk	North Whelk	17.15833	-61.72917	T	RK	AG		00				0		-9999	America/Antigua	2018-12-05
+3740479	Hand Point	Hand Point		17.12014	-61.75222	T	PT	AG		07				0		1	America/Antigua	2018-06-09
+3740480	Crabs Point	Crabs Point		17.13673	-61.75176	T	PT	AG		07				0		-9999	America/Antigua	2018-06-09
+3740485	Fellingo Shoal	Fellingo Shoal		17.13599	-61.76998	H	SHOL	AG		03				0		-9999	America/Antigua	2018-06-09
+3740486	Yam Piece Shoals	Yam Piece Shoals	Yam Piece Shoal,Yam Piece Shoals	17.1591	-61.77087	H	SHOL	AG		03				0		-9999	America/Antigua	2018-06-09
+3740487	Addison Shoal	Addison Shoal		17.17083	-61.77083	H	SHOL	AG		03				0		-9999	America/Antigua	1995-04-19
+3740488	Shoal Bay	Shoal Bay		17.1625	-61.79333	H	BAY	AG		03				0		1	America/Antigua	1995-04-19
+3740489	Harney Shoal	Harney Shoal		17.19722	-61.80333	H	SHOL	AG		04				0		-9999	America/Antigua	1995-04-19
+3740490	Langford Bay	Langford Bay		17.17008	-61.83811	H	COVE	AG		04				0		1	America/Antigua	2018-06-09
+3740491	Diamond Channel	Diamond Channel		17.2	-61.87222	H	CHN	AG		00				0		-9999	America/Antigua	1995-04-19
+3740492	Little Sister	Little Sister		17.16225	-61.86445	H	SHOL	AG		04				0		-9999	America/Antigua	2018-02-02
+3740493	Great Sister	Great Sister		17.16086	-61.86832	T	ISL	AG		04				0		-9999	America/Antigua	2018-02-02
+3740494	McKinnons Salt Pond	McKinnons Salt Pond		17.14731	-61.85167	H	PNDN	AG		04				0		1	America/Antigua	2018-06-09
+3740495	Saint John’s Road	Saint John's Road		17.15	-61.875	H	RDST	AG		04				0		-9999	America/Antigua	1995-04-19
+3740498	Middle Ground	Middle Ground		17.14444	-61.88194	H	SHOL	AG		04				0		-9999	America/Antigua	1995-04-19
+3740499	Weymouth Reef	Weymouth Reef		17.13222	-61.93111	H	RF	AG		04				0		-9999	America/Antigua	1995-04-19
+3740501	Hurst Shoals	Hurst Shoals		17.10556	-61.91667	H	SHOL	AG		04				0		-9999	America/Antigua	1995-04-19
+6463535	Grand Pineapple Beach Club	Grand Pineapple Beach Club		17.1005	-61.6909	S	HTL	AG						0		-9999	America/Antigua	2007-04-13
+6465896	Blue Waters Antigua	Blue Waters Antigua		17.172	-61.8295	S	HTL	AG		04				0		6	America/Antigua	2007-04-13
+6466283	Trade Winds Hotel	Trade Winds Hotel		17.1614	-61.8259	S	HTL	AG						0		31	America/Antigua	2007-04-13
+6471377	Blue Heron by Rex Resorts	Blue Heron by Rex Resorts		17.033	-61.8868	S	HTL	AG						0		128	America/Antigua	2007-04-13
+6472164	Halcyon Cove by Rex Resorts	Halcyon Cove by Rex Resorts		17.1704	-61.8344	S	HTL	AG		04				0		24	America/Antigua	2007-04-13
+6484671	Hawksbill Beach All Inclusive by Rex Resorts	Hawksbill Beach All Inclusive by Rex Resorts		17.1114	-61.8973	S	HTL	AG		04				0		16	America/Antigua	2007-04-12
+6491994	Jolly Beach Vacations	Jolly Beach Vacations		17.1166	-61.85	S	HTL	AG						0		6	America/Antigua	2007-04-15
+6492073	Yepton Estate Cottages	Yepton Estate Cottages		17.1213	-61.8887	S	HTL	AG		04				0		41	America/Antigua	2007-04-14
+6492474	Antigua Yacht Club Marina	Antigua Yacht Club Marina		17.0159	-61.7663	S	HTL	AG						0		20	America/Antigua	2007-04-14
+6493123	Cocos Hotel	Cocos Hotel		17.0543	-61.8868	S	HTL	AG						0		53	America/Antigua	2007-04-14
+6497152	The Beach House Barbuda	The Beach House Barbuda		17.6113	-61.8365	S	HTL	AG						0		4	America/Antigua	2007-04-14
+6498512	Dian Bay Resort and Spa	Dian Bay Resort and Spa		17.1013	-61.6865	S	HTL	AG		04				0		3	America/Antigua	2010-05-28
+6499751	Cocobay Hotel All Inclusive	Cocobay Hotel All Inclusive	Cocobay Resort	17.0526	-61.8906	S	HTL	AG		05				0		18	America/Antigua	2010-04-26
+6501278	Sandals Grande Antigua Resort & Spa	Sandals Grande Antigua Resort & Spa		17.1695	-61.8374	S	HTL	AG		04				0		15	America/Antigua	2007-04-14
+6501991	Inn At English Harbour	Inn At English Harbour		17.0051	-61.7519	S	HTL	AG						0		58	America/Antigua	2007-04-14
+6502775	Galley Bay All Inclusive	Galley Bay All Inclusive		17.1167	-61.85	S	HTL	AG						0		6	America/Antigua	2007-04-14
+6502809	Jolly Beach Resort All Inclusive	Jolly Beach Resort All Inclusive		17.068	-61.8839	S	HTL	AG						0		3	America/Antigua	2007-04-14
+6504916	Galley Bay	GALLEY BAY		17.1219	-61.8789	S	HTL	AG		04				0		28	America/Antigua	2007-04-12
+6510146	Jumby Bay A Rosewood Resort	JUMBY BAY A ROSEWOOD RESORT		17.1166	-61.8333	S	HTL	AG						0		47	America/Antigua	2007-04-13
+6512543	Antigua Village Condominium	ANTIGUA VILLAGE CONDOMINIUM		17.1166	-61.8333	S	HTL	AG						0		47	America/Antigua	2007-04-13
+6513461	Jolly Harbour Villas	JOLLY HARBOUR VILLAS		17.0675	-61.8843	S	HTL	AG						0		2	America/Antigua	2007-04-12
+6515997	Grand Royal Antiguan	GRAND ROYAL ANTIGUAN		17.1275	-61.88015	S	HTL	AG		04				0		13	America/Antigua	2014-04-06
+6517282	Admirals Inn	ADMIRALS INN		17.0087	-61.7691	S	HTL	AG						0		16	America/Antigua	2007-04-12
+6517829	Coconut Beach Club	COCONUT BEACH CLUB		17.1219	-61.8789	S	HTL	AG		04				0		28	America/Antigua	2007-04-12
+6517839	Antigua Beachcomber Hotel	ANTIGUA BEACHCOMBER HOTEL		17.1687	-61.824	S	HTL	AG		04				0		7	America/Antigua	2007-04-12
+6518519	The Verandah	THE VERANDAH		17.0946	-61.7083	S	HTL	AG						0		7	America/Antigua	2007-04-15
+6520800	Hermitage Bay	HERMITAGE BAY		17.0775	-61.8001	S	HTL	AG						0		81	America/Antigua	2007-04-15
+6522076	Alagana House	ALAGANA HOUSE		17.0775	-61.8001	S	HTL	AG						0		81	America/Antigua	2007-04-14
+6529155	Carlisle Bay	CARLISLE BAY		17.07753	-61.80007	S	HTL	AG						0		81	America/Antigua	2007-04-14
+6544535	Guadeloupe	Guadeloupe		16.99597	-62.06764	P	PPL	AG		05				0		-9999	America/Antigua	2007-06-01
+6620258	English Harbour	English Harbour		17.00787	-61.76282	L	PRK	AG		06				0		8	America/Antigua	2011-01-15
+6695166	Jolly Harbour	Jolly Harbour		17.06622	-61.88646	P	PPL	AG		05				0		4	America/Antigua	2013-11-19
+6943131	St James S Club	ST JAMES S CLUB		17.01673	-61.73365	S	HTL	AG						0		14	America/Antigua	2009-07-08
+6949011	Long Bay Antigua	LONG BAY ANTIGUA		17.04607	-61.68136	S	HTL	AG						0		8	America/Antigua	2009-09-08
+6949012	St James S Club Villas	ST JAMES S CLUB VILLAS		17.11753	-61.84556	S	HTL	AG						0		4	America/Antigua	2009-09-08
+6949013	The Anchorage Inn	THE ANCHORAGE INN		17.11753	-61.84556	S	HTL	AG						0		4	America/Antigua	2009-09-08
+6949014	The Suites At Jolly Beach	THE SUITES AT JOLLY BEACH		17.11753	-61.84556	S	HTL	AG						0		4	America/Antigua	2009-09-08
+6949015	The Verandah Resort Spa	THE VERANDAH RESORT SPA		17.11753	-61.84556	S	HTL	AG						0		4	America/Antigua	2009-09-08
+7290268	Freemans Village	Freemans Village		17.08021	-61.79273	P	PPL	AG		07				0		85	America/Antigua	2010-05-28
+7576290	Jasmin Court	Jasmin Court		17.13729	-61.83561	S	BLDO	AG						0		25	America/Antigua	2010-10-18
+7576291	Charli's Cafe	Charli's Cafe		17.13732	-61.83571	S	REST	AG						0		25	America/Antigua	2010-10-18
+7576292	Serendipity Apartments	Serendipity Apartments		17.13163	-61.83175	S	BLDG	AG						0		23	America/Antigua	2010-10-18
+8630033	Dian Bay	Dian Bay		17.09853	-61.68555	H	BAY	AG						0		1	America/Antigua	2013-11-08
+8630035	Belfast Bay	Belfast Bay		17.09645	-61.71581	H	BAY	AG						0		1	America/Antigua	2013-11-08
+8643045	Jolly Beach	Jolly Beach		17.06952	-61.88961	T	BCH	AG		05				0		1	America/Antigua	2014-04-06
+8741133	Picartes Bay	Picartes Bay	Picarts Bay	17.03057	-61.8932	H	BAY	AG						0		-9999	America/Antigua	2014-04-06
+9863210	Caribbean Islands	Caribbean Islands	Karibia,Karibien,Vaestindien,Västindien	20.73557	-71.87256	T	ISLS	AG						0		-9999		2015-02-04
+9884726	Camino Real Antigua	Camino Real Antigua		17.07466	-61.81752	S	HTL	AG						0		102	America/Antigua	2015-01-05
+9962995	Sugar Ridge Hotel	Sugar Ridge Hotel		17.05067	-61.89655	S	HTL	AG						0		6	America/Antigua	2015-01-19
+9962996	The Inn At English Harbour Antigua	The Inn At English Harbour Antigua		17.00644	-61.76244	S	HTL	AG						0		17	America/Antigua	2015-01-19
+9962997	Nonsuch Bay Resort	Nonsuch Bay Resort		17.073	-61.7	S	HTL	AG						0		22	America/Antigua	2015-01-19
+9962998	Tranquility Bay Antigua	Tranquility Bay Antigua		17.06483	-61.8879	S	HTL	AG						0		8	America/Antigua	2015-01-19
+9971635	St James's Club Antigua All Inclusive	St James's Club Antigua All Inclusive		17.07466	-61.81752	S	HTL	AG						0		102	America/Antigua	2015-01-24
+10099433	Galley Bay Resort & Spa Adul	Galley Bay Resort & Spa Adul		17.12048	-61.89156	S	HTL	AG						0		2	America/Antigua	2015-02-14
+10100290	Keyonna Beach All Inclusive	Keyonna Beach All Inclusive		17.02937	-61.8892	S	HTL	AG						0		5	America/Antigua	2015-02-14
+10105890	The Catamaran	The Catamaran		17.02444	-61.77905	S	HTL	AG						0		5	America/Antigua	2015-02-19
+10105891	Siboney Beach Club	Siboney Beach Club		17.1551	-61.85082	S	HTL	AG						0		8	America/Antigua	2015-02-19
+10105892	Curtain Bluff Resort	Curtain Bluff Resort		17.01481	-61.84226	S	HTL	AG						0		8	America/Antigua	2015-02-19
+10106012	Sandals Grande Antigua Resort All Inclusive	Sandals Grande Antigua Resort All Inclusive		17.12106	-61.84475	S	HTL	AG						0		7	America/Antigua	2015-02-19
+10106029	Halcyon Cove All Inclusive	Halcyon Cove All Inclusive		17.1605	-61.8463	S	HTL	AG						0		3	America/Antigua	2015-02-19
+10106682	Cocos Hotel All Inclusive	Cocos Hotel All Inclusive		17.1217	-61.8441	S	HTL	AG						0		12	America/Antigua	2015-02-19
+10107012	Galley Bay Resort & Spa All Inclusive	Galley Bay Resort & Spa All Inclusive		17.12078	-61.8937	S	HTL	AG						0		2	America/Antigua	2015-02-19
+10110606	Ocean Point Residence Hotel & Spa	Ocean Point Residence Hotel & Spa		17.16903	-61.8109	S	HTL	AG						0		1	America/Antigua	2015-02-22
+10110808	Copper & Lumber Store Hotel Boutique	Copper & Lumber Store Hotel Boutique		17.00879	-61.76212	S	HTL	AG						0		12	America/Antigua	2015-02-22
+10128237	Grand Royal Antiguan Beach Resort	Grand Royal Antiguan Beach Resort		17.12379	-61.88439	S	HTL	AG						0		5	America/Antigua	2015-03-06
+10176099	Curtain Bluff Resort All Inclusive	Curtain Bluff Resort All Inclusive		17.0184	-61.84531	S	HTL	AG						0		7	America/Antigua	2015-03-31
+10229549	Galley Bay Resorts & Spa	Galley Bay Resorts & Spa		17.12054	-61.89328	S	HTL	AG						0		2	America/Antigua	2015-04-20
+10229550	Grand Pineapple Beach All Inclusive	Grand Pineapple Beach All Inclusive		17.10057	-61.67841	S	HTL	AG						0		4	America/Antigua	2015-04-20
+10236563	St James'S Club & Villas - All-Inclusive	St James'S Club & Villas - All-Inclusive		17.01343	-61.73365	S	HTL	AG						0		8	America/Antigua	2015-04-27
+10239324	Hbk Villas	Hbk Villas		17.07062	-61.88878	S	HTL	AG						0		2	America/Antigua	2015-04-28
+10284014	Hbk Villa Rentals	Hbk Villa Rentals		17.07062	-61.88877	S	HTL	AG						0		2	America/Antigua	2015-05-22
+10284022	Oceanic View Exclusive Vacation Cottages	Oceanic View Exclusive Vacation Cottages		17.07888	-61.78939	S	HTL	AG						0		68	America/Antigua	2015-05-22
+10284972	The Villas At Sunset Lane	The Villas At Sunset Lane		17.15473	-61.84547	S	HTL	AG						0		30	America/Antigua	2015-05-22
+10285261	Lighthouse Bay Resort	Lighthouse Bay Resort		17.65164	-61.85394	S	HTL	AG						0		8	America/Antigua	2015-05-22
+10288697	Rock Cottage	Rock Cottage		17.11752	-61.84556	S	HTL	AG						0		4	America/Antigua	2015-05-26
+10288698	Hawksbill By Rex Resort	Hawksbill By Rex Resort		17.11567	-61.89706	S	HTL	AG						0		13	America/Antigua	2015-05-26
+10340092	Galley Bay Resort and Spa	Galley Bay Resort and Spa		17.12078	-61.8937	S	HTL	AG						0		2	America/Antigua	2015-06-12
+10344575	Redonda	Redonda	Redonda Island	16.93781	-62.34559	T	ISL	AG		09				0	565	1	America/Antigua	2018-02-02
+10344920	Blue Waters Antigua All Inclusive	Blue Waters Antigua All Inclusive		17.17065	-61.8345	S	HTL	AG						0		17	America/Antigua	2015-06-18
+11608934	Sir Vivian Richards Cricket Stadium	Sir Vivian Richards Cricket Stadium		17.10328	-61.78485	S	STDM	AG						0		7	America/Antigua	2017-07-11
+11609475	American University of Antigua	American University of Antigua		17.15613	-61.79977	S	UNIV	AG		04				0		14	America/Antigua	2017-07-13
+11610177	University College of Antigua and Barbuda	University College of Antigua and Barbuda		17.11911	-61.88113	S	UNIV	AG						0		17	America/Antigua	2017-07-14
+11810642	Pillar Rock Lighthouse	Pillar Rock Lighthouse		17.12836	-61.87898	S	LTHSE	AG		04				0		1	America/Antigua	2018-02-02
+11810643	Pillar Rock Bay	Pillar Rock Bay		17.12885	-61.8806	H	BAY	AG						0		1	America/Antigua	2018-02-02
+11810644	Hog John Bay	Hog John Bay		17.1271	-61.87611	H	BAY	AG						0		1	America/Antigua	2018-02-02
+11810645	Union Bay	Union Bay		17.12103	-61.85787	H	BAY	AG		04				0		1	America/Antigua	2018-02-02
+11810646	Rat Rocks	Rat Rocks		17.127	-61.85807	T	RKS	AG						0		-9999	America/Antigua	2018-02-02
+11810647	James Bluff	James Bluff		17.13005	-61.86385	T	CLF	AG						0		-9999	America/Antigua	2018-02-02
+11810648	Red Cliffs	Red Cliffs		17.1532	-61.85494	T	CLF	AG						0		-9999	America/Antigua	2018-02-02
+11810649	Sandy Island Light	Sandy Island Light		17.13439	-61.92616	S	LTHSE	AG		04				0		-9999	America/Antigua	2018-02-02
+11810650	Goat Hill Point	Goat Hill Point		17.13041	-61.88625	T	PT	AG		04				0		-9999	America/Antigua	2018-02-02
+11810651	Goat Hill	Goat Hill		17.12968	-61.88628	T	HLL	AG						0		-9999	America/Antigua	2018-02-02
+11881293	Montpelier Sugar Factory	Montpelier Sugar Factory		17.04585	-61.72023	S	MFGQ	AG		08				0		1	America/Antigua	2018-06-11
+11881294	Daniel Bay	Daniel Bay		17.0228	-61.7334	H	COVE	AG		06				0		1	America/Antigua	2018-06-11
+11881295	Machin Bay	Machin Bay		17.02149	-61.73214	H	COVE	AG		06				0		1	America/Antigua	2018-06-11
+11881296	Neck of Land	Neck of Land		17.06135	-61.67471	T	PEN	AG		08				0		-9999	America/Antigua	2018-06-11
+11881297	Browns Bay	Browns Bay		17.06846	-61.69611	H	COVE	AG		08				0		1	America/Antigua	2018-06-11
+11881298	Liddy Bay	Liddy Bay		17.07784	-61.70422	H	COVE	AG		08				0		1	America/Antigua	2018-06-11
+11881299	Philips Point	Philips Point		17.08259	-61.69591	T	PT	AG		08				0		-9999	America/Antigua	2018-06-11
+11881300	Goat Hill	Goat Hill		17.08383	-61.68943	T	HLL	AG		08				0		1	America/Antigua	2018-06-11
+11881301	Tonnies Cove	Tonnies Cove		17.09819	-61.67996	H	COVE	AG		08				0		1	America/Antigua	2018-06-11
+11881302	Laurys Point	Laurys Point		17.10004	-61.6931	T	PT	AG		08				0		1	America/Antigua	2018-06-11
+11881303	Lords Cove	Lords Cove		17.09916	-61.7041	H	COVE	AG		08				0		1	America/Antigua	2018-06-11
+11881304	Seaton Bay	Seaton Bay		17.0975	-61.7253	H	BAY	AG		08				0		1	America/Antigua	2018-06-11
+11881305	Crumps Wharf	Crumps Wharf		17.11075	-61.73203	H	COVE	AG		07				0		1	America/Antigua	2018-06-11
+11881306	Nibbs Wharf	Nibbs Wharf		17.11009	-61.74225	H	COVE	AG		07				0		1	America/Antigua	2018-06-11
+11881307	Nibbs Point	Nibbs Point		17.11493	-61.74497	T	PT	AG		07				0		1	America/Antigua	2018-06-11
+11881308	Harris Bay	Harris Bay		17.12072	-61.72757	H	COVE	AG		07				0		-9999	America/Antigua	2018-06-11
+11881309	Poals Bay	Poals Bay		17.12859	-61.72794	H	COVE	AG		07				0		-9999	America/Antigua	2018-06-11
+11881310	Black Rock	Black Rock		17.12472	-61.71994	T	RK	AG		07				0		-9999	America/Antigua	2018-06-11
+11881318	Pauls Bay	Pauls Bay		17.13256	-61.72571	H	BAY	AG		07				0		-9999	America/Antigua	2018-06-11
+11881319	Galley Islands	Galley Islands		17.14346	-61.72627	T	ISLS	AG		07				0		-9999	America/Antigua	2018-06-11
+11881320	Jordans Pier	Jordans Pier		17.11291	-61.76339	S	PIER	AG		07				0		1	America/Antigua	2018-06-11
+11881321	Loblolly Bay	Loblolly Bay		17.14976	-61.76201	H	BAY	AG		03				0		-9999	America/Antigua	2018-06-11
+11881322	Cistern Point	Cistern Point		17.14951	-61.75395	T	PT	AG		03				0		-9999	America/Antigua	2018-06-11
+11881323	Buckley Bay	Buckley Bay		17.15415	-61.74792	H	BAY	AG		03				0		-9999	America/Antigua	2018-06-11
+11881324	Flinty Bay	Flinty Bay		17.1596	-61.75076	H	BAY	AG		03				0		-9999	America/Antigua	2018-06-11
+11881325	Pasture Bay	Pasture Bay		17.15965	-61.75512	H	BAY	AG		03				0		-9999	America/Antigua	2018-06-11
+11881326	Pond Bay	Pond Bay		17.15993	-61.75968	H	BAY	AG		03				0		-9999	America/Antigua	2018-06-11
+11881327	Pasture Point	Pasture Point		17.16163	-61.75841	T	PT	AG		03				0		-9999	America/Antigua	2018-06-11
+11881328	Little Bird Island	Little Bird Island		17.15746	-61.73804	T	ISL	AG		03				0		-9999	America/Antigua	2018-06-11
+11881329	Elys Bay	Elys Bay		17.16838	-61.80036	H	BAY	AG		03				0		1	America/Antigua	2018-06-11
+11881330	Blue Waters Bay	Blue Waters Bay		17.17122	-61.83607	H	BAY	AG		04				0		1	America/Antigua	2018-06-11
+11881331	Soldier	Soldier		17.16859	-61.83619	P	PPL	AG		04				0		1	America/Antigua	2018-06-11
+11881332	Old Fort	Old Fort		17.1542	-61.8555	S	FT	AG		04				0		-9999	America/Antigua	2018-06-11
+11881333	Tom Long Pond	Tom Long Pond		17.13912	-61.84596	H	PNDI	AG		04				0		1	America/Antigua	2018-06-11
+11881334	West Indies Oil Refinery	West Indies Oil Refinery		17.13974	-61.83992	S	OILR	AG		04				0		1	America/Antigua	2018-06-11
+11881335	Friars Hill Power Plant	Friars Hill Power Plant		17.13591	-61.83658	S	PS	AG		04				0		1	America/Antigua	2018-06-11
+11881336	Dry Hill	Dry Hill		17.13889	-61.85722	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881337	Point Wharf	Point Wharf		17.12504	-61.85202	S	WHRF	AG		04				0		-9999	America/Antigua	2018-06-11
+11881338	Treasury Pier	Treasury Pier		17.12192	-61.84684	S	PIER	AG		04				0		1	America/Antigua	2018-06-11
+11881339	Hattons Hill	Hattons Hill		17.1171	-61.85677	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881340	Mission Hill	Mission Hill		17.11544	-61.85328	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881341	Side Hill	Side Hill		17.11593	-61.86085	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881342	Top Side Hill	Top Side Hill		17.11832	-61.86251	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881343	Side Hill	Side Hill		17.11817	-61.86245	P	PPL	AG		04				0		1	America/Antigua	2018-06-11
+11881344	Rocky Bay	Rocky Bay		17.13014	-61.88473	H	BAY	AG		04				0		-9999	America/Antigua	2018-06-11
+11881345	Neds Bay	Neds Bay		17.12016	-61.8979	H	COVE	AG		04				0		-9999	America/Antigua	2018-06-11
+11881346	Landing Bay	Landing Bay		17.11727	-61.89769	H	BAY	AG		04				0		-9999	America/Antigua	2018-06-11
+11881347	Cooks Creek	Cooks Creek		17.10351	-61.8715	H	STM	AG		05				0		1	America/Antigua	2018-06-11
+11881348	The Cove	The Cove		17.07979	-61.90078	H	BAY	AG		05				0		-9999	America/Antigua	2018-06-11
+11881349	Yorks Salt Pond	Yorks Salt Pond		17.08186	-61.89314	H	PNDN	AG		05				0		-9999	America/Antigua	2018-06-11
+11881350	Mosquito Hill	Mosquito Hill		17.07957	-61.89556	T	HLL	AG		05				0		-9999	America/Antigua	2018-06-11
+11881351	Leonards Hill	Leonards Hill		17.08513	-61.88919	T	HLL	AG		05				0		1	America/Antigua	2018-06-11
+11881352	Roses	Roses		17.05735	-61.87432	P	PPL	AG		05				0		1	America/Antigua	2018-06-11
+11881353	Tottenham Park	Tottenham Park		17.06155	-61.87267	P	PPL	AG		05				0		1	America/Antigua	2018-06-11
+11881354	Willneks Hill	Willneks Hill		17.05556	-61.88323	T	HLL	AG		05				0		1	America/Antigua	2018-06-11
+11881355	Willocks	Willocks		17.04884	-61.87584	P	PPL	AG		05				0		1	America/Antigua	2018-06-11
+11881356	Mount Carmel	Mount Carmel		17.01062	-61.81786	T	HLL	AG		05				0		1	America/Antigua	2018-06-11
+11881357	Winter Hill	Winter Hill		17.00521	-61.83229	T	HLL	AG		05				0		-9999	America/Antigua	2018-06-11
+11881358	Farley Bay	Farley Bay		17.00902	-61.81354	H	BAY	AG		05				0		1	America/Antigua	2018-06-11
+11881359	Fishers	Fishers		17.00601	-61.83038	L	LCTY	AG		05				0		-9999	America/Antigua	2018-06-11
+11881360	Turtle Bay	Turtle Bay		17.01017	-61.79065	H	BAY	AG		06				0		1	America/Antigua	2018-06-11
+11881361	Cherry Hill Bay	Cherry Hill Bay		17.01807	-61.78273	H	BAY	AG		06				0		1	America/Antigua	2018-06-11
+11881362	Saint Anne’s Point	Saint Anne's Point		17.01073	-61.77491	T	PT	AG		06				0		1	America/Antigua	2018-06-11
+11881363	Saint Anne’s Fort	Saint Anne's Fort		17.01069	-61.77484	S	FT	AG		06				0		1	America/Antigua	2018-06-11
+11881364	Dow Hill Fort	Dow Hill Fort		17.01102	-61.75768	S	FT	AG		06				0		1	America/Antigua	2018-06-11
+11881365	Goat Hill	Goat Hill		17.04055	-61.75456	T	HLL	AG		06				0		1	America/Antigua	2018-06-11
+11881366	Savannah Bay	Savannah Bay		17.06769	-61.66182	H	BAY	AG		08				0		-9999	America/Antigua	2018-06-11
+11881367	Indian Creek	Indian Creek		17.06827	-61.66056	H	ESTY	AG		08				0		-9999	America/Antigua	2018-06-11
+11881368	Grassfield Cove	Grassfield Cove		17.06738	-61.68664	H	COVE	AG		08				0		-9999	America/Antigua	2018-06-11
+11881369	Skerrets Bay	Skerrets Bay		17.067	-61.69095	H	BAY	AG		08				0		-9999	America/Antigua	2018-06-11
+11881374	Spring Hill	Spring Hill		17.02571	-61.79152	T	HLL	AG		06				0		1	America/Antigua	2018-06-11
+11881375	Wallings Reservoir	Wallings Reservoir		17.03527	-61.82504	H	RSV	AG		05				0		1	America/Antigua	2018-06-11
+11881376	Wallings Pumping Station	Wallings Pumping Station		17.0392	-61.82455	S	PMPW	AG		05				0		1	America/Antigua	2018-06-11
+11881377	Body Pond	Body Pond		17.06111	-61.81899	H	PND	AG		04				0		1	America/Antigua	2018-06-11
+11881378	Ottos Hill	Ottos Hill		17.10623	-61.82234	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881379	Belmont Hill	Belmont Hill		17.10303	-61.82032	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881380	Creekside Bridge	Creekside Bridge	Creekside Bridge,Thibous Bridge	17.09217	-61.84895	S	BDG	AG		05				0		1	America/Antigua	2018-06-11
+11881381	Green Castle Hill	Green Castle Hill		17.0739	-61.8493	T	HLL	AG		05				0		1	America/Antigua	2018-06-11
+11881382	Green Hill	Green Hill		17.0808	-61.8464	T	HLL	AG		05				0		1	America/Antigua	2018-06-11
+11881383	Brown Hill	Brown Hill		17.08558	-61.85806	T	HLL	AG		05				0		1	America/Antigua	2018-06-11
+11881384	Nut Grove	Nut Grove		17.10572	-61.84458	P	PPLX	AG		04				0		1	America/Antigua	2018-06-11
+11881385	Grays Farm	Grays Farm		17.11096	-61.84769	P	PPLX	AG		04				0		1	America/Antigua	2018-06-11
+11881386	Kentish	Kentish		17.11226	-61.84252	P	PPLX	AG		04				0		1	America/Antigua	2018-06-11
+11881387	Ottos New Town	Ottos New Town		17.11259	-61.83784	P	PPLX	AG		04				0		1	America/Antigua	2018-06-11
+11881388	Cooks Hill	Cooks Hill		17.10963	-61.85166	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881389	Jacks Hill	Jacks Hill		17.10889	-61.85912	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881390	Point	Point		17.12455	-61.84734	P	PPLX	AG		04				0		1	America/Antigua	2018-06-11
+11881391	Gambles Terrace	Gambles Terrace		17.12843	-61.84205	P	PPLX	AG		04				0		1	America/Antigua	2018-06-11
+11881392	Friars Hill	Friars Hill		17.14634	-61.83406	P	PPL	AG		04				0		1	America/Antigua	2018-06-11
+11881393	Black Rock	Black Rock		17.16912	-61.82741	P	PPL	AG		04				0		1	America/Antigua	2018-06-11
+11881394	Weatherills Farm	Weatherills Farm		17.16178	-61.83651	S	FRM	AG		04				0		1	America/Antigua	2018-06-11
+11881395	Royals	Royals		17.16329	-61.81057	P	PPL	AG		04				0		1	America/Antigua	2018-06-11
+11881396	Santa Maria Hill	Santa Maria Hill		17.1561	-61.81999	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881397	Sampson Hill	Sampson Hill		17.12336	-61.81163	T	HLL	AG		04				0		1	America/Antigua	2018-06-11
+11881398	Piggotts Hill	Piggotts Hill		17.12547	-61.8001	T	HLL	AG		03				0		1	America/Antigua	2018-06-11
+11881399	Weirs	Weirs		17.11643	-61.7909	P	PPL	AG		03				0		1	America/Antigua	2018-06-11
+11881400	Saint George’s Hill	Saint George's Hill		17.12101	-61.79431	T	HLL	AG		03				0		1	America/Antigua	2018-06-11
+11881401	North Sound Bridge	North Sound Bridge		17.10499	-61.79052	S	BDG	AG		03				0		1	America/Antigua	2018-06-11
+11881402	Twenty Hill	Twenty Hill		17.10236	-61.76978	P	PPL	AG		07				0		1	America/Antigua	2018-06-11
+11881403	Parham Hill	Parham Hill		17.09866	-61.76522	P	PPLL	AG		07				0		1	America/Antigua	2018-06-11
+11881416	Mount Joy	Mount Joy		17.0874	-61.77274	P	PPL	AG		07				0		1	America/Antigua	2018-06-11
+11881417	Elliots	Elliots		17.08088	-61.7375	P	PPL	AG		08				0		1	America/Antigua	2018-06-11
+11881418	Parrys Hill	Parrys Hill		17.07134	-61.75958	T	HLL	AG		07				0		1	America/Antigua	2018-06-11
+11881419	Yeamans	Yeamans		17.06448	-61.76469	L	LCTY	AG		07				0		1	America/Antigua	2018-06-11
+11881420	Delaps Dam	Delaps Dam		17.05825	-61.75256	S	DAM	AG		06				0		1	America/Antigua	2018-06-11
+11881421	Bodkins	Bodkins		17.04947	-61.76567	P	PPL	AG		06				0		1	America/Antigua	2018-06-11
+11881422	Savannah Dam	Savannah Dam		17.03023	-61.75892	S	DAM	AG		06				0		1	America/Antigua	2018-06-11
+11881424	Richmond	Richmond		17.03937	-61.80155	P	PPL	AG		06				0		1	America/Antigua	2018-06-11
+11881425	Green Hill	Green Hill		17.03821	-61.78555	P	PPL	AG		06				0		1	America/Antigua	2018-06-11
+11881426	Brooks	Brooks		17.04195	-61.78126	P	PPLL	AG		06				0		1	America/Antigua	2018-06-11
+11881436	Guinea Bush	Guinea Bush		17.03123	-61.77185	P	PPL	AG		06				0		1	America/Antigua	2018-06-11
+11881437	South Sandy Island	South Sandy Island		17.00765	-61.87633	H	SHOL	AG		05				0		-9999	America/Antigua	2018-06-11
+11881438	The Ordnance Land	The Ordnance Land		17.01042	-61.76582	P	PPLL	AG		06				0		1	America/Antigua	2018-06-11
+11881439	Man O’War Hill	Man O'War Hill		17.00704	-61.7617	T	HLL	AG		06				0		-9999	America/Antigua	2018-06-11
+11881440	Fort Berkeley	Fort Berkeley		17.00442	-61.76321	S	FT	AG		06				0		-9999	America/Antigua	2018-06-11
+11881441	Antigua Recreation Ground	Antigua Recreation Ground	Antigua Recreation Ground	17.12236	-61.83906	S	ATHF	AG		04				0		1	America/Antigua	2019-02-23
+11881443	Villa	Villa		17.13348	-61.84971	P	PPLX	AG		04				0		1	America/Antigua	2018-06-11
+11881444	Saint George’s Church	Saint George's Church		17.12876	-61.78755	S	CH	AG		03				0		1	America/Antigua	2018-06-11
+11881446	Archbolds	Archbolds		17.06246	-61.71016	L	LCTY	AG		08				0		1	America/Antigua	2018-06-11
+11881447	Skerretts	Skerretts		17.05919	-61.70033	L	LCTY	AG		08				0		1	America/Antigua	2018-06-11
+11881740	Colebrooks	Colebrooks		17.05374	-61.70592	L	LCTY	AG		08				0		1	America/Antigua	2018-06-11
+11881741	Browns	Browns		17.06781	-61.69812	P	PPL	AG		08				0		1	America/Antigua	2018-06-11
+11881742	Fort William	Fort William		17.03383	-61.71143	L	LCTY	AG		08				0		1	America/Antigua	2018-06-11
+11881743	Fort Charles	Fort Charles		17.01459	-61.78269	S	FT	AG		06				0		-9999	America/Antigua	2018-06-11
+11881744	Follys	Follys		17.05105	-61.80882	P	PPL	AG		06				0		1	America/Antigua	2018-06-11
+11881745	Brecknocks Number One Dam	Brecknocks Number One Dam		17.05766	-61.8265	S	DAM	AG		05				0		1	America/Antigua	2018-06-11
+11881746	Brecknocks Number Two Dam	Brecknocks Number Two Dam		17.0645	-61.82302	S	DAM	AG		04				0		1	America/Antigua	2018-06-11
+11881747	Martin Hill	Martin Hill		17.07291	-61.81704	P	PPL	AG		04				0		1	America/Antigua	2018-06-11
+11881748	Belvedere	Belvedere		17.06772	-61.83867	P	PPLL	AG		04				0		1	America/Antigua	2018-06-11
+11881749	Potters Buff	Potters Buff		17.10366	-61.81297	P	PPLL	AG		04				0		1	America/Antigua	2018-06-11
+11881750	Antigua Sugar Factory	Antigua Sugar Factory		17.11009	-61.79797	S	MFGSG	AG		03				0		1	America/Antigua	2018-06-11
+11882958	Dark Valley	Dark Valley		17.04942	-61.86576	T	VAL	AG		05				0		1	America/Antigua	2018-06-11
+11882959	Fig Tree Hill	Fig Tree Hill		17.03735	-61.83686	L	LCTY	AG		05				0		1	America/Antigua	2018-06-11
+11882960	Valley Church	Valley Church		17.05468	-61.88954	S	CH	AG		05				0		1	America/Antigua	2018-06-11
+11882961	Yepton	Yepton		17.12493	-61.87235	P	PPL	AG		04				0		1	America/Antigua	2018-06-11
+11882962	Green Castle	Green Castle		17.08285	-61.83885	L	LCTY	AG		05				0		1	America/Antigua	2018-06-11
+11882963	Mount Joshua	Mount Joshua		17.15442	-61.8158	S	RUIN	AG		04				0		1	America/Antigua	2018-06-11
+11882964	Skerretts	Skerretts		17.1223	-61.82382	P	PPLX	AG		04				0		1	America/Antigua	2018-06-11
+11882965	Sweet Dam	Sweet Dam		17.05598	-61.81265	S	DAM	AG		04				0		1	America/Antigua	2018-06-11
+11882966	Fiennes Dam	Fiennes Dam		17.05668	-61.81268	S	DAM	AG		04				0		1	America/Antigua	2018-06-11
+11882967	Cherry Hill	Cherry Hill		17.01741	-61.78763	L	LCTY	AG		06				0		1	America/Antigua	2018-06-11
+11882968	Monks Hill	Monks Hill	Great George Fort,Monks Hill	17.0308	-61.77748	S	FT	AG		06				0		1	America/Antigua	2018-06-11
+11882969	Jonas	Jonas		17.07413	-61.79086	P	PPL	AG		07				0		1	America/Antigua	2018-06-11
+11882970	Bellevue	Bellevue		17.08004	-61.79373	P	PPL	AG		03				0		1	America/Antigua	2018-06-11
+11882971	Sherwood	Sherwood		17.08527	-61.79133	L	LCTY	AG		03				0		1	America/Antigua	2018-06-11
+11882972	Cedar Hill	Cedar Hill		17.10506	-61.78067	P	PPL	AG		07				0		1	America/Antigua	2018-06-11
+11882973	Crabs Peninsula	Crabs Peninsula		17.12423	-61.75725	P	PPLL	AG		07				0		1	America/Antigua	2018-06-11
+11882974	Sion Hill Church	Sion Hill Church		17.08077	-61.72829	S	CH	AG		08				0		1	America/Antigua	2018-06-11
+11882975	Black Ghaut	Black Ghaut		17.06858	-61.72845	H	STMX	AG		08				0		1	America/Antigua	2018-06-11
+11882976	Bristol Ghaut	Bristol Ghaut		17.0712	-61.72019	H	STMX	AG		08				0		1	America/Antigua	2018-06-11
+11882977	Elmes	Elmes		17.06402	-61.72281	L	LCTY	AG		08				0		1	America/Antigua	2018-06-11
+11883065	Blockhouse Hill	Blockhouse Hill		17.00044	-61.74667	S	RUIN	AG		06				0		1	America/Antigua	2018-06-11
+11883067	Wicked Will Reef	Wicked Will Reef		17.05065	-61.67255	H	RF	AG		08				0		-9999	America/Antigua	2018-06-11
+11883141	Union	Union		17.11384	-61.85806	P	PPLX	AG		04				0		1	America/Antigua	2018-06-11
+11883142	Hattons	Hattons		17.11654	-61.85302	P	PPL	AG		04				0		1	America/Antigua	2018-06-11
+11883144	Road Fort	Road Fort		17.01251	-61.83855	T	PT	AG		05				0		-9999	America/Antigua	2018-06-11
+11883145	The Ridge	The Ridge		17.0072	-61.75216	L	LCTY	AG		06				0		1	America/Antigua	2018-06-11
+11883146	Picarts	Picarts		17.04214	-61.88753	P	PPL	AG		05				0		1	America/Antigua	2018-06-11
+11883147	Halls	Halls		17.09157	-61.85801	P	PPLL	AG		05				0		1	America/Antigua	2018-06-11
+11883149	Byams Wharf	Byams Wharf		17.11213	-61.77531	S	PIER	AG		07				0		1	America/Antigua	2018-06-11
+11885109	The Castle	The Castle		17.55104	-61.73955	S	RUIN	AG		01				0		1	America/Antigua	2018-06-11
+11885110	Highland House	Highland House		17.66614	-61.79038	S	RUIN	AG		01				0		1	America/Antigua	2018-06-11
+11885111	Highland Field	Highland Field		17.66913	-61.78861	T	PLN	AG		01				0		1	America/Antigua	2018-06-11
+11885112	Darby Sink Cave	Darby Sink Cave		17.65926	-61.77488	T	SINK	AG		01				0		1	America/Antigua	2018-06-11
+11885113	James Corner	James Corner		17.64261	-61.81686	P	PPLL	AG		01				0		1	America/Antigua	2018-06-11
+11885114	John Well	John Well		17.63397	-61.81911	H	WLL	AG		01				0		1	America/Antigua	2018-06-11
+11885115	Spring Well	Spring Well		17.63467	-61.82828	H	WLL	AG		01				0		1	America/Antigua	2018-06-11
+11885116	Indigo Well	Indigo Well		17.64044	-61.81764	H	WLL	AG		01				0		1	America/Antigua	2018-06-11
+11885117	All in Well	All in Well		17.65518	-61.81013	H	WLL	AG		01				0		1	America/Antigua	2018-06-11
+11885118	Horse Pond	Horse Pond		17.68006	-61.81992	H	PND	AG		01				0		1	America/Antigua	2018-06-11
+11885119	Sam Spring Well	Sam Spring Well		17.62006	-61.82498	H	WLL	AG		01				0		1	America/Antigua	2018-06-11
+11885120	Plantation Well	Plantation Well		17.6321	-61.80616	H	WLLQ	AG		01				0		1	America/Antigua	2018-06-11
+11885121	Beazels Well	Beazels Well		17.625	-61.8084	H	WLL	AG		01				0		1	America/Antigua	2018-06-11
+11885142	Saint Helena	Saint Helena		17.0072	-61.76225	P	PPLL	AG		06				0		-9999	America/Antigua	2018-06-11
+11886688	St Johns	St Johns		17.11983	-61.84536	L	PRT	AG		04				0		1	America/Antigua	2018-06-12
+11893794	Ricketts Harbour	Ricketts Harbour		17.0678	-61.67882	H	BAY	AG		08				0		1	America/Antigua	2018-07-06
