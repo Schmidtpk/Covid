@@ -23,3 +23,4 @@ regions$geonameid<-as.numeric(levels(regions$geonameid))[regions$geonameid]
 regions$modification.date<-as.Date(levels(regions$modification.date),format="%Y-%m-%d")[regions$modification.date]
 population<-droplevels(regions)
 saveRDS(population,"data/pop.rda")
+adm1codes<-population[which(population$feature.code=="ADM1"),c("country.code","asciiname","admin1.code")]
