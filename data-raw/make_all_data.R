@@ -219,6 +219,9 @@ mean(treatments_wide$shareXXXBanofGroupGatherings,na.rm=T)
 
 # +++ MERGE ---------------------------------------------------------------
 
+
+# jhu ---------------------------------------------------------------------
+
 find_doubles(treatments_wide)
 
 # get data
@@ -235,6 +238,23 @@ all <- df %>%
          "country"))
 
 find_doubles(all)
+
+# weather ---------------------------------------------------------------------
+
+find_doubles(Covid::weather)
+find_doubles(treatments_wide)
+dim(all)
+all <- all %>%
+  left_join(
+    Covid::weather,
+    by=c("date",
+         "region",
+         "country"))
+dim(all)
+find_doubles(all)
+
+
+
 
 # check ---------------------------------------------------------
 # doubles
@@ -290,8 +310,6 @@ all_long <- all_long %>%
   )
 
 
-# change column type back
-#use_data(all_long,overwrite = TRUE)
 
 
 all <- all %>%
@@ -316,8 +334,9 @@ colnames(all)[dummies] <- paste0("share_",substr(names,9,nchar(names)))
 all$t <- all$date-min(all$date)
 all$i <- paste0(all$region,all$country)
 all <- plm::pdata.frame(all,index = c("i","t"), stringsAsFactors=F)
-#use_data(all,overwrite = TRUE)
 
+# use_data(all,overwrite = TRUE)
+# use_data(all_long,overwrite = TRUE)
 
 # +++ TESTS -------------------------------------------------------------------
 

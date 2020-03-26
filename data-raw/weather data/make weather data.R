@@ -19,5 +19,23 @@ for(var.cur in vars)
   df.cur.long$var <- var.cur
   df <- rbind(df.cur.long,df)
 }
-weather <- df
+
+
+
+weather <- df %>%
+  rename(
+    region = Province.State,
+    country = Country.Region
+  )
+
+
+
+
+weather <- weather %>%
+  tidyr::pivot_wider(
+    names_from = "var",
+    values_from = "value"
+    )
+
+
 #use_data(weather,overwrite = T)
