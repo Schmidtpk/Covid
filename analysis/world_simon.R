@@ -62,4 +62,20 @@ stargazer(type="text",
           lmtest::coeftest(model.plm.iFXtrends,vcov=vcovHC(model.plm.iFXtrends,cluster="group")),
           lmtest::coeftest(model.plm.iFXtrends2,vcov=vcovHC(model.plm.iFXtrends2,cluster="group"))
           )
+df$firstschoolclosing<-1*(df$tt_SchoolClosings!=plm::lag(df$tt_SchoolClosings))
+for(i in 1:100)
+  df$firstschoolclosing<-ifelse(df$firstschoolclosing<plm::lag(df$firstschoolclosing)&!is.na(plm::lag(df$firstschoolclosing)),1+plm::lag(df$firstschoolclosing),df$firstschoolclosing)
+for(i in 1:100)
+  df$firstschoolclosing<-ifelse(df$firstschoolclosing==plm::lead(df$firstschoolclosing)&!is.na(plm::lead(df$firstschoolclosing)),-1+plm::lead(df$firstschoolclosing),df$firstschoolclosing)
+df$firstschoolclosingp6<-df$firstschoolclosing-6
+ggplot(subset(df,subset=name%in%c("Belgium", "Italy", "Japan", "Netherlands", "Switzerland")&pos.total>30&abs(firstschoolclosingp6)<14))+geom_line(aes(firstschoolclosingp6,growth,color=name,alpha=1/sqrt(1+abs(firstschoolclosingp6))^0.01),size=1)+ylim(1,1.5)
 
+
+df$tt_curfews=(df$tt_CurfewILockdownofAllNonEssentialPublicLife+df$tt_CurfewIMildOnlyPrivatePublicLife)>0
+df$firstcurfew<-1*(df$tt_curfews!=plm::lag(df$tt_curfews))
+for(i in 1:100)
+  df$firstcurfew<-ifelse(df$firstcurfew<plm::lag(df$firstcurfew)&!is.na(plm::lag(df$firstcurfew)),1+plm::lag(df$firstcurfew),df$firstcurfew)
+for(i in 1:100)
+  df$firstcurfew<-ifelse(df$firstcurfew==plm::lead(df$firstcurfew)&!is.na(plm::lead(df$firstcurfew)),-1+plm::lead(df$firstcurfew),df$firstcurfew)
+df$firstcurfewp6<-df$firstcurfew-6
+ggplot(subset(df,pos.total>30&abs(firstcurfewp6)<14))+geom_line(aes(firstcurfewp6,growth,color=name,alpha=1/sqrt(1+abs(firstcurfewp6))^0.01),size=1)+ylim(1,1.5)
