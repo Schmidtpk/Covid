@@ -345,7 +345,7 @@ all_long %>% select(starts_with("byC_")) %>% filter(byC_num_treatments>0)%>%slic
 # +++ Export --------------------------------------------------------------
 
 # change column type back
-use_data(all_long,overwrite = TRUE)
+#use_data(all_long,overwrite = TRUE)
 
 # widen to "all" ---------------------------------------------------------------------
 all_long$tt <- all_long$active
@@ -382,7 +382,7 @@ all_long$tt <- NULL
 all$t <- all$date-min(all$date)
 all$i <- paste0(all$name,all$in_country)
 all <- plm::pdata.frame(all,index = c("i","t"), stringsAsFactors=F)
-use_data(all,overwrite = TRUE)
+#use_data(all,overwrite = TRUE)
 
 
 # +++ TESTS -------------------------------------------------------------------

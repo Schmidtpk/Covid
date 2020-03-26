@@ -30,7 +30,7 @@ use_data(measures,overwrite = TRUE)
 
 
 
-# extract treatment df ----------------------------------------------------
+# extract treatment data frame ----------------------------------------------------
 
 measures$region <- ifelse(measures$ADM1=="",NA, as.character(measures$Region))
 measures$adm_level <- ifelse(measures$ADM1=="",1, 2)
@@ -43,14 +43,27 @@ measures$meta <- measures$Meta..e.g..group.size.thresholds
 names(measures)[names(measures) == 'Affected.Pop.Share'] <- 'share'
 names(measures)[names(measures) == 'Country'] <- 'country'
 names(measures)[names(measures) == 'ISO.Code'] <- 'country.code'
-measures$name <- paste0(as.character(measures$ADM1)," in ",as.character(measures$country.code))
+names(measures)[names(measures) == 'ADM1'] <- 'region.code'
+
+measures$region.code[measures$adm_level==1]<-NA
+measures$region[measures$adm_level==1]<-NA
 
 
-treatments <- measures %>% select(type,name,adm_level,in_country,start,end,meta,share,country,ADM1,country.code,region)
+measures$name <- ifelse(measures$adm_level==1,
+                        as.character(measures$country.code),
+                        paste0(as.character(measures$region),as.character(measures$country.code)))
 
-treatments$ADM1 <- ifelse(treatments$adm_level==1,
-                          as.character(treatments$country.code),
-                          as.character(treatments$ADM1))
+
+
+
+treatments <- measures %>% select(type,start,end,meta,share,
+                                  region,country,
+                                  region.code,country.code,
+                                  name,
+                                  adm_level,
+                                  in_country)
+
+
 
 #  merge with population data ---------------------------------------------
 
@@ -58,16 +71,16 @@ treatments$ADM1 <- ifelse(treatments$adm_level==1,
 pop <- Covid::pop
 pop <- pop %>% select(asciiname,admin1.code,population,country.code,feature.code) %>%
   rename(
-    "ADM1" = "admin1.code",
+    "region.code" = "admin1.code",
     "adm_level" = "feature.code"
   )
 
 #adapt levels of "is country" dummy
 pop$adm_level <- ifelse(pop$adm_level=="PCLI",1,2)
-pop$ADM1 <- ifelse(pop$adm_level==1,
-                   as.character(pop$country.code),
-                   as.character(pop$ADM1)
-                   )
+# pop$ADM1 <- ifelse(pop$adm_level==1,
+#                    as.character(pop$country.code),
+#                    as.character(pop$ADM1)
+#                    )
 #View(pop %>% filter(adm_level==1))
 
 #drop NAs
@@ -84,23 +97,24 @@ pop <- pop %>% group_by(country.code) %>%
 # compute ratio of country for each
 pop <- pop %>% group_by(country.code) %>%
   mutate(country = unique(asciiname[adm_level==1]),
+         population = population/10^6,
          total_population = sum(population[adm_level==1]),
          total_population2 = sum(population[adm_level!=1]),
          ratio.pop = population/total_population) %>% ungroup()
 
 
-### join population
-# treatments$ADM1 <- as.character(treatments$ADM1)
-# pop$country <- as.character(pop$country)
-# pop$country.code <- as.character(pop$country.code)
-# treatments$country.code <- as.character(treatments$country.code)
-
 ls(treatments)
 ls(pop)
 
+pop$region.code[pop$adm_level==1]<-NA
 pop <- pop %>% select(-c(adm_level, asciiname, country, total_population,total_population2))
 
-treatments <- treatments %>% left_join(pop, by=c("ADM1","country.code"))
+
+
+# View(pop)
+# View(treatments%>%select(region.code,country.code,country,region))
+
+treatments <- treatments %>% left_join(pop, by=c("region.code","country.code"))
 
 ls(treatments)
 #View(treatments %>% filter(country.code=="DE"))
@@ -112,8 +126,8 @@ ls(treatments)
 # View(treatments %>% filter(is.na(ratio.pop)))
 #
 # View(setdiff(
-#   treatments %>% select(ADM1,country.code),
-#   pop        %>% select(ADM1,country.code)))
+#   treatments %>% select(region.code,country.code),
+#   pop        %>% select(region.code,country.code)))
 
 
 use_data(treatments,overwrite = TRUE)
