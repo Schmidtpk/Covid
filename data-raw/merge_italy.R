@@ -1,12 +1,12 @@
 
 
 # subset to relevant measures
-measures <- subset(measures,Country=="Italy")
+measures <- subset(measures,country=="Italy")
 
 # define new columns ------------------------------------------
 
 # extract treatments
-treatments <- unique(measures$Type)
+treatments <- unique(measures$type)
 #td: formatting?
 
 # take italy dataset
@@ -26,58 +26,41 @@ it[,paste0(treatments,"_diff")] <- NA
 it$region <- as.character(it$region)
 
 # loop over all measures and safe if active and safe first enactement date
-# sort before by ADM1 (region overwrites nation) when on same date
-measures <- measures %>% arrange(desc(ADM1))
+# sort before by region.code (region overwrites nation) when on same date
+measures <- measures %>% arrange(desc(region.code))
 for (i in 1:nrow(measures))
 {
 
-  if(measures$Type[i]!="")
+  if(measures$type[i]!="")
   {
     # right region or nationwide
-    correct.i <- (it$region==measures$ADM1[i] | measures$ADM1[i]=="")
+    correct.i <- (it$region==measures$region[i] | is.na(measures$region[i]))
 
     # after starting date
-    correct.t <- it$Date >= measures$Start[i] &
+    correct.t <- it$Date >= measures$start[i] &
       # if end date exists, before end date
-      (if(is.na(measures$End[i])) TRUE else (it$Date <= measures$End[i]))
+      (if(is.na(measures$end[i])) TRUE else (it$Date <= measures$end[i]))
 
-    # check if each measure has fit
-    if(sum(correct.i)==0)
-    {
 
-      correct.i <- grepl(substr(measures$ADM1[i],2,5),it$region)  | measures$ADM1[i]==""
-      if(sum(correct.i)!=0)
-      {
-        warning(paste("region-country",measures$ADM1[i],measures$Country[i],"has only fit after loosening matching"))
-      } else {
-        warning(paste("region-country",measures$ADM1[i],measures$Country[i],"has no fit"))
-      }
-
-      if(length(unique(it$region[correct.i]))>1)
-        warning(paste("Multiple regions were assigned one measure with mild matching"))
-    } else if(sum( correct.i & correct.t)==0)
-    {
-      warning(paste("mesaure",measures$Type[i],"in",measures$ADM1[i],measures$Country[i]," at date", measures$Start[i],"has no fit"))
-    }
 
     # for each measure find dates and regions that currently enact it
     it[
       correct.t & correct.i,
-      paste0(measures$Type[i],"_active")
+      paste0(measures$type[i],"_active")
     ] <- TRUE
 
     # for each measure save enacting date
     it[
         correct.i,
-        paste0(measures$Type[i],"_t")
-      ] <- measures$Start[i]
+        paste0(measures$type[i],"_t")
+      ] <- measures$start[i]
 
     # for each measure save difference to enacting date
     it[
       correct.i,
-      paste0(measures$Type[i],"_diff")
+      paste0(measures$type[i],"_diff")
       ] <-
-      it$Date[correct.i] - measures$Start[i]
+      it$Date[correct.i] - measures$start[i]
   }
 }
 
