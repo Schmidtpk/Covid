@@ -6,82 +6,106 @@ rm(list=ls())
 # +++ TREATMENT ------------------------------------------
 source("./data-raw/measures/create measures.R")
 
-treatments$type <- paste0(treatments$type,"II",treatments$meta)
 
-# expand time -----------------------------------------------------------------
-date_min <- min(jhu$date,treatments$start,treatments$end,na.rm=TRUE)
-date_max <- max(jhu$date,treatments$start,treatments$end,na.rm=TRUE)
+#todo:stop dropping meta
+treatments <- treatments %>% group_by(type,name) %>%
+  mutate(
+    start=min(start,na.rm=TRUE),
+    end=max(end,na.rm=TRUE)
+  )%>%
+  filter(row_number()==1) %>% select(-c(meta))%>%ungroup()
+
+#View(treatments%>%filter(country=="Germany", type=="SchoolClosings"))
+
+##  expand time -----------------------------------------------------------------
+date_min <- min(Covid::jhu$date,treatments$start,na.rm=TRUE)
+date_max <- max(Covid::jhu$date,treatments$start,treatments$end,na.rm=TRUE)
 treatments_long <- merge(treatments, seq(date_min,date_max,"days"), all = T)
 treatments_long$date<-treatments_long$y
 treatments_long$y<-NULL
 
-# expand treatment --------------------------------------------------------
 
-#View(treatments_long %>% filter(country=="Germany", date=="2020-03-20", type=="SchoolClosingsII"))
+# expand treatment (type and date) --------------------------------------------------------
+
 treatments_long <- treatments_long %>%
-  tidyr::complete(type,date,
-                  tidyr::nesting(name,country,
-                                 adm_level,
-                                 in_country,
-                                 ADM1,
+  tidyr::expand(type,date,
+                  tidyr::nesting(country,
+                                 region,
                                  country.code,
-                                 population,
+                                 region.code,
+                                 name,
+                                 adm_level,
                                  ratio.pop,
-                                 region)) #KEY
-#View(treatments_long %>% filter(country=="Germany", date=="2020-03-20"))
+                                 population)#KEY: If additional variables in treatments_long, put here!
+  )%>%left_join(treatments_long)
+
+#View(treatments_long %>% filter(country=="Germany", date=="2020-03-20", type=="SchoolClosings"))
 
 
+#rename type to treatment
+treatments_long$treatment <- treatments_long$type;treatments_long$type<- NULL
 
-# make long --------------------------------------------------------------------
-treatments_long <-treatments_long %>% tidyr::pivot_longer(type,"a","treatment")
-treatments_long$a <- NULL
-treatments_long$treatment <- treatments_long$value;treatments_long$value <- NULL
 
 
 
 # compute active ----------------------------------------------------------
-treatments_long$active <- treatments_long$date>=treatments_long$start
-treatments_long$active <- ifelse(is.na(treatments_long$end),
-                                 treatments_long$active,
-                                 treatments_long$active & treatments_long$date<=treatments_long$end)
+# active if after start and before end (if exists)
+treatments_long$active <- (treatments_long$date>=treatments_long$start)
+non_na_end <-!is.na(treatments_long$end)
+mean(non_na_end)
+and_smaller <- non_na_end & (treatments_long$date<=treatments_long$end)
+mean(and_smaller)
+treatments_long$active[and_smaller] <- FALSE
 
-# compute meta ------------------------------------------------------------
+mean(treatments_long$active,na.rm=T)
 
-# extract meta from treatment character
-treatments_long$meta <- sapply(treatments_long$treatment,function(x) {
-  split.cur <- stringr::str_split(x,"II")[[1]]
-  return(split.cur[length(split.cur)])
-})
-treatments_long$treatment <- sapply(treatments_long$treatment,function(x) {
-  stringr::str_split(x,"II")[[1]][1]
-})
-
-
-# merge meta of all actives within treatment and drop all but one
-treatments_long <- treatments_long %>% group_by(name,date,treatment) %>%
-  mutate(
-    meta = ifelse(sum(active,na.rm=TRUE)>0,paste0(meta[active]),""),
-    rank_temp = rank(active,ties.method = "random"))%>% filter(rank_temp==1) %>%
-  select(-rank_temp)%>%
-  ungroup()
 
 # drop start and end
 treatments_long <- treatments_long %>% select(-c(start,end))
 
+# merge meta (within treatment) ------------------------------------------------------------
+
+# View(treatments %>% filter(
+#      type=="BanofGroupGatherings"))
+
+# View(treatments_long %>% filter(
+#   country=="Germany",
+#   date=="2020-03-20",
+#   treatment=="BanofGroupGatherings"))
+#
+# treatments_long <- treatments_long %>%
+#   group_by(country,region,date,treatment) %>%
+#   mutate(
+#     meta = paste0(meta[active],collapse = "+"),
+#     share = mean(share[active],na.rm=TRUE),
+#     active = any(active,na.rm=TRUE)
+#     )
+#
+# View(treatments_long %>% filter(
+#   country=="Germany",
+#   date=="2020-03-20",
+#   treatment=="BanofGroupGatherings"))
+#
+#
+# treatments_long <- treatments_long%>%distinct(country,region,date,treatment,.keep_all=TRUE)%>%
+#   ungroup()
+
+#View(treatments_long %>% filter(country=="Germany", date=="2020-03-20"))
+
 
 #  join share ----------------------------------------------------------
-treatments_long$share <- as.numeric(as.character(treatments_long$share))
-#treatments_long %>% filter(share<1)
-
-#dim(treatments_long)
-treatments_long <-
-  treatments_long %>% group_by(name,date,treatment) %>%
-  mutate(share = sum(share[active]),
-         rank_temp = rank(date,ties.method = "random")) %>%
-  filter(rank_temp==1) %>% select(-rank_temp) %>% ungroup()
-#dim(treatments_long)
-#View(treatments_long %>% filter(name=="Iran"))
-
+# treatments_long$share <- as.numeric(as.character(treatments_long$share))
+# #treatments_long %>% filter(share<1)
+#
+# #dim(treatments_long)
+# treatments_long <-
+#   treatments_long %>% group_by(region,country,date,treatment) %>%
+#   mutate(share = sum(share[active],na.rm=T),
+#          rank_temp = rank(date,ties.method = "random")) %>%
+#   filter(rank_temp==1) %>% select(-rank_temp) %>% ungroup()
+# #dim(treatments_long)
+# #View(treatments_long %>% filter(name=="Iran"))
+#
 
 # +++ IMPLICATIONS ------------------------------------------------------------
 
@@ -103,10 +127,11 @@ treatments_long <- treatments_long %>% group_by(country,date,treatment) %>%
                          as.logical(active)) #else leave as is
   ) %>% select(-c(country_and_active,country_is_active)) %>% ungroup()
 dim(treatments_long)
-is.numeric(treatments_long$share)
+#is.numeric(treatments_long$share)
 is.logical(treatments_long$active)
 #View(treatments_long %>% filter(country=="Germany", date=="2020-03-20",!is.na(active)))
 
+mean(treatments_long$active,na.rm=TRUE)
 
 # share -------------------------------------------------------------------
 
@@ -125,11 +150,8 @@ treatments_long <- treatments_long %>%
 
 
 
-# View(treatments_long %>% filter(adm_level==1,share_n > 0, is.na(active)))
+# View(treatments_long %>% filter(adm_level==1,share > 0, is.na(active)))
 #
-# ggplot(treatments_long %>% filter(adm_level==1),
-#        aes(x=date,y=share_n,col=treatment))+
-#          geom_line()+facet_wrap(vars(country))
 
 # View(treatments_long %>% filter(share_n>0, share_n <1))
 # View(treatments_long %>% filter(country=="Germany", date>="2020-03-16", treatment=="SchoolClosings"))
@@ -141,16 +163,19 @@ treatments_long <- treatments_long %>%
 #          filter(country=="Germany",adm_level==1),
 #        aes(x=date,col=treatment,y=share_n))+geom_line()
 
-# treatments --------------------------------------------------------------
+treatments_long$share<-as.numeric(treatments_long$share)
+treatments_long$active<-as.logical(treatments_long$active)
 
-### to wide format
-wide_temp <- treatments_long %>%
+
+# +++ TREATMENT WIDE ----------------------------------------------------------
+treatments_wide <- treatments_long %>%
   tidyr::pivot_wider(
     names_from = treatment,
-    values_from = c(active,share,meta),
+    values_from = c(active,share),#c(active,share,meta),
     names_sep = "XXX"
   )
 
+# treatments --------------------------------------------------------------
 
 # show treatments in data
 unique(treatments_long$treatment)
@@ -158,142 +183,76 @@ unique(treatments_long$treatment)
 #define list of implications
 measures_implies <- list(
   c("BanofGroupGatherings","CancelationofLargeEvents"),
-  c("CurfewILockdownofAllNonEssentialPublicLife","CurfewIMildOnlyPrivatePublicLife")
+  c("CurfewILockdownofAllNonEssentialPublicLifeI","CurfewIMildOnlyPrivatePublicLifeI")
 )
 
-mean(wide_temp$activeXXXCancelationofLargeEvents,na.rm=T)
-mean(wide_temp$activeXXXBanofGroupGatherings,na.rm=T)
+mean(treatments_wide$activeXXXCancelationofLargeEvents,na.rm=T)
+mean(treatments_wide$activeXXXBanofGroupGatherings,na.rm=T)
 
 ### change data
 for(cur.implication in measures_implies)
 {
-  wide_temp[,paste0("activeXXX",cur.implication[2])]<-
-    if_else(is.na(wide_temp[,paste0("activeXXX",cur.implication[1])]),
-          wide_temp %>% pull(paste0("activeXXX",cur.implication[2])),
-          wide_temp %>% pull(paste0("activeXXX",cur.implication[2])) |
-            wide_temp %>% pull(paste0("activeXXX",cur.implication[1]))
+  treatments_wide[,paste0("activeXXX",cur.implication[2])]<-
+    if_else(is.na(treatments_wide[,paste0("activeXXX",cur.implication[1])]),
+          treatments_wide %>% pull(paste0("activeXXX",cur.implication[2])),
+          treatments_wide %>% pull(paste0("activeXXX",cur.implication[2])) |
+            treatments_wide %>% pull(paste0("activeXXX",cur.implication[1]))
              )
 }
-mean(wide_temp$activeXXXCancelationofLargeEvents,na.rm=T)
-mean(wide_temp$activeXXXBanofGroupGatherings,na.rm=T)
-
-#change column type for between long format
-change <-
-  startsWith(colnames(wide_temp),c("activeXXX"))|
-  startsWith(colnames(wide_temp),c("metaXXX"))|
-  startsWith(colnames(wide_temp),c("shareXXX"))
-wide_temp[,change] <- lapply(wide_temp[,change], as.character)
+mean(treatments_wide$activeXXXCancelationofLargeEvents,na.rm=T)
+mean(treatments_wide$activeXXXBanofGroupGatherings,na.rm=T)
 
 
-
-### redo to long format
-too_long_temp <- wide_temp %>%
-  tidyr::pivot_longer(contains("XXX"),
-                      names_to = c("type","treatment"),
-                      names_sep = "XXX")
-
-#View(too_long_temp %>% filter(country=="Germany", date=="2020-03-20"))
-#table(too_long_temp %>% filter(type=="meta") %>% pull(value))
-# to prevent mistake in next step
-too_long_temp$value[too_long_temp$type=="meta" & too_long_temp$value==""] <- NA
-
-long_temp <- too_long_temp%>%
-  tidyr::pivot_wider(values_from = value,names_from = type)
-
-# change column type back
-change <- startsWith(colnames(long_temp),c("active"))
-long_temp[,change] <- lapply(long_temp[,change], as.logical)
-change <- startsWith(colnames(long_temp),c("share"))
-long_temp[,change] <- lapply(long_temp[,change], as.numeric)
-
-
-# safe
-treatments_long <- long_temp
-
-# long_temp
-# treatments_long
-#
-# View(wide_temp %>% filter(name=="Germany")) #%>% select(name,adm_level,in_country,date,contains("Border")))
-#
-# wide_temp %>% filter(name=="Germany", date=="2020-01-202") %>% select(name,adm_level,in_country,date,contains("Border"))
-# View(long_temp %>% filter(name=="Germany", date=="2020-01-202") %>% select(name,adm_level,in_country,date,contains("Border"),contains("treat"),contains("sha"),contains("act")))
-
-
-
-
-
-
-# +++ JHU ------------------------------------------------------------------
-
-
-df <- Covid::jhu
-
-# expand treatment ------------------------------------------------------------------
-df_long <- merge(df, unique(treatments_long$treatment), all = T)
-df_long$treatment <- df_long$y;df_long$y <- NULL
 
 
 # +++ MERGE ---------------------------------------------------------------
-df_long$treatment<-as.character(df_long$treatment)
 
-ls(df_long)
-ls(treatments_long)
-
+# get data
+df <- Covid::jhu
 
 
-all_long <- df_long %>%
+all <- df %>%
   full_join(
-    treatments_long %>%
-      select(country,
+    treatments_wide %>%
+      select(name,
+             country,
              region,
              date,
-             treatment,
-             active,
              adm_level,
-             share,
-             meta,
              population,
-             ratio.pop), #KEY
+             ratio.pop,
+             starts_with("active"),
+             starts_with("share")), #KEY
              by=c("date",
-                  "treatment",
                   "region",
-                  "country",
-                  "adm_level"))
+                  "country"))
 
 
-if(typeof(all_long$active)!="logical")
-  warning("wrong type")
-
-if(typeof(all_long$share)!="double")
-  warning("wrong type")
 
 # check ---------------------------------------------------------
 # doubles
-doubles <-all_long %>%
-  count(date,treatment,region,country,adm_level) %>%
+doubles <-all %>%
+  count(date,region,country) %>%
   filter(n!=1)
 if(nrow(doubles)>0)
   warning(paste0("Matching not perfect for ",unique((doubles %>%pull(region)))))
 
-all_long$delete <- all_long$region %in% unique((doubles %>%pull(region)))
-all_long <- all_long %>% filter(!delete)%>%select(-delete)
+
+# longer to "all_long" ---------------------------------------------------------------------
 
 
-#View(all_long%>%filter(name=="Germany",treatment=="BorderClosing")%>%select(date,name,adm_level,treatment,active))
-#View(all_long%>%filter(name=="Germany",date==as.Date("2020-02-04"))%>%select(date,name,adm_level,treatment,active))
-
-
-# all_long%>%filter(name=="Japan",date==as.Date("2020-03-18"))%>%select(date,name,adm_level,treatment,active)
-# all_long %>% select(treatment,date,name)
-
-#all_long <- all_long %>% filter(adm_level==1)
-
-#library(ggplot2)
-#ggplot(all_long %>%filter(name=="Japan"),aes(x=date,y=treatment,col=active))+geom_point()
+all_long <- all %>%
+  tidyr::pivot_longer(cols = contains("XXX"),
+                      names_to = c("type","treatment"),
+                      names_sep = "XXX") %>%
+  group_by(type) %>%
+  mutate(rn = row_number()) %>% # recreated unique identifier column
+  tidyr::pivot_wider(names_from ="type",values_from = "value")%>%select(-rn)%>%ungroup()
 
 
 
-
+dim(all_long)
+#all_long
 
 
 # +++ Compute -----------------------------------------------------------
@@ -303,133 +262,118 @@ all_long <- all_long %>% filter(!delete)%>%select(-delete)
 
 all_long <- all_long %>% group_by(country) %>%
   mutate(
-    byC_first_treatment = min(date[(share>0)|(active>0)],na.rm=T),
+    byC_first_treatment = min(date[(active>0)],na.rm=T),
     byC_first_dead = min(date[dead>0],na.rm=T),
     byC_first_infected = min(date[positive>0],na.rm=T),
     byC_num_treatments = length(unique(treatment[active]))-1
-  )%>%ungroup()
+  )
 all_long %>% select(starts_with("byC_")) %>% filter(byC_num_treatments>0)%>%slice(1)
 
+
+#all <- all %>% left_join(all_long%>%select(starts_with("byC_"),country),by = c("country"))
 
 # +++ Export --------------------------------------------------------------
 
 # change column type back
 use_data(all_long,overwrite = TRUE)
 
-# widen to "all" ---------------------------------------------------------------------
-all_long$tt <- all_long$active
-all <- all_long %>% select(-active) %>%tidyr::pivot_wider(
-                                       names_from = treatment,
-                                       values_from = c(tt,share,meta)
-                                       )
-all_long$tt <- NULL
-
-# sum <- all_long %>% group_by(name,date,treatment)%>%
-#   summarise(
-#     n=n()
-#   )
-# subset(sum, n!=1)
-#
-# sum <- all %>% group_by(name,date)%>%
-#   summarise(
-#     n=n()
-#   )
-# View(subset(sum, n!=1))
-
-# View(all%>%filter(name=="Germany",
-#                   date==as.Date("2020-03-18"))%>%
-#        select(date,name,
-#               contains("CancelationofLargeEvents")))
-# View(all_long%>%filter(name=="Germany",
-#                   date==as.Date("2020-03-18")))
 
 
 
 
+mean(is.na(all$t))
+mean(is.na(all$name))
 
 # make panel data frame pdata.frame
 all$t <- all$date-min(all$date)
-all$i <- paste0(all$name,all$in_country)
+all$i <- paste0(all$region,all$country.code)
 all <- plm::pdata.frame(all,index = c("i","t"), stringsAsFactors=F)
 use_data(all,overwrite = TRUE)
 
 
 # +++ TESTS -------------------------------------------------------------------
 
-
-# non-merged --------------------------------------------------------------
-
-# in treatments but no observation
-setdiff(treatments%>%select(name,country),
-        df%>%select(name,country)) %>% pull(name)
-
-setdiff(treatments%>%filter(adm_level==1)%>%select(country),
-        df%>%filter(adm_level==1)%>%select(country)) %>% pull(country)
-
-
-# in observation but no treatments
-setdiff(df%>%select(name,in_country),
-        treatments%>%select(name,in_country)) %>% filter(is.na(in_country)) %>% pull(name)
-
-
-
-# treatment plots ---------------------------------------------------------
-
-library(ggplot2)
-ggplot(all_long %>% filter(country=="Germany"), aes(x=date,y=treatment,col=active))+
-  geom_point()+facet_wrap(vars(region))
-
-# outcome plots ---------------------------------------------------------
-
-
-
-ggplot(all %>% filter(is.finite(byC_first_treatment),adm_level==1), aes(x=date,y=log(dead)))+
-  geom_point()+facet_wrap(vars(name))
-ggplot(all %>% filter(is.finite(byC_first_treatment),adm_level==1), aes(x=date,y=log(positive)))+
-  geom_point()+facet_wrap(vars(name))
-
-
-# plm regression ----------------------------------------------------------
-
-all$pos.growth <- log(all$positive+1)-lag(log(all$positive+1))
-
-plm.cur <- plm::plm(pos.growth~1,all,model="pooling")
-stargazer::stargazer(type="text",omit="factor",
-  lmtest::coeftest(plm.cur,
-                   vcov=sandwich::vcovHC(plm.cur,cluster="group")))
-
-
-
-
-# Summary treatments ------------------------------------------------------
-
-
-
-# +++ SUMMARY -------------------------------------------------------------
-
-
-# treatments -------------------------------------------------------------------------
-ls(treatments)
-# identifier: name country start end
-
-# treatments_long -------------------------------------------------------------------------
-ls(treatments_long)
-# identifier: name country date treatment
-
-# outcome data -------------------------------------------------------------------------
-ls(df)
-# identifier: name country date
-
-# all_long -------------------------------------------------------------------------
-ls(all_long)
-# identifier: name country date treatment
-
-# all -------------------------------------------------------------------------
-ls(all)
-# identifier: i=region+country date
-# treatments safed as tt_"treatment"
-
-
+#
+# # non-merged --------------------------------------------------------------
+#
+# # in treatments but no observation
+# setdiff(treatments%>%select(region,country),
+#         Covid::jhu%>%select(region,country)) %>% select(country,region)
+#
+# setdiff(treatments%>%filter(adm_level==1)%>%select(country),
+#         Covid::jhu%>%select(country)) %>% pull(country)
+#
+#
+# # in observation but no treatments
+# # setdiff(df%>%select(region,country),
+# #         treatments%>%select(region,country)) %>% filter(is.na(region)) %>% pull(country)
+#
+#
+#
+# # treatment plots ---------------------------------------------------------
+#
+# library(ggplot2)
+# ggplot(all_long %>% filter(country=="Germany"),
+#        aes(x=date,y=treatment,col=active))+
+#   geom_point()+facet_wrap(vars(region))
+#
+# ggplot(treatments_long %>% filter(adm_level==1),
+#        aes(x=date,y=share,col=treatment))+
+#   geom_line()+facet_wrap(vars(country))
+#
+#
+# # outcome plots ---------------------------------------------------------
+#
+#
+#
+# ggplot(all %>% filter(is.finite(byC_first_treatment),adm_level==1),
+#        aes(x=date,y=log(dead)))+
+#   geom_point()+facet_wrap(vars(name))
+# ggplot(all %>% filter(is.finite(byC_first_treatment),adm_level==1), aes(x=date,y=log(positive)))+
+#   geom_point()+facet_wrap(vars(name))
+#
+#
+# # plm regression ----------------------------------------------------------
+#
+# all$pos.growth <- log(all$positive+1)-lag(log(all$positive+1))
+#
+# plm.cur <- plm::plm(pos.growth~1,all,model="pooling")
+# stargazer::stargazer(type="text",omit="factor",
+#   lmtest::coeftest(plm.cur,
+#                    vcov=sandwich::vcovHC(plm.cur,cluster="group")))
+#
+#
+#
+#
+# # Summary treatments ------------------------------------------------------
+#
+#
+#
+# # +++ SUMMARY -------------------------------------------------------------
+#
+#
+# # treatments -------------------------------------------------------------------------
+# ls(treatments)
+# # identifier: name country start end
+#
+# # treatments_long -------------------------------------------------------------------------
+# ls(treatments_long)
+# # identifier: name country date treatment
+#
+# # outcome data -------------------------------------------------------------------------
+# ls(df)
+# # identifier: name country date
+#
+# # all_long -------------------------------------------------------------------------
+# ls(all_long)
+# # identifier: name country date treatment
+#
+# # all -------------------------------------------------------------------------
+# ls(all)
+# # identifier: i=region+country date
+# # treatments safed as tt_"treatment"
+#
+#
 
 
 

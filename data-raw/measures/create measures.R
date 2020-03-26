@@ -49,8 +49,9 @@ measures$region.code[measures$adm_level==1]<-NA
 measures$region[measures$adm_level==1]<-NA
 
 
-measures$identifier <- paste0(as.character(measures$region.code)," in ",as.character(measures$country.code))
-measures$name <- ifelse(measures$adm_level==1,as.character(measures$country), as.character(measures$region))
+measures$name <- ifelse(measures$adm_level==1,
+                        as.character(measures$country.code),
+                        paste0(as.character(measures$region),as.character(measures$country.code)))
 
 
 
@@ -58,7 +59,6 @@ measures$name <- ifelse(measures$adm_level==1,as.character(measures$country), as
 treatments <- measures %>% select(type,start,end,meta,share,
                                   region,country,
                                   region.code,country.code,
-                                  identifier,
                                   name,
                                   adm_level,
                                   in_country)
@@ -97,9 +97,9 @@ pop <- pop %>% group_by(country.code) %>%
 # compute ratio of country for each
 pop <- pop %>% group_by(country.code) %>%
   mutate(country = unique(asciiname[adm_level==1]),
+         population = population/10^6,
          total_population = sum(population[adm_level==1]),
          total_population2 = sum(population[adm_level!=1]),
-         population = population/10^6,
          ratio.pop = population/total_population) %>% ungroup()
 
 

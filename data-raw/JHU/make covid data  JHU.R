@@ -51,4 +51,6 @@ jhu <- jhu %>% select(country,region, date,
 jhu$region <- as.character(jhu$region)
 jhu$country <- as.character(jhu$country)
 
+jhu$region[jhu$region=="00"|jhu$region=="0"|jhu$region==""]<-NA
+
 #use_data(jhu,overwrite = T)
