@@ -1,55 +1,6 @@
 library(dplyr)
 #.rs.restartR()
-#rm(list=ls())
-
-# +++ JHU -------------------------------------------------------------------------
-
-# df <- read.csv("./data-raw/novel-corona-virus-2019-dataset24-03/covid_19_data.csv")
-# df$country <- as.character(df$Country.Region)
-# df$region <- as.character(df$Province.State)
-# df$Country.Region<-NULL
-# df$Province.State<-NULL
-#
-# # rename variables
-# df <- as_tibble(df)
-# df <- df %>%
-#   rename(
-#     date = ObservationDate,
-#     confirmed = Confirmed,
-#     dead = Deaths
-#   )
-#
-# # date
-# df$date <- as.Date(df$date,"%m/%d/%Y")
-#
-#
-#
-#
-# # check for duplicates and drop
-# dim(df)
-# sum(duplicated(df %>% select(name,date,Last.Update)))
-# df <- df %>% group_by(name,date) %>%
-#   mutate(temp_n = n(),
-#          temp_rank = rank(desc(Last.Update))) %>%
-#   filter(temp_rank==1)%>%select(-c(temp_n,temp_rank))%>%ungroup()
-# dim(df)
-# sum(duplicated(df %>% select(name,date,Last.Update)))
-# df$Last.Update<-NULL
-# df$SNo<-NULL
-
-df <- Covid::jhu
-
-# data cleaning -----------------------------------------------------------
-
-
-# create name of observation
-df$name <- ifelse(df$region=="",df$country, df$region)
-df$adm_level <- ifelse(df$region=="",1, 2)
-df$in_country <- ifelse(df$region=="",NA, df$country)
-
-
-
-
+rm(list=ls())
 
 
 # +++ TREATMENT ------------------------------------------
@@ -58,8 +9,8 @@ source("./data-raw/measures/create measures.R")
 treatments$type <- paste0(treatments$type,"II",treatments$meta)
 
 # expand time -----------------------------------------------------------------
-date_min <- min(df$date,treatments$start,treatments$end,na.rm=TRUE)
-date_max <- max(df$date,treatments$start,treatments$end,na.rm=TRUE)
+date_min <- min(jhu$date,treatments$start,treatments$end,na.rm=TRUE)
+date_max <- max(jhu$date,treatments$start,treatments$end,na.rm=TRUE)
 treatments_long <- merge(treatments, seq(date_min,date_max,"days"), all = T)
 treatments_long$date<-treatments_long$y
 treatments_long$y<-NULL
@@ -272,7 +223,10 @@ treatments_long <- long_temp
 
 
 
-# +++ DF ------------------------------------------------------------------
+# +++ JHU ------------------------------------------------------------------
+
+
+df <- Covid::jhu
 
 # expand treatment ------------------------------------------------------------------
 df_long <- merge(df, unique(treatments_long$treatment), all = T)
@@ -285,16 +239,26 @@ df_long$treatment<-as.character(df_long$treatment)
 ls(df_long)
 ls(treatments_long)
 
-as_tibble(df_long) %>% select(c("date","name","treatment","adm_level","country"))
-treatments_long %>% select(c("date","name","treatment","adm_level","country","ADM1"))
 
-treatments_long$name <- ifelse(treatments_long$adm_level==1,
-                               treatments_long$country,
-                               treatments_long$region)
 
 all_long <- df_long %>%
-  full_join(treatments_long %>% select(country,region,date,name,treatment,active,adm_level,share,meta,population,ratio.pop), #KEY
-             by=c("date","treatment","region","country","adm_level"))
+  full_join(
+    treatments_long %>%
+      select(country,
+             region,
+             date,
+             treatment,
+             active,
+             adm_level,
+             share,
+             meta,
+             population,
+             ratio.pop), #KEY
+             by=c("date",
+                  "treatment",
+                  "region",
+                  "country",
+                  "adm_level"))
 
 
 if(typeof(all_long$active)!="logical")
@@ -304,13 +268,16 @@ if(typeof(all_long$share)!="double")
   warning("wrong type")
 
 # check ---------------------------------------------------------
-if(mean(duplicated(all_long%>%select(c("date","treatment","region","country","adm_level")))))
-  warning("Matching not perfect.")
+# doubles
+doubles <-all_long %>%
+  count(date,treatment,region,country,adm_level) %>%
+  filter(n!=1)
+if(nrow(doubles)>0)
+  warning(paste0("Matching not perfect for ",unique((doubles %>%pull(region)))))
 
-unique(all_long %>%
-         filter(
-           duplicated(all_long%>%select(c("date","treatment","region","country","adm_level")))) %>%
-         select(country,region))
+all_long$delete <- all_long$region %in% unique((doubles %>%pull(region)))
+all_long <- all_long %>% filter(!delete)%>%select(-delete)
+
 
 #View(all_long%>%filter(name=="Germany",treatment=="BorderClosing")%>%select(date,name,adm_level,treatment,active))
 #View(all_long%>%filter(name=="Germany",date==as.Date("2020-02-04"))%>%select(date,name,adm_level,treatment,active))
@@ -424,9 +391,9 @@ ggplot(all %>% filter(is.finite(byC_first_treatment),adm_level==1), aes(x=date,y
 
 # plm regression ----------------------------------------------------------
 
-all$pos.growth <- log(all$positive)-lag(log(all$positive))
+all$pos.growth <- log(all$positive+1)-lag(log(all$positive+1))
 
-plm.cur <- plm::plm(pos.growth~share_BorderClosing+factor(name)*as.numeric(t),all,effect = "twoways")
+plm.cur <- plm::plm(pos.growth~1,all,model="pooling")
 stargazer::stargazer(type="text",omit="factor",
   lmtest::coeftest(plm.cur,
                    vcov=sandwich::vcovHC(plm.cur,cluster="group")))

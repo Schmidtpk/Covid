@@ -42,7 +42,7 @@ jhu <- jhu %>%
   )
 
 
-
+# drop all excpet country/region observations
 jhu <- jhu %>% filter(is.na(Admin2)|(Admin2==""))
 
 jhu <- jhu %>% select(country,region, date,
