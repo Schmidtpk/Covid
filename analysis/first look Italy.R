@@ -39,7 +39,7 @@ ggplot(dflong,aes(x=date,y=region,col=active))+
   geom_point()+
   facet_wrap(vars(treatment))
 
-ggplot(dflong %>%
+ggplot(dflong %>% select(-c(country_it,country.code_it,region.code_it,region_it,lat_it,long_it,date_it)) %>%
          ungroup() %>%
          pivot_longer(cols = contains("_it"),
                       names_to = "vvv",
@@ -49,7 +49,7 @@ ggplot(dflong %>%
 
 
 
-ggplot(all_long %>% filter(country=="Italy")%>%filter(treatment %in% unique(treatment[active])), aes(x=date,y=share,col=treatment))+
+ggplot(dflong %>% filter(country=="Italy")%>%filter(treatment %in% unique(treatment[active])), aes(x=date,y=share,col=treatment))+
   geom_line(alpha=.6)+facet_wrap(vars(name))
 
 
