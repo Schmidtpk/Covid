@@ -80,57 +80,46 @@ ggplot(all_long %>% filter(adm_level==0,is.finite(byC_first_treatment)),
   xlim(as.Date(c("2020-02-15","2020-03-26")))
 
 
-df.cur <- df%>%
-  select(pos.growth,
-         contains("tt_SchoolC"),
-         contains("tt_Cur"),
-         wind,precip,tMax,tMin,cloud)%>%drop_na()
+ggplot(all_long %>% filter(country=="Italy",adm_level==0),
+       aes(x=date,y=positive))+
+  geom_point()
 
 
 
 # panel regression --------------------------------------------------------
 
+df$outcome <- df$positive
+df$outcome <- pmax(0,df$outcome-plm::lag(df$outcome))
+df$pos.growth <- log(df$outcome+1)-lag(log(df$outcome+1))
 
 
-plm.pool <- plm(
-  formula = "lead(pos.growth,7)~
+
+
+panel_reg(
+  df=df,
+  "lead(pos.growth,7)~
   wind+precip+tMax+tMin+cloud+
-  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
-  data = df,model ="pooling")
+  tt_SchoolClosings+
+  tt_CurfewIMildOnlyPrivatePublicLifeI")
 
-plm.pool <- plm(
-  formula = "lead(pos.growth,7)~
-  wind+precip+tMax+tMin+cloud+
-  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
-  data = df,effect ="individual")
-
-plm.time<- plm(
-  formula = "lead(pos.growth,7)~
-  wind+precip+tMax+tMin+cloud+
-  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
-  data = df,effect ="time")
-
-plm.ind<- plm(
-  formula = "lead(pos.growth,7)~
-  wind+precip+tMax+tMin+cloud+
-  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
-  data = df,effect ="individual")
-
-plm.both <- plm(
-  formula = "lead(pos.growth,7)~
-  wind+precip+tMax+tMin+cloud+
-  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
-  data = df,effect ="twoways")
+panel_reg(
+  df=df,
+  "lead(pos.growth,7)~
+  wind+precip+factor(tMax)+tMin+cloud+
+  tt_SchoolClosings+
+  tt_CurfewIMildOnlyPrivatePublicLifeI")
 
 
-stargazer(type="text",
-          #omit.labels=c("Country-specific time trend","Country-specific squared time trend"),omit.yes.no = c("Yes","-"),
-          lmtest::coeftest(plm.pool,vcov=vcovHC(plm.pool,cluster="group")),
-          lmtest::coeftest(plm.time,vcov=vcovHC(plm.time,cluster="group")),
-          lmtest::coeftest(plm.ind,vcov=vcovHC(plm.ind,cluster="group")),
-          lmtest::coeftest(plm.both,vcov=vcovHC(plm.both,cluster="group")),add.lines =
-            list(
-              c("effects","pooling","time","individual","both")
-            ))
+df <- df %>% group_by(country) %>%
+  mutate(
+    temperature = tMax-mean(tMax,na.rm=TRUE)
+  ) %>% ungroup() %>% mypanel()
 
+attributes(df)
 
+panel_reg(
+  df=df,
+  "lead(pos.growth,7)~
+  wind+precip+factor(tMax)+tMin+cloud+temperature+
+  tt_SchoolClosings+
+  tt_CurfewIMildOnlyPrivatePublicLifeI")
