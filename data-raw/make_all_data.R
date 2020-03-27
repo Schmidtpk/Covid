@@ -170,7 +170,10 @@ treatments_long <- treatments_long %>%
   mutate(
     ratio_temp = sum(ratio.pop*share*(adm_level==2),na.rm=TRUE),
     share = ifelse(adm_level==1,ifelse(is.na(share),ratio_temp,share),share),
-    active = ifelse(adm_level==1,ifelse(is.na(active),share>0.5,active),active)
+    active = ifelse(adm_level==1,#positive if country, isna and share>0.5 otherwise stays
+                    ifelse(is.na(active),
+                           ifelse(share>0.5,
+                                  TRUE,active),active),active)
   ) %>% select(-c(ratio_temp)) %>% ungroup()
 
 
@@ -406,26 +409,39 @@ setdiff(treatments%>%filter(adm_level==1)%>%select(country),
 library(ggplot2)
 ggplot(all_long %>% filter(country=="Germany"),
        aes(x=date,y=treatment,col=share>0,shape=active))+
-  geom_point()+facet_wrap(vars(name))
+  geom_point()+facet_wrap(vars(name))+
+  xlim(as.Date(c("2020-03-10","2020-03-26")))
 
 ggplot(all_long %>% filter(country=="Italy"),
        aes(x=date,y=name,col=share>0,shape=active))+
-  geom_point()+facet_wrap(vars(treatment))
+  geom_point()+facet_wrap(vars(treatment))+
+  xlim(as.Date(c("2020-02-15","2020-03-26")))
 
-ggplot(all_long %>% filter(country=="Germany",is.na(region)),
-       aes(x=date,y=share,col=treatment,linetype=active))+
-  geom_point()
+ggplot(all_long %>% filter(country=="Germany",adm_level==0),
+       aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
+  geom_line()
 
 
+ggplot(all_long %>% filter(country=="Italy",adm_level==0),
+       aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
+  geom_line()
 
 
+ggplot(all_long %>% filter(adm_level==0,is.finite(byC_first_treatment)),
+       aes(x=date,y=country,col=share>0,shape=active))+
+  geom_point()+facet_wrap(vars(treatment))+
+  xlim(as.Date(c("2020-02-15","2020-03-26")))
 
 
 # plm regression ----------------------------------------------------------
 
 all$pos.growth <- log(all$positive+1)-lag(log(all$positive+1))
 
-plm.cur <- plm::plm(pos.growth~1,all,model="pooling")
+df.cur <- all%>%select(pos.growth,contains("tt_SchoolC"),contains("tt_Cur"))%>%drop_na()
+
+plm.cur <- plm::plm(
+  expand_formula(df = df.cur),
+  data = df.cur,model="pooling")
 stargazer::stargazer(type="text",omit="factor",
   lmtest::coeftest(plm.cur,
                    vcov=sandwich::vcovHC(plm.cur,cluster="group")))

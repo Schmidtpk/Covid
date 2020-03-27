@@ -22,6 +22,7 @@ measures$Type <- gsub("\\)","I",measures$Type)
 measures$Type <- gsub("\\(","I",measures$Type)
 measures$Type <- gsub(",","",measures$Type)
 measures$Type <- gsub("-","",measures$Type)
+measures$Type <- gsub("/","I",measures$Type)
 
 # save in package ---------------------------------------------------------
 
