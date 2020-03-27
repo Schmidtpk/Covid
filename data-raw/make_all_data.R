@@ -41,14 +41,38 @@ treatments_long$treatment <- treatments_long$type;treatments_long$type<- NULL
 
 find_doubles_long(treatments_long)
 
-# expand treatment (type and date) --------------------------------------------------------
+treatments_long<-as_tibble(treatments_long)
+
+# expand treatment--------------------------------------------------------
+library(tidyr)
+dim(treatments_long)
+treatments_long2 <- treatments_long %>%
+  expand(treatment, nesting(date,
+                            country,
+                            region,
+                            adm_level))
+# add treatment variables
+treatments_long2 <- treatments_long2 %>%
+  left_join(treatments_long  %>% select(treatment,start,end,share,region,country,date))
+
+# add country,region variables
+treatments_long <- treatments_long2 %>%
+  inner_join(treatments_long  %>%
+               select(region,country,date,population,adm_level,ratio.pop) %>%
+               group_by(region,country,date) %>%
+               mutate(
+                 id_temp = row_number()
+               ) %>% filter(id_temp==1) %>% select(-id_temp))
 
 
+dim(treatments_long)
 find_doubles_long(treatments_long)
 
 
 
 #View(treatments_long %>% filter(country=="Germany", date=="2020-03-20", treatment=="SchoolClosings"))
+#View(treatments_long %>% filter(country=="Germany", date=="2020-03-20", treatment=="BorderClosing"))
+#View(treatments_long %>% filter(country=="Italy", date=="2020-03-15", treatment=="SchoolClosings"))
 
 
 
@@ -130,10 +154,11 @@ treatments_long <- treatments_long %>% group_by(country,date,treatment) %>%
     share = if_else(country_is_active, #if treatment active in country
                      country_share,
                      share) #else leave as is
-  ) %>% select(-c(country_and_active,country_is_active)) %>% ungroup()
+  ) %>% select(-c(country_and_active,country_is_active,country_share)) %>% ungroup()
 dim(treatments_long)
 
-#View(treatments_long %>% filter(country=="Germany", date=="2020-03-20",!is.na(active)))
+#View(treatments_long %>% filter(country=="Germany", date=="2020-03-20"))
+#View(treatments_long %>% filter(country=="Italy", date=="2020-03-10"))
 
 find_doubles_long(treatments_long)
 
@@ -144,8 +169,12 @@ treatments_long <- treatments_long %>%
   group_by(country,date,treatment) %>%
   mutate(
     ratio_temp = sum(ratio.pop*share*(adm_level==2),na.rm=TRUE),
-    share = ifelse(adm_level==1,ifelse(is.na(share),ratio_temp,share),share)
+    share = ifelse(adm_level==1,ifelse(is.na(share),ratio_temp,share),share),
+    active = ifelse(adm_level==1,ifelse(is.na(active),share>0.5,active),active)
   ) %>% select(-c(ratio_temp)) %>% ungroup()
+
+
+
 
 
 # View(treatments_long %>% filter(share_n>0, share_n <1))
@@ -240,15 +269,30 @@ all <- df %>%
 find_doubles(all)
 
 # weather ---------------------------------------------------------------------
-
+weather <- Covid::weather
 find_doubles(Covid::weather)
 find_doubles(treatments_wide)
+
+# weather%>%filter(!is.na(region)) %>% pull(region) %>% unique()
+#
+# class(weather$region)
+#
+# # in all but no observation
+# View(setdiff(all%>%select(region,country),
+#         weather%>%select(region,country)) %>% select(country,region)
+# )
+
+weather <- weather %>% filter(is.na(region))
+#
+# View(setdiff(all%>%select(country),
+#              weather%>%select(country)) %>% select(country)
+# )
+
 dim(all)
 all <- all %>%
   left_join(
-    Covid::weather,
+    weather %>% select(-region),
     by=c("date",
-         "region",
          "country"))
 dim(all)
 find_doubles(all)
@@ -361,15 +405,15 @@ setdiff(treatments%>%filter(adm_level==1)%>%select(country),
 
 library(ggplot2)
 ggplot(all_long %>% filter(country=="Germany"),
-       aes(x=date,y=treatment,col=active))+
-  geom_point()+facet_wrap(vars(region))
+       aes(x=date,y=treatment,col=share>0,shape=active))+
+  geom_point()+facet_wrap(vars(name))
+
+ggplot(all_long %>% filter(country=="Italy"),
+       aes(x=date,y=name,col=share>0,shape=active))+
+  geom_point()+facet_wrap(vars(treatment))
 
 ggplot(all_long %>% filter(country=="Germany",is.na(region)),
-       aes(x=date,y=treatment,col=active))+
-  geom_point()
-
-ggplot(all_long %>% filter(country=="Germany",is.na(region)),
-       aes(x=date,y=treatment,col=share>0))+
+       aes(x=date,y=share,col=treatment,linetype=active))+
   geom_point()
 
 
