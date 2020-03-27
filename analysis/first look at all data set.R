@@ -8,10 +8,10 @@ library(Covid)
 #show_countries_of(measure = c("School","Curfew","Ban","Canc","clos"))
 
 # subset only countries (no regions)
-df <- subset(Covid::all, adm_level==0)
+df <- subset(all, adm_level==0)
 #df <- world
 
-dflong <- subset(Covid::all_long, adm_level==0)
+dflong <- subset(all_long, adm_level==0)
 
 treatments.summary <-  dflong %>% group_by(treatment) %>%
   summarise(first = min(date[active],na.rm=TRUE),
@@ -54,4 +54,5 @@ ggplot(all_long %>% filter(country=="Germany")%>%filter(treatment %in% unique(tr
   geom_line(alpha=.6)+facet_wrap(vars(name))
 
 
-
+stargazer(type="text",
+          plm(pos.growth ~ tMax+wind+humidity+precip+cloud,all,effect = "twoways"))
