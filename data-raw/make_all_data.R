@@ -58,7 +58,7 @@ treatments_long2 <- treatments_long2 %>%
 # add country,region variables
 treatments_long <- treatments_long2 %>%
   inner_join(treatments_long  %>%
-               select(region,country,date,population,adm_level,ratio.pop) %>%
+               select(region,country,region.code,country.code,date,population,adm_level,ratio.pop) %>%
                group_by(region,country,date) %>%
                mutate(
                  id_temp = row_number()
@@ -198,7 +198,7 @@ find_doubles_long(treatments_long)
 ls(treatments_long)
 treatments_wide <- treatments_long %>%
   tidyr::pivot_wider(
-    id_cols = c(date,country,region),
+    id_cols = c(date,country,region,country.code,region.code),
     names_from = treatment,
     values_from = c(active,share),#c(active,share,meta),
     names_sep = "XXX"
@@ -297,6 +297,37 @@ all <- all %>%
     weather %>% select(-region),
     by=c("date",
          "country"))
+dim(all)
+find_doubles(all)
+
+# italy_o ---------------------------------------------------------------------
+it <- Covid::italy_o
+find_doubles(it)
+find_doubles(treatments_wide)
+
+names(it)<-paste0(names(it),"_it")
+
+
+all$matching_string <- paste0(all$country,all$region,all$date)
+it$matching_string <- paste0(it$country_it,it$region_it,it$date_it)
+
+all2 <-  all %>%
+  fuzzyjoin::stringdist_left_join(
+    it,max_dist=3,ignore_case=TRUE,
+    distance_col = "string_dist",
+    by=c("matching_string"))
+
+all <- all2 %>% group_by(date,region,country) %>%
+  mutate(temp_rank = rank(string_dist,ties.method = "random")) %>%
+  filter(temp_rank==1)
+
+
+mean(is.na(all2%>%filter(country=="Italy")%>%pull(home_it)))
+
+find_doubles(all)
+
+
+
 dim(all)
 find_doubles(all)
 
@@ -427,28 +458,34 @@ ggplot(all_long %>% filter(country=="Italy",adm_level==0),
   geom_line()
 
 
-ggplot(all_long %>% filter(adm_level==0,is.finite(byC_first_treatment)),
-       aes(x=date,y=country,col=share>0,shape=active))+
-  geom_point()+facet_wrap(vars(treatment))+
-  xlim(as.Date(c("2020-02-15","2020-03-26")))
 
 
 # plm regression ----------------------------------------------------------
 
-all$pos.growth <- log(all$positive+1)-lag(log(all$positive+1))
-
-df.cur <- all%>%select(pos.growth,contains("tt_SchoolC"),contains("tt_Cur"))%>%drop_na()
-
-plm.cur <- plm::plm(
-  expand_formula(df = df.cur),
-  data = df.cur,model="pooling")
-stargazer::stargazer(type="text",omit="factor",
-  lmtest::coeftest(plm.cur,
-                   vcov=sandwich::vcovHC(plm.cur,cluster="group")))
-
-
+# all$pos.growth <- log(all$positive+1)-lag(log(all$positive+1))
+#
+# df.cur <- all%>%select(pos.growth,contains("tt_SchoolC"),contains("tt_Cur"))%>%drop_na()
+#
+# plm.cur <- plm::plm(
+#   expand_formula(df = df.cur),
+#   data = df.cur,model="pooling")
+# stargazer::stargazer(type="text",omit="factor",
+#   lmtest::coeftest(plm.cur,
+#                    vcov=sandwich::vcovHC(plm.cur,cluster="group")))
 
 
+# export italy ------------------------------------------------------------
+
+
+ita <- all %>% filter(country=="Italy", adm_level==1)
+ita_long <- all_long %>% filter(country=="Italy", adm_level==1)
+
+ita <- ita %>%
+  mutate_at(vars(starts_with("tt")),
+            function(x) ifelse(is.na(x),FALSE,x))
+
+# use_data(ita,overwrite = T)
+# use_data(ita_long,overwrite = T)
 # Summary treatments ------------------------------------------------------
 
 
