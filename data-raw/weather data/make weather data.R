@@ -13,6 +13,10 @@ for(var.cur in vars)
                ".csv")),
     header=T)))
 
+  cat(var.cur,sum(grepl("Other",df.cur$Province.State)))
+
+  #sum(grepl("ther",df.cur$Province.State)>
+
   df.cur.long <- df.cur %>% tidyr::pivot_longer(starts_with("X"),names_to = "date")
   df.cur.long$date <- as.Date(df.cur.long$date, "X%m.%d.%y")
 
@@ -37,5 +41,13 @@ weather <- weather %>%
     values_from = "value"
     )
 
+
+#summary(weather$region)
+
+
+
+weather$country<-as.character(weather$country)
+weather$region<-as.character(weather$region)
+weather$region[weather$region==""]<-NA
 
 #use_data(weather,overwrite = T)
