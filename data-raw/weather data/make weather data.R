@@ -49,5 +49,6 @@ weather <- weather %>%
 weather$country<-as.character(weather$country)
 weather$region<-as.character(weather$region)
 weather$region[weather$region==""]<-NA
+weather$region[weather$region==weather$country] <- NA
 
 #use_data(weather,overwrite = T)
