@@ -54,5 +54,83 @@ ggplot(all_long %>% filter(country=="Germany")%>%filter(treatment %in% unique(tr
   geom_line(alpha=.6)+facet_wrap(vars(name))
 
 
+ggplot(all_long %>% filter(country=="Germany"),
+       aes(x=date,y=treatment,col=share>0,shape=active))+
+  geom_point()+facet_wrap(vars(name))+
+  xlim(as.Date(c("2020-03-10","2020-03-26")))
+
+ggplot(all_long %>% filter(country=="Italy"),
+       aes(x=date,y=name,col=share>0,shape=active))+
+  geom_point()+facet_wrap(vars(treatment))+
+  xlim(as.Date(c("2020-02-15","2020-03-26")))
+
+ggplot(all_long %>% filter(country=="Germany",adm_level==0),
+       aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
+  geom_line()
+
+
+ggplot(all_long %>% filter(country=="Italy",adm_level==0),
+       aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
+  geom_line()
+
+
+ggplot(all_long %>% filter(adm_level==0,is.finite(byC_first_treatment)),
+       aes(x=date,y=country,col=share>0,shape=active))+
+  geom_point()+facet_wrap(vars(treatment))+
+  xlim(as.Date(c("2020-02-15","2020-03-26")))
+
+
+df.cur <- df%>%
+  select(pos.growth,
+         contains("tt_SchoolC"),
+         contains("tt_Cur"),
+         wind,precip,tMax,tMin,cloud)%>%drop_na()
+
+
+
+# panel regression --------------------------------------------------------
+
+
+
+plm.pool <- plm(
+  formula = "lead(pos.growth,7)~
+  wind+precip+tMax+tMin+cloud+
+  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
+  data = df,model ="pooling")
+
+plm.pool <- plm(
+  formula = "lead(pos.growth,7)~
+  wind+precip+tMax+tMin+cloud+
+  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
+  data = df,effect ="individual")
+
+plm.time<- plm(
+  formula = "lead(pos.growth,7)~
+  wind+precip+tMax+tMin+cloud+
+  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
+  data = df,effect ="time")
+
+plm.ind<- plm(
+  formula = "lead(pos.growth,7)~
+  wind+precip+tMax+tMin+cloud+
+  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
+  data = df,effect ="individual")
+
+plm.both <- plm(
+  formula = "lead(pos.growth,7)~
+  wind+precip+tMax+tMin+cloud+
+  tt_CurfewIMildOnlyPrivatePublicLifeI+tt_SchoolClosings",
+  data = df,effect ="twoways")
+
+
 stargazer(type="text",
-          plm(pos.growth ~ tMax+wind+humidity+precip+cloud,all,effect = "twoways"))
+          #omit.labels=c("Country-specific time trend","Country-specific squared time trend"),omit.yes.no = c("Yes","-"),
+          lmtest::coeftest(plm.pool,vcov=vcovHC(plm.pool,cluster="group")),
+          lmtest::coeftest(plm.time,vcov=vcovHC(plm.time,cluster="group")),
+          lmtest::coeftest(plm.ind,vcov=vcovHC(plm.ind,cluster="group")),
+          lmtest::coeftest(plm.both,vcov=vcovHC(plm.both,cluster="group")),add.lines =
+            list(
+              c("effects","pooling","time","individual","both")
+            ))
+
+
