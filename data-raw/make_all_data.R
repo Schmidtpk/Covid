@@ -315,25 +315,30 @@ find_doubles(treatments_wide)
 names(it)<-paste0(names(it),"_it")
 
 
-all$matching_string <- paste0(all$country,all$region,all$date)
-it$matching_string <- paste0(it$country_it,it$region_it,it$date_it)
+#all$matching_string <- paste0(all$country,all$region,all$date)
+#it$matching_string <- paste0(it$country_it,it$region_it,it$date_it)
+
 
 all2 <-  all %>%
-  fuzzyjoin::stringdist_left_join(
-    it,max_dist=3,ignore_case=TRUE,
-    distance_col = "string_dist",
-    by=c("matching_string"))
+  fuzzyjoin::fuzzy_left_join(
+    match_fun = list(`==`,
+                     function(x,y) stringdist::stringdist(x,y,method='lv')<(nchar(x)-5),
+                     `==`),
+    it,
+    by=c("country"="country_it",
+         "region"="region_it",
+         "date"="date_it"))
 
-all <- all2 %>% group_by(date,region,country) %>%
-  mutate(temp_rank = rank(string_dist,ties.method = "random")) %>%
-  filter(temp_rank==1)
+#mean(is.na(all2%>%filter(country=="Italy")%>%pull(home_it)))
+#find_doubles(all2)
+
+all <- all2
+# all <- all2 %>% group_by(date,region,country) %>%
+#   mutate(temp_rank = rank(string_dist,ties.method = "random")) %>%
+#   filter(temp_rank==1)
 
 
-mean(is.na(all2%>%filter(country=="Italy")%>%pull(home_it)))
 
-find_doubles(all)
-
-View(all %>% filter(country=="Germany",date=="2020-03-20", treatment =="CancelationofLargeEvents"))
 
 dim(all)
 find_doubles(all)

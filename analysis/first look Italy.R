@@ -53,7 +53,7 @@ ggplot(dflong %>% filter(country=="Italy")%>%filter(treatment %in% unique(treatm
   geom_line(alpha=.6)+facet_wrap(vars(name))
 
 
-df <- pdata.frame(df,index = c("i","t"))
+df <- mypanel(df)
 
 df$outcome <- df$new.hostpial_or_home_it
 #df$outcome <- df$outcome-lag(df$outcome)
