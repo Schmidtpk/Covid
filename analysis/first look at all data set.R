@@ -93,14 +93,30 @@ df$outcome <- pmax(0,df$outcome-plm::lag(df$outcome))
 df$pos.growth <- log(df$positive/plm::lag(df$outcome))
 df<-subset(df,subset=positive>10&plm::lag(df$outcome)>10)
 
-
-
 panel_reg(
   df=df,
   "plm::lead(pos.growth,6)~
   wind+precip+tMax+tMin+cloud+
   tt_SchoolClosings+
   tt_CurfewIMildOnlyPrivatePublicLifeI")
+
+
+panel_reg(
+  df=df,
+  "plm::lead(pos.growth,6)~
+  wind+precip+tMax+tMin+cloud")
+
+panel_reg(
+  df=df,
+  "plm::lead(pos.growth,6)~
+  wind")
+
+
+
+panel_reg(
+  df=df,
+  "plm::lead(pos.growth,6)~
+  wind*tt_CurfewIMildOnlyPrivatePublicLifeI")
 
 
 

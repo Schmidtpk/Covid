@@ -40,6 +40,7 @@ panel_reg <- function(formula.cur, df) {
 
 
   stargazer::stargazer(type="text",
+            omit=c("^poly\\(date, 2\\)"), omit.labels = c("countr squared trend"),
             lmtest::coeftest(plm.pool,vcov=sandwich::vcovHC(plm.pool,cluster="group")),
             lmtest::coeftest(plm.ind,vcov=sandwich::vcovHC(plm.ind,cluster="group")),
             lmtest::coeftest(plm.trend,vcov=sandwich::vcovHC(plm.trend,cluster="group")),
