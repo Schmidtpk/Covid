@@ -4,12 +4,14 @@
 \alias{panel_reg}
 \title{Run panel regressios with fixed effects}
 \usage{
-panel_reg(formula.cur, df)
+panel_reg(formula.cur, df, trendwith = "country")
 }
 \arguments{
 \item{formula.cur}{a valid formular}
 
 \item{df}{a data frame}
+
+\item{trendwith}{factor to be interacted with time trend. standard is "country". Viable alternative is "region".}
 }
 \value{
 output of stargazer

@@ -13,10 +13,11 @@ mypanel <- function(df) plm::pdata.frame(df,index = c("i","t"))
 #'
 #' @param formula.cur a valid formular
 #' @param df a data frame
+#' @param trendwith factor to be interacted with time trend. standard is "country". Viable alternative is "region".
 #'
 #' @return output of stargazer
 #' @export
-panel_reg <- function(formula.cur, df) {
+panel_reg <- function(formula.cur, df, trendwith="country") {
 
   plm.pool <- plm::plm(
     formula = formula.cur,
@@ -27,11 +28,11 @@ panel_reg <- function(formula.cur, df) {
     data = df,effect ="individual")
 
   plm.trend<- plm::plm(
-    formula = paste0(formula.cur,"+date*factor(country)",sep=""),
+    formula = paste0(formula.cur,"+date*factor(",trendwith,")",sep=""),
     data = df,effect ="individual")
 
   plm.trend2<- plm::plm(
-    formula = paste0(formula.cur,"+poly(date,2)*factor(country)",sep=""),
+    formula = paste0(formula.cur,"+poly(date,2)*factor(",trendwith,")",sep=""),
     data = df,effect ="individual")
 
   plm.both <- plm::plm(
@@ -50,3 +51,21 @@ panel_reg <- function(formula.cur, df) {
                 c("effects","pooling","individual","countryttrend","countryttrend2","both")
               ))
 }
+
+
+#' Factorize continuous variables by quantiles of ecdf
+#'
+#' @param x variable to be factorized
+#' @param length number of factors
+#'
+#' @return vector
+#' @export
+#'
+#' @examples
+#' unique(factorize(all$tMax,7))
+factorize <- function(x,length=5) {
+  as.factor(
+    findInterval(x,
+                 quantile(x, seq(0+1/length,1-1/length,length.out = length-1),na.rm=T)
+    )
+    -(length-1)/2)}
