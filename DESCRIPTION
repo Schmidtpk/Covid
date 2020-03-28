@@ -16,4 +16,5 @@ Depends:
     plm,
     dplyr
 Imports: 
-    tidyr
+    tidyr,
+    EpiEstim

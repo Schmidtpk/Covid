@@ -22,6 +22,7 @@ panel_reg <- function(formula.cur, df,
                       trendwith="country",
                       hide.date=TRUE) {
 
+
   plm.pool <- plm::plm(
     formula = formula.cur,
     data = df,model ="pooling")
