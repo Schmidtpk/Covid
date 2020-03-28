@@ -61,33 +61,9 @@ df$pos.growth <- log(df$outcome+64)-lag(log(df$outcome+64))
 
 unique(df %>% count(t,i) %>% filter(n!=1))
 
-formula.cur <- "lead(pos.growth,7)~
-  wind+precip+tMax+tMin+cloud+
-  tt_SchoolClosings+
-  tt_CurfewIMildOnlyPrivatePublicLifeI"
 
-plm.pool <- plm(
-  formula = formula.cur,
-  data = df,model ="pooling")
-
-plm.time<- plm(
-  formula = formula.cur,
-  data = df,effect ="time")
-
-plm.ind<- plm(
-  formula = formula.cur,
-  data = df,effect ="individual")
-
-plm.both <- plm(
-  formula = formula.cur,
-  data = df,effect ="twoways")
-
-
-stargazer(type="text",
-          lmtest::coeftest(plm.pool,vcov=vcovHC(plm.pool,cluster="group")),
-          lmtest::coeftest(plm.time,vcov=vcovHC(plm.time,cluster="group")),
-          lmtest::coeftest(plm.ind,vcov=vcovHC(plm.ind,cluster="group")),
-          lmtest::coeftest(plm.both,vcov=vcovHC(plm.both,cluster="group")),add.lines =
-            list(
-              c("effects","pooling","time","individual","both")
-            ))
+panel_reg("lead(pos.growth,7)~
+  factorize(tMax)+factorize(humidity)+
+  tt_CurfewIMildOnlyPrivatePublicLifeI+
+          tt_SchoolClosings",
+          df,trendwith = "region")
