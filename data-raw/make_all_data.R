@@ -312,11 +312,19 @@ it <- Covid::italy_o
 find_doubles(it)
 find_doubles(treatments_wide)
 
+
+
+#rename for merge
+it$region[it$region=="P.A. Trento"] <- "Trentino Alto-adige"
+it$region[it$region=="Puglia"] <- "Apulia"
+
+#rename to save in output
 names(it)<-paste0(names(it),"_it")
 
 
 #all$matching_string <- paste0(all$country,all$region,all$date)
 #it$matching_string <- paste0(it$country_it,it$region_it,it$date_it)
+
 
 
 all2 <-  all %>%

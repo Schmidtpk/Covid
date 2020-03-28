@@ -53,16 +53,33 @@ ggplot(dflong %>% filter(country=="Italy")%>%filter(treatment %in% unique(treatm
   geom_line(alpha=.6)+facet_wrap(vars(name))
 
 
-df <- mypanel(df)
+ggplot(ita_long,aes(x=date,y=region,col=is.na(new.hostpial_or_home_it)))+geom_point()
 
-df$outcome <- df$new.hostpial_or_home_it
-#df$outcome <- df$outcome-lag(df$outcome)
+# plm ---------------------------------------------------------------------
+
+
+rm(list=ls())
+library(Covid)
+
+df <- Covid::ita
+
+
+#df$outcome <- df$new.hostpial_or_home_it
+
+df$outcome <- df$pos.total_it
+df$outcome <- df$outcome-lag(df$outcome)
 df$pos.growth <- log(df$outcome+64)-lag(log(df$outcome+64))
 
 unique(df %>% count(t,i) %>% filter(n!=1))
 
+df <- df %>% filter(!is.na(pos.growth))%>%mypanel()
 
-panel_reg("lead(pos.growth,7)~
+panel_reg("lead(pos.growth,5)~
+  tt_CurfewIMildOnlyPrivatePublicLifeI+
+          tt_SchoolClosings",
+          df,trendwith = "region")
+
+panel_reg("lead(pos.growth,5)~
   factorize(tMax)+factorize(humidity)+
   tt_CurfewIMildOnlyPrivatePublicLifeI+
           tt_SchoolClosings",
