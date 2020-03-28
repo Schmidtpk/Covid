@@ -20,7 +20,7 @@ treatments.summary <-  dflong %>% group_by(treatment) %>%
             num_countries = sum(length(unique(country[active]))),
             enacted_in = list(unique(country[active])))
 treatments.summary
-treatments.summary$enacted_in[8]
+treatments.summary$enacted_in[7]
 
 treatments.country.summary <-  dflong %>%
   group_by(treatment,country) %>%
@@ -90,24 +90,18 @@ ggplot(all_long %>% filter(country=="Italy",adm_level==0),
 
 df$outcome <- df$positive
 df$outcome <- pmax(0,df$outcome-plm::lag(df$outcome))
-df$pos.growth <- log(df$outcome+1)-lag(log(df$outcome+1))
-
+df$pos.growth <- log(df$positive/plm::lag(df$outcome))
+df<-subset(df,subset=positive>10&plm::lag(df$outcome)>10)
 
 
 
 panel_reg(
   df=df,
-  "lead(pos.growth,7)~
+  "plm::lead(pos.growth,6)~
   wind+precip+tMax+tMin+cloud+
   tt_SchoolClosings+
   tt_CurfewIMildOnlyPrivatePublicLifeI")
 
-panel_reg(
-  df=df,
-  "lead(pos.growth,7)~
-  wind+precip+factor(tMax)+tMin+cloud+
-  tt_SchoolClosings+
-  tt_CurfewIMildOnlyPrivatePublicLifeI")
 
 
 df <- df %>% group_by(country) %>%
@@ -120,6 +114,6 @@ attributes(df)
 panel_reg(
   df=df,
   "lead(pos.growth,7)~
-  wind+precip+factor(tMax)+tMin+cloud+temperature+
+  wind+precip+tMax+tMin+cloud+temperature+
   tt_SchoolClosings+
   tt_CurfewIMildOnlyPrivatePublicLifeI")

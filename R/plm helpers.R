@@ -22,12 +22,16 @@ panel_reg <- function(formula.cur, df) {
     formula = formula.cur,
     data = df,model ="pooling")
 
-  plm.time<- plm::plm(
-    formula = formula.cur,
-    data = df,effect ="time")
-
   plm.ind<- plm::plm(
     formula = formula.cur,
+    data = df,effect ="individual")
+
+  plm.trend<- plm::plm(
+    formula = paste0(formula.cur,"+date*factor(country)",sep=""),
+    data = df,effect ="individual")
+
+  plm.trend2<- plm::plm(
+    formula = paste0(formula.cur,"+poly(date,2)*factor(country)",sep=""),
     data = df,effect ="individual")
 
   plm.both <- plm::plm(
@@ -37,10 +41,11 @@ panel_reg <- function(formula.cur, df) {
 
   stargazer::stargazer(type="text",
             lmtest::coeftest(plm.pool,vcov=sandwich::vcovHC(plm.pool,cluster="group")),
-            lmtest::coeftest(plm.time,vcov=sandwich::vcovHC(plm.time,cluster="group")),
             lmtest::coeftest(plm.ind,vcov=sandwich::vcovHC(plm.ind,cluster="group")),
+            lmtest::coeftest(plm.trend,vcov=sandwich::vcovHC(plm.trend,cluster="group")),
+            lmtest::coeftest(plm.trend2,vcov=sandwich::vcovHC(plm.trend2,cluster="group")),
             lmtest::coeftest(plm.both,vcov=sandwich::vcovHC(plm.both,cluster="group")),add.lines =
               list(
-                c("effects","pooling","time","individual","both")
+                c("effects","pooling","individual","countryttrend","countryttrend2","both")
               ))
 }
