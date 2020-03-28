@@ -55,13 +55,38 @@ ggplot(dflong %>% filter(country=="Italy")%>%filter(treatment %in% unique(treatm
 
 ggplot(ita_long,aes(x=date,y=region,col=is.na(new.hostpial_or_home_it)))+geom_point()
 
-# plm ---------------------------------------------------------------------
-
+# plm with R---------------------------------------------------------------------
 
 rm(list=ls())
 library(Covid)
 
 df <- Covid::ita
+
+
+df <- df %>% group_by(region) %>%
+  mutate(
+    R = as.numeric(addR(pos.total_it,date,total = TRUE))
+  ) %>% ungroup() %>% mypanel()
+
+df$i
+
+df$outcome_time <- df$R
+df.cur<- df %>% filter(is.finite(outcome_time),!is.na(outcome_time)) %>% mypanel()
+treatment_dummies <- paste(paste0("tt_",unique(treatments$type)),collapse = "+")
+treatment_dummies <-
+  "tt_SchoolClosings+
+   tt_CurfewIMildOnlyPrivatePublicLifeI+
+   tt_CurfewILockdownofAllNonEssentialPublicLifeI"
+
+
+panel_reg(
+  df=df.cur,trendwith = "region",
+  paste0("outcome_time~",
+         "factorize(humidity)+",
+         treatment_dummies))
+
+
+# plm with growth rate ---------------------------------------------------------------------
 
 
 #df$outcome <- df$new.hostpial_or_home_it
