@@ -14,10 +14,13 @@ mypanel <- function(df) plm::pdata.frame(df,index = c("i","t"))
 #' @param formula.cur a valid formular
 #' @param df a data frame
 #' @param trendwith factor to be interacted with time trend. standard is "country". Viable alternative is "region".
+#' @param hide.date hides all coefficients with date (standard is TRUE)
 #'
 #' @return output of stargazer
 #' @export
-panel_reg <- function(formula.cur, df, trendwith="country") {
+panel_reg <- function(formula.cur, df,
+                      trendwith="country",
+                      hide.date=TRUE) {
 
   plm.pool <- plm::plm(
     formula = formula.cur,
@@ -41,7 +44,8 @@ panel_reg <- function(formula.cur, df, trendwith="country") {
 
 
   stargazer::stargazer(type="text",
-            omit=c("^poly\\(date, 2\\)"), omit.labels = c("countr squared trend"),
+            omit=c("^poly\\(date, 2\\)",if(hide.date) "date" else NULL),
+            omit.labels = c("countr squared trend","date trend"),
             lmtest::coeftest(plm.pool,vcov=sandwich::vcovHC(plm.pool,cluster="group")),
             lmtest::coeftest(plm.ind,vcov=sandwich::vcovHC(plm.ind,cluster="group")),
             lmtest::coeftest(plm.trend,vcov=sandwich::vcovHC(plm.trend,cluster="group")),

@@ -4,7 +4,7 @@
 \alias{panel_reg}
 \title{Run panel regressios with fixed effects}
 \usage{
-panel_reg(formula.cur, df, trendwith = "country")
+panel_reg(formula.cur, df, trendwith = "country", hide.date = TRUE)
 }
 \arguments{
 \item{formula.cur}{a valid formular}
@@ -12,6 +12,8 @@ panel_reg(formula.cur, df, trendwith = "country")
 \item{df}{a data frame}
 
 \item{trendwith}{factor to be interacted with time trend. standard is "country". Viable alternative is "region".}
+
+\item{hide.date}{hides all coefficients with date (standard is TRUE)}
 }
 \value{
 output of stargazer
