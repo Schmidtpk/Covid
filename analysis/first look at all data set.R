@@ -29,7 +29,7 @@ treatments.country.summary <-  dflong %>%
             last = max(date[active],na.rm=TRUE),
             days_active = sum(active,na.rm=TRUE),
             range_active = last-first+1) %>% filter(days_active>0)
-View(treatments.country.summary)
+#View(treatments.country.summary)
 
 
 countries <- dflong %>%
@@ -44,14 +44,51 @@ countries <- dflong %>%
 countries %>% filter(first_treatment<"2020-04-01")
 countries %>% filter(first_treatment_any<"2020-04-01")
 
-View(countries %>% filter(highest_new>100))
+#View(countries %>% filter(highest_new>1000))
 
 
-ggplot(all_long %>% filter(name=="Germany"), aes(x=date,y=treatment,col=active))+geom_point()
-ggplot(all_long %>% filter(name=="Germany"), aes(x=date,y=treatment,col=share>0))+geom_point()
 
-ggplot(all_long %>% filter(country=="Germany")%>%filter(treatment %in% unique(treatment[active])), aes(x=date,y=share,col=treatment))+
-  geom_line(alpha=.6)+facet_wrap(vars(name))
+
+# US ---------------------------------------------------------------
+
+USstates <- Covid::all_long %>%filter(country=="US",region %in%state.name)%>%
+  group_by(region) %>%
+  summarise(first_case = min(date[positive>0],na.rm=TRUE),
+            first_cluster = min(date[positive>100],na.rm=TRUE),
+            highest_positive = max(positive,na.rm=TRUE),
+            highest_dead = max(dead,na.rm = TRUE),
+            first_treatment = min(date[active],na.rm=TRUE),
+            first_treatment_any = min(date[share>0],na.rm=TRUE),
+            in_country = unique(country)[1],
+            in_country_wrong = unique(country)[2])
+View(USstates)
+
+ggplot(all_long %>% filter(country=="US"),
+       aes(x=date,y=dead,col=region))+
+         geom_line()
+
+ggplot(all_long %>% filter(adm_level==0,is.finite(byC_first_treatment)),
+       aes(x=date,y=dead))+
+  geom_line()+facet_wrap(vars(country))
+
+# Some plots --------------------------------------------------------------
+
+
+
+ggplot(all_long %>% filter(name=="Germany"),
+       aes(x=date,y=treatment,col=active,shape=share>0.5))+
+  geom_point()+facet_wrap(vars(name))
+#todo: Why cancelation has zero share?
+#View(all_long %>% filter(name=="Germany",date=="2020-03-20", treatment =="CancelationofLargeEvents"))
+
+
+
+
+ggplot(all_long %>% filter(country=="Germany",
+                           treatment %in% unique(treatment[active])),
+       aes(x=date,y=share,col=treatment))+
+  geom_line(alpha=.6)+
+  facet_wrap(vars(name))
 
 
 ggplot(all_long %>% filter(country=="Germany"),
@@ -64,20 +101,24 @@ ggplot(all_long %>% filter(country=="Italy"),
   geom_point()+facet_wrap(vars(treatment))+
   xlim(as.Date(c("2020-02-15","2020-03-26")))
 
-ggplot(all_long %>% filter(country=="Germany",adm_level==0),
-       aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
-  geom_line()
+ggplot(all_long %>% filter(country%in%unique(treatments$country),
+                           adm_level==0),
+       aes(x=date,y=name,col=share>0,shape=active))+
+  geom_point()+facet_wrap(vars(treatment))+
+  xlim(as.Date(c("2020-02-15","2020-03-26")))
 
 
 ggplot(all_long %>% filter(country=="Italy",adm_level==0),
        aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
   geom_line()
 
+#todo: active whenever share is positive (why different?)
+#all_long %>% filter(is.na(active), share>0) %>% View()
 
-ggplot(all_long %>% filter(adm_level==0,is.finite(byC_first_treatment)),
-       aes(x=date,y=country,col=share>0,shape=active))+
-  geom_point()+facet_wrap(vars(treatment))+
-  xlim(as.Date(c("2020-02-15","2020-03-26")))
+
+ggplot(all_long %>% filter(name=="Lombardy"),
+       aes(x=date,y=pos.total_it))+
+  geom_line()
 
 
 ggplot(all_long %>% filter(country=="Italy",adm_level==0),
@@ -86,50 +127,63 @@ ggplot(all_long %>% filter(country=="Italy",adm_level==0),
 
 
 
+
+
 # panel regression --------------------------------------------------------
 
-df$outcome <- df$positive
-df$outcome <- pmax(0,df$outcome-plm::lag(df$outcome))
-df$pos.growth <- log(df$positive/plm::lag(df$outcome))
-df<-subset(df,subset=positive>10&plm::lag(df$outcome)>10)
+#df.cur <- df %>% filter(country %in% unique(treatments$country), !country %in% c("Iran","Japan","South Korea","US")) %>% mypanel()
+#df.cur <- df %>% filter(country %in% unique(treatments$country)) %>% mypanel()
+df.cur <- df %>% filter(country %in% c("Italy","Spain","France","Germany","Switzerland","Belgium","Netherlands")) %>% mypanel()
+
+df.cur<- df.cur %>% filter(positive>100) %>% mypanel()
+
+
+df.cur$outcome <- df.cur$dead
+df.cur$outcome_new<- pmax(0,df.cur$outcome-plm::lag(df.cur$outcome))
+df.cur$outcome_growth_rate <- log(df.cur$outcome_new/plm::lag(df.cur$outcome))
+
+df.cur$outcome_time <- plm::lead(df.cur$outcome_growth_rate,7)
+
+#View(df.cur %>% select(positive,country,date,contains("outcome")))
+
+df.cur<- df.cur %>% filter(is.finite(outcome_time),!is.na(outcome_time)) %>% mypanel()
+
+
+treatment_dummies <- paste(paste0("tt_",unique(treatments$type)),collapse = "+")
+
 
 panel_reg(
-  df=df,
-  "plm::lead(pos.growth,6)~
-  wind+precip+tMax+tMin+cloud+
-  tt_SchoolClosings+
-  tt_CurfewIMildOnlyPrivatePublicLifeI")
+  df=df.cur,
+  paste0("outcome_time~",
+  "wind+precip+tMax+tMin+cloud+humidity+",
+  treatment_dummies))
 
 
 panel_reg(
-  df=df,
-  "plm::lead(pos.growth,6)~
+  df=df.cur,
+  "outcome_time~
   wind+precip+tMax+tMin+cloud")
 
 panel_reg(
-  df=df,
-  "plm::lead(pos.growth,6)~
+  df=df.cur,
+  "outcome_time~
   wind")
 
+factorize <- function(x,length=5) {
+  as.factor(
+    findInterval(x,
+                  quantile(x, seq(0+1/length,1-1/length,length.out = length-1),na.rm=T)
+    )
+    -(length-1)/2)}
 
-
-panel_reg(
-  df=df,
-  "plm::lead(pos.growth,6)~
-  wind*tt_CurfewIMildOnlyPrivatePublicLifeI")
-
-
-
-df <- df %>% group_by(country) %>%
-  mutate(
-    temperature = tMax-mean(tMax,na.rm=TRUE)
-  ) %>% ungroup() %>% mypanel()
-
-attributes(df)
+factorize(df.cur$tMin,3)
+factorize(df.cur$tMin,5)
 
 panel_reg(
-  df=df,
-  "lead(pos.growth,7)~
-  wind+precip+tMax+tMin+cloud+temperature+
-  tt_SchoolClosings+
-  tt_CurfewIMildOnlyPrivatePublicLifeI")
+  df=df.cur,
+  "outcome_time~
+  factorize(tMax)+
+  factorize(humidity)")
+
+
+
