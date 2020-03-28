@@ -30,6 +30,9 @@ for(var.cur in 1:length(vars))
   df.cur$date <- var.cur
   df <- plyr::rbind.fill(df.cur,df)
 }
+saveRDS(df,"./data-raw/JHU/download_jhu.RDS")
+df <- readRDS("./data-raw/JHU/download_jhu.RDS")
+
 jhu <- as_tibble(df)
 
 ls(jhu)
@@ -42,8 +45,17 @@ jhu <- jhu %>%
   )
 
 
+jhu_all<-jhu
+#use_data(jhu_all,overwrite = T)
+
+
 # drop all excpet country/region observations
 jhu <- jhu %>% filter(is.na(Admin2)|(Admin2==""))
+
+# drop all but states
+jhu <- jhu%>%filter((country=="US" & (region %in%state.name)) |
+                      country!="US")
+
 
 jhu <- jhu %>% select(country,region, date,
                       current,positive,dead,recovered)

@@ -169,15 +169,17 @@ treatments_long <- treatments_long %>%
   group_by(country,date,treatment) %>%
   mutate(
     ratio_temp = sum(ratio.pop*share*(adm_level==2),na.rm=TRUE),
+    ratio_temp = ifelse(ratio_temp==0,NA,ratio_temp),
     share = ifelse(adm_level==1,ifelse(is.na(share),ratio_temp,share),share),
     active = ifelse(adm_level==1,#positive if country, isna and share>0.5 otherwise stays
                     ifelse(is.na(active),
-                           ifelse(share>0.5,
+                           ifelse(share>0,
                                   TRUE,active),active),active)
   ) %>% select(-c(ratio_temp)) %>% ungroup()
 
 
 
+#View(treatments_long %>% filter(country=="Germany",date=="2020-03-20", treatment =="CancelationofLargeEvents"))
 
 
 # View(treatments_long %>% filter(share_n>0, share_n <1))
@@ -194,6 +196,11 @@ treatments_long$share<-as.numeric(treatments_long$share)
 treatments_long$active<-as.logical(treatments_long$active)
 
 find_doubles_long(treatments_long)
+
+
+
+
+
 # +++ TREATMENT WIDE ----------------------------------------------------------
 ls(treatments_long)
 treatments_wide <- treatments_long %>%
@@ -228,14 +235,14 @@ mean(treatments_wide$shareXXXBanofGroupGatherings,na.rm=T)
 for(cur.implication in measures_implies)
 {
   treatments_wide[,paste0("activeXXX",cur.implication[2])]<-
-    if_else(is.na(treatments_wide[,paste0("activeXXX",cur.implication[1])]),
+    if_else(is.na(treatments_wide %>% pull(paste0("activeXXX",cur.implication[1]))),
           treatments_wide %>% pull(paste0("activeXXX",cur.implication[2])),
           treatments_wide %>% pull(paste0("activeXXX",cur.implication[2])) |
             treatments_wide %>% pull(paste0("activeXXX",cur.implication[1]))
              )
 
   treatments_wide[,paste0("shareXXX",cur.implication[2])]<-
-    if_else(is.na(treatments_wide[,paste0("shareXXX",cur.implication[1])]),
+    if_else(is.na(treatments_wide %>% pull(paste0("shareXXX",cur.implication[1]))),
             treatments_wide %>% pull(paste0("shareXXX",cur.implication[2])),
             treatments_wide %>% pull(paste0("shareXXX",cur.implication[1]))
             )
@@ -326,7 +333,7 @@ mean(is.na(all2%>%filter(country=="Italy")%>%pull(home_it)))
 
 find_doubles(all)
 
-
+View(all %>% filter(country=="Germany",date=="2020-03-20", treatment =="CancelationofLargeEvents"))
 
 dim(all)
 find_doubles(all)
@@ -380,6 +387,51 @@ all_long %>% select(starts_with("byC_")) %>% filter(byC_num_treatments>0)%>%slic
 # +++ Export --------------------------------------------------------------
 
 
+# rename ------------------------------------------------------------------
+
+#rename treatment dummies
+dummies <- grepl("activeXXX",colnames(all))
+names <- colnames(all)[dummies]
+colnames(all)[dummies] <- paste0("tt_",substr(names,10,nchar(names)))
+
+#rename share columns
+dummies <- grepl("shareXXX",colnames(all))
+names <- colnames(all)[dummies]
+colnames(all)[dummies] <- paste0("share_",substr(names,9,nchar(names)))
+
+# drop NAs ----------------------------------------------------------------
+
+all_long <- all_long %>%
+  mutate(
+    activeNA = active,
+    shareNA = share,
+    active = ifelse(is.na(active), FALSE, active),
+    share = ifelse(is.na(share), 0, share)
+  )
+
+for(cur.var in unique(treatments$type))
+{
+  cur.name <- paste0("tt_",cur.var)
+  all[,paste0("NA",cur.name)]<-all%>%pull(cur.name)
+  all[,cur.name]<-
+    ifelse(
+      is.na(all%>%pull(cur.name)),
+      FALSE,
+      all%>%pull(cur.name)
+    )
+  cur.name <- paste0("share_",cur.var)
+
+  all[,paste0("NA",cur.name)]<-all%>%pull(cur.name)
+  all[,cur.name]<-
+    ifelse(
+      is.na(all%>%pull(cur.name)),
+      FALSE,
+      all%>%pull(cur.name)
+    )
+}
+
+
+
 all_long <- all_long %>%
   mutate(
     adm_level = ifelse(is.na(region),0,1),
@@ -398,15 +450,6 @@ all <- all %>%
   )
 
 
-#rename treatment dummies
-dummies <- grepl("activeXXX",colnames(all))
-names <- colnames(all)[dummies]
-colnames(all)[dummies] <- paste0("tt_",substr(names,10,nchar(names)))
-
-#rename share columns
-dummies <- grepl("shareXXX",colnames(all))
-names <- colnames(all)[dummies]
-colnames(all)[dummies] <- paste0("share_",substr(names,9,nchar(names)))
 
 # make panel data frame pdata.frame
 all$t <- all$date-min(all$date)
@@ -438,26 +481,26 @@ setdiff(treatments%>%filter(adm_level==1)%>%select(country),
 # treatment plots ---------------------------------------------------------
 
 library(ggplot2)
-ggplot(all_long %>% filter(country=="Germany"),
-       aes(x=date,y=treatment,col=share>0,shape=active))+
-  geom_point()+facet_wrap(vars(name))+
-  xlim(as.Date(c("2020-03-10","2020-03-26")))
-
-ggplot(all_long %>% filter(country=="Italy"),
-       aes(x=date,y=name,col=share>0,shape=active))+
-  geom_point()+facet_wrap(vars(treatment))+
-  xlim(as.Date(c("2020-02-15","2020-03-26")))
-
-ggplot(all_long %>% filter(country=="Germany",adm_level==0),
-       aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
-  geom_line()
-
-
-ggplot(all_long %>% filter(country=="Italy",adm_level==0),
-       aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
-  geom_line()
-
-
+# ggplot(all_long %>% filter(country=="Germany"),
+#        aes(x=date,y=treatment,col=share>0,shape=active))+
+#   geom_point()+facet_wrap(vars(name))+
+#   xlim(as.Date(c("2020-03-10","2020-03-26")))
+#
+# ggplot(all_long %>% filter(country=="Italy"),
+#        aes(x=date,y=name,col=share>0,shape=active))+
+#   geom_point()+facet_wrap(vars(treatment))+
+#   xlim(as.Date(c("2020-02-15","2020-03-26")))
+#
+# ggplot(all_long %>% filter(country=="Germany",adm_level==0),
+#        aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
+#   geom_line()
+#
+#
+# ggplot(all_long %>% filter(country=="Italy",adm_level==0),
+#        aes(x=date,y=share,col=treatment,linetype=is.na(active)))+
+#   geom_line()
+#
+#
 
 
 # plm regression ----------------------------------------------------------
