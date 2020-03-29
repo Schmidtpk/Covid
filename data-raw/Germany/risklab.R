@@ -20,6 +20,8 @@ df <- df%>%rename(
   date = time_iso8601
 )
 
+df$date <- as.Date(df$date)
+
 #each timing only elicited once
 length(unique(df$date))
 dim(df)
@@ -34,8 +36,29 @@ df$sum_cases<-NULL
 df <- df %>% pivot_longer(-c(date),values_to = "positive")
 
 df$country <- "Germany"
-df$region <- substr(df$name,4,5)
+df$region.code <- substr(df$name,4,5)
 df$name <- NULL
 
+
+# if two numbers available take larger (assume more updated)
+df <- df %>% group_by(region.code,date) %>%
+  mutate(
+    n= n(),
+    rank_temp = rank(desc(positive))
+  ) %>% filter(rank_temp==1) %>% select(-c(n,rank_temp)) %>% ungroup()
+
+#add names to codes
+library(ISOcodes)
+codes <- as_tibble(ISO_3166_2)%>%filter(substr(Code,1,2)=="DE")
+codes$Code <- substr(codes$Code,4,5)
+
+df <- df %>% left_join(codes,by=c("region.code"="Code"))
+
+df <- df %>% rename(
+  region=Name
+)
+
+df <- df %>% select(date,positive, region, country)
+
 risklab <- df
-use_data(risklab,overwrite = T)
+#use_data(risklab,overwrite = T)

@@ -352,6 +352,32 @@ dim(all)
 find_doubles(all)
 
 
+# Germany (risk lab) ---------------------------------------------------------------------
+df <- Covid::risklab
+find_doubles(df)
+
+#rename to save in output
+names(df)<-paste0(names(df),"_ger")
+
+
+all2 <-  all %>%
+  fuzzyjoin::fuzzy_left_join(
+    match_fun = list(`==`,
+                     function(x,y) stringdist::stringdist(x,y,method='lv')<4,
+                     `==`),
+    df,
+    by=c("country"="country_ger",
+         "region"="region_ger",
+         "date"="date_ger"))
+
+
+dim(all2)
+find_doubles(all2)
+all <- all2
+
+
+
+
 
 
 # check ---------------------------------------------------------
