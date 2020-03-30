@@ -10,8 +10,8 @@ estimateR(
   l.interval = 2,
   warnings = FALSE,
   plot = FALSE,
-  mean.si = 4.7,
-  sd.si = 2.9
+  mean.si = 3.96,
+  sd.si = 4.75
 )
 }
 \arguments{
@@ -21,7 +21,9 @@ estimateR(
 
 }
 \description{
-Standards are based on paper Serial interval of novel coronavirus (COVID-19) infections
+Standards now based on
+https://wwwnc.cdc.gov/eid/article/26/6/20-0357_article
+Previous Standards were based on paper Serial interval of novel coronavirus (COVID-19) infections
 "while the mean and standard deviation (SD) of the serial interval were estimated at 4.7 days (95% CrI: 3.7, 6.0) and 2.9 days (95% CrI: 1.9, 4.9), respectively"
 }
 \examples{

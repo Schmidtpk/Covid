@@ -20,4 +20,28 @@ res <- ita \%>\%
    group_by(i) \%>\%
    mutate(R = addR(pos.total_it,date,l.interval=7)) \%>\% ungroup()
 res \%>\% select(R,pos.total_it,date,region)\%>\%filter(!is.na(R))
+
+# plot R with treatments
+df.cur <- ita \%>\%
+   filter(region=="Lombardy")
+df.cur <- df.cur \%>\%
+   mutate(
+      R = addR(pos.total_it,date)
+      )
+treat.cur <- ita_long \%>\%
+   filter(region=="Lombardy"|country=="Italy") \%>\%
+   group_by(treatment) \%>\%
+   filter(!is.na(active)) \%>\%
+   filter(active) \%>\%
+   slice(1L)
+
+ggplot(df.cur)+
+  geom_point(aes(x=date,y=R))+
+  geom_line(aes(x=date,y=R))+
+  geom_vline(data = treat.cur,
+             aes(xintercept=date), color ="red")+
+  ggrepel::geom_text_repel(data =  treat.cur,
+            aes(x=date+.5,label=treatment),
+            y=3, angle=90,
+            color="red")
 }

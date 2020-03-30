@@ -17,4 +17,5 @@ Depends:
     dplyr
 Imports: 
     tidyr,
-    EpiEstim
+    EpiEstim,
+    ggrepel

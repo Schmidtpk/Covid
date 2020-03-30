@@ -98,3 +98,46 @@ show_countries_of <- function(measure_name=c("University", "School","Curfew"),df
   ggplot(df.cur,
          aes(x=Date,y=label,color=value))+geom_point()+facet_wrap(vars(name))
 }
+
+
+#' show outcome as time series including measures taken
+#'
+#' @param select_region region to show
+#' @param select_country country to show
+#' @param outcome character variable describing outcome in all data frame
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' show_outcome()
+show_outcome <- function(select_region="Lombardy",select_country=NULL, outcome="pos.total_it")
+{
+  #select subset
+  if(is.null(select_country)){
+    df.cur <- all %>% filter(region==select_region)
+    treat.cur <- all_long %>% filter(region==select_region)}
+  else{
+    df.cur <- all %>% filter(country==select_country, adm_level==0)
+    treat.cur <- all_long %>% filter(country==select_country, adm_level==0)
+
+  }
+
+# select first date for each treatment
+treat.cur <- treat.cur %>%
+   group_by(treatment) %>%
+   filter(!is.na(active)) %>%
+   filter(active) %>%
+   slice(1L)
+
+#plot
+ggplot(df.cur)+
+  geom_point(aes_string(x="date",y=outcome))+
+  geom_line(aes_string(x="date",y=outcome))+
+  geom_vline(data = treat.cur,
+             aes(xintercept=date), color ="red")+
+  ggrepel::geom_text_repel(data =  treat.cur,
+            aes(x=date+.5,label=treatment),
+            y=3, angle=90,
+            color="red")
+}
