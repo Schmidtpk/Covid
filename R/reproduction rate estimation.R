@@ -16,10 +16,10 @@
 #'
 #' @examples
 #' estimateR(plot=TRUE)
-#' estimateR(plot=TRUE,l.interval=2)
+#' estimateR(plot=TRUE,mean.si=7.5,sd.si=3.4,l.interval=2)
 estimateR <- function(incidence = ita %>% filter(region=="Lombardy")%>%pull(pos.total_it),
                       total = TRUE,
-                      l.interval = 3,
+                      l.interval = 2,
                       warnings = FALSE,
                       plot = FALSE,
                       mean.si = 4.7,
@@ -39,6 +39,12 @@ estimateR <- function(incidence = ita %>% filter(region=="Lombardy")%>%pull(pos.
   }
 
   incidence <- incidence[!is.na(incidence)]
+
+  #return NA if too short for valid
+  if(length(incidence)-l.interval<=2){
+    warning(paste0("Not enough observations"))
+    return(NA)
+  }
 
   t_start <- seq(2, length(incidence)-l.interval)
   t_end <- t_start + l.interval
@@ -95,10 +101,15 @@ addR <- function(x,date=NULL,total=TRUE,...)
   }
   res.cur <- estimateR(x,total = FALSE,...)
 
-  return(
-    c(rep(NA,length(x)-length(res.cur$R$`Mean(R)`)),
-      res.cur$R$`Mean(R)`)
-  )
+
+  #return NA if estimateR does so
+  if(all(is.na(res.cur)))
+    return(NA)
+  else
+    return(
+      c(rep(NA,length(x)-length(res.cur$R$`Mean(R)`)),
+        res.cur$R$`Mean(R)`)
+    )
 }
 
 
