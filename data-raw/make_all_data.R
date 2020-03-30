@@ -213,15 +213,17 @@ treatments_wide <- treatments_long %>%
 
 find_doubles(treatments_wide)
 
-# t1 -> t2 --------------------------------------------------------------
+# active/share: t1 -> t2 --------------------------------------------------------------
 
 # show treatments in data
 unique(treatments_long$treatment)
 
 #define list of implications (first entry implies second)
 measures_implies <- list(
+  c("CurfewILockdownofAllNonEssentialPublicLifeI","CurfewIMildOnlyPrivatePublicLifeI"),
+  c("CurfewIMildOnlyPrivatePublicLifeI","BanofGroupGatherings"),
   c("BanofGroupGatherings","CancelationofLargeEvents"),
-  c("CurfewILockdownofAllNonEssentialPublicLifeI","CurfewIMildOnlyPrivatePublicLifeI")
+  c("BanofGroupGatherings","RestaurantIBarClosure")
 )
 
 mean(treatments_wide$activeXXXCancelationofLargeEvents,na.rm=T)
@@ -235,18 +237,12 @@ mean(treatments_wide$shareXXXBanofGroupGatherings,na.rm=T)
 for(cur.implication in measures_implies)
 {
   treatments_wide[,paste0("activeXXX",cur.implication[2])]<-
-    if_else(is.na(treatments_wide %>% pull(paste0("activeXXX",cur.implication[1]))),
-          treatments_wide %>% pull(paste0("activeXXX",cur.implication[2])),
           treatments_wide %>% pull(paste0("activeXXX",cur.implication[2])) |
             treatments_wide %>% pull(paste0("activeXXX",cur.implication[1]))
-             )
 
+  #todo: take maximum
   treatments_wide[,paste0("shareXXX",cur.implication[2])]<-
-    if_else(is.na(treatments_wide %>% pull(paste0("shareXXX",cur.implication[1]))),
-            treatments_wide %>% pull(paste0("shareXXX",cur.implication[2])),
             treatments_wide %>% pull(paste0("shareXXX",cur.implication[1]))
-            )
-
 }
 mean(treatments_wide$activeXXXCancelationofLargeEvents,na.rm=T)
 mean(treatments_wide$activeXXXBanofGroupGatherings,na.rm=T)
