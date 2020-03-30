@@ -7,7 +7,7 @@
 estimateR(
   incidence = ita \%>\% filter(region == "Lombardy") \%>\% pull(pos.total_it),
   total = TRUE,
-  l.interval = 3,
+  l.interval = 2,
   warnings = FALSE,
   plot = FALSE,
   mean.si = 4.7,
@@ -26,5 +26,5 @@ Standards are based on paper Serial interval of novel coronavirus (COVID-19) inf
 }
 \examples{
 estimateR(plot=TRUE)
-estimateR(plot=TRUE,l.interval=2)
+estimateR(plot=TRUE,mean.si=7.5,sd.si=3.4,l.interval=2)
 }

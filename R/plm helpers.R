@@ -13,13 +13,13 @@ mypanel <- function(df) plm::pdata.frame(df,index = c("i","t"))
 #'
 #' @param formula.cur a valid formular
 #' @param df a data frame
-#' @param trendwith factor to be interacted with time trend. standard is "country". Viable alternative is "region".
+#' @param trendwith factor to be interacted with time trend. standard is "i". Viable alternative is "region" or "country".
 #' @param hide.date hides all coefficients with date (standard is TRUE)
 #'
 #' @return output of stargazer
 #' @export
 panel_reg <- function(formula.cur, df,
-                      trendwith="country",
+                      trendwith="i",
                       hide.date=TRUE) {
 
 

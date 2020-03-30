@@ -4,14 +4,14 @@
 \alias{panel_reg}
 \title{Run panel regressios with fixed effects}
 \usage{
-panel_reg(formula.cur, df, trendwith = "country", hide.date = TRUE)
+panel_reg(formula.cur, df, trendwith = "i", hide.date = TRUE)
 }
 \arguments{
 \item{formula.cur}{a valid formular}
 
 \item{df}{a data frame}
 
-\item{trendwith}{factor to be interacted with time trend. standard is "country". Viable alternative is "region".}
+\item{trendwith}{factor to be interacted with time trend. standard is "i". Viable alternative is "region" or "country".}
 
 \item{hide.date}{hides all coefficients with date (standard is TRUE)}
 }
