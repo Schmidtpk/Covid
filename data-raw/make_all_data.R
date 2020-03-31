@@ -205,7 +205,7 @@ find_doubles_long(treatments_long)
 ls(treatments_long)
 treatments_wide <- treatments_long %>%
   tidyr::pivot_wider(
-    id_cols = c(date,country,region,country.code,region.code),
+    id_cols = c(date,country,region,country.code,region.code,population),
     names_from = treatment,
     values_from = c(active,share),#c(active,share,meta),
     names_sep = "XXX"

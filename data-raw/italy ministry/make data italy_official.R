@@ -45,12 +45,12 @@ italy_o <- italy_o %>%
     tests = tamponi,
     pos.total = totale_casi,
     dead = deceduti,
-    quarantine = totale_attualmente_positivi,
+    quarantine = totale_positivi,
     recovered = dimessi_guariti,
     hospital = totale_ospedalizzati,
     hopsital_with_symptoms = ricoverati_con_sintomi,
     home = isolamento_domiciliare,
-    new.hostpial_or_home = nuovi_attualmente_positivi
+    new.hostpial_or_home = variazione_totale_positivi
   )
 
 
