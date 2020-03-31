@@ -8,3 +8,7 @@ GET("https://opendata.ecdc.europa.eu/covid19/casedistribution/csv",
 #read the Dataset sheet into “R”. The dataset will be called "data".
 data <- read.csv(tf)
 saveRDS(data, "./data-raw/ecdc/ecdc_data.RDS")
+data <- as_tibble(data)
+
+
+View(data %>% filter(geoId=="ES"))
