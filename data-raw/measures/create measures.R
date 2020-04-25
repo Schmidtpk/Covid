@@ -70,22 +70,9 @@ treatments <- measures %>% select(type,start,end,meta,share,
 
 # read population data
 pop <- Covid::pop
-pop <- pop %>% select(asciiname,admin1.code,population,country.code,feature.code) %>%
-  rename(
-    "region.code" = "admin1.code",
-    "adm_level" = "feature.code"
-  )
+pop <- pop %>% select(asciiname,adm_level,population,country.code,region.code)
 
-#adapt levels of "is country" dummy
-pop$adm_level <- ifelse(pop$adm_level=="PCLI",1,2)
-# pop$ADM1 <- ifelse(pop$adm_level==1,
-#                    as.character(pop$country.code),
-#                    as.character(pop$ADM1)
-#                    )
-#View(pop %>% filter(adm_level==1))
 
-#drop NAs
-pop <- pop %>% filter(!is.na(country.code))
 
 pop <- pop %>% group_by(country.code) %>%
   mutate(num_countries = sum(adm_level==1))%>%
@@ -98,7 +85,7 @@ pop <- pop %>% group_by(country.code) %>%
 # compute ratio of country for each
 pop <- pop %>% group_by(country.code) %>%
   mutate(country = unique(asciiname[adm_level==1]),
-         population = population/10^6,
+         population = as.numeric(population)/10^6,
          total_population = sum(population[adm_level==1]),
          total_population2 = sum(population[adm_level!=1]),
          ratio.pop = population/total_population) %>% ungroup()
@@ -115,7 +102,9 @@ pop <- pop %>% select(-c(adm_level, asciiname, country, total_population,total_p
 # View(pop)
 # View(treatments%>%select(region.code,country.code,country,region))
 
-treatments <- treatments %>% left_join(pop, by=c("region.code","country.code"))
+treatments <- treatments %>%
+  left_join(pop,
+            by=c("region.code","country.code"))
 
 ls(treatments)
 #View(treatments %>% filter(country.code=="DE"))
@@ -124,11 +113,34 @@ ls(treatments)
 # nrow(treatments %>% filter(is.na(ratio.pop)))
 # nrow(treatments %>% filter(!is.na(ratio.pop)))
 #
-# View(treatments %>% filter(is.na(ratio.pop)))
+# View(treatments %>% filter(is.na(\ratio.pop)))
 #
 # View(setdiff(
 #   treatments %>% select(region.code,country.code),
 #   pop        %>% select(region.code,country.code)))
 
 
+# recode regions ----------------------------------------------------------
+level_key <- c(Bavaria="Bayern",
+               #Baden-WÃ¼rttemberg
+               #Saarland
+               Saxony="Sachsen",
+               #Berlin
+               #Bremen
+               #Hamburg
+               Hesse="Hessen",
+               'Lower Saxony' ="Niedersachsen",
+               'North Rhine-Westphalia' = "Nordrhein-Westfalen",
+               'Rhineland-Palatinate' = "Rheinland-Pfalz",
+               'Saxony-Anhalt' = "Sachsen-Anhalt",
+               #Schleswig-Holstein
+               Thuringia="ThÃ¼ringen"
+               )
+
+treatments$region <- recode(treatments$region, !!!level_key)
+
+
 use_data(treatments,overwrite = TRUE)
+
+message(paste("Treatments for: ", unique(treatments$country),collapse = "\n"))
+

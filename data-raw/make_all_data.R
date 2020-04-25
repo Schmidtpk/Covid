@@ -1,6 +1,14 @@
-library(dplyr)
-#.rs.restartR()
+
 rm(list=ls())
+library(Covid)
+library(dplyr)
+
+# generate necessary data sets --------------------------------------------
+source("./data-raw/JHU/data jhu.R")
+source("./data-raw/Germany/data Germany rki based.R")
+source("./data-raw/RKI/data rki.R")
+source("./data-raw/measures/create measures.R")
+source("./data-raw/weather data/data weather.R")
 
 
 # helper functions --------------------------------------------------------
@@ -16,7 +24,6 @@ find_doubles <- function(df)
         filter(n!=1))}
 
 # +++ TREATMENT ------------------------------------------
-source("./data-raw/measures/create measures.R")
 
 
 #todo:stop dropping meta
@@ -30,8 +37,8 @@ treatments <- treatments %>% group_by(type,name) %>%
 #View(treatments%>%filter(country=="Germany", type=="SchoolClosings"))
 
 ##  expand time -----------------------------------------------------------------
-date_min <- min(Covid::jhu$date,treatments$start,na.rm=TRUE)
-date_max <- max(Covid::jhu$date,treatments$start,treatments$end,na.rm=TRUE)
+date_min <- min(jhu$date,treatments$start,na.rm=TRUE)
+date_max <- max(jhu$date,treatments$start,treatments$end,na.rm=TRUE)
 treatments_long <- merge(treatments, seq(date_min,date_max,"days"), all = T)
 treatments_long$date<-treatments_long$y
 treatments_long$y<-NULL
@@ -260,51 +267,27 @@ mean(treatments_wide$shareXXXBanofGroupGatherings,na.rm=T)
 find_doubles(treatments_wide)
 
 # get data
-df <- Covid::jhu
+df <- jhu
 
 find_doubles(df)
 find_doubles(treatments_wide)
+
 
 all <- df %>%
   full_join(
     treatments_wide,
     by=c("date",
          "region",
-         "country"))
+         "country",
+         "country.code"))
+
+#drop
 
 find_doubles(all)
 
-# weather ---------------------------------------------------------------------
-weather <- Covid::weather
-find_doubles(Covid::weather)
-find_doubles(treatments_wide)
-
-# weather%>%filter(!is.na(region)) %>% pull(region) %>% unique()
-#
-# class(weather$region)
-#
-# # in all but no observation
-# View(setdiff(all%>%select(region,country),
-#         weather%>%select(region,country)) %>% select(country,region)
-# )
-
-weather <- weather %>% filter(is.na(region))
-#
-# View(setdiff(all%>%select(country),
-#              weather%>%select(country)) %>% select(country)
-# )
-
-dim(all)
-all <- all %>%
-  left_join(
-    weather %>% select(-region),
-    by=c("date",
-         "country"))
-dim(all)
-find_doubles(all)
 
 # italy_o ---------------------------------------------------------------------
-it <- Covid::italy_o
+it <- italy_o
 find_doubles(it)
 find_doubles(treatments_wide)
 
@@ -348,8 +331,9 @@ dim(all)
 find_doubles(all)
 
 
-# Germany (risk lab) ---------------------------------------------------------------------
-df <- Covid::risklab
+# Germany (risk lab and Zeit) ---------------------------------------------------------------------
+
+df <- Ger
 find_doubles(df)
 
 #rename to save in output
@@ -371,8 +355,103 @@ dim(all2)
 find_doubles(all2)
 all <- all2
 
+# Germany (RKI) ---------------------------------------------------------------------
+
+df <- rki
+
+df$country <- "Germany"
 
 
+find_doubles(df)
+#rename to save in output
+names(df)<-paste0(names(df),"_rki")
+
+
+all2 <-  all %>%
+  fuzzyjoin::fuzzy_left_join(
+    match_fun = list(`==`,
+                     function(x,y) stringdist::stringdist(x,y,method='lv')<4,
+                     `==`),
+    df,
+    by=c("country"="country_rki",
+         "region"="region_rki",
+         "date"="date_rki"))
+
+
+dim(all2)
+find_doubles(all2)
+all <- all2
+
+
+#  population ---------------------------------------------
+
+#source("./data-raw/population from geonames.R")
+pop <- Covid::pop
+
+#source("./data-raw/weather data/data ecmwf.R")
+weather_cams<-Covid::weather_cams
+
+all2 <- all %>% left_join(pop%>%filter(adm_level!=3), by=c("country.code","region.code"),
+                          suffix = c("","_pop"))
+# dim(all2)
+# mean(is.na(all2$population_pop))
+# all2 %>% filter(country=="Germany",is.na(longitude_weather)) %>% pull(region)
+
+all <- all2
+dim(all)
+
+
+# weather github ---------------------------------------------------------------------
+
+# weather <- weather
+# find_doubles(weather)
+# find_doubles(treatments_wide)
+#
+# weather <- weather %>% filter(is.na(region))
+#
+# dim(all)
+# all <- all %>%
+#   left_join(
+#     weather %>% select(-region),
+#     by=c("date",
+#          "country"))
+# dim(all)
+# find_doubles(all)
+
+# weather ECWMF CAMS ---------------------------------------------------------------------
+w <- weather_cams
+w$date <- as.Date(w$date)
+
+summary(all$longitude_weather)
+summary(w$longitude)
+
+
+
+summary(all$latitude_weather)
+summary(w$latitude)
+
+class(all$date)
+class(w$date)
+summary(all$date)
+summary(w$date)
+
+
+all2 <- all %>% left_join(w,
+                     by =  c("date",
+                             "longitude_weather"="longitude",
+                             "latitude_weather"="latitude"),
+                     suffix=c("","_weather"))
+
+mean(is.na(all2$tcc))
+mean(is.na(w$tcc))
+
+dim(all2)
+dim(all)
+
+
+find_doubles(all2)
+
+all <- all2
 
 
 
@@ -385,6 +464,53 @@ if(nrow(doubles)>0)
   warning(paste0("Matching not perfect for ",unique((doubles %>%pull(region)))))
 
 
+# +++ NICE OUTCOMES ----------------------------------------
+
+ls(all)
+
+# extract totals from jhu --------------------------------------------------------
+
+#all$i <- paste0(all$region,all$country)
+
+# all <- all %>% group_by(country,region) %>%
+#   arrange(date,.by_group = TRUE) %>%
+#   mutate(
+#     temp = ifelse(is.na(positive),0,positive),
+#     pos.total = cumsum(temp),
+#     pos.total = ifelse(is.na(positive),NA,pos.total),
+#     temp  = ifelse(is.na(dead),0,dead),
+#     dead.total = cumsum(temp),
+#     dead.total = ifelse(is.na(dead),NA,dead.total)
+#   ) %>% select(-c(temp)) %>% ungroup()
+
+
+# combine -----------------------------------------------------------------
+
+all <- all %>% group_by(country,region) %>%
+  mutate(
+    pos.total = ifelse(!is.na(positive),positive,
+                   ifelse(!is.na(pos.total_rki), pos.total_rki,
+                      pos.total_it)),
+    dead.total = ifelse(!is.na(dead),dead,
+                        ifelse(!is.na(dead.total_rki),dead.total_rki,
+                              dead_it))
+  ) %>% ungroup()
+
+
+# combine and compute new -----------------------------------------------------------------
+
+all <- all %>% group_by(country,region) %>%
+  mutate(
+    pos.new = pos.total-lag(pos.total,order_by = date),
+    dead.new = dead.total-lag(dead.total,order_by = date)
+  ) %>% ungroup()
+
+#all %>% filter(country=="Germany",region=="Baden-WÃ¼rttemberg") %>% View()
+#all %>% filter(country=="Germany",is.na(region)) %>% View()
+
+
+
+
 # longer to "all_long" ---------------------------------------------------------------------
 
 
@@ -394,9 +520,13 @@ all_long <- all %>%
                       names_sep = "XXX") %>%
   group_by(type) %>%
   mutate(rn = row_number()) %>% # recreated unique identifier column
-  tidyr::pivot_wider(names_from ="type",values_from = "value")%>%select(-rn)%>%ungroup()
+  tidyr::pivot_wider(names_from ="type",values_from = "value")%>%
+  select(-rn)%>%
+  ungroup()
 
 all_long$active<-as.logical(all_long$active)
+
+
 
 dim(all_long)
 #all_long
@@ -489,10 +619,10 @@ all <- all %>%
 # make panel data frame pdata.frame
 all$t <- all$date-min(all$date)
 all$i <- paste0(all$region,all$country)
-all <- plm::pdata.frame(all,index = c("i","t"), stringsAsFactors=F)
+#all <- plm::pdata.frame(all,index = c("i","t"), stringsAsFactors=F)
 
-# use_data(all,overwrite = TRUE)
-# use_data(all_long,overwrite = TRUE)
+use_data(all,overwrite = TRUE)
+use_data(all_long,overwrite = TRUE)
 
 # +++ TESTS -------------------------------------------------------------------
 
@@ -501,10 +631,10 @@ all <- plm::pdata.frame(all,index = c("i","t"), stringsAsFactors=F)
 
 # in treatments but no observation
 setdiff(treatments%>%select(region,country),
-        Covid::jhu%>%select(region,country)) %>% select(country,region)
+        jhu%>%select(region,country)) %>% select(country,region)
 
 setdiff(treatments%>%filter(adm_level==1)%>%select(country),
-        Covid::jhu%>%select(country)) %>% pull(country)
+        jhu%>%select(country)) %>% pull(country)
 
 
 # in observation but no treatments
@@ -562,8 +692,8 @@ ita <- ita %>%
   mutate_at(vars(starts_with("tt")),
             function(x) ifelse(is.na(x),FALSE,x))
 
-# use_data(ita,overwrite = T)
-# use_data(ita_long,overwrite = T)
+use_data(ita,overwrite = T)
+use_data(ita_long,overwrite = T)
 # Summary treatments ------------------------------------------------------
 
 

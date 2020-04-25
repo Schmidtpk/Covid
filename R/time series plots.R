@@ -105,39 +105,71 @@ show_countries_of <- function(measure_name=c("University", "School","Curfew"),df
 #' @param select_region region to show
 #' @param select_country country to show
 #' @param outcome character variable describing outcome in all data frame
+#' @param df alternative data frame to all that contains outcome
+#' @param total is the total number given and should be transformed to change (standard: TRUE)
+#' @param rate should the growth rate be computed and shown
+#' @param smooth should a geom_smooth be added with span=smooth (standard f,smooth=.2 recommended)
 #'
 #' @return
 #' @export
 #'
 #' @examples
 #' show_outcome()
-show_outcome <- function(select_region="Lombardy",select_country=NULL, outcome="pos.total_it")
+#' show_outcome(outcome="dead.new",select_country="Germany")
+#' show_outcome(outcome="dead.total",select_country="Germany")
+#' show_outcome(outcome="dead_it")
+#' show_outcome(select_country="Italy",outcome="positive",smooth=.2)
+show_outcome <- function(select_region="Lombardy",
+                         select_country=NULL,
+                         outcome="pos.new",
+                         df=NULL,
+                         total=F,
+                         rate=F,
+                         smooth=FALSE)
 {
+
   #select subset
   if(is.null(select_country)){
-    df.cur <- all %>% filter(region==select_region)
-    treat.cur <- all_long %>% filter(region==select_region)}
+    df.cur <- Covid::all %>% dplyr::filter(region==select_region)
+    treat.cur <- Covid::all_long %>% dplyr::filter(region==select_region)}
   else{
-    df.cur <- all %>% filter(country==select_country, adm_level==0)
-    treat.cur <- all_long %>% filter(country==select_country, adm_level==0)
-
+    df.cur <- Covid::all %>% dplyr::filter(country==select_country, adm_level==0)
+    treat.cur <- Covid::all_long %>% dplyr::filter(country==select_country, adm_level==0)
   }
 
-# select first date for each treatment
-treat.cur <- treat.cur %>%
-   group_by(treatment) %>%
-   filter(!is.na(active)) %>%
-   filter(active) %>%
-   slice(1L)
+  if(!is.null(df))
+    df.cur <- df
 
-#plot
-ggplot(df.cur)+
-  geom_point(aes_string(x="date",y=outcome))+
-  geom_line(aes_string(x="date",y=outcome))+
-  geom_vline(data = treat.cur,
-             aes(xintercept=date), color ="red")+
-  ggrepel::geom_text_repel(data =  treat.cur,
-            aes(x=date+.5,label=treatment),
-            y=3, angle=90,
-            color="red")
+
+  #reformat to change
+  if(total)
+    df.cur[,outcome]<-df.cur[,outcome]-lag(df.cur[,outcome],order_by = df.cur$date)
+
+  if(rate)
+    df.cur[,outcome]<-log(df.cur[,outcome])/log(lag(df.cur[,outcome],order_by = df.cur$date))
+
+  # select first date for each treatment
+  treat.cur <- treat.cur %>%
+     group_by(treatment) %>%
+     filter(!is.na(active)) %>%
+     filter(active) %>%
+     arrange(date)%>%
+     slice(1L)
+
+
+  #plot
+  p<- ggplot(df.cur)+
+    geom_point(aes_string(x="date",y=outcome))+
+    geom_line(aes_string(x="date",y=outcome))+
+    geom_vline(data = treat.cur,
+               aes(xintercept=date), color ="red")+
+    ggrepel::geom_text_repel(data =  treat.cur,
+              aes(x=date,label=substr(treatment,1,6)),
+              y=3, angle=90,
+              color="red")
+
+  if(smooth)
+    p <- p + geom_smooth(aes_string(x="date",y=outcome),span=smooth)
+
+  p
 }

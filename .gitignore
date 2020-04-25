@@ -5,3 +5,7 @@
 literature/
 .Rprofile
 data-raw/geonames/*.txt
+./jags models/old/
+./jags models/save/
+./data-raw/geonames/
+./data-raw/weather data/

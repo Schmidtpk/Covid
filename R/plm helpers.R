@@ -69,8 +69,12 @@ panel_reg <- function(formula.cur, df,
 #' @examples
 #' unique(factorize(all$tMax,7))
 factorize <- function(x,length=5) {
-  as.factor(
-    findInterval(x,
-                 quantile(x, seq(0+1/length,1-1/length,length.out = length-1),na.rm=T)
-    )
-    -(length-1)/2)}
+
+  quantiles.cur <- quantile(x, seq(0+1/length,1-1/length,length.out = length-1),na.rm=TRUE)
+
+
+  factor(
+    findInterval(x,quantiles.cur)-(length-1)/2,
+    labels = paste(c("<",quantiles.cur),"-",c(quantiles.cur,">")),
+    levels = seq(-length/2+.5, length/2-.5,length.out = length))
+  }

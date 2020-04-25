@@ -7,7 +7,11 @@
 show_outcome(
   select_region = "Lombardy",
   select_country = NULL,
-  outcome = "pos.total_it"
+  outcome = "pos.new",
+  df = NULL,
+  total = F,
+  rate = F,
+  smooth = FALSE
 )
 }
 \arguments{
@@ -16,6 +20,14 @@ show_outcome(
 \item{select_country}{country to show}
 
 \item{outcome}{character variable describing outcome in all data frame}
+
+\item{df}{alternative data frame to all that contains outcome}
+
+\item{total}{is the total number given and should be transformed to change (standard: TRUE)}
+
+\item{rate}{should the growth rate be computed and shown}
+
+\item{smooth}{should a geom_smooth be added with span=smooth (standard f,smooth=.2 recommended)}
 }
 \value{
 
@@ -25,4 +37,8 @@ show outcome as time series including measures taken
 }
 \examples{
 show_outcome()
+show_outcome(outcome="dead.new",select_country="Germany")
+show_outcome(outcome="dead.total",select_country="Germany")
+show_outcome(outcome="dead_it")
+show_outcome(select_country="Italy",outcome="positive",smooth=.2)
 }

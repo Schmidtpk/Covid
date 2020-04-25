@@ -2,6 +2,7 @@
 
 export(addR)
 export(estimateR)
+export(extract_mean)
 export(factorize)
 export(mypanel)
 export(panel_reg)

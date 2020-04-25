@@ -9,12 +9,23 @@ adm1_codes <- sss
 
 population<-NULL
 for(country in unique(substr(sss$code,1,2))) {
+  # if(country == "DE")
+  #   browser()
+
   # temp <- tempfile()
   # download.file(paste0("https://download.geonames.org/export/dump/",country,".zip"),temp)
   # unzip(zipfile=temp,exdir="data-raw/geonames")
   regions<-read.csv(paste0("data-raw/geonames/",country, ".txt"),col.names=colnames,sep="\t")
-  regions<-regions[which(regions$feature.code=="ADM1"|regions$feature.code=="PCLI"),]
-  regions<-regions[which(regions$feature.class=="A"),]
+
+  if(country != "DE")
+  {
+    regions<-regions[regions$feature.code=="ADM1"|regions$feature.code=="PCLI",]
+    regions<-regions[regions$feature.class=="A",]
+  } else {
+    regions<-regions[regions$feature.code %in% c("ADM1","PCLI","ADM3"),]
+    regions<-regions[regions$feature.class=="A",]
+  }
+
   regions$name<-NULL
   regions$alternatenames<-NULL
   regions$feature.class<-NULL
@@ -23,10 +34,37 @@ for(country in unique(substr(sss$code,1,2))) {
   regions$admin3.code<-NULL
   regions$admin4.code<-NULL
   regions$elevation<-NULL
-  regions$modification.date<-as.Date(levels(regions$modification.date),format="%Y-%m-%d")[regions$modification.date]
+  regions$modification.date<-NULL#as.Date(levels(regions$modification.date),format="%Y-%m-%d")[regions$modification.date]
   regions<-droplevels(regions)
+  regions$latitude <- as.character(regions$latitude)
+  regions$longitude <- as.character(regions$longitude)
+  regions$geonameid <- as.character(regions$geonameid)
+  regions$population <- as.numeric(regions$population)
+
   population<-rbind(regions,population)
+
+  if(mean(is.na(population$latitude))>0)
+    browser()
+
 }
 pop<-population
 
-#use_data(pop,overwrite = TRUE)
+
+
+ pop <- pop %>% rename(
+    "region.code" = "admin1.code",
+    "adm_level" = "feature.code"
+  )
+
+#adapt levels of "is country" dummy
+pop$adm_level <- ifelse(pop$adm_level=="PCLI",
+                        1, ifelse(pop$adm_level=="ADM1", 2, 3))
+
+#drop NAs
+pop <- pop %>% filter(!is.na(country.code))
+
+pop$region.code[pop$adm_level==1]<-NA
+
+popall <- pop
+
+use_data(popall, overwrite = TRUE)

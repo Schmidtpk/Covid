@@ -9,11 +9,13 @@ library(dplyr)
 # link combination
 #"https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv"
 
+#risklab cases
 df <- as_tibble(read.csv(text=as.character(
   GET(
     "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/cases-rl-crowdsource-by-state.csv"
   ))))
 df
+
 
 
 df <- df%>%rename(
